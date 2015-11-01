@@ -3,8 +3,12 @@ import matplotlib.pyplot as plt
 import matplotlib.lines as lines
 import numpy as np
 
-def mplmap(lons, lats, noms, a):
+noms = ['Universidad del Valle', 'Massachussets Institute of Technology', 'Virginia Tech', 'Universidad del Norte']
+lons = [-76.5, -71.06, -80.43, -74.8]
+lats = [3.44, 42.43, 37.57, 10.99]
 
+def mplmap(lons, lats, noms, a):
+    a=1
 ##    my_map = Basemap(projection='lcc', lat_0 = -76.05, lon_0 = 21.55,
 ##        resolution = 'h', area_thresh = 0.1,
 ##        llcrnrlon= -4.3, llcrnrlat= -88.2,
@@ -21,17 +25,17 @@ def mplmap(lons, lats, noms, a):
     # my_map.drawmapboundary(fill_color='aqua')
     if (a==1)==True:
         x1,y1=my_map([-76.5, -71.06], [3.44, 42.43])
-        my_map.plot(x1, y1, linewidth=2, color='k', markerfacecolor='b')
+        my_map.plot(x1, y1, linewidth=1, color='k', markerfacecolor='b')
         x1,y1=my_map([-76.5, -80.42], [3.44, 37.57])
-        my_map.plot(x1, y1, linewidth=2, color='k', markerfacecolor='b')
+        my_map.plot(x1, y1, linewidth=1, color='k', markerfacecolor='b')
         x1,y1=my_map([-76.5, -74.8], [3.44, 10.99])
-        my_map.plot(x1, y1, linewidth=4, color='green', markerfacecolor='b')
+        my_map.plot(x1, y1, linewidth=9, color='green', markerfacecolor='b')
 
     # lons = [-76.5, -71.06, -77.43, -74.8]
     # lats = [3.44, 42.43, 37.57, 10.99]
     x,y = my_map(lons, lats)
     my_map.plot(x, y, 'bo', markersize=10)
-##     
+##
     #labels = ['Universidad del Valle', 'Massachussets Institute of Technology', 'Virginia Tech', 'Universidad del Norte']
     labels = noms
 ##    x_offsets = [-1000000, -700000, -50000, 3000]
@@ -45,4 +49,7 @@ def mplmap(lons, lats, noms, a):
 
     my_map.shadedrelief()
     plt.show()
+
+mplmap(lons,lats,noms,a=1)
+
 

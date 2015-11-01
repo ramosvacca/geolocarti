@@ -17,9 +17,6 @@ def mplmap():
 
 mplmap()
 
-from mpl_toolkits.basemap import Basemap
-import matplotlib.pyplot as plt
-import numpy as np
  
 my_map = Basemap(projection='merc', lat_0 = 57, lon_0 = -135,
     resolution = 'h', area_thresh = 0.1,
