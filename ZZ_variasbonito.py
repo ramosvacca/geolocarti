@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 import matplotlib.lines as lines
 import numpy as np
 
-noms = ['Universidad del Valle', 'Massachussets Institute of Technology', 'Virginia Tech', 'Universidad del Norte']
-lons = [-76.5, -71.06, -80.43, -74.8]
-lats = [3.44, 42.43, 37.57, 10.99]
+# noms = ['Universidad del Valle', 'Massachussets Institute of Technology', 'Virginia Tech', 'Universidad del Norte']
+# lons = [-76.5, -71.06, -80.43, -74.8]
+# lats = [3.44, 42.43, 37.57, 10.99]
 
 def mplmap(lons, lats, noms, a):
     a=1
@@ -50,6 +50,5 @@ def mplmap(lons, lats, noms, a):
     my_map.shadedrelief()
     plt.show()
 
-mplmap(lons,lats,noms,a=1)
 
 

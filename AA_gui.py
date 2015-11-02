@@ -78,6 +78,7 @@ def imprimirpls():
     print(filename)
     f=open(filename)
     rr=f.read()
+    print(rr)
     listic=rr.split('\n')
     print(listic)
     #print(listic)

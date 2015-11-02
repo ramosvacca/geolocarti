@@ -28,7 +28,7 @@ def varios(algo, descrhtml):
 	url='file://'+path
 	print(html)
 
-	with open(path, 'w') as f:
+	with open(path, 'w') as f
 		f.write(html)
 	webbrowser.open(url)
 
