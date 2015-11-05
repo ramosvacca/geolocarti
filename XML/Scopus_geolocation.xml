@@ -1,18 +1,18 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="utf-8"?>
 <search-results xmlns="http://www.w3.org/2005/Atom" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <opensearch:totalResults>7764</opensearch:totalResults>
 <opensearch:startIndex>0</opensearch:startIndex>
 <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
 <opensearch:Query role="request" searchTerms="geolocation" startPage="0"/>
-<link ref="self" href="http://api.elsevier.com:80/content/search/index:scopus?start=0&count=100&query=geolocation&view=COMPLETE&httpAccept=application/xml&apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
-<link ref="first" href="http://api.elsevier.com:80/content/search/index:scopus?start=0&count=100&query=geolocation&view=COMPLETE&httpAccept=application/xml&apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
-<link ref="next" href="http://api.elsevier.com:80/content/search/index:scopus?start=100&count=100&query=geolocation&view=COMPLETE&httpAccept=application/xml&apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
-<link ref="last" href="http://api.elsevier.com:80/content/search/index:scopus?start=4900&count=100&query=geolocation&view=COMPLETE&httpAccept=application/xml&apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
+<link ref="self" href="http://api.elsevier.com:80/content/search/index:scopus?start=0.count=100.query=geolocation.view=COMPLETE.httpAccept=application/xml.apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
+<link ref="first" href="http://api.elsevier.com:80/content/search/index:scopus?start=0.count=100.query=geolocation.view=COMPLETE.httpAccept=application/xml.apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
+<link ref="next" href="http://api.elsevier.com:80/content/search/index:scopus?start=100.count=100.query=geolocation.view=COMPLETE.httpAccept=application/xml.apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
+<link ref="last" href="http://api.elsevier.com:80/content/search/index:scopus?start=4900.count=100.query=geolocation.view=COMPLETE.httpAccept=application/xml.apiKey=b50e60b193e884e6d78948e916d816a0" type="application/xml"/>
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84938880653"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84938880653?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84938880653&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84938880653&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84938880653.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84938880653.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0165168415002200"/>
 <prism:url>...</prism:url>
 <dc:identifier>SCOPUS_ID:84938880653</dc:identifier>
@@ -129,8 +129,8 @@ Global navigation satellite systems | Marginalized likelihood ratio test | Multi
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84943350744"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84943350744?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84943350744&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84943350744&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84943350744.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84943350744.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S156625351500055X"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84943350744
@@ -220,8 +220,8 @@ Big Data | Fuzzy Formal Concept Analysis | Microblog summarization | Social medi
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84941054205"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84941054205?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84941054205&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84941054205&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84941054205.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84941054205.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0165168415002674"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84941054205
@@ -346,8 +346,8 @@ Conditional Cramér-Rao lower bound (C-CRLB) | Period estimation | Source locali
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84944511239"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84944511239?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84944511239&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84944511239&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84944511239.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84944511239.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S092523121500764X"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84944511239
@@ -524,8 +524,8 @@ Location inference | Network learning | Twitter user location
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933508295"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933508295?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933508295&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933508295&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933508295.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933508295.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933508295
 </prism:url>
@@ -656,8 +656,8 @@ Android | Authentication | Location based challenge questions | Security | Smart
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942243566"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942243566?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942243566&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942243566&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942243566.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942243566.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942243566
 </prism:url>
@@ -759,8 +759,8 @@ Localization | Radio interferometric positioning system | Wireless sensor networ
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942627290"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942627290?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942627290&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942627290&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942627290.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942627290.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0168192315007108"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942627290
@@ -780,7 +780,7 @@ Improving the performance of remote sensing models for capturing intra- and inte
 <prism:doi>10.1016/j.agrformet.2015.09.005</prism:doi>
 <pii>S0168192315007108</pii>
 <dc:description>
-© 2015 Elsevier B.V. Accurate and reliable estimates of gross primary productivity (GPP) are required for monitoring the global carbon cycle at different spatial and temporal scales. Because GPP displays high spatial and temporal variation, remote sensing plays a major role in producing gridded estimates of GPP across spatiotemporal scales. In this context, understanding the strengths and weaknesses of remote sensing-based models of GPP and improving their performance is a key contemporary scientific activity. We used measurements from 157 research sites (~470 site-years) in the FLUXNET "La Thuile" data and compared the skills of 11 different remote sensing models in capturing intra- and inter-annual variations in daily GPP in seven different biomes. Results show that the models were able to capture significant intra-annual variation in GPP (Index of Agreement. = 0.4-0.80) in all biomes. However, the models' ability to track inter-annual variation in daily GPP was significantly weaker (IoA. <. 0.45). We examined whether the inclusion of different mechanisms that are missing in the models could improve their predictive power. The mechanisms included the effect of sub-daily variation in environmental variables on daily GPP, factoring-in differential rates of GPP conversion efficiency for direct and diffuse incident radiation, lagged effects of environmental variables, better representation of soil-moisture dynamics, and allowing spatial variation in model parameters. Our analyses suggest that the next generation remote sensing models need better representation of soil-moisture, but other mechanisms that have been found to influence GPP in site-level studies may not have significant bearing on model performance at continental and global scales. Understanding the relative controls of biotic vis-a-vis abiotic factors on GPP and accurately scaling up leaf level processes to the ecosystem scale are likely to be important for recognizing the limitations of remote sensing model and improving their formulation.
+© 2015 Elsevier B.V. Accurate and reliable estimates of gross primary productivity (GPP) are required for monitoring the global carbon cycle at different spatial and temporal scales. Because GPP displays high spatial and temporal variation, remote sensing plays a major role in producing gridded estimates of GPP across spatiotemporal scales. In this context, understanding the strengths and weaknesses of remote sensing-based models of GPP and improving their performance is a key contemporary scientific activity. We used measurements from 157 research sites (~470 site-years) in the FLUXNET "La Thuile" data and compared the skills of 11 different remote sensing models in capturing intra- and inter-annual variations in daily GPP in seven different biomes. Results show that the models were able to capture significant intra-annual variation in GPP (Index of Agreement. = 0.4-0.80) in all biomes. However, the models' ability to track inter-annual variation in daily GPP was significantly weaker (IoA. . 0.45). We examined whether the inclusion of different mechanisms that are missing in the models could improve their predictive power. The mechanisms included the effect of sub-daily variation in environmental variables on daily GPP, factoring-in differential rates of GPP conversion efficiency for direct and diffuse incident radiation, lagged effects of environmental variables, better representation of soil-moisture dynamics, and allowing spatial variation in model parameters. Our analyses suggest that the next generation remote sensing models need better representation of soil-moisture, but other mechanisms that have been found to influence GPP in site-level studies may not have significant bearing on model performance at continental and global scales. Understanding the relative controls of biotic vis-a-vis abiotic factors on GPP and accurately scaling up leaf level processes to the ecosystem scale are likely to be important for recognizing the limitations of remote sensing model and improving their formulation.
 </dc:description>
 <citedby-count>0</citedby-count>
 <affiliation>
@@ -1224,8 +1224,8 @@ FLUXNET | Gross primary productivity | Lagged effects | Modeling | Remote sensin
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942776895"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942776895?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942776895&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942776895&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942776895.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942776895.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0168192315007182"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942776895
@@ -1315,8 +1315,8 @@ Biofuel crops | GPP | LUE models | MODIS GPP calibration | Rapeseed rotation cro
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84934287616"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84934287616?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84934287616&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84934287616&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84934287616.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84934287616.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0165176514004856"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84934287616
@@ -1413,8 +1413,8 @@ http://api.elsevier.com/content/author/author_id:15520711800
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942509646"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942509646?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942509646&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942509646&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942509646.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942509646.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0034425715301073"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942509646
@@ -1482,8 +1482,8 @@ Feature tracking | Glacier flow | Landsat 8 | LDCM underfly | OLI
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937205596"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937205596?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937205596&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937205596&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937205596.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937205596.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0165783615300047"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937205596
@@ -1605,8 +1605,8 @@ Archival tags | Behavior | Bigeye tuna | Equatorial pacific | Vertical movements
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84941142989"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84941142989?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84941142989&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84941142989&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84941142989.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84941142989.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0022098115300095"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84941142989
@@ -1800,8 +1800,8 @@ Breeding habitat selection | Conspecific reproductive success | Dispersal decisi
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84925815378"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84925815378?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84925815378&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84925815378&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84925815378.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84925815378.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84925815378
 </prism:url>
@@ -1956,8 +1956,8 @@ Cognitive radio | Experimentation | Heterogeneous spectrum sensing | Methodology
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84943374731"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84943374731?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84943374731&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84943374731&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84943374731.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84943374731.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0034425715301449"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84943374731
@@ -1977,7 +1977,7 @@ The MODIS (collection V006) BRDF/albedo product MCD43D: Temporal course evaluate
 <prism:doi>10.1016/j.rse.2015.09.021</prism:doi>
 <pii>S0034425715301449</pii>
 <dc:description>
-© 2015 Elsevier Inc. The assessment of uncertainties in satellite-derived global surface albedo products is a critical aspect for studying the climate, ecosystem change, hydrology or the Earth's radiant energy budget. However, it is challenged by the spatial scaling errors between satellite and field measurements. This study aims at evaluating the forthcoming MODerate Resolution Imaging Spectroradiometer (MODIS) (Collection V006) Bidirectional Reflectance Distribution Function (BRDF)/albedo product MCD43D over a Mediterranean agricultural area. Here, we present the results from the accuracy assessment of the MODIS blue-sky albedo. The analysis is based on collocated comparisons with higher spatial resolution estimates from Formosat-2 that were first evaluated against local in situ measurements. The inter-sensor comparison is achieved by taking into account the effective point spread function (PSF) for MODIS albedo, modeled as Gaussian functions in the North-South and East-West directions. The equivalent PSF is estimated by correlation analysis between MODIS albedo and Formosat-2 convolved albedo. Results show that it is 1.2 to 2.0 times larger in the East-West direction as compared to the North-South direction. We characterized the equivalent PSF by a full width at half maximum size of 1920 m in East-West, 1200 m in North-South. This provided a very good correlation between the products, showing absolute (relative) Root Mean Square Errors from 0.004 to 0.013 (2% to 7%), and almost no bias. By inspecting 1-km plots homogeneous in land cover type, we found poorer performances over rice and marshes (i.e., relative Root Mean Square Error of about 11% and 7%, and accuracy of 0.011 and - 0.008, respectively), and higher accuracy over dry and irrigated pastures, as well as orchards (i.e., relative uncertainty <. 3.8% and accuracy <. 0.003). The study demonstrates that neglecting the MODIS PSF when comparing the Formosat-2 albedo against the MODIS one induces an additional uncertainty up to 0.02 (10%) in albedo. The consistency between fine and coarse spatial resolution albedo estimates indicates the ability of the daily MCD43D product to reproduce reasonably well the dynamics of albedo.
+© 2015 Elsevier Inc. The assessment of uncertainties in satellite-derived global surface albedo products is a critical aspect for studying the climate, ecosystem change, hydrology or the Earth's radiant energy budget. However, it is challenged by the spatial scaling errors between satellite and field measurements. This study aims at evaluating the forthcoming MODerate Resolution Imaging Spectroradiometer (MODIS) (Collection V006) Bidirectional Reflectance Distribution Function (BRDF)/albedo product MCD43D over a Mediterranean agricultural area. Here, we present the results from the accuracy assessment of the MODIS blue-sky albedo. The analysis is based on collocated comparisons with higher spatial resolution estimates from Formosat-2 that were first evaluated against local in situ measurements. The inter-sensor comparison is achieved by taking into account the effective point spread function (PSF) for MODIS albedo, modeled as Gaussian functions in the North-South and East-West directions. The equivalent PSF is estimated by correlation analysis between MODIS albedo and Formosat-2 convolved albedo. Results show that it is 1.2 to 2.0 times larger in the East-West direction as compared to the North-South direction. We characterized the equivalent PSF by a full width at half maximum size of 1920 m in East-West, 1200 m in North-South. This provided a very good correlation between the products, showing absolute (relative) Root Mean Square Errors from 0.004 to 0.013 (2% to 7%), and almost no bias. By inspecting 1-km plots homogeneous in land cover type, we found poorer performances over rice and marshes (i.e., relative Root Mean Square Error of about 11% and 7%, and accuracy of 0.011 and - 0.008, respectively), and higher accuracy over dry and irrigated pastures, as well as orchards (i.e., relative uncertainty .. 3.8% and accuracy .. 0.003). The study demonstrates that neglecting the MODIS PSF when comparing the Formosat-2 albedo against the MODIS one induces an additional uncertainty up to 0.02 (10%) in albedo. The consistency between fine and coarse spatial resolution albedo estimates indicates the ability of the daily MCD43D product to reproduce reasonably well the dynamics of albedo.
 </dc:description>
 <citedby-count>0</citedby-count>
 <affiliation>
@@ -2025,7 +2025,7 @@ http://api.elsevier.com/content/affiliation/affiliation_id:60024767
 http://api.elsevier.com/content/affiliation/affiliation_id:60004708
 </affiliation-url>
 <afid>60004708</afid>
-<affilname>Centre for Ecology & Hydrology</affilname>
+<affilname>Centre for Ecology . Hydrology</affilname>
 <name-variant>Centre for Ecology and Hydrology</name-variant>
 <affiliation-city>Oxfordshire</affiliation-city>
 <affiliation-country>United Kingdom</affiliation-country>
@@ -2200,8 +2200,8 @@ Albedo | BRDF | Crop | Formosat-2 | MODIS | Narrow-to-broadband | Observation co
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84944704016"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84944704016?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84944704016&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84944704016&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84944704016.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84944704016.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84944704016
 </prism:url>
@@ -2348,8 +2348,8 @@ Cavities | geodetection | GNSS | GPR | LIDAR | underground cellars
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939826310"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939826310?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939826310&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939826310&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939826310.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939826310.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939826310
 </prism:url>
@@ -2471,8 +2471,8 @@ bag-of-words | Image retrieval | mean-shift | salient area detection | spatial c
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939864197"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939864197?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939864197&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939864197&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939864197.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939864197.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939864197
 </prism:url>
@@ -2551,8 +2551,8 @@ Closest lattice point | phase unwrapping | range estimation
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84940993292"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84940993292?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84940993292&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84940993292&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84940993292.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84940993292.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84940993292
 </prism:url>
@@ -2622,8 +2622,8 @@ Direction of arrival estimation | microphone array | moving array | robot auditi
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84943547412"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84943547412?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84943547412&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84943547412&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84943547412.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84943547412.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S1364682615300626"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84943547412
@@ -2789,8 +2789,8 @@ Blue/gigantic jets | Elves | Global electric circuit and climate | Sprites | Thu
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939492469"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939492469?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939492469&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939492469&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939492469.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939492469.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939492469
 </prism:url>
@@ -2923,8 +2923,8 @@ Climate change | hydrology | Joint Polar Satellite System (JPSS) | microwave | r
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84941021901"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84941021901?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84941021901&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84941021901&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84941021901.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84941021901.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84941021901
 </prism:url>
@@ -3075,8 +3075,8 @@ Internet of vehicles | Location based service | Oscillator clock drift | OSS-TWR
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84944705719"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84944705719?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84944705719&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84944705719&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84944705719.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84944705719.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84944705719
 </prism:url>
@@ -3164,8 +3164,8 @@ Autonomous vehicle | Motion planning | Probabilistic planning | Regression Monte
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942987478"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942987478?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942987478&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942987478&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942987478.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942987478.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942987478
 </prism:url>
@@ -3368,8 +3368,8 @@ http://api.elsevier.com/content/author/author_id:6701468292
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942552010"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942552010?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942552010&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942552010&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942552010.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942552010.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0379073815003552"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942552010
@@ -3492,8 +3492,8 @@ IP location | Law Enforcement Agency | Network forensics | Online social network
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84934756539"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84934756539?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84934756539&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84934756539&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84934756539.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84934756539.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0034666715001207"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84934756539
@@ -3616,8 +3616,8 @@ http://api.elsevier.com/content/author/author_id:22734694800
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84930227081"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84930227081?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930227081&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930227081&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84930227081.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84930227081.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0022098115001239"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84930227081
@@ -3900,8 +3900,8 @@ California Current | Fronts | Gelatinous zooplankton | Ocean sunfish | Remote se
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933044304"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933044304?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933044304&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933044304&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933044304.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933044304.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933044304
 </prism:url>
@@ -3990,8 +3990,8 @@ Band-to-band registration (BBR) | Detector-to-detector registration (DDR) | Luna
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84928523970"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84928523970?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84928523970&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84928523970&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84928523970.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84928523970.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0003682X15001176"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84928523970
@@ -4060,8 +4060,8 @@ Array calibration | Flexible array | Passive ranging | Time difference of arriva
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84930668432"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84930668432?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930668432&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930668432&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84930668432.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84930668432.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0022098115001215"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84930668432
@@ -4322,8 +4322,8 @@ Abundance estimation | Aerial surveys | Availability bias | Detection bias | Det
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84941281775"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84941281775?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84941281775&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84941281775&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84941281775.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84941281775.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0306919215001013"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84941281775
@@ -4411,8 +4411,8 @@ Food security | Land conversion | Land cover | Night lights | Urbanization
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939839755"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939839755?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939839755&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939839755&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939839755.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939839755.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939839755
 </prism:url>
@@ -4480,8 +4480,8 @@ neighbor discovery | orthogonal frequency division multiple Access (OFDMA) | sub
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939227319"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939227319?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939227319&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939227319&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939227319.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939227319.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939227319
 </prism:url>
@@ -4560,8 +4560,8 @@ Global optimal filter | INS | Locata | Multisensor Data fusion | PPP-GNSS
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942930404"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942930404?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942930404&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942930404&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942930404.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942930404.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942930404
 </prism:url>
@@ -4580,9 +4580,7 @@ Seasonal variation in grass water content estimated from proximal sensing and MO
 <prism:coverDate>2015-09-29</prism:coverDate>
 <prism:coverDisplayDate>29 September 2015</prism:coverDisplayDate>
 <prism:doi>10.5194/bg-12-5523-2015</prism:doi>
-<dc:description>
-© 2015. Author(s). This study evaluates three different metrics of water content of an herbaceous cover in a Mediterranean wooded grassland (dehesa) ecosystem. Fuel moisture content (FMC), equivalent water thickness (EWT) and canopy water content (CWC) were estimated from proximal sensing and MODIS satellite imagery. Dry matter (Dm) and leaf area index (LAI) connect the three metrics and were also analyzed. Metrics were derived from field sampling of grass cover within a 500 m MODIS pixel. Hand-held hyperspectral measurements and MODIS images were simultaneously acquired and predictive empirical models were parametrized. Two methods of estimating FMC and CWC using different field protocols were tested in order to evaluate the consistency of the metrics and the relationships with the predictive empirical models. In addition, radiative transfer models (RTM) were used to produce estimates of CWC and FMC, which were compared with the empirical ones. <br><br> Results revealed that, for all metrics spatial variability was significantly lower than temporal. Thus we concluded that experimental design should prioritize sampling frequency rather than sample size. Dm variability was high which demonstrates that a constant annual Dm value should not be used to predict EWT from FMC as other previous studies did. Relative root mean square error (RRMSE) evaluated the performance of nine spectral indices to compute each variable. Visible Atmospherically Resistant Index (VARI) provided the lowest explicative power in all cases. For proximal sensing, Global Environment Monitoring Index (GEMI) showed higher statistical relationships both for FMC (RRMSE Combining double low line 34.5 %) and EWT (RRMSE Combining double low line 27.43 %) while Normalized Difference Infrared Index (NDII) and Global Vegetation Monitoring Index (GVMI) for CWC (RRMSE Combining double low line 30.27 % and 31.58 % respectively). When MODIS data were used, results showed an increase in <i>R</i>2 and Enhanced Vegetation Index (EVI) as the best predictor for FMC (RRMSE Combining double low line 33.81 %) and CWC (RRMSE Combining double low line 27.56 %) and GEMI for EWT (RRMSE Combining double low line 24.6 %). Differences in the viewing geometry of the platforms can explain these differences as the portion of vegetation observed by MODIS is larger than when using proximal sensing including the spectral response from scattered trees and its shadows. CWC was better predicted than the other two water content metrics, probably because CWC depends on LAI, that shows a notable seasonal variation in this ecosystem. Strong statistical relationship was found between empirical models using indices sensible to chlorophyll activity (NDVI or EVI which are not directly related to water content) due to the close relationship between LAI, water content and chlorophyll activity in grassland cover, which is not true for other types of vegetation such as forest or shrubs. The empirical methods tested outperformed FMC and CWC products based on radiative transfer model inversion.
-</dc:description>
+
 <citedby-count>0</citedby-count>
 <affiliation>
 <affiliation-url>
@@ -4600,7 +4598,7 @@ http://api.elsevier.com/content/affiliation/affiliation_id:60006754
 </affiliation-url>
 <afid>60006754</afid>
 <affilname>
-Consejo Superior de Investigaciones Cient&iacute;ficas
+Consejo Superior de Investigaciones Cient.iacute;ficas
 </affilname>
 <name-variant>CSIC</name-variant>
 <affiliation-city>Madrid</affiliation-city>
@@ -4795,8 +4793,8 @@ http://api.elsevier.com/content/author/author_id:55215008600
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84943155573"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84943155573?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84943155573&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84943155573&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84943155573.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84943155573.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84943155573
 </prism:url>
@@ -4865,8 +4863,8 @@ http://api.elsevier.com/content/author/author_id:56888559400
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942763912"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942763912?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942763912&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942763912&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942763912.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942763912.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942763912
 </prism:url>
@@ -4967,8 +4965,8 @@ Adaptive system noise | Bluetooth beacons | Extended kalman filter | Map matchin
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939640901"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939640901?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939640901&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939640901&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939640901.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939640901.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939640901
 </prism:url>
@@ -5046,8 +5044,8 @@ Conceptual similarity | Emerging event detection | Location-based social network
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84941350465"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84941350465?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84941350465&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84941350465&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84941350465.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84941350465.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84941350465
 </prism:url>
@@ -5177,8 +5175,8 @@ Dynamic spectrum access | TV white space | Vehicle-to-vehicle communications | W
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84944754885"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84944754885?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84944754885&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84944754885&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84944754885.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84944754885.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84944754885
 </prism:url>
@@ -5196,7 +5194,7 @@ Toward a deuterium feather isoscape for sub-saharan Africa: Progress, challenges
 <prism:coverDisplayDate>10 September 2015</prism:coverDisplayDate>
 <prism:doi>10.1371/journal.pone.0135938</prism:doi>
 <dc:description>
-© 2015 Gutiérrez-Expósito et al. A key challenge to the application of continent-wide feather isoscapes for geographic assignment of migrant birds is the lack of ground-truthed samples. This is especially true for long-distance Palearctic-Afrotropical migrants. We used spatially-explicit information on the δ2H composition of archived feathers from Green-backed/Grey-backed Camaroptera, to create a feather δ2H isoscape for sub-Saharan Africa. We sampled from 34 out of 41 sub-Saharan countries, totaling 205 sampling localities. Feather samples were obtained from museum collections (n = 224, from 1950 to 2014) for δ2H assay. Region, altitude, annual rainfall and seasonal patterns in precipitation were revealed as relevant explanatory variables for spatial patterns in feather δ2H. Predicted feather δ2H values ranged from -4.0 ‰ to -63.3 ‰, with higher values observed in the Great Rift Valley and South Africa, and lower values in central Africa. Our feather isoscape differed from that modelled previously using a precipitation δ2H isoscape and an assumed feather-to-precipitation calibration, but the relatively low model goodness fit (F10,213 = 5.98, p<0.001, R2 = 0.18) suggests that other, non-controlled variables might be driving observed geographic patterns in feather δ2H values. Additional ground-truthing studies are therefore recommended to improve the accuracy of the African feather δ2H isoscape.
+© 2015 Gutiérrez-Expósito et al. A key challenge to the application of continent-wide feather isoscapes for geographic assignment of migrant birds is the lack of ground-truthed samples. This is especially true for long-distance Palearctic-Afrotropical migrants. We used spatially-explicit information on the δ2H composition of archived feathers from Green-backed/Grey-backed Camaroptera, to create a feather δ2H isoscape for sub-Saharan Africa. We sampled from 34 out of 41 sub-Saharan countries, totaling 205 sampling localities. Feather samples were obtained from museum collections (n = 224, from 1950 to 2014) for δ2H assay. Region, altitude, annual rainfall and seasonal patterns in precipitation were revealed as relevant explanatory variables for spatial patterns in feather δ2H. Predicted feather δ2H values ranged from -4.0 ‰ to -63.3 ‰, with higher values observed in the Great Rift Valley and South Africa, and lower values in central Africa. Our feather isoscape differed from that modelled previously using a precipitation δ2H isoscape and an assumed feather-to-precipitation calibration, but the relatively low model goodness fit (F10,213 = 5.98, p0.001, R2 = 0.18) suggests that other, non-controlled variables might be driving observed geographic patterns in feather δ2H values. Additional ground-truthing studies are therefore recommended to improve the accuracy of the African feather δ2H isoscape.
 </dc:description>
 <citedby-count>0</citedby-count>
 <affiliation>
@@ -5295,8 +5293,8 @@ http://api.elsevier.com/content/author/author_id:7102130230
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84944388585"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84944388585?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84944388585&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84944388585&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84944388585.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84944388585.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84944388585
 </prism:url>
@@ -5314,7 +5312,7 @@ Performance of encounternet tags: Field tests of miniaturized proximity loggers 
 <prism:coverDisplayDate>8 September 2015</prism:coverDisplayDate>
 <prism:doi>10.1371/journal.pone.0137242</prism:doi>
 <dc:description>
-© 2015 Levin et al. Proximity logging is a new tool for understanding social behavior as it allows for accurate quantification of social networks. We report results from field calibration and deployment tests of miniaturized proximity tags (Encounternet), digital transceivers that log encounters between tagged individuals. We examined radio signal behavior in relation to tag attachment (tag, tag on bird, tag on saline-filled balloon) to understand how radio signal strength is affected by the tag mounting technique used for calibration tests. We investigated inter-tag and inter-receiver station variability, and in each calibration test we accounted for the effects of antennae orientation. Additionally, we used data from a live deployment on breeding barn swallows (Hirundo rustica erythrogaster) to analyze the quality of the logs, including reciprocal agreement in dyadic logs. We evaluated the impact (in terms of mass changes) of tag attachment on the birds. We were able to statistically distinguish between RSSI values associated with different close-proximity (<5m) tag-tag distances regardless of antennae orientation. Inter-tag variability was low, but we did find significant inter-receiver station variability. Reciprocal agreement of dyadic logs was high and social networks were constructed from proximity tag logs based on two different RSSI thresholds. There was no evidence of significant mass loss in the time birds were wearing tags. We conclude that proximity loggers are accurate and effective for quantifying social behavior. However, because RSSI and distance cannot be perfectly resolved, data from proximity loggers are most appropriate for comparing networks based on specific RSSI thresholds. The Encounternet system is flexible and customizable, and tags are now light enough for use on small animals (<50g). Copyright:
+© 2015 Levin et al. Proximity logging is a new tool for understanding social behavior as it allows for accurate quantification of social networks. We report results from field calibration and deployment tests of miniaturized proximity tags (Encounternet), digital transceivers that log encounters between tagged individuals. We examined radio signal behavior in relation to tag attachment (tag, tag on bird, tag on saline-filled balloon) to understand how radio signal strength is affected by the tag mounting technique used for calibration tests. We investigated inter-tag and inter-receiver station variability, and in each calibration test we accounted for the effects of antennae orientation. Additionally, we used data from a live deployment on breeding barn swallows (Hirundo rustica erythrogaster) to analyze the quality of the logs, including reciprocal agreement in dyadic logs. We evaluated the impact (in terms of mass changes) of tag attachment on the birds. We were able to statistically distinguish between RSSI values associated with different close-proximity (5m) tag-tag distances regardless of antennae orientation. Inter-tag variability was low, but we did find significant inter-receiver station variability. Reciprocal agreement of dyadic logs was high and social networks were constructed from proximity tag logs based on two different RSSI thresholds. There was no evidence of significant mass loss in the time birds were wearing tags. We conclude that proximity loggers are accurate and effective for quantifying social behavior. However, because RSSI and distance cannot be perfectly resolved, data from proximity loggers are most appropriate for comparing networks based on specific RSSI thresholds. The Encounternet system is flexible and customizable, and tags are now light enough for use on small animals (50g). Copyright:
 </dc:description>
 <citedby-count>0</citedby-count>
 <affiliation>
@@ -5415,8 +5413,8 @@ http://api.elsevier.com/content/author/author_id:6602722844
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939993592"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939993592?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939993592&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939993592&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939993592.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939993592.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0169809514003378"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939993592
@@ -5551,8 +5549,8 @@ AMSU | Climatology | Hail | MHS | Passive microwave | Remote sensing
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84929492338"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84929492338?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84929492338&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84929492338&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84929492338.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84929492338.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0048969715300693"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84929492338
@@ -5726,8 +5724,8 @@ Chlorophyll-a | Lake Geneva | MERIS | Phytoplankton | Remote sensing | Spatial h
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84934275477"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84934275477?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84934275477&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84934275477&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84934275477.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84934275477.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84934275477
 </prism:url>
@@ -5854,8 +5852,8 @@ Energy efficient | green communication | localization | non-data-bearing orthogo
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84938330721"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84938330721?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84938330721&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84938330721&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84938330721.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84938330721.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84938330721
 </prism:url>
@@ -5932,8 +5930,8 @@ http://api.elsevier.com/content/author/author_id:56352351600
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939172993"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939172993?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939172993&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939172993&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939172993.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939172993.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939172993
 </prism:url>
@@ -6001,8 +5999,8 @@ Cellular Network | Cognitive Radio | Dynamic Spectrum Access | TV White Space | 
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84940928383"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84940928383?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84940928383&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84940928383&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84940928383.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84940928383.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0143622815001952"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84940928383
@@ -6082,8 +6080,8 @@ Big data | GIS | Photo-sharing services | Spatial analysis | Urban tourism
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84931271950"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84931271950?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84931271950&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84931271950&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84931271950.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84931271950.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0034425715300316"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84931271950
@@ -6162,8 +6160,8 @@ Crop monitoring | Homogeneous vegetation cover | MODIS | Pixel purity | Signal-t
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942279495"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942279495?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942279495&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942279495&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942279495.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942279495.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942279495
 </prism:url>
@@ -6239,8 +6237,8 @@ http://api.elsevier.com/content/author/author_id:55973105000
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84944755058"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84944755058?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84944755058&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84944755058&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84944755058.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84944755058.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0198971514001306"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84944755058
@@ -6361,8 +6359,8 @@ Community detection | Geospatial analysis | Social media | Social network analys
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84940752642"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84940752642?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84940752642&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84940752642&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84940752642.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84940752642.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84940752642
 </prism:url>
@@ -6421,8 +6419,8 @@ http://api.elsevier.com/content/author/author_id:56816526300
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939825219"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939825219?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939825219&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939825219&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939825219.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939825219.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939825219
 </prism:url>
@@ -6540,8 +6538,8 @@ http://api.elsevier.com/content/author/author_id:56419394700
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939624973"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939624973?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939624973&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939624973&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939624973.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939624973.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939624973
 </prism:url>
@@ -6610,8 +6608,8 @@ http://api.elsevier.com/content/author/author_id:7004853382
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942817638"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942817638?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942817638&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942817638&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942817638.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942817638.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942817638
 </prism:url>
@@ -6700,8 +6698,8 @@ Geolocation database | Radio environment map | TV white space
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939187674"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939187674?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939187674&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939187674&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939187674.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939187674.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939187674
 </prism:url>
@@ -6717,7 +6715,7 @@ The georeferencing of RASAT satellite imagery and some practical approaches to i
 <prism:coverDisplayDate>12 August 2015</prism:coverDisplayDate>
 <prism:doi>10.1080/10106049.2015.1073367</prism:doi>
 <dc:description>
-© 2015 Taylor & Francis RASAT Earth Observation Satellite is the second remote sensing satellite of The Scientific and Technological Research Council of Turkey (TUBITAK) Space Technologies Search Institute (TUBITAK Space). Generally, the first step to utilize the satellite imagery in GIS applications is the accurate geometric correction of the imagery. But, the geometric correction process of RASAT images is somewhat difficult due to insufficient orbit data and lack of satellite imagery processing software with RASAT model. Although the geolocation of RASAT images is investigated in some recent studies, subpixel accuracies cannot be achieved. In this study, different geometric correction methods and combination of them are tested with a more interactive workflow that uses the results of other approaches. Results show that these approaches can be used for the geometric correction of RASAT like pushbroom satellite images with insufficient orbit data and better geolocation accuracies can be achieved by different geometric correction approaches.
+© 2015 Taylor . Francis RASAT Earth Observation Satellite is the second remote sensing satellite of The Scientific and Technological Research Council of Turkey (TUBITAK) Space Technologies Search Institute (TUBITAK Space). Generally, the first step to utilize the satellite imagery in GIS applications is the accurate geometric correction of the imagery. But, the geometric correction process of RASAT images is somewhat difficult due to insufficient orbit data and lack of satellite imagery processing software with RASAT model. Although the geolocation of RASAT images is investigated in some recent studies, subpixel accuracies cannot be achieved. In this study, different geometric correction methods and combination of them are tested with a more interactive workflow that uses the results of other approaches. Results show that these approaches can be used for the geometric correction of RASAT like pushbroom satellite images with insufficient orbit data and better geolocation accuracies can be achieved by different geometric correction approaches.
 </dc:description>
 <citedby-count>0</citedby-count>
 <affiliation>
@@ -6776,8 +6774,8 @@ geometric accuracy | orthorectification | RASAT | satellite imagery
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84938600558"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84938600558?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84938600558&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84938600558&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84938600558.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84938600558.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84938600558
 </prism:url>
@@ -6833,8 +6831,8 @@ Big Data | Geoweb | National security | Political economy | Privacy
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937514532"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937514532?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937514532&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937514532&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937514532.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937514532.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937514532
 </prism:url>
@@ -6854,7 +6852,7 @@ Mapping snow depth from manned aircraft on landscape scales at centimeter resolu
 <prism:coverDisplayDate>5 August 2015</prism:coverDisplayDate>
 <prism:doi>10.5194/tc-9-1445-2015</prism:doi>
 <dc:description>
-© Author(s) 2015. Airborne photogrammetry is undergoing a renaissance: lower-cost equipment, more powerful software, and simplified methods have significantly lowered the barriers to entry and now allow repeat mapping of cryospheric dynamics at spatial resolutions and temporal frequencies that were previously too expensive to consider. Here we apply these advancements to the measurement of snow depth from manned aircraft. Our main airborne hardware consists of a consumer-grade digital camera directly coupled to a dual-frequency GPS; no inertial motion unit (IMU) or on-board computer is required, such that system hardware and software costs less than USD 30 000, exclusive of aircraft. The photogrammetric processing is done using a commercially available implementation of the structure from motion (SfM) algorithm. The system is simple enough that it can be operated by the pilot without additional assistance and the technique creates directly georeferenced maps without ground control, further reducing overall costs. To map snow depth, we made digital elevation models (DEMs) during snow-free and snow-covered conditions, then subtracted these to create difference DEMs (dDEMs). We assessed the accuracy (real-world geolocation) and precision (repeatability) of our DEMs through comparisons to ground control points and to time series of our own DEMs. We validated these assessments through comparisons to DEMs made by airborne lidar and by a similar photogrammetric system. We empirically determined that our DEMs have a geolocation accuracy of ±30 cm and a repeatability of ±8 cm (both 95 % confidence). We then validated our dDEMs against more than 6000 hand-probed snow depth measurements at 3 separate test areas in Alaska covering a wide-variety of terrain and snow types. These areas ranged from 5 to 40 km<sup>2</sup> and had ground sample distances of 6 to 20 cm. We found that depths produced from the dDEMs matched probe depths with a 10 cm standard deviation, and were statistically identical at 95 % confidence. Due to the precision of this technique, other real changes on the ground such as frost heave, vegetative compaction by snow, and even footprints become sources of error in the measurement of thin snow packs (< 20 cm). The ability to directly measure such small changes over entire landscapes eliminates the need to extrapolate limited field measurements. The fact that this mapping can be done at substantially lower costs than current methods may transform the way we approach studying change in the cryosphere.
+© Author(s) 2015. Airborne photogrammetry is undergoing a renaissance: lower-cost equipment, more powerful software, and simplified methods have significantly lowered the barriers to entry and now allow repeat mapping of cryospheric dynamics at spatial resolutions and temporal frequencies that were previously too expensive to consider. Here we apply these advancements to the measurement of snow depth from manned aircraft. Our main airborne hardware consists of a consumer-grade digital camera directly coupled to a dual-frequency GPS; no inertial motion unit (IMU) or on-board computer is required, such that system hardware and software costs less than USD 30 000, exclusive of aircraft. The photogrammetric processing is done using a commercially available implementation of the structure from motion (SfM) algorithm. The system is simple enough that it can be operated by the pilot without additional assistance and the technique creates directly georeferenced maps without ground control, further reducing overall costs. To map snow depth, we made digital elevation models (DEMs) during snow-free and snow-covered conditions, then subtracted these to create difference DEMs (dDEMs). We assessed the accuracy (real-world geolocation) and precision (repeatability) of our DEMs through comparisons to ground control points and to time series of our own DEMs. We validated these assessments through comparisons to DEMs made by airborne lidar and by a similar photogrammetric system. We empirically determined that our DEMs have a geolocation accuracy of ±30 cm and a repeatability of ±8 cm (both 95 % confidence). We then validated our dDEMs against more than 6000 hand-probed snow depth measurements at 3 separate test areas in Alaska covering a wide-variety of terrain and snow types. These areas ranged from 5 to 40 km<sup>2</sup> and had ground sample distances of 6 to 20 cm. We found that depths produced from the dDEMs matched probe depths with a 10 cm standard deviation, and were statistically identical at 95 % confidence. Due to the precision of this technique, other real changes on the ground such as frost heave, vegetative compaction by snow, and even footprints become sources of error in the measurement of thin snow packs ( 20 cm). The ability to directly measure such small changes over entire landscapes eliminates the need to extrapolate limited field measurements. The fact that this mapping can be done at substantially lower costs than current methods may transform the way we approach studying change in the cryosphere.
 </dc:description>
 <citedby-count>3</citedby-count>
 <affiliation>
@@ -6920,8 +6918,8 @@ http://api.elsevier.com/content/author/author_id:7007006198
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84938567458"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84938567458?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84938567458&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84938567458&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84938567458.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84938567458.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0268401215000638"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84938567458
@@ -7057,8 +7055,8 @@ http://api.elsevier.com/content/author/author_id:16066862000
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937231559"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937231559?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937231559&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937231559&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937231559.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937231559.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937231559
 </prism:url>
@@ -7180,8 +7178,8 @@ Food recognition | geolocation | image tagging | mobile applications
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937250198"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937250198?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937250198&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937250198&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937250198.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937250198.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937250198
 </prism:url>
@@ -7260,8 +7258,8 @@ Event detection | gaming | photo galleries | saliency
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939456368"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939456368?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939456368&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939456368&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939456368.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939456368.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939456368
 </prism:url>
@@ -7333,8 +7331,8 @@ Cooperative localization | non-line-of-sight (NLOS) | Semidefinite programming (
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84929402156"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84929402156?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84929402156&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84929402156&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84929402156.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84929402156.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S019126151500079X"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84929402156
@@ -7413,8 +7411,8 @@ Macroscopic fundamental diagram (MFD) | Spillback | Traffic signals | Travel tim
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84929303443"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84929303443?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84929303443&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84929303443&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84929303443.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84929303443.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0034425715001686"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84929303443
@@ -7524,8 +7522,8 @@ Band sharpening | Bio-optics | Coastal waters | High resolution | Ocean color | 
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937204690"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937204690?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937204690&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937204690&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937204690.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937204690.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937204690
 </prism:url>
@@ -7646,8 +7644,8 @@ Media cloud | partial transcoding scheme | user viewing pattern | viewer behavio
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942832396"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942832396?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942832396&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942832396&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942832396.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942832396.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942832396
 </prism:url>
@@ -7846,8 +7844,8 @@ http://api.elsevier.com/content/author/author_id:56771607000
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939193245"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939193245?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939193245&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939193245&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939193245.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939193245.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939193245
 </prism:url>
@@ -8074,8 +8072,8 @@ Golden eagle | Migration | North America | Stable isotopes | Telemetry
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84938054200"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84938054200?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84938054200&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84938054200&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84938054200.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84938054200.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0167739X14002362"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84938054200
@@ -8218,8 +8216,8 @@ Cloud storage | Economical server collusion | Probabilistic scheme | Storage sec
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937932861"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937932861?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937932861&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937932861&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937932861.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937932861.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937932861
 </prism:url>
@@ -8338,8 +8336,8 @@ http://api.elsevier.com/content/author/author_id:6603822255
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84938084338"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84938084338?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84938084338&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84938084338&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84938084338.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84938084338.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S1270963815002163"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84938084338
@@ -8416,8 +8414,8 @@ http://api.elsevier.com/content/author/author_id:6506147138
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84940668992"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84940668992?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84940668992&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84940668992&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84940668992.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84940668992.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84940668992
 </prism:url>
@@ -8463,8 +8461,8 @@ Cyber | East-West | Geneva Convention | Humanitarian law | IHL | Information tec
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937712375"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937712375?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937712375&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937712375&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937712375.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937712375.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937712375
 </prism:url>
@@ -8593,8 +8591,8 @@ Hyperbola | Levenberg–Marquardt | Local minima | Multilateration | Real data |
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937571071"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937571071?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937571071&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937571071&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937571071.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937571071.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S1389128615002169"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937571071
@@ -8685,8 +8683,8 @@ IEEE 802.11 | Indoor localization | Positioning | Ranging | Time of arrival | Wi
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937501015"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937501015?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937501015&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937501015&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937501015.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937501015.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937501015
 </prism:url>
@@ -8903,8 +8901,8 @@ http://api.elsevier.com/content/author/author_id:6603638447
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937575152"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937575152?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937575152&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937575152&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937575152.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937575152.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S1389128615001966"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937575152
@@ -9028,8 +9026,8 @@ Asynchronous networks | Opportunistic localisation | Time-based localisation | W
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84940189465"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84940189465?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84940189465&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84940189465&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84940189465.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84940189465.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84940189465
 </prism:url>
@@ -9163,8 +9161,8 @@ Indoor positioning | MEMS sensors | PDR | Training | WiFi
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84940209631"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84940209631?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84940209631&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84940209631&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84940209631.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84940209631.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84940209631
 </prism:url>
@@ -9273,8 +9271,8 @@ Forecasted time series | Oscillation errors | Oscillation errors restriction | S
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937208225"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937208225?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937208225&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937208225&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937208225.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937208225.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937208225
 </prism:url>
@@ -9343,8 +9341,8 @@ http://api.elsevier.com/content/author/author_id:7404655255
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933525540"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933525540?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933525540&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933525540&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933525540.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933525540.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933525540
 </prism:url>
@@ -9416,8 +9414,8 @@ Cooperative localization and synchronization | maximum likelihood (ML) | semidef
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84936802365"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84936802365?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84936802365&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84936802365&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84936802365.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84936802365.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S0165168415001632"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84936802365
@@ -9484,8 +9482,8 @@ Array processing | Cramér-Rao lower bound | Direct emitter localization | Least
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84930542261"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84930542261?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930542261&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930542261&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84930542261.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84930542261.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84930542261
 </prism:url>
@@ -9573,8 +9571,8 @@ Localization | Multiple-bound signal | Wireless sensor networks
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84930942122"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84930942122?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930942122&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930942122&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84930942122.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84930942122.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84930942122
 </prism:url>
@@ -9642,8 +9640,8 @@ Data mining | Kpop | Social Media | Spanish-speaking countries | Twitter | Webom
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939419272"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939419272?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939419272&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939419272&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939419272.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939419272.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939419272
 </prism:url>
@@ -9747,8 +9745,8 @@ Angle of arrival | geolocation | propagation time | satellite | Source localizat
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939219752"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939219752?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939219752&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939219752&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939219752.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939219752.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939219752
 </prism:url>
@@ -9827,8 +9825,8 @@ geolocation | network | performance prediction | Qos-aware service composition |
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942938276"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942938276?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942938276&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942938276&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942938276.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942938276.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942938276
 </prism:url>
@@ -9887,8 +9885,8 @@ Analytical models | Earth | Geology | Measurement uncertainty | Sensitivity anal
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933500978"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933500978?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933500978&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933500978&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933500978.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933500978.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933500978
 </prism:url>
@@ -10009,8 +10007,8 @@ Dimension reduction | diverse visual contents | exemplar selection | hierarchica
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939501610"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939501610?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939501610&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939501610&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939501610.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939501610.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939501610
 </prism:url>
@@ -10032,7 +10030,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <prism:coverDisplayDate>1 July 2015</prism:coverDisplayDate>
 <prism:doi>10.1109/JSTARS.2015.2424715</prism:doi>
 <dc:description>
-© 2008-2012 IEEE. This paper investigates the feasibility of using an airborne synthetic aperture radar (SAR) to validate spaceborne SAR data. This is directed at soil moisture sensing and the recently launched soil moisture active passive (SMAP) satellite. The value of this approach is related to the fact that vicarious targets such as rain forests and oceans calibrate only the extrema of backscattering coefficients (σ0) and that the relationship between soil moisture and σ 0 is nonlinear. Furthermore, corner reflectors are difficult to deploy to calibrate medium resolution (1-3 km) spaceborne sensors such as the one onboard SMAP. A challenge with the approach is the varying incidence angle θ of the airborne sensor versus the constant value used by SMAP. The impact of this on the inter-comparison of airborne and SMAP data is analyzed through simulation and aircraft data analysis. In the absence of the SMAP SAR data, the airborne SAR and scatterometer σ 0 from the recent field campaign provided the imaging geometry similar to the spaceborne case. The effect of θ on the inter-comparison using these two airborne data sets was found to be small if the landcover within the footprint is homogeneous and if σ0 (natural unit) changes very little or approximately linearly with θ. Over heterogeneous pixels consisting of pasture, grass, forest, and growing corn, the simulation shows that the mean and standard deviation of the difference in σ0 between the SAR and scatterometer data are smaller than 0.4 and 0.3 dB, respectively. The test results with the airborne data are generally consistent with the simulation results: the mean and standard deviation of the difference are smaller than 0.9 dB for HH, VV, and HV. These magnitudes are comparable with those of the major sources of the difference: the relative calibration errors of the airborne instruments, speckle noise ∼35, effect of θ variation within the footprint, and geolocation uncertainty in the airborne scatterometer data<0.5dB. The findings from this study are expected to apply to the inter-comparison of the SMAP and airborne data after considering the details affecting the comparison: imaging geometry, temporal synchronization, spatial collocation, antenna gain, speckle noise, and spatial resolution. When applied, the inter-comparison will provide more confidence in the calibration of SMAP.
+© 2008-2012 IEEE. This paper investigates the feasibility of using an airborne synthetic aperture radar (SAR) to validate spaceborne SAR data. This is directed at soil moisture sensing and the recently launched soil moisture active passive (SMAP) satellite. The value of this approach is related to the fact that vicarious targets such as rain forests and oceans calibrate only the extrema of backscattering coefficients (σ0) and that the relationship between soil moisture and σ 0 is nonlinear. Furthermore, corner reflectors are difficult to deploy to calibrate medium resolution (1-3 km) spaceborne sensors such as the one onboard SMAP. A challenge with the approach is the varying incidence angle θ of the airborne sensor versus the constant value used by SMAP. The impact of this on the inter-comparison of airborne and SMAP data is analyzed through simulation and aircraft data analysis. In the absence of the SMAP SAR data, the airborne SAR and scatterometer σ 0 from the recent field campaign provided the imaging geometry similar to the spaceborne case. The effect of θ on the inter-comparison using these two airborne data sets was found to be small if the landcover within the footprint is homogeneous and if σ0 (natural unit) changes very little or approximately linearly with θ. Over heterogeneous pixels consisting of pasture, grass, forest, and growing corn, the simulation shows that the mean and standard deviation of the difference in σ0 between the SAR and scatterometer data are smaller than 0.4 and 0.3 dB, respectively. The test results with the airborne data are generally consistent with the simulation results: the mean and standard deviation of the difference are smaller than 0.9 dB for HH, VV, and HV. These magnitudes are comparable with those of the major sources of the difference: the relative calibration errors of the airborne instruments, speckle noise ∼35, effect of θ variation within the footprint, and geolocation uncertainty in the airborne scatterometer data0.5dB. The findings from this study are expected to apply to the inter-comparison of the SMAP and airborne data after considering the details affecting the comparison: imaging geometry, temporal synchronization, spatial collocation, antenna gain, speckle noise, and spatial resolution. When applied, the inter-comparison will provide more confidence in the calibration of SMAP.
 </dc:description>
 <citedby-count>0</citedby-count>
 <affiliation>
@@ -10126,8 +10124,8 @@ Calibration | scatterometer | soil moisture | soil moisture active passive (SMAP
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933517636"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933517636?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933517636&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933517636&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933517636.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933517636.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933517636
 </prism:url>
@@ -10248,8 +10246,8 @@ distributed algorithms | expectation maximization algorithms | Target localizati
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933506757"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933506757?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933506757&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933506757&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933506757.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933506757.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933506757
 </prism:url>
@@ -10349,8 +10347,8 @@ Cooperative networks | energy allocation | inference algorithms | localization |
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939138338"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939138338?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939138338&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939138338&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939138338.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939138338.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939138338
 </prism:url>
@@ -10402,8 +10400,8 @@ Human-computer interaction | Multimedia | Social media
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84930933084"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84930933084?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930933084&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930933084&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84930933084.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84930933084.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S2351989415000475"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84930933084
@@ -10540,8 +10538,8 @@ Ascension Island | Assembly site | Long-distance migrants | Marine Protection Ar
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84937688733"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84937688733?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84937688733&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84937688733&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84937688733.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84937688733.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84937688733
 </prism:url>
@@ -10641,8 +10639,8 @@ Cooperative autonomous systems | cooperative localization | epipolar geometry | 
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933574103"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933574103?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933574103&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933574103&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933574103.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933574103.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933574103
 </prism:url>
@@ -10720,8 +10718,8 @@ Cramér Rao Lower Bound | Distributed Models | Networks | Optimization | Positio
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84934299656"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84934299656?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84934299656&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84934299656&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84934299656.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84934299656.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84934299656
 </prism:url>
@@ -10871,8 +10869,8 @@ Geo tags | geo-aware image classification | tag features
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933574101"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933574101?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933574101&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933574101&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933574101.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933574101.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933574101
 </prism:url>
@@ -10972,8 +10970,8 @@ artificial noise | Location | physical layer security | relay networks | wiretap
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933564253"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933564253?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933564253&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933564253&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933564253.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933564253.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933564253
 </prism:url>
@@ -11079,8 +11077,8 @@ distributed algorithms | game theory | positioning | potential games | resource 
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933519956"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933519956?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933519956&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933519956&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933519956.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933519956.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933519956
 </prism:url>
@@ -11148,8 +11146,8 @@ localization | MAC protocol | multi-channel | packet scheduling | single-channel
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942926011"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942926011?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942926011&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942926011&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942926011.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942926011.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942926011
 </prism:url>
@@ -11247,8 +11245,8 @@ http://api.elsevier.com/content/author/author_id:12804920600
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84942919227"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84942919227?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84942919227&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84942919227&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84942919227.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84942919227.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84942919227
 </prism:url>
@@ -11348,8 +11346,8 @@ Clocks | Fault detection | Global Positioning System | Kalman filters | Monitori
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84939963005"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84939963005?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84939963005&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84939963005&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84939963005.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84939963005.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84939963005
 </prism:url>
@@ -11469,8 +11467,8 @@ Location-aware news feed | Location-aware social networks | Online scheduling | 
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84940565912"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84940565912?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84940565912&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84940565912&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84940565912.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84940565912.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84940565912
 </prism:url>
@@ -11625,8 +11623,8 @@ http://api.elsevier.com/content/author/author_id:56306210800
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84933039585"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84933039585?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933039585&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933039585&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84933039585.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84933039585.origin=inward"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84933039585
 </prism:url>
@@ -11655,7 +11653,7 @@ IEEE Transactions on Instrumentation and Measurement
 http://api.elsevier.com/content/affiliation/affiliation_id:60032144
 </affiliation-url>
 <afid>60032144</afid>
-<affilname>Korea Advanced Institute of Science & Technology</affilname>
+<affilname>Korea Advanced Institute of Science . Technology</affilname>
 <name-variant>KAIST</name-variant>
 <affiliation-city>Yusong</affiliation-city>
 <affiliation-country>South Korea</affiliation-country>
@@ -11707,8 +11705,8 @@ Geomagnetic field | radio ranging | relocation | simultaneous localization and m
 <entry>
 <link ref="self" href="http://api.elsevier.com/content/abstract/scopus_id:84932647484"/>
 <link ref="author-affiliation" href="http://api.elsevier.com/content/abstract/scopus_id:84932647484?field=author,affiliation"/>
-<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84932647484&origin=inward"/>
-<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84932647484&origin=inward"/>
+<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b.scp=84932647484.origin=inward"/>
+<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b.scp=84932647484.origin=inward"/>
 <link ref="full-text" href="http://api.elsevier.com/content/article/eid:1-s2.0-S1470160X15003301"/>
 <prism:url>
 http://api.elsevier.com/content/abstract/scopus_id:84932647484
@@ -11728,7 +11726,7 @@ Satellite- versus temperature-derived green wave indices for predicting the timi
 <prism:doi>10.1016/j.ecolind.2015.06.005</prism:doi>
 <pii>S1470160X15003301</pii>
 <dc:description>
-© 2015 Elsevier Ltd. All rights reserved. According to the green wave hypothesis, herbivores follow the flush of spring growth of forage plants during their spring migration to northern breeding grounds. In this study we compared two green wave indices for predicting the timing of the spring migration of avian herbivores: the satellite-derived green wave index (GWI), and an index of the rate of acceleration in temperature (GDDjerk). The GWI was calculated from MODIS normalized difference vegetation index (NDVI) satellite imagery and GDDjerk from gridded temperature data using products from the global land data assimilation system (GLDAS). To predict the timing of arrival at stopover and breeding sites, we used four years (2008-2011) of tracking data from 12 GPS-tagged barnacle geese, a long-distance herbivorous migrant, wintering in the Netherlands, breeding in the Russian Arctic. The stopover and breeding sites for these birds were identified and the relations between date of arrival with the date of 50% GWI and date of peak GDDjerk at each site were analyzed using mixed effect linear regression. A cross-validation method was used to compare the predictive accuracy of the GWI and GDDjerk indices. Significant relationships were found between the arrival dates at the stopover and breeding sites for the dates of 50% GWI as well as the peak GDDjerk (p < 0.01). The goose arrival dates at both stopover and breeding sites were predicted more accurately using GWI (R<sup>2</sup><inf>cv</inf> = 0.68, RMSD<inf>cv</inf> = 5.9 and R<sup>2</sup><inf>cv</inf>= 0.71, RMSD<inf>cv</inf> = 3.9 for stopover and breeding sites, respectively) than GDDjerk. The GDDjerk returned a lower accuracy for prediction of goose arrival dates at stopover (R<sup>2</sup><inf>cv</inf> = 0.45, RMSD<inf>cv</inf> = 7.79) and breeding sites (R<sup>2</sup><inf>cv</inf> = 0.55, RMSD<inf>cv</inf> = 4.93). The positive correlation between the absolute residual values of the GDDjerk model and distance to the breeding sites showed that this index is highly sensitive to latitude. This study demonstrates that the satellite-derived green wave index (GWI) can accurately predict the timing of goose migration, irrespective of latitude and therefore is suggested as a reliable green wave index for predicting the timing of avian herbivores spring migration.
+© 2015 Elsevier Ltd. All rights reserved. According to the green wave hypothesis, herbivores follow the flush of spring growth of forage plants during their spring migration to northern breeding grounds. In this study we compared two green wave indices for predicting the timing of the spring migration of avian herbivores: the satellite-derived green wave index (GWI
 </dc:description>
 <citedby-count>0</citedby-count>
 <affiliation>

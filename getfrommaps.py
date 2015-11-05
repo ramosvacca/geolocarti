@@ -3,6 +3,11 @@
 from mpl_toolkits.basemap import Basemap
 import urllib.request
 from regex import regcoord
+import unicodedata
+
+def strip_accents(s):
+   return ''.join(c for c in unicodedata.normalize('NFD', s)
+                  if unicodedata.category(c) != 'Mn')
 
 #busqfin=str(input("Ingrese el nombre del sitio que desea buscar.")).replace(" ","+")#El nombre se ingresa normal, como str
 #busqfin=busq.replace(' ','+') Buscar encoder URL.
@@ -44,6 +49,7 @@ class MyOpener(FancyURLopener):
 def enelmapa(busqfin):
     print('Inicia fancito')
     myopener = MyOpener()
+    busqfin = strip_accents(busqfin)
     page = myopener.open('https://www.google.com/maps?q='+busqfin)
     print('https://www.google.com/maps?q='+busqfin)
     prueba=page.read()
@@ -55,7 +61,7 @@ def enelmapa(busqfin):
     lon=b[0:b.find(',')]
     lat=b[b.find(',')+1:b.find(']')]
 
-    print('latlon ', lat, lon)
+    #print('latlon ', lat, lon)
     
     latlon=[float(lat), float(lon)]
     print(latlon)

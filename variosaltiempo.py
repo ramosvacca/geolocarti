@@ -4,35 +4,20 @@ import os
 import webbrowser
 from getfrommaps import enbuscador, findapi, enelmapa
 from ZZ_variasbonito import mplmap
+from threading import Thread
 
 
-
-xy = ['El ombligo de Colombia, villavicencio',
-'cano cristales, meta, colombia',
-'Desierto de la Tatacoa, huila, colombia',
-'san andres isla, colombia']
-
-parabuscar = ['Universidad de los Andes, Bogota, Colombia',
-     'Universidad del Valle, cali, colombia',
-     'Universidad del Valle, zarzal, colombia',
-     'Cideim, cali'
-     ]
+"""def varios(algo, descrhtml):
+    html=irenelmapa(algo, descrhtml)
+    path = os.path.abspath('temp.html')
+    url='file://'+path
+    print(html)
+    with open(path, 'w') as f
+        f.write(html)
+    webbrowser.open(url)"""
 
 
-
-
-def varios(algo, descrhtml):
-
-	html=irenelmapa(algo, descrhtml)
-	path = os.path.abspath('temp.html')
-	url='file://'+path
-	print(html)
-
-	with open(path, 'w') as f
-		f.write(html)
-	webbrowser.open(url)
-
-def hacerlista(x):
+def hacerlista_otros(x):
         global descrip
         descrip=[]
         lista=[]
@@ -50,3 +35,41 @@ def hacerlista(x):
         #print(descrip)
 
         return [lista, str(descrip)]
+
+
+import math
+
+
+
+def hacerlista_desdexml(matriz, hilos):
+    def auxiliar(submatriz, outdict):
+        for x in submatriz:
+            print(x)
+            busqueda = x[0],x[1],x[2]
+            #print(cada_afiliacion)
+            busqfin = str(busqueda).replace("'","").replace(' ','+').replace('(','').replace(')','')
+            actual = enelmapa(busqfin)
+            #print(cada_afiliacion+actual)
+            #lista += [cada_afiliacion+actual]
+            outdict.append(x+actual)
+
+    chunksize = int(math.ceil(len(matriz) / float(hilos)))
+    threads = []
+    outs = []
+
+    for i in range(hilos):
+        t = Thread(
+            target=auxiliar,
+            args=(matriz[chunksize * i:chunksize * (i+1)],
+                  outs))
+        threads.append(t)
+        t.start()
+
+    for t in threads:
+        t.join()
+
+    return outs
+
+
+        #print(lista)
+        #print(descrip)
