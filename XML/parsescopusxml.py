@@ -5,7 +5,9 @@ import os
 import xml.etree.ElementTree as ET
 from variosaltiempo import hacerlista_desdexml
 
-archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/xmlunivalle.xml'
+#archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/.xml'
+#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
+archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/xmlunivalle.xml'
 
 f=open(archivoxml)
 rr=f.read()
@@ -16,9 +18,14 @@ mis_vertices = []
 articulos  = []
 
 def obtener_metadatos(xml, campos, nodos, vertices):
+        contador = 0
         tree = ET.parse(xml)
+        print(tree)
         root = tree.getroot()
+        print(root)
+        print('INICIAMOS ----')
         for child_entry in root: #Cada entry
+            print('Entry---->', contador)
             afiliaciones_entry = []
             for campito in child_entry: # Cada campo dentro de entry
                 local_afiliacion=[]
@@ -51,8 +58,9 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                     #print(local_list)
 
                 control = 0
+
                 if len(local_afiliacion)>0:
-                    for nodo in nodos:
+                    """for nodo in nodos:
                         #print(nodos)
                         """print('nodo',nodo)
                         print('nodo[0]',nodo[0])
@@ -60,8 +68,13 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                         if nodo[0] == local_afiliacion[0]:
                             control = 1
                             nodo[3] += 1
-                if control==0 and len(local_afiliacion):
-                    nodos += [local_afiliacion+[1]]
+                if control==0 and len(local_afiliacion)>0:
+                    nodos += [local_afiliacion+[1]]"""
+                    if local_afiliacion not in nodos:
+
+                        nodos += [local_afiliacion+[1]]
+                    else:
+                        nodos.index()
 
                 if len(local_afiliacion)>0:
                     afiliaciones_entry += [local_afiliacion]
@@ -73,7 +86,7 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                     for j in range(i+1, largo):
                         if (([afiliaciones_entry[i][0], afiliaciones_entry[j][0]] not in vertices) or ([afiliaciones_entry[j][0], afiliaciones_entry[i][0]] not in vertices)):
                             vertices += [[afiliaciones_entry[i][0], afiliaciones_entry[j][0]]]
-
+            contador += 1
             #print(afiliaciones_entry)
             #print('SIGUIENTE')
 
@@ -83,11 +96,11 @@ def obtener_metadatos(xml, campos, nodos, vertices):
 
 print(obtener_metadatos(archivoxml, '{http://www.w3.org/2005/Atom}affiliation', mis_nodos, mis_vertices))
 print('Mis vertices:', len(mis_vertices), mis_vertices)
-print('Mis Nodos:', mis_nodos)
+print('Mis Nodos:', len(mis_nodos), mis_nodos)
 
 mis_nodos_coord = hacerlista_desdexml(mis_nodos, 20)
 
-path = os.path.abspath('geolocationuivalle.txt')
+path = os.path.abspath('ge.txt')
 f = open(path, 'w')
 f.write(str(mis_nodos_coord))
 
