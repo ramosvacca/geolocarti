@@ -18,12 +18,8 @@ mis_vertices = []
 articulos  = []
 
 def obtener_metadatos(xml, campos, nodos, vertices):
-        contador = 0
         tree = ET.parse(xml)
-        print(tree)
         root = tree.getroot()
-        print(root)
-        print('INICIAMOS ----')
         for child_entry in root: #Cada entry
             print('Entry---->', contador)
             afiliaciones_entry = []
@@ -35,18 +31,9 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                     local_city = 0
                     local_country = 0
                     for llegando in campito: #Entonces, para cada subcampo en #affiliation
-                        #print(llegando.tag)
                         if llegando.tag == '{http://www.w3.org/2005/Atom}affilname': #Si es un #affilname, haga algo
-                            #print('.',llegando.text)
                             local_name = str(llegando.text)
-                            #print(local_name)
                             if local_name != 'None':
-                                """for llegando in campito:
-                                    if llegando.tag == '{http://www.w3.org/2005/Atom}afid':
-                                        local_name = str(llegando.text)
-                                        afiliaciones_entry += [local_name]
-                            else:"""
-
                                 local_name = local_name.strip()
                         if llegando.tag == '{http://www.w3.org/2005/Atom}affiliation-city':
                             local_city = str(llegando.text)
@@ -58,9 +45,8 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                     #print(local_list)
 
                 control = 0
-
                 if len(local_afiliacion)>0:
-                    """for nodo in nodos:
+                    for nodo in nodos:
                         #print(nodos)
                         """print('nodo',nodo)
                         print('nodo[0]',nodo[0])
@@ -68,13 +54,8 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                         if nodo[0] == local_afiliacion[0]:
                             control = 1
                             nodo[3] += 1
-                if control==0 and len(local_afiliacion)>0:
-                    nodos += [local_afiliacion+[1]]"""
-                    if local_afiliacion not in nodos:
-
-                        nodos += [local_afiliacion+[1]]
-                    else:
-                        nodos.index()
+                if control==0 and len(local_afiliacion):
+                    nodos += [local_afiliacion+[1]]
 
                 if len(local_afiliacion)>0:
                     afiliaciones_entry += [local_afiliacion]
@@ -100,7 +81,7 @@ print('Mis Nodos:', len(mis_nodos), mis_nodos)
 
 mis_nodos_coord = hacerlista_desdexml(mis_nodos, 20)
 
-path = os.path.abspath('ge.txt')
+path = os.path.abspath('jajajaja.txt')
 f = open(path, 'w')
 f.write(str(mis_nodos_coord))
 
@@ -125,3 +106,18 @@ for vertice in mis_vertices: # Lo que se hace con cada vertice
 print(len(mis_nodos_coord), mis_nodos_coord)
 print(len(mis_vertices_coord), mis_vertices_coord)
 
+from red_mpl import desc_nodos
+from ZZ_variasbonito import mplmap
+
+latsmpl = []
+lonsmpl = []
+nomsmpl = []
+vertsmpl = ''
+
+desc_nodos(mis_nodos_coord, mis_vertices_coord, latsmpl, lonsmpl, nomsmpl, vertsmpl)
+
+mplmap(lonsmpl, latsmpl, nomsmpl, vertsmpl, 1)
+
+path = os.path.abspath('jajajaja.txt')
+f = open(path, 'w')
+f.write(str(vertsmpl))
