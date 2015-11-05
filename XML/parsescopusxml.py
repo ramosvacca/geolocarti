@@ -5,7 +5,7 @@ import os
 import xml.etree.ElementTree as ET
 from variosaltiempo import hacerlista_desdexml
 
-archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/xmlunivalle.xml'
+archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/Scopus_geolocation.xml'
 
 f=open(archivoxml)
 rr=f.read()
@@ -28,18 +28,9 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                     local_city = 0
                     local_country = 0
                     for llegando in campito: #Entonces, para cada subcampo en #affiliation
-                        #print(llegando.tag)
                         if llegando.tag == '{http://www.w3.org/2005/Atom}affilname': #Si es un #affilname, haga algo
-                            #print('.',llegando.text)
                             local_name = str(llegando.text)
-                            #print(local_name)
                             if local_name != 'None':
-                                """for llegando in campito:
-                                    if llegando.tag == '{http://www.w3.org/2005/Atom}afid':
-                                        local_name = str(llegando.text)
-                                        afiliaciones_entry += [local_name]
-                            else:"""
-
                                 local_name = local_name.strip()
                         if llegando.tag == '{http://www.w3.org/2005/Atom}affiliation-city':
                             local_city = str(llegando.text)
@@ -83,11 +74,12 @@ def obtener_metadatos(xml, campos, nodos, vertices):
 
 print(obtener_metadatos(archivoxml, '{http://www.w3.org/2005/Atom}affiliation', mis_nodos, mis_vertices))
 print('Mis vertices:', len(mis_vertices), mis_vertices)
-print('Mis Nodos:', mis_nodos)
+print('Mis Nodos:', len(mis_nodos), mis_nodos)
 
-mis_nodos_coord = hacerlista_desdexml(mis_nodos, 20)
+i=0
+mis_nodos_coord = hacerlista_desdexml(mis_nodos, 15)
 
-path = os.path.abspath('geolocationuivalle.txt')
+path = os.path.abspath('jajajaja.txt')
 f = open(path, 'w')
 f.write(str(mis_nodos_coord))
 
@@ -112,3 +104,18 @@ for vertice in mis_vertices: # Lo que se hace con cada vertice
 print(len(mis_nodos_coord), mis_nodos_coord)
 print(len(mis_vertices_coord), mis_vertices_coord)
 
+from red_mpl import desc_nodos
+from ZZ_variasbonito import mplmap
+
+latsmpl = []
+lonsmpl = []
+nomsmpl = []
+vertsmpl = ''
+
+desc_nodos(mis_nodos_coord, mis_vertices_coord, latsmpl, lonsmpl, nomsmpl, vertsmpl)
+
+mplmap(lonsmpl, latsmpl, nomsmpl, vertsmpl, 1)
+
+path = os.path.abspath('jajajaja.txt')
+f = open(path, 'w')
+f.write(str(vertsmpl))

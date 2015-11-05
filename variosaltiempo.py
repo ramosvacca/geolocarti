@@ -42,26 +42,29 @@ import math
 
 
 def hacerlista_desdexml(matriz, hilos):
-    def auxiliar(submatriz, outdict):
+    def auxiliar(submatriz, outdict, contando):
         for x in submatriz:
-            print(x)
+            print('Coord', submatriz.index(x), ' de ', len(submatriz))
+            print('Contar', contando)
+            contando += 1
             busqueda = x[0],x[1],x[2]
-            #print(cada_afiliacion)
+
             busqfin = str(busqueda).replace("'","").replace(' ','+').replace('(','').replace(')','')
             actual = enelmapa(busqfin)
-            #print(cada_afiliacion+actual)
-            #lista += [cada_afiliacion+actual]
+
             outdict.append(x+actual)
+
 
     chunksize = int(math.ceil(len(matriz) / float(hilos)))
     threads = []
     outs = []
+    contar = 0
 
     for i in range(hilos):
         t = Thread(
             target=auxiliar,
             args=(matriz[chunksize * i:chunksize * (i+1)],
-                  outs))
+                  outs, contar))
         threads.append(t)
         t.start()
 
