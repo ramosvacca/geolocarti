@@ -119,9 +119,9 @@ print('Mis Nodos:', len(mis_nodos), mis_nodos)
 print(len(mis_vertices))
 print(tiempos)
 
-"""pathvert = os.path.abspath('sisisi.txt')
+pathvert = os.path.abspath('sisisi.txt')
 fvert = open(pathvert, 'w')
-fvert.write(mis_vertices)"""
+fvert.write(str(mis_vertices))
 
 i=0
 mis_nodos_coord = hacerlista_desdexml(mis_nodos, 15)
