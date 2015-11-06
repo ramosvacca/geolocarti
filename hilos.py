@@ -22,7 +22,8 @@ mis_nodos = []
 mis_vertices = []
 articulos  = []
 
-def obtener_metadatos(xml, campos, nodos, vertices):
+def obtener_metadatos(xml, campos, nodos, verticesfinal):
+        vertices = []
         tiempos = []
         tree = ET.parse(xml)
         root = tree.getroot()
@@ -107,8 +108,8 @@ def obtener_metadatos(xml, campos, nodos, vertices):
 
             #print(afiliaciones_entry)
             #print('SIGUIENTE')
-
-
+        #                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             print(vertices)
+        verticesfinal += vertices
         return tiempos
 
 
@@ -173,6 +174,3 @@ print(nomsmpl)
 path = os.path.abspath('pruebafinal.txt')
 f = open(path, 'w')
 f.write(vertsmpl)
-
-
-mplmap(lonsmpl, latsmpl, nomsmpl, vertsmpl, 1)

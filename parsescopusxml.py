@@ -7,8 +7,8 @@ from variosaltiempo import hacerlista_desdexml
 import time
 
 #archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/uniprueba.xml'
-#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
-archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/uniprueba.xml'
+archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
+#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/uniprueba.xml'
 
 
 
