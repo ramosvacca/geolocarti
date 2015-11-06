@@ -7,9 +7,9 @@ from variosaltiempo import hacerlista_desdexml
 from threading import Thread
 import math
 
-#archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/.xml'
+archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/xmlunivalleoriginal.xml'
 #archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
-archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/xmlunivalle.xml'
+#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/xmlunivalle.xml'
 
 f=open(archivoxml)
 rr=f.read()
@@ -72,7 +72,7 @@ def obtener_metadatos(xml, campos, nodos, vertices, hilos):
                         print('-- FIN Anexar')
             print('afilcentry')
 
-            if len(afiliaciones_entry)<20:
+            if len(afiliaciones_entry)<20000000000:
 
                 def nodoshilos(pedazo, control, afil):
                     if len(pedazo)>0:
@@ -118,11 +118,11 @@ def obtener_metadatos(xml, campos, nodos, vertices, hilos):
                     if (([mi_vertice[0], mi_vertice[1]] == algo) or ([mi_vertice[1], mi_vertice[0]] == algo)):
                                 control = 1
 
-                def verticeshilos(pedazo, control, vert):
+                def verticeshilos(pedazo, control, vert): #Le entra un pedazo de matriz, una variable binaria, un vertice.
                     if len(pedazo)>0:
                         hilosdentro = []
                         for vertice in pedazo:
-                            h = Thread(
+                            h = Thread(                 #descompone la matriz, un hilo por elemento. Compara si ese elemento es igual al vertice
                                 target=verticesaux,
                                 args=(vertice, control, vert)
                             )
@@ -132,13 +132,17 @@ def obtener_metadatos(xml, campos, nodos, vertices, hilos):
                             h.join()
 
 
-                if len(vertices_entry)<200:
+                if len(vertices_entry)<2000000000000:
                     print('- Indexar vertices a lista general')
+                    veamos = 0
+                    total = len(vertices_entry)
                     for vertice in vertices_entry:
+                        if veamos%10==0:
+                            print('vertice ', veamos, ' de ', total)
                         chunksize = int(math.ceil(len(vertices) / float(10)))
                         threads = []
                         control =0
-                        for i in range(10):
+                        for i in range(4):
                             t = Thread(
                                 target=verticeshilos,
                                 args=(vertices[chunksize * i:chunksize * (i+1)],
@@ -152,6 +156,8 @@ def obtener_metadatos(xml, campos, nodos, vertices, hilos):
                         if control == 0:
 
                             vertices += [vertice]
+
+                        veamos += 1
                     print('- FIN DE TODO')
             contador += 1
             #print(afiliaciones_entry)

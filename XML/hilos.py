@@ -1,16 +1,22 @@
 __author__ = 'RAMOSVACCA'
 
+__author__ = 'RAMOSVACCA'
+
 #from xml.etree import cElementTree as ET
 import os
 import xml.etree.ElementTree as ET
 from variosaltiempo import hacerlista_desdexml
+from threading import Thread
+import math
 import time
 
 archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/uniprueba.xml'
 #archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
-#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/uniprueba.xml'
+#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/xmlunivalleoriginal.xml'
 
-
+#f=open(archivoxml)
+#rr=f.read()
+#print(rr)
 
 mis_nodos = []
 mis_vertices = []
@@ -60,25 +66,45 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                         if local_afiliacion not in afiliaciones_entry:
                             afiliaciones_entry += [local_afiliacion]
 
+            def angel(normal,alreves,pedazo, control):
+                if ((normal in pedazo) or (alreves in pedazo)):
+                    control = 1
+
+
             #print('afiliaciones entry', afiliaciones_entry)
             largo = len(afiliaciones_entry)
             if largo > 1:
-                start = time.time()
-                print(afiliaciones_entry)
-                veamos = 0
-                for i in range(0, largo):
 
-                    if veamos%10==0:
-                        print('afiliacion ', veamos, ' de ', largo)
+                print(afiliaciones_entry)
+                start = time.time()
+                for i in range(0, largo):
+                    if i % 10 == 0:
+                        print('vertice ', i, ' de ', largo)
                     for j in range(i+1, largo):
-                        if (([afiliaciones_entry[i][0], afiliaciones_entry[j][0]] not in vertices) or ([afiliaciones_entry[j][0], afiliaciones_entry[i][0]] not in vertices)):
-                                vertices += [[afiliaciones_entry[i][0], afiliaciones_entry[j][0]]]
-                    veamos += 1
+                        der = [afiliaciones_entry[i][0], afiliaciones_entry[j][0]]
+                        izq = [afiliaciones_entry[j][0], afiliaciones_entry[i][0]]
+
+                        npedazo = int(math.ceil(len(vertices) / float(10)))
+                        hilos = []
+                        control = 0
+                        for i in range(10):
+                            t = Thread(
+                                target=angel,
+                                args=(der, izq, vertices[npedazo * i: npedazo * (i+1)],
+                                      control))
+                            hilos.append(t)
+                            t.start()
+                        for t in hilos:
+                            t.join()
+                        if control == 0:
+                            vertices += [[afiliaciones_entry[i][0], afiliaciones_entry[j][0]]]
                 elapsed = (time.time() - start)
                 tiempos += [elapsed]
                 print ('FIN Entry -->', contador, '. tiempo de', elapsed)
 
+
             contador += 1
+
             #print(afiliaciones_entry)
             #print('SIGUIENTE')
 
@@ -87,10 +113,15 @@ def obtener_metadatos(xml, campos, nodos, vertices):
 
 
 print(obtener_metadatos(archivoxml, '{http://www.w3.org/2005/Atom}affiliation', mis_nodos, mis_vertices))
+
 print('Mis vertices:', len(mis_vertices), mis_vertices)
 print('Mis Nodos:', len(mis_nodos), mis_nodos)
 print(len(mis_vertices))
 print(tiempos)
+
+"""pathvert = os.path.abspath('sisisi.txt')
+fvert = open(pathvert, 'w')
+fvert.write(mis_vertices)"""
 
 i=0
 mis_nodos_coord = hacerlista_desdexml(mis_nodos, 45)
