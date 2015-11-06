@@ -5,7 +5,9 @@ import os
 import xml.etree.ElementTree as ET
 from variosaltiempo import hacerlista_desdexml
 
-archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/xmlunivalle.xml'
+#archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/.xml'
+#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
+archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/xmlunivalle.xml'
 
 f=open(archivoxml)
 rr=f.read()
@@ -19,6 +21,7 @@ def obtener_metadatos(xml, campos, nodos, vertices):
         tree = ET.parse(xml)
         root = tree.getroot()
         for child_entry in root: #Cada entry
+            print('Entry---->', contador)
             afiliaciones_entry = []
             for campito in child_entry: # Cada campo dentro de entry
                 local_afiliacion=[]
@@ -38,6 +41,8 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                         if llegando.tag == '{http://www.w3.org/2005/Atom}affiliation-country':
                             local_country = str(llegando.text).strip()
                     local_afiliacion += [local_name, local_city, local_country]
+                    #print(local_afiliacion[0])
+                    #print(local_list)
 
                     if len(local_afiliacion)>0:
                         control = 0
@@ -109,9 +114,11 @@ from ZZ_variasbonito import mplmap
 latsmpl = []
 lonsmpl = []
 nomsmpl = []
+vertsmpl = ''
 
 vertsmpl = desc_nodos(mis_nodos_coord, mis_vertices_coord, latsmpl, lonsmpl, nomsmpl)
 
+mplmap(lonsmpl, latsmpl, nomsmpl, vertsmpl, 1)
 
 
 print(lonsmpl)
