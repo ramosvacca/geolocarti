@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="662145a5-d189-45de-973a-d2138c38b43b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZZ_variasbonito.py" afterPath="$PROJECT_DIR$/ZZ_variasbonito.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XML/geolocationuivalle.txt" afterPath="$PROJECT_DIR$/XML/geolocationuivalle.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XML/jajajaja.txt" afterPath="$PROJECT_DIR$/XML/jajajaja.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XML/parsescopusxml.py" afterPath="$PROJECT_DIR$/XML/parsescopusxml.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pruebas.py" afterPath="$PROJECT_DIR$/pruebas.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/red_mpl.py" afterPath="$PROJECT_DIR$/red_mpl.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variosaltiempo.py" afterPath="$PROJECT_DIR$/variosaltiempo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XML/xmlunivalle.xml" afterPath="$PROJECT_DIR$/XML/xmlunivalle.xml" />
     </list>
     <ignored path="geolocarti.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/ZZ_variasbonito.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1001" column="64" selection-start-line="1001" selection-start-column="64" selection-end-line="1001" selection-end-column="64" />
+              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -54,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/red_mpl.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="157" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="157" />
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -64,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/pruebas.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -73,8 +74,8 @@
       <file leaf-file-name="parsescopusxml.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XML/parsescopusxml.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63752663">
-              <caret line="116" column="42" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.27439025">
+              <caret line="112" column="85" selection-start-line="112" selection-start-column="85" selection-end-line="112" selection-end-column="85" />
               <folding>
                 <element signature="e#69#78#0" expanded="true" />
               </folding>
@@ -135,11 +136,11 @@
         <option value="$PROJECT_DIR$/AA_gui.py" />
         <option value="$PROJECT_DIR$/XML/Scopus_geolocation.xml" />
         <option value="$PROJECT_DIR$/getfrommaps.py" />
-        <option value="$PROJECT_DIR$/red_mpl.py" />
-        <option value="$PROJECT_DIR$/ZZ_variasbonito.py" />
         <option value="$PROJECT_DIR$/variosaltiempo.py" />
         <option value="$PROJECT_DIR$/XML/parsescopusxml.py" />
         <option value="$PROJECT_DIR$/pruebas.py" />
+        <option value="$PROJECT_DIR$/red_mpl.py" />
+        <option value="$PROJECT_DIR$/ZZ_variasbonito.py" />
       </list>
     </option>
   </component>
@@ -194,6 +195,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geolocarti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geolocarti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -211,7 +226,7 @@
       <recent name="$PROJECT_DIR$/Javascript Temporal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pruebas">
+  <component name="RunManager" selected="Python.parsescopusxml">
     <configuration default="false" name="variosaltiempo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -428,11 +443,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pruebas" />
-        <item index="1" class="java.lang.String" itemvalue="Python.parsescopusxml" />
-        <item index="2" class="java.lang.String" itemvalue="Python.variosaltiempo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ZZ_variasbonito" />
-        <item index="4" class="java.lang.String" itemvalue="Python.red_mpl" />
+        <item index="0" class="java.lang.String" itemvalue="Python.parsescopusxml" />
+        <item index="1" class="java.lang.String" itemvalue="Python.red_mpl" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ZZ_variasbonito" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pruebas" />
+        <item index="4" class="java.lang.String" itemvalue="Python.variosaltiempo" />
       </list>
     </recent_temporary>
   </component>
@@ -470,16 +485,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09513889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3611825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29691517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20179948" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -551,7 +566,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
           <folding>
-            <element signature="e#1#34#0" expanded="true" />
+            <element signature="e#1#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -615,7 +630,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
           <folding>
-            <element signature="e#1#34#0" expanded="true" />
+            <element signature="e#1#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -686,7 +701,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding>
-            <element signature="e#1#34#0" expanded="true" />
+            <element signature="e#1#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -756,7 +771,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1#34#0" expanded="true" />
+            <element signature="e#1#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -901,22 +916,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZZ_variasbonito.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1001" column="64" selection-start-line="1001" selection-start-column="64" selection-end-line="1001" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/variosaltiempo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7100213">
           <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
           <folding>
-            <element signature="e#1#34#0" expanded="true" />
+            <element signature="e#1#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -929,26 +934,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/red_mpl.py">
+    <entry file="file://$PROJECT_DIR$/pruebas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="157" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="157" />
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pruebas.py">
+    <entry file="file://$PROJECT_DIR$/red_mpl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZZ_variasbonito.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XML/parsescopusxml.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63752663">
-          <caret line="116" column="42" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.27439025">
+          <caret line="112" column="85" selection-start-line="112" selection-start-column="85" selection-end-line="112" selection-end-column="85" />
           <folding>
             <element signature="e#69#78#0" expanded="true" />
           </folding>

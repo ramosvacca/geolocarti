@@ -5,7 +5,7 @@ import os
 import xml.etree.ElementTree as ET
 from variosaltiempo import hacerlista_desdexml
 
-archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/Scopus_geolocation.xml'
+archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/xmlunivalle.xml'
 
 f=open(archivoxml)
 rr=f.read()
@@ -38,32 +38,31 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                         if llegando.tag == '{http://www.w3.org/2005/Atom}affiliation-country':
                             local_country = str(llegando.text).strip()
                     local_afiliacion += [local_name, local_city, local_country]
-                    #print(local_afiliacion[0])
-                    #print(local_list)
 
-                control = 0
-                if len(local_afiliacion)>0:
-                    for nodo in nodos:
-                        #print(nodos)
-                        """print('nodo',nodo)
-                        print('nodo[0]',nodo[0])
-                        print('afiliacion', local_afiliacion[0])"""
-                        if nodo[0] == local_afiliacion[0]:
-                            control = 1
-                            nodo[3] += 1
-                if control==0 and len(local_afiliacion):
-                    nodos += [local_afiliacion+[1]]
+                    if len(local_afiliacion)>0:
+                        control = 0
+                        for nodo in nodos:
+                            #print(nodos)
 
-                if len(local_afiliacion)>0:
-                    afiliaciones_entry += [local_afiliacion]
+                            if nodo[0] == local_afiliacion[0]:
+                                control = 1
+                                nodo[3] += 1
+
+                        if control==0:
+                            nodos += [local_afiliacion+[1]]
+
+                        if local_afiliacion not in afiliaciones_entry:
+                            afiliaciones_entry += [local_afiliacion]
 
 
+            #print('afiliaciones entry', afiliaciones_entry)
             largo = len(afiliaciones_entry)
-            if largo>0: #Para cada entry construye unos vertices y nodos, si no existen ya.
+            if largo > 1:
+                print(afiliaciones_entry)
                 for i in range(0, largo):
                     for j in range(i+1, largo):
                         if (([afiliaciones_entry[i][0], afiliaciones_entry[j][0]] not in vertices) or ([afiliaciones_entry[j][0], afiliaciones_entry[i][0]] not in vertices)):
-                            vertices += [[afiliaciones_entry[i][0], afiliaciones_entry[j][0]]]
+                                vertices += [[afiliaciones_entry[i][0], afiliaciones_entry[j][0]]]
 
             #print(afiliaciones_entry)
             #print('SIGUIENTE')
@@ -77,7 +76,7 @@ print('Mis vertices:', len(mis_vertices), mis_vertices)
 print('Mis Nodos:', len(mis_nodos), mis_nodos)
 
 i=0
-mis_nodos_coord = hacerlista_desdexml(mis_nodos, 15)
+mis_nodos_coord = hacerlista_desdexml(mis_nodos, 45)
 
 path = os.path.abspath('jajajaja.txt')
 f = open(path, 'w')
@@ -110,12 +109,20 @@ from ZZ_variasbonito import mplmap
 latsmpl = []
 lonsmpl = []
 nomsmpl = []
-vertsmpl = ''
 
-desc_nodos(mis_nodos_coord, mis_vertices_coord, latsmpl, lonsmpl, nomsmpl, vertsmpl)
+vertsmpl = desc_nodos(mis_nodos_coord, mis_vertices_coord, latsmpl, lonsmpl, nomsmpl)
+
+
+
+print(lonsmpl)
+print(latsmpl)
+print(nomsmpl)
+#print(vertsmpl)
+
+
+path = os.path.abspath('pruebafinal.txt')
+f = open(path, 'w')
+f.write(vertsmpl)
+
 
 mplmap(lonsmpl, latsmpl, nomsmpl, vertsmpl, 1)
-
-path = os.path.abspath('jajajaja.txt')
-f = open(path, 'w')
-f.write(str(vertsmpl))
