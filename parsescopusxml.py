@@ -6,9 +6,9 @@ import xml.etree.ElementTree as ET
 from variosaltiempo import hacerlista_desdexml
 import time
 
-archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/uniprueba.xml'
+#archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/uniprueba.xml'
 #archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
-#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/uniprueba.xml'
+archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/uniprueba.xml'
 
 
 
@@ -64,7 +64,7 @@ def obtener_metadatos(xml, campos, nodos, vertices):
             largo = len(afiliaciones_entry)
             if largo > 1:
                 start = time.time()
-                print(afiliaciones_entry)
+                #print(afiliaciones_entry)
                 veamos = 0
                 for i in range(0, largo):
 
@@ -83,11 +83,11 @@ def obtener_metadatos(xml, campos, nodos, vertices):
             #print('SIGUIENTE')
 
 
-        #print('Fin')
+        return tiempos
 
 
-print(obtener_metadatos(archivoxml, '{http://www.w3.org/2005/Atom}affiliation', mis_nodos, mis_vertices))
-print('Mis vertices:', len(mis_vertices), mis_vertices)
+tiempos= obtener_metadatos(archivoxml, '{http://www.w3.org/2005/Atom}affiliation', mis_nodos, mis_vertices)
+#print('Mis vertices:', len(mis_vertices), mis_vertices)
 print('Mis Nodos:', len(mis_nodos), mis_nodos)
 print(len(mis_vertices))
 print(tiempos)

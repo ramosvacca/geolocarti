@@ -10,9 +10,9 @@ from threading import Thread
 import math
 import time
 
-archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/uniprueba.xml'
+#archivoxml = '/Volumes/Ramosvacca/Github/geolocarti/XML/uniprueba.xml'
 #archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/Scopus_geolocation.xml'
-#archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/xmlunivalleoriginal.xml'
+archivoxml = '/media/ramosvacca/A-P-IDRV/Github/geolocarti/XML/uniprueba.xml'
 
 #f=open(archivoxml)
 #rr=f.read()
@@ -34,6 +34,7 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                 local_afiliacion=[]
                 #print (campito.tag)
                 if campito.tag == campos: #Si el campo de entry coincide con el de entrada #affiliation
+
                     local_name = 0
                     local_city = 0
                     local_country = 0
@@ -75,7 +76,7 @@ def obtener_metadatos(xml, campos, nodos, vertices):
             largo = len(afiliaciones_entry)
             if largo > 1:
 
-                print(afiliaciones_entry)
+                #print(afiliaciones_entry)
                 start = time.time()
                 for i in range(0, largo):
                     if i % 10 == 0:
@@ -84,10 +85,10 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                         der = [afiliaciones_entry[i][0], afiliaciones_entry[j][0]]
                         izq = [afiliaciones_entry[j][0], afiliaciones_entry[i][0]]
 
-                        npedazo = int(math.ceil(len(vertices) / float(10)))
+                        npedazo = int(math.ceil(len(vertices) / float(1)))
                         hilos = []
                         control = 0
-                        for i in range(10):
+                        for i in range(1):
                             t = Thread(
                                 target=angel,
                                 args=(der, izq, vertices[npedazo * i: npedazo * (i+1)],
@@ -102,19 +103,18 @@ def obtener_metadatos(xml, campos, nodos, vertices):
                 tiempos += [elapsed]
                 print ('FIN Entry -->', contador, '. tiempo de', elapsed)
 
-
             contador += 1
 
             #print(afiliaciones_entry)
             #print('SIGUIENTE')
 
 
-        #print('Fin')
+        return tiempos
 
 
-print(obtener_metadatos(archivoxml, '{http://www.w3.org/2005/Atom}affiliation', mis_nodos, mis_vertices))
+tiempos = obtener_metadatos(archivoxml, '{http://www.w3.org/2005/Atom}affiliation', mis_nodos, mis_vertices)
 
-print('Mis vertices:', len(mis_vertices), mis_vertices)
+#print('Mis vertices:', len(mis_vertices), mis_vertices)
 print('Mis Nodos:', len(mis_nodos), mis_nodos)
 print(len(mis_vertices))
 print(tiempos)
@@ -124,7 +124,7 @@ fvert = open(pathvert, 'w')
 fvert.write(mis_vertices)"""
 
 i=0
-mis_nodos_coord = hacerlista_desdexml(mis_nodos, 45)
+mis_nodos_coord = hacerlista_desdexml(mis_nodos, 15)
 
 path = os.path.abspath('jajajaja.txt')
 f = open(path, 'w')
