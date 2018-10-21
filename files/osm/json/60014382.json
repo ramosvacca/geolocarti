@@ -1,0 +1,577 @@
+{
+   "plus_code" : {
+      "compound_code" : "PFX3+8H Wilmington, DE, USA",
+      "global_code" : "87F6PFX3+8H"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1313",
+               "short_name" : "1313",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Market Street",
+               "short_name" : "N Market St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mid-town Brandywine",
+               "short_name" : "Mid-town Brandywine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19894",
+               "short_name" : "19894",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0001",
+               "short_name" : "0001",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1313 N Market St, Wilmington, DE 19894, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7483314,
+               "lng" : -75.54603349999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.74968038029149,
+                  "lng" : -75.5446845197085
+               },
+               "southwest" : {
+                  "lat" : 39.74698241970849,
+                  "lng" : -75.5473824802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0YngOj_9xokRtRQ6jG4BplQ",
+         "plus_code" : {
+            "compound_code" : "PFX3+8H Wilmington, Delaware, United States",
+            "global_code" : "87F6PFX3+8H"
+         },
+         "types" : [ "establishment", "lawyer", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1300",
+               "short_name" : "1300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Market Street",
+               "short_name" : "N Market St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mid-town Brandywine",
+               "short_name" : "Mid-town Brandywine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19801",
+               "short_name" : "19801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1300 N Market St, Wilmington, DE 19801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.748302,
+               "lng" : -75.545633
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.74965098029151,
+                  "lng" : -75.54428401970848
+               },
+               "southwest" : {
+                  "lat" : 39.74695301970851,
+                  "lng" : -75.54698198029149
+               }
+            }
+         },
+         "place_id" : "ChIJlQrGMT_9xokRfmmdbQIbTdg",
+         "plus_code" : {
+            "compound_code" : "PFX3+8P Wilmington, Delaware, United States",
+            "global_code" : "87F6PFX3+8P"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1300",
+               "short_name" : "1300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Market Street",
+               "short_name" : "N Market St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mid-town Brandywine",
+               "short_name" : "Mid-town Brandywine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19801",
+               "short_name" : "19801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1300 N Market St, Wilmington, DE 19801, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7485969,
+                  "lng" : -75.545315
+               },
+               "southwest" : {
+                  "lat" : 39.7480783,
+                  "lng" : -75.54584270000001
+               }
+            },
+            "location" : {
+               "lat" : 39.7483112,
+               "lng" : -75.5455473
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7496865802915,
+                  "lng" : -75.5442298697085
+               },
+               "southwest" : {
+                  "lat" : 39.7469886197085,
+                  "lng" : -75.54692783029152
+               }
+            }
+         },
+         "place_id" : "ChIJS_vjMT_9xokRp6qrmbwd3_c",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1303",
+               "short_name" : "1303",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Market Street",
+               "short_name" : "N Market St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19801",
+               "short_name" : "19801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1303 N Market St, Wilmington, DE 19801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7482728,
+               "lng" : -75.54596769999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7496217802915,
+                  "lng" : -75.54461871970848
+               },
+               "southwest" : {
+                  "lat" : 39.7469238197085,
+                  "lng" : -75.54731668029149
+               }
+            }
+         },
+         "place_id" : "EisxMzAzIE4gTWFya2V0IFN0LCBXaWxtaW5ndG9uLCBERSAxOTgwMSwgVVNBIhsSGQoUChIJ96_ILj_9xokRDkvsU_CAWqgQlwo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mid-town Brandywine",
+               "short_name" : "Mid-town Brandywine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mid-town Brandywine, Wilmington, DE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.751413,
+                  "lng" : -75.54304399999999
+               },
+               "southwest" : {
+                  "lat" : 39.745513,
+                  "lng" : -75.5513438
+               }
+            },
+            "location" : {
+               "lat" : 39.7478522,
+               "lng" : -75.5465935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.751413,
+                  "lng" : -75.54304399999999
+               },
+               "southwest" : {
+                  "lat" : 39.745513,
+                  "lng" : -75.5513438
+               }
+            }
+         },
+         "place_id" : "ChIJm3pDED_9xokRmgQXYq_pkFA",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "19894",
+               "short_name" : "19894",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mid-town Brandywine",
+               "short_name" : "Mid-town Brandywine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wilmington, DE 19894, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7483314,
+               "lng" : -75.54603349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.74968038029149,
+                  "lng" : -75.5446845197085
+               },
+               "southwest" : {
+                  "lat" : 39.74698241970849,
+                  "lng" : -75.5473824802915
+               }
+            }
+         },
+         "place_id" : "ChIJn4vhl0D9xokR9HUyzUwAQOU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wilmington, DE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.77301,
+                  "lng" : -75.4705029
+               },
+               "southwest" : {
+                  "lat" : 39.686794,
+                  "lng" : -75.588466
+               }
+            },
+            "location" : {
+               "lat" : 39.744655,
+               "lng" : -75.5483909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.77301,
+                  "lng" : -75.4705029
+               },
+               "southwest" : {
+                  "lat" : 39.686794,
+                  "lng" : -75.588466
+               }
+            }
+         },
+         "place_id" : "ChIJb69GXBgPx4kRAIwwd1DaFoU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Castle County, DE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8394839,
+                  "lng" : -75.40541379999999
+               },
+               "southwest" : {
+                  "lat" : 39.290092,
+                  "lng" : -75.78914790000002
+               }
+            },
+            "location" : {
+               "lat" : 39.5392979,
+               "lng" : -75.667356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8394839,
+                  "lng" : -75.40541379999999
+               },
+               "southwest" : {
+                  "lat" : 39.290092,
+                  "lng" : -75.78914790000002
+               }
+            }
+         },
+         "place_id" : "ChIJh7_kg3Ybx4kR6L5mDoWESqw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delaware, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8394839,
+                  "lng" : -74.98416499999999
+               },
+               "southwest" : {
+                  "lat" : 38.451018,
+                  "lng" : -75.78914790000002
+               }
+            },
+            "location" : {
+               "lat" : 38.9108325,
+               "lng" : -75.52766989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8394839,
+                  "lng" : -74.98416499999999
+               },
+               "southwest" : {
+                  "lat" : 38.451018,
+                  "lng" : -75.78914790000002
+               }
+            }
+         },
+         "place_id" : "ChIJO9YMTXYFx4kReOgEjBItHZQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

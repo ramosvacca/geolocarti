@@ -1,0 +1,826 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edifici històric de la Universitat de Barcelona",
+               "short_name" : "Edifici històric de la Universitat de Barcelona",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carrer d'Aribau",
+               "short_name" : "Carrer d'Aribau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08011",
+               "short_name" : "08011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Edifici històric de la Universitat de Barcelona, Carrer d'Aribau, 2, 08011 Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.387515,
+                  "lng" : 2.1646319
+               },
+               "southwest" : {
+                  "lat" : 41.3861394,
+                  "lng" : 2.1627775
+               }
+            },
+            "location" : {
+               "lat" : 41.386482,
+               "lng" : 2.1636743
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3881761802915,
+                  "lng" : 2.165053680291502
+               },
+               "southwest" : {
+                  "lat" : 41.3854782197085,
+                  "lng" : 2.162355719708498
+               }
+            }
+         },
+         "place_id" : "ChIJa8dVt4yipBIRWxUy5dHBPMs",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "585",
+               "short_name" : "585",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gran Via de les Corts Catalanes",
+               "short_name" : "Gran Via de les Corts Catalanes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cataluña",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08007",
+               "short_name" : "08007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gran Via de les Corts Catalanes, 585, 08007 Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.38636470000001,
+               "lng" : 2.1634586
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.38771368029151,
+                  "lng" : 2.164807580291502
+               },
+               "southwest" : {
+                  "lat" : 41.38501571970851,
+                  "lng" : 2.162109619708498
+               }
+            }
+         },
+         "place_id" : "ChIJiTbuvoyipBIRI1l2FqeLSks",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pl. Universitat",
+               "short_name" : "Pl. Universitat",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08007",
+               "short_name" : "08007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pl. Universitat, 08007 Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3861248,
+               "lng" : 2.1639958
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.38747378029149,
+                  "lng" : 2.165344780291502
+               },
+               "southwest" : {
+                  "lat" : 41.38477581970849,
+                  "lng" : 2.162646819708498
+               }
+            }
+         },
+         "place_id" : "ChIJS-gjpoyipBIRKFeiovGmUnw",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "L'Antiga Esquerra de l'Eixample",
+               "short_name" : "L'Antiga Esquerra de l'Eixample",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Eixample",
+               "short_name" : "Eixample",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Barcelonès",
+               "short_name" : "El Barcelonès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "L'Antiga Esquerra de l'Eixample, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3953069,
+                  "lng" : 2.1654099
+               },
+               "southwest" : {
+                  "lat" : 41.3820909,
+                  "lng" : 2.143806
+               }
+            },
+            "location" : {
+               "lat" : 41.3885573,
+               "lng" : 2.1573033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3953069,
+                  "lng" : 2.1654099
+               },
+               "southwest" : {
+                  "lat" : 41.3820909,
+                  "lng" : 2.143806
+               }
+            }
+         },
+         "place_id" : "ChIJ4Q9lYYWipBIRgvCCQOH6ACY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "L'Esquerra de l'Eixample",
+               "short_name" : "L'Esquerra de l'Eixample",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Eixample",
+               "short_name" : "Eixample",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Barcelonès",
+               "short_name" : "El Barcelonès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "L'Esquerra de l'Eixample, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3953069,
+                  "lng" : 2.1654099
+               },
+               "southwest" : {
+                  "lat" : 41.375231,
+                  "lng" : 2.1424718
+               }
+            },
+            "location" : {
+               "lat" : 41.3852619,
+               "lng" : 2.1543306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3953069,
+                  "lng" : 2.1654099
+               },
+               "southwest" : {
+                  "lat" : 41.375231,
+                  "lng" : 2.1424718
+               }
+            }
+         },
+         "place_id" : "ChIJT3xGK4WipBIRqmbv8hO0P3Y",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eixample",
+               "short_name" : "Eixample",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Barcelonès",
+               "short_name" : "El Barcelonès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eixample, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.412005,
+                  "lng" : 2.1868999
+               },
+               "southwest" : {
+                  "lat" : 41.374956,
+                  "lng" : 2.1424718
+               }
+            },
+            "location" : {
+               "lat" : 41.391843,
+               "lng" : 2.1641969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.412005,
+                  "lng" : 2.1868999
+               },
+               "southwest" : {
+                  "lat" : 41.374956,
+                  "lng" : 2.1424718
+               }
+            }
+         },
+         "place_id" : "ChIJoT6We42ipBIRXSD1RAXV5p4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "El Barcelonès",
+               "short_name" : "El Barcelonès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4695761,
+                  "lng" : 2.2280099
+               },
+               "southwest" : {
+                  "lat" : 41.320004,
+                  "lng" : 2.0695258
+               }
+            },
+            "location" : {
+               "lat" : 41.3850639,
+               "lng" : 2.1734035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4695761,
+                  "lng" : 2.2280099
+               },
+               "southwest" : {
+                  "lat" : 41.320004,
+                  "lng" : 2.0695258
+               }
+            }
+         },
+         "place_id" : "ChIJ5TCOcRaYpBIRCmZHTz37sEQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "08007",
+               "short_name" : "08007",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "08007 Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.39409759999999,
+                  "lng" : 2.1706703
+               },
+               "southwest" : {
+                  "lat" : 41.3847538,
+                  "lng" : 2.1591773
+               }
+            },
+            "location" : {
+               "lat" : 41.3896482,
+               "lng" : 2.1659005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.39409759999999,
+                  "lng" : 2.1706703
+               },
+               "southwest" : {
+                  "lat" : 41.3847538,
+                  "lng" : 2.1591773
+               }
+            }
+         },
+         "place_id" : "ChIJnyrnyvKipBIRsE5HeuP6ABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "El Barcelonès",
+               "short_name" : "El Barcelonès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.46794269999999,
+                  "lng" : 2.2280099
+               },
+               "southwest" : {
+                  "lat" : 41.320004,
+                  "lng" : 2.0524976
+               }
+            },
+            "location" : {
+               "lat" : 41.3850494,
+               "lng" : 2.1733247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.46794269999999,
+                  "lng" : 2.2280099
+               },
+               "southwest" : {
+                  "lat" : 41.320004,
+                  "lng" : 2.0524976
+               }
+            }
+         },
+         "place_id" : "ChIJ9SjtJnGYpBIRMAOkIeD6AAQ",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Barcelonès",
+               "short_name" : "El Barcelonès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Barcelonès, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4929026,
+                  "lng" : 2.2706524
+               },
+               "southwest" : {
+                  "lat" : 41.3200453,
+                  "lng" : 2.0529518
+               }
+            },
+            "location" : {
+               "lat" : 41.4016668,
+               "lng" : 2.1253854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4929026,
+                  "lng" : 2.2706524
+               },
+               "southwest" : {
+                  "lat" : 41.3200453,
+                  "lng" : 2.0529518
+               }
+            }
+         },
+         "place_id" : "ChIJcQYdL7mipBIRQ2KtcuxW2Hg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona Metropolitan Area",
+               "short_name" : "Barcelona Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barcelona Metropolitan Area, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.57498469999999,
+                  "lng" : 2.2963814
+               },
+               "southwest" : {
+                  "lat" : 41.2636384,
+                  "lng" : 1.846731
+               }
+            },
+            "location" : {
+               "lat" : 41.383401,
+               "lng" : 2.027319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.57498469999999,
+                  "lng" : 2.2963814
+               },
+               "southwest" : {
+                  "lat" : 41.2636384,
+                  "lng" : 1.846731
+               }
+            }
+         },
+         "place_id" : "ChIJR7wL1XaYpBIR7EoGAtgHJ0Y",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.32330109999999,
+                  "lng" : 2.7777843
+               },
+               "southwest" : {
+                  "lat" : 41.1927452,
+                  "lng" : 1.3596215
+               }
+            },
+            "location" : {
+               "lat" : 41.3850477,
+               "lng" : 2.1733131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.32330109999999,
+                  "lng" : 2.7777843
+               },
+               "southwest" : {
+                  "lat" : 41.1927452,
+                  "lng" : 1.3596215
+               }
+            }
+         },
+         "place_id" : "ChIJZb1_yQvmpBIRsMmjIeD6AAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Catalonia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            },
+            "location" : {
+               "lat" : 41.5911589,
+               "lng" : 1.5208624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            }
+         },
+         "place_id" : "ChIJ8_UwhdxbpBIRUMijIeD6AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.244,
+                  "lng" : 5.098
+               },
+               "southwest" : {
+                  "lat" : 35.17300000000001,
+                  "lng" : -12.524
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

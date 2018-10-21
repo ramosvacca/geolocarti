@@ -1,0 +1,513 @@
+{
+   "plus_code" : {
+      "compound_code" : "RVRJ+R2 Brighton, UK",
+      "global_code" : "9C2XRVRJ+R2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mithras House",
+               "short_name" : "Mithras House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lewes Road",
+               "short_name" : "Lewes Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN2 4AT",
+               "short_name" : "BN2 4AT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mithras House, Lewes Rd, Brighton BN2 4AT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8427678,
+                  "lng" : -0.1187291
+               },
+               "southwest" : {
+                  "lat" : 50.8414651,
+                  "lng" : -0.1200007
+               }
+            },
+            "location" : {
+               "lat" : 50.8421775,
+               "lng" : -0.1193667
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8434654302915,
+                  "lng" : -0.118015919708498
+               },
+               "southwest" : {
+                  "lat" : 50.8407674697085,
+                  "lng" : -0.120713880291502
+               }
+            }
+         },
+         "place_id" : "ChIJtYZIxIuFdUgRSM7VuNhM45s",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN2 4AT",
+               "short_name" : "BN2 4AT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Brighton, Mithras House, Lewes Road, Brighton BN2 4AT, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.842225,
+               "lng" : -0.119449
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8435739802915,
+                  "lng" : -0.118100019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8408760197085,
+                  "lng" : -0.120797980291502
+               }
+            }
+         },
+         "place_id" : "ChIJr15cxIuFdUgRXSDq_HPcOmE",
+         "plus_code" : {
+            "compound_code" : "RVRJ+V6 Brighton, United Kingdom",
+            "global_code" : "9C2XRVRJ+V6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "72",
+               "short_name" : "72",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dewe Road",
+               "short_name" : "Dewe Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "72 Dewe Rd, Brighton, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8418591,
+               "lng" : -0.1193535
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8432080802915,
+                  "lng" : -0.118004519708498
+               },
+               "southwest" : {
+                  "lat" : 50.8405101197085,
+                  "lng" : -0.120702480291502
+               }
+            }
+         },
+         "place_id" : "Ehg3MiBEZXdlIFJkLCBCcmlnaHRvbiwgVUsiGhIYChQKEgm18j3oi4V1SBGsglCCX3AxUhBI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BN2 4AT",
+               "short_name" : "BN2 4AT",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton BN2 4AT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.843398,
+                  "lng" : -0.1179563
+               },
+               "southwest" : {
+                  "lat" : 50.84192179999999,
+                  "lng" : -0.1208779
+               }
+            },
+            "location" : {
+               "lat" : 50.8424537,
+               "lng" : -0.1191696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8440088802915,
+                  "lng" : -0.1179563
+               },
+               "southwest" : {
+                  "lat" : 50.8413109197085,
+                  "lng" : -0.1208779
+               }
+            }
+         },
+         "place_id" : "ChIJUceLyIuFdUgRYGQzchRkwr8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BN2",
+               "short_name" : "BN2",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton BN2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8596096,
+                  "lng" : -0.009908600000000002
+               },
+               "southwest" : {
+                  "lat" : 50.7952504,
+                  "lng" : -0.141492
+               }
+            },
+            "location" : {
+               "lat" : 50.835201,
+               "lng" : -0.08020819999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8596096,
+                  "lng" : -0.009908600000000002
+               },
+               "southwest" : {
+                  "lat" : 50.7952504,
+                  "lng" : -0.141492
+               }
+            }
+         },
+         "place_id" : "ChIJf9TI5nSFdUgRkLfinXeghXc",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8735837,
+                  "lng" : -0.03626
+               },
+               "southwest" : {
+                  "lat" : 50.8012522,
+                  "lng" : -0.1761194
+               }
+            },
+            "location" : {
+               "lat" : 50.82253000000001,
+               "lng" : -0.137163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8735837,
+                  "lng" : -0.03626
+               },
+               "southwest" : {
+                  "lat" : 50.8012522,
+                  "lng" : -0.1761194
+               }
+            }
+         },
+         "place_id" : "ChIJZ0Ep9gmFdUgR-Q59cnqvxpw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "The City of Brighton and Hove, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.892374,
+                  "lng" : -0.0160306
+               },
+               "southwest" : {
+                  "lat" : 50.7985131,
+                  "lng" : -0.2450771
+               }
+            },
+            "location" : {
+               "lat" : 50.8226288,
+               "lng" : -0.137047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.892374,
+                  "lng" : -0.0160306
+               },
+               "southwest" : {
+                  "lat" : 50.7985131,
+                  "lng" : -0.2450771
+               }
+            }
+         },
+         "place_id" : "ChIJfRLCXYeFdUgRsJ7toi2uDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.915037,
+                  "lng" : -0.009908600000000002
+               },
+               "southwest" : {
+                  "lat" : 50.7952504,
+                  "lng" : -0.2470159
+               }
+            },
+            "location" : {
+               "lat" : 50.8663889,
+               "lng" : -0.1147526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.915037,
+                  "lng" : -0.009908600000000002
+               },
+               "southwest" : {
+                  "lat" : 50.7952504,
+                  "lng" : -0.2470159
+               }
+            }
+         },
+         "place_id" : "ChIJ_2JMjnqPdUgR5dlcLbSqgKk",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

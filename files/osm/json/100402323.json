@@ -1,0 +1,111 @@
+{
+   "plus_code" : {
+      "compound_code" : "M98M+JF Kumasi, Ghana",
+      "global_code" : "6CRWM98M+JF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumasi",
+               "short_name" : "Kumasi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Afia Kobi Market, Kumasi, Ghana",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.6666004,
+               "lng" : -1.6162709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.667949380291502,
+                  "lng" : -1.614921919708498
+               },
+               "southwest" : {
+                  "lat" : 6.665251419708498,
+                  "lng" : -1.617619880291502
+               }
+            }
+         },
+         "place_id" : "ChIJk6ELdraW2w8RP0KupTa1pAA",
+         "plus_code" : {
+            "compound_code" : "M98M+JF Kumasi, Ghana",
+            "global_code" : "6CRWM98M+JF"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adiebeba",
+               "short_name" : "Adiebeba",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atonsu",
+               "short_name" : "Atonsu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kumasi",
+               "short_name" : "Kumasi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumasi Metropolitan",
+               "short_name" : "Kumasi Metropolitan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ashanti Region",
+               "short_name" : "Ashanti Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adiebeba, Kumasi, Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.683982299999999,
+                  "lng" : -1.603124
+               },
+               "southwest" : {
+                  "lat" : 6.6544838,
+                  "lng" : -1.6229456
+               }
+            },
+            "location" : {
+               "lat" : 6.6689208,
+               "lng" : -1.6159948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.683982299999999,
+                  "lng" : -1.603124
+               },
+               "southwest" : {
+                  "lat" : 6.6544838,
+                  "lng" : -1.6229456
+               }
+            }
+         },
+         "place_id" : "ChIJOUplKreW2w8ReI1qGBjyfc8",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

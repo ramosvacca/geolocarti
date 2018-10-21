@@ -1,0 +1,524 @@
+{
+   "plus_code" : {
+      "compound_code" : "838H+G3 New Haven, CT, USA",
+      "global_code" : "87H9838H+G3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sachem Street",
+               "short_name" : "Sachem St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06511",
+               "short_name" : "06511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "21 Sachem St, New Haven, CT 06511, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.31641399999999,
+               "lng" : -72.92214799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.31776298029149,
+                  "lng" : -72.92079901970848
+               },
+               "southwest" : {
+                  "lat" : 41.31506501970849,
+                  "lng" : -72.92349698029149
+               }
+            }
+         },
+         "place_id" : "ChIJL_AY9MfZ54kRAcpZ-LDIHTw",
+         "plus_code" : {
+            "compound_code" : "838H+H4 New Haven, Connecticut, United States",
+            "global_code" : "87H9838H+H4"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "225",
+               "short_name" : "225",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prospect Street",
+               "short_name" : "Prospect St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06511",
+               "short_name" : "06511",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8499",
+               "short_name" : "8499",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "225 Prospect St, New Haven, CT 06511, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3175091,
+               "lng" : -72.9231516
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.31885808029149,
+                  "lng" : -72.92180261970849
+               },
+               "southwest" : {
+                  "lat" : 41.3161601197085,
+                  "lng" : -72.92450058029151
+               }
+            }
+         },
+         "place_id" : "ChIJK1CzerjZ54kREhZ4UScvh7U",
+         "plus_code" : {
+            "compound_code" : "839G+2P New Haven, Connecticut, United States",
+            "global_code" : "87H9839G+2P"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06511",
+               "short_name" : "06511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, New Haven, CT 06511, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.31659080000001,
+                  "lng" : -72.9224085
+               },
+               "southwest" : {
+                  "lat" : 41.3159704,
+                  "lng" : -72.92281199999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3162806,
+               "lng" : -72.92261019999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3176295802915,
+                  "lng" : -72.92126126970849
+               },
+               "southwest" : {
+                  "lat" : 41.3149316197085,
+                  "lng" : -72.9239592302915
+               }
+            }
+         },
+         "place_id" : "ChIJRV34CLjZ54kRrqdWAiUfpT0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown, New Haven, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3212969,
+                  "lng" : -72.9142459
+               },
+               "southwest" : {
+                  "lat" : 41.3008969,
+                  "lng" : -72.9355461
+               }
+            },
+            "location" : {
+               "lat" : 41.30865439999999,
+               "lng" : -72.925386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3212969,
+                  "lng" : -72.9142459
+               },
+               "southwest" : {
+                  "lat" : 41.3008969,
+                  "lng" : -72.9355461
+               }
+            }
+         },
+         "place_id" : "ChIJsbjseLbZ54kR-opku-Jp5NU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06511",
+               "short_name" : "06511",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Haven, CT 06511, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3358179,
+                  "lng" : -72.888807
+               },
+               "southwest" : {
+                  "lat" : 41.281951,
+                  "lng" : -72.95793200000001
+               }
+            },
+            "location" : {
+               "lat" : 41.3212912,
+               "lng" : -72.9283391
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3358179,
+                  "lng" : -72.888807
+               },
+               "southwest" : {
+                  "lat" : 41.281951,
+                  "lng" : -72.95793200000001
+               }
+            }
+         },
+         "place_id" : "ChIJiemiNrTZ54kRjvpRpWTn6QI",
+         "postcode_localities" : [ "Hamden", "New Haven" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Haven, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.35038,
+                  "lng" : -72.8601438
+               },
+               "southwest" : {
+                  "lat" : 41.2461968,
+                  "lng" : -72.998048
+               }
+            },
+            "location" : {
+               "lat" : 41.308274,
+               "lng" : -72.92788349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.35038,
+                  "lng" : -72.8601438
+               },
+               "southwest" : {
+                  "lat" : 41.2461968,
+                  "lng" : -72.998048
+               }
+            }
+         },
+         "place_id" : "ChIJ5XCAOkTY54kR7WSyWcZUo_Y",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Haven County, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6443109,
+                  "lng" : -72.527901
+               },
+               "southwest" : {
+                  "lat" : 41.087108,
+                  "lng" : -73.32711399999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3266911,
+               "lng" : -72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6443109,
+                  "lng" : -72.527901
+               },
+               "southwest" : {
+                  "lat" : 41.087108,
+                  "lng" : -73.32711399999999
+               }
+            }
+         },
+         "place_id" : "ChIJiT24cvvP54kR2fSPHkp0Akc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "Connecticut",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Connecticut, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.050587,
+                  "lng" : -71.787239
+               },
+               "southwest" : {
+                  "lat" : 40.950943,
+                  "lng" : -73.72777499999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6032207,
+               "lng" : -73.087749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.050587,
+                  "lng" : -71.787239
+               },
+               "southwest" : {
+                  "lat" : 40.950943,
+                  "lng" : -73.72777499999999
+               }
+            }
+         },
+         "place_id" : "ChIJpVER8hFT5okR5XBhBVttmq4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

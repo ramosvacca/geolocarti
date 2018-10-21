@@ -1,0 +1,509 @@
+{
+   "plus_code" : {
+      "compound_code" : "3886+RR La Roche-sur-Foron, France",
+      "global_code" : "8FR83886+RR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Place de l'Hôtel de ville",
+               "short_name" : "Place de l'Hôtel de ville",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Roche-sur-Foron",
+               "short_name" : "La Roche-sur-Foron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74800",
+               "short_name" : "74800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Place de l'Hôtel de ville, 74800 La Roche-sur-Foron, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0670125,
+                  "lng" : 6.312201
+               },
+               "southwest" : {
+                  "lat" : 46.0667434,
+                  "lng" : 6.3118332
+               }
+            },
+            "location" : {
+               "lat" : 46.0669157,
+               "lng" : 6.3120125
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.06822693029149,
+                  "lng" : 6.313366080291502
+               },
+               "southwest" : {
+                  "lat" : 46.0655289697085,
+                  "lng" : 6.310668119708497
+               }
+            }
+         },
+         "place_id" : "ChIJLYPGhhh1jEcRvFWHQurT14o",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue Andrevetan",
+               "short_name" : "Rue Andrevetan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Roche-sur-Foron",
+               "short_name" : "La Roche-sur-Foron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74800",
+               "short_name" : "74800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue Andrevetan, 74800 La Roche-sur-Foron, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.066984,
+               "lng" : 6.3119001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0683329802915,
+                  "lng" : 6.313249080291502
+               },
+               "southwest" : {
+                  "lat" : 46.0656350197085,
+                  "lng" : 6.310551119708498
+               }
+            }
+         },
+         "place_id" : "ChIJM8Ssmxh1jEcRCfB79-pru5U",
+         "plus_code" : {
+            "compound_code" : "3886+QQ La Roche-sur-Foron, France",
+            "global_code" : "8FR83886+QQ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue Jean Jaurès",
+               "short_name" : "Avenue Jean Jaurès",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Roche-sur-Foron",
+               "short_name" : "La Roche-sur-Foron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74800",
+               "short_name" : "74800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10 Avenue Jean Jaurès, 74800 La Roche-sur-Foron, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.0673366,
+               "lng" : 6.312148
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.06868558029149,
+                  "lng" : 6.313496980291502
+               },
+               "southwest" : {
+                  "lat" : 46.0659876197085,
+                  "lng" : 6.310799019708497
+               }
+            }
+         },
+         "place_id" : "ChIJga60mBh1jEcRQJmHD_eSaUg",
+         "plus_code" : {
+            "compound_code" : "3886+WV La Roche-sur-Foron, France",
+            "global_code" : "8FR83886+WV"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue Jean Jaurès",
+               "short_name" : "Avenue Jean Jaurès",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Roche-sur-Foron",
+               "short_name" : "La Roche-sur-Foron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74800",
+               "short_name" : "74800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10 Avenue Jean Jaurès, 74800 La Roche-sur-Foron, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.0672627,
+               "lng" : 6.312097199999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0686116802915,
+                  "lng" : 6.313446180291502
+               },
+               "southwest" : {
+                  "lat" : 46.0659137197085,
+                  "lng" : 6.310748219708497
+               }
+            }
+         },
+         "place_id" : "EjgxMCBBdmVudWUgSmVhbiBKYXVyw6hzLCA3NDgwMCBMYSBSb2NoZS1zdXItRm9yb24sIEZyYW5jZSIaEhgKFAoSCfXk3ZgYdYxHEUK2nFvVPpCPEAo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Roche-sur-Foron",
+               "short_name" : "La Roche-sur-Foron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74800",
+               "short_name" : "74800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "74800 La Roche-sur-Foron, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.085987,
+                  "lng" : 6.349475000000001
+               },
+               "southwest" : {
+                  "lat" : 46.00626,
+                  "lng" : 6.25085
+               }
+            },
+            "location" : {
+               "lat" : 46.067072,
+               "lng" : 6.312039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.085987,
+                  "lng" : 6.349475000000001
+               },
+               "southwest" : {
+                  "lat" : 46.00626,
+                  "lng" : 6.25085
+               }
+            }
+         },
+         "place_id" : "ChIJcd8BIh91jEcRCk7WVXEsJrE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "74800",
+               "short_name" : "74800",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Saint-Laurent",
+               "short_name" : "Saint-Laurent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "74800 Saint-Laurent, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1143155,
+                  "lng" : 6.406394499999999
+               },
+               "southwest" : {
+                  "lat" : 46.0054267,
+                  "lng" : 6.2179457
+               }
+            },
+            "location" : {
+               "lat" : 46.0543688,
+               "lng" : 6.309628399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1143155,
+                  "lng" : 6.406394499999999
+               },
+               "southwest" : {
+                  "lat" : 46.0054267,
+                  "lng" : 6.2179457
+               }
+            }
+         },
+         "place_id" : "ChIJS5bt6T11jEcRsI7kQS6rCBw",
+         "postcode_localities" : [
+            "Amancy",
+            "Arenthon",
+            "Cornier",
+            "Etaux",
+            "La Chapelle-Rambaud",
+            "La Roche-sur-Foron",
+            "Saint-Laurent",
+            "Saint-Pierre-en-Faucigny",
+            "Saint-Sixt"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haute-Savoie, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.408243,
+                  "lng" : 7.0450649
+               },
+               "southwest" : {
+                  "lat" : 45.681659,
+                  "lng" : 5.80502
+               }
+            },
+            "location" : {
+               "lat" : 46.1756788,
+               "lng" : 6.5389621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.408243,
+                  "lng" : 7.0450649
+               },
+               "southwest" : {
+                  "lat" : 45.681659,
+                  "lng" : 5.80502
+               }
+            }
+         },
+         "place_id" : "ChIJfRdqefQJjEcRICq55CqrCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auvergne-Rhône-Alpes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            },
+            "location" : {
+               "lat" : 45.4471431,
+               "lng" : 4.385250699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            }
+         },
+         "place_id" : "ChIJ_fju9ukE9UcROuOAIn5wRjk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

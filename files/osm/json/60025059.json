@@ -1,0 +1,356 @@
+{
+   "plus_code" : {
+      "compound_code" : "9PPR+8C Dublin, County Dublin, Ireland",
+      "global_code" : "9C5M9PPR+8C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasnevin Hill",
+               "short_name" : "Glasnevin Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitehall",
+               "short_name" : "Whitehall",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dublin 9",
+               "short_name" : "Dublin 9",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasnevin Hill, Whitehall, Dublin 9, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.385811,
+               "lng" : -6.258944899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.38715998029151,
+                  "lng" : -6.257595919708497
+               },
+               "southwest" : {
+                  "lat" : 53.38446201970851,
+                  "lng" : -6.260293880291502
+               }
+            }
+         },
+         "place_id" : "ChIJA12dLxsOZ0gRqMIHQZhFuxI",
+         "plus_code" : {
+            "compound_code" : "9PPR+8C Dublin, County Dublin, Ireland",
+            "global_code" : "9C5M9PPR+8C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Artane - Whitehall",
+               "short_name" : "Artane - Whitehall",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Artane - Whitehall, Whitehall, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3859357,
+                  "lng" : -6.2585571
+               },
+               "southwest" : {
+                  "lat" : 53.3856708,
+                  "lng" : -6.2587952
+               }
+            },
+            "location" : {
+               "lat" : 53.3858032,
+               "lng" : -6.2586762
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3871522302915,
+                  "lng" : -6.257327169708498
+               },
+               "southwest" : {
+                  "lat" : 53.38445426970851,
+                  "lng" : -6.260025130291503
+               }
+            }
+         },
+         "place_id" : "ChIJTfvhGxEOZ0gRGF6ew_wGbJk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehall",
+               "short_name" : "Whitehall",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Whitehall, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.399075,
+                  "lng" : -6.2332683
+               },
+               "southwest" : {
+                  "lat" : 53.3738258,
+                  "lng" : -6.2658789
+               }
+            },
+            "location" : {
+               "lat" : 53.38239369999999,
+               "lng" : -6.244425499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.399075,
+                  "lng" : -6.2332683
+               },
+               "southwest" : {
+                  "lat" : 53.3738258,
+                  "lng" : -6.2658789
+               }
+            }
+         },
+         "place_id" : "ChIJJ9jsyj4OZ0gRQTC5GajHACY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin City, Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4111566,
+                  "lng" : -6.11309
+               },
+               "southwest" : {
+                  "lat" : 53.2988569,
+                  "lng" : -6.387080600000001
+               }
+            },
+            "location" : {
+               "lat" : 53.3603142,
+               "lng" : -6.315054200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4111566,
+                  "lng" : -6.11309
+               },
+               "southwest" : {
+                  "lat" : 53.2988569,
+                  "lng" : -6.387080600000001
+               }
+            }
+         },
+         "place_id" : "ChIJv2RI7foRZ0gRwAKA8azHAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            },
+            "location" : {
+               "lat" : 53.3498053,
+               "lng" : -6.2603097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            }
+         },
+         "place_id" : "ChIJL6wn6oAOZ0gRoHExl6nHAAo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            },
+            "location" : {
+               "lat" : 53.3302033,
+               "lng" : -6.3105655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            }
+         },
+         "place_id" : "ChIJv2RI7foRZ0gRwAKA8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

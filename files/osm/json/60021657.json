@@ -1,0 +1,425 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q4QF+MV São José dos Campos, Sao Jose dos Campos - State of São Paulo, Brazil",
+      "global_code" : "588PQ4QF+MV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Praça Marechal Eduardo Gomes",
+               "short_name" : "Praça Marechal Eduardo Gomes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila das Acacias",
+               "short_name" : "Vila das Acacias",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São José dos Campos",
+               "short_name" : "São José dos Campos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12228-900",
+               "short_name" : "12228-900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Praça Marechal Eduardo Gomes, 50 - Vila das Acacias, São José dos Campos - SP, 12228-900, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.2108714,
+               "lng" : -45.8753055
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.2095224197085,
+                  "lng" : -45.8739565197085
+               },
+               "southwest" : {
+                  "lat" : -23.2122203802915,
+                  "lng" : -45.87665448029149
+               }
+            }
+         },
+         "place_id" : "ChIJFcUyHOM6WpMRxFcGS49H5j0",
+         "plus_code" : {
+            "compound_code" : "Q4QF+MV São José dos Campos, Sao Jose dos Campos - State of São Paulo, Brazil",
+            "global_code" : "588PQ4QF+MV"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "875",
+               "short_name" : "875",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Aeroporto",
+               "short_name" : "Avenida Aeroporto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Campus do CTA",
+               "short_name" : "Campus do CTA",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São José dos Campos",
+               "short_name" : "São José dos Campos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avenida Aeroporto, 875 - Campus do CTA, São José dos Campos - SP, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.2114217,
+               "lng" : -45.8758674
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.2100727197085,
+                  "lng" : -45.8745184197085
+               },
+               "southwest" : {
+                  "lat" : -23.2127706802915,
+                  "lng" : -45.8772163802915
+               }
+            }
+         },
+         "place_id" : "EkpBdmVuaWRhIEFlcm9wb3J0bywgODc1IC0gQ2FtcHVzIGRvIENUQSwgU8OjbyBKb3PDqSBkb3MgQ2FtcG9zIC0gU1AsIEJyYXNpbCIbEhkKFAoSCT0TM2_3SsyUEZHQmH0m1GFeEOsG",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12209",
+               "short_name" : "12209",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Campus do CTA",
+               "short_name" : "Campus do CTA",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São José dos Campos",
+               "short_name" : "São José dos Campos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campus do CTA, São José dos Campos - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.2008291,
+                  "lng" : -45.84979870000001
+               },
+               "southwest" : {
+                  "lat" : -23.2399091,
+                  "lng" : -45.8833919
+               }
+            },
+            "location" : {
+               "lat" : -23.2200353,
+               "lng" : -45.8635813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.2008291,
+                  "lng" : -45.84979870000001
+               },
+               "southwest" : {
+                  "lat" : -23.2399091,
+                  "lng" : -45.8833919
+               }
+            }
+         },
+         "place_id" : "ChIJbVkmxeFKzJQRRWXSPzDhPwM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campus do CTA",
+               "short_name" : "Campus do CTA",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São José dos Campos",
+               "short_name" : "São José dos Campos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campus do CTA, São José dos Campos - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.1936746,
+                  "lng" : -45.84336580000001
+               },
+               "southwest" : {
+                  "lat" : -23.2492493,
+                  "lng" : -45.8855002
+               }
+            },
+            "location" : {
+               "lat" : -23.2107302,
+               "lng" : -45.870706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.1936746,
+                  "lng" : -45.84336580000001
+               },
+               "southwest" : {
+                  "lat" : -23.2492493,
+                  "lng" : -45.8855002
+               }
+            }
+         },
+         "place_id" : "ChIJL1hkvR9LzJQRjwaTbt0l0Oo",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São José dos Campos",
+               "short_name" : "São José dos Campos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sao Jose dos Campos",
+               "short_name" : "Sao Jose dos Campos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São José dos Campos, Sao Jose dos Campos - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.0773,
+                  "lng" : -45.73714289999999
+               },
+               "southwest" : {
+                  "lat" : -23.3017125,
+                  "lng" : -45.9888826
+               }
+            },
+            "location" : {
+               "lat" : -23.223701,
+               "lng" : -45.9009074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.0773,
+                  "lng" : -45.73714289999999
+               },
+               "southwest" : {
+                  "lat" : -23.3017125,
+                  "lng" : -45.9888826
+               }
+            }
+         },
+         "place_id" : "ChIJ58KMhbNLzJQRwfhoMaMlugA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sao Jose dos Campos",
+               "short_name" : "Sao Jose dos Campos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sao Jose dos Campos - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8162928,
+                  "lng" : -45.72128
+               },
+               "southwest" : {
+                  "lat" : -23.3066829,
+                  "lng" : -46.1079889
+               }
+            },
+            "location" : {
+               "lat" : -22.9121296,
+               "lng" : -45.9596508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8162928,
+                  "lng" : -45.72128
+               },
+               "southwest" : {
+                  "lat" : -23.3066829,
+                  "lng" : -46.1079889
+               }
+            }
+         },
+         "place_id" : "ChIJcXl25JE4zJQRABKOT4SjEtg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "State of São Paulo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            },
+            "location" : {
+               "lat" : -23.5431786,
+               "lng" : -46.6291845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            }
+         },
+         "place_id" : "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

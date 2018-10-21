@@ -1,0 +1,440 @@
+{
+   "plus_code" : {
+      "compound_code" : "G6CP+9X Meriden, CT, USA",
+      "global_code" : "87H9G6CP+9X"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prestige Drive",
+               "short_name" : "Prestige Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meriden",
+               "short_name" : "Meriden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06450",
+               "short_name" : "06450",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7164",
+               "short_name" : "7164",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1 Prestige Dr, Meriden, CT 06450, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.520988,
+               "lng" : -72.7625599
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.52233698029149,
+                  "lng" : -72.76121091970849
+               },
+               "southwest" : {
+                  "lat" : 41.51963901970849,
+                  "lng" : -72.76390888029151
+               }
+            }
+         },
+         "place_id" : "ChIJ2bUTT1HK54kRH5n_iNSDK3s",
+         "plus_code" : {
+            "compound_code" : "G6CP+9X Meriden, Connecticut, United States",
+            "global_code" : "87H9G6CP+9X"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prestige Drive",
+               "short_name" : "Prestige Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meriden",
+               "short_name" : "Meriden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06450",
+               "short_name" : "06450",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Prestige Dr, Meriden, CT 06450, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5210889,
+                  "lng" : -72.7624385
+               },
+               "southwest" : {
+                  "lat" : 41.52067050000001,
+                  "lng" : -72.7628981
+               }
+            },
+            "location" : {
+               "lat" : 41.520949,
+               "lng" : -72.76267949999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5222286802915,
+                  "lng" : -72.76131931970849
+               },
+               "southwest" : {
+                  "lat" : 41.5195307197085,
+                  "lng" : -72.76401728029151
+               }
+            }
+         },
+         "place_id" : "ChIJS0qPtVbK54kRwntjSmP_RNY",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "145",
+               "short_name" : "145",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prestige Drive",
+               "short_name" : "Prestige Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meriden",
+               "short_name" : "Meriden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06450",
+               "short_name" : "06450",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "145 Prestige Dr, Meriden, CT 06450, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5206167,
+               "lng" : -72.7627064
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.52196568029149,
+                  "lng" : -72.76135741970849
+               },
+               "southwest" : {
+                  "lat" : 41.51926771970849,
+                  "lng" : -72.7640553802915
+               }
+            }
+         },
+         "place_id" : "EicxNDUgUHJlc3RpZ2UgRHIsIE1lcmlkZW4sIENUIDA2NDUwLCBVU0EiGxIZChQKEgkBG6W0VsrniREcNv9HrQY4gxCRAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06450",
+               "short_name" : "06450",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Meriden",
+               "short_name" : "Meriden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meriden, CT 06450, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.578894,
+                  "lng" : -72.73579090000001
+               },
+               "southwest" : {
+                  "lat" : 41.4955079,
+                  "lng" : -72.815714
+               }
+            },
+            "location" : {
+               "lat" : 41.5254822,
+               "lng" : -72.76882259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.578894,
+                  "lng" : -72.73579090000001
+               },
+               "southwest" : {
+                  "lat" : 41.4955079,
+                  "lng" : -72.815714
+               }
+            }
+         },
+         "place_id" : "ChIJ6w2O2kPK54kR8veBwEEGdOk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meriden",
+               "short_name" : "Meriden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meriden, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.578894,
+                  "lng" : -72.744742
+               },
+               "southwest" : {
+                  "lat" : 41.4954979,
+                  "lng" : -72.85901699999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5381535,
+               "lng" : -72.80704349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.578894,
+                  "lng" : -72.744742
+               },
+               "southwest" : {
+                  "lat" : 41.4954979,
+                  "lng" : -72.85901699999999
+               }
+            }
+         },
+         "place_id" : "ChIJt8q0JCHK54kRilUjZdXe-_g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Haven County, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6443109,
+                  "lng" : -72.527901
+               },
+               "southwest" : {
+                  "lat" : 41.087108,
+                  "lng" : -73.32711399999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3266911,
+               "lng" : -72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6443109,
+                  "lng" : -72.527901
+               },
+               "southwest" : {
+                  "lat" : 41.087108,
+                  "lng" : -73.32711399999999
+               }
+            }
+         },
+         "place_id" : "ChIJiT24cvvP54kR2fSPHkp0Akc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "Connecticut",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Connecticut, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.050587,
+                  "lng" : -71.787239
+               },
+               "southwest" : {
+                  "lat" : 40.950943,
+                  "lng" : -73.72777499999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6032207,
+               "lng" : -73.087749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.050587,
+                  "lng" : -71.787239
+               },
+               "southwest" : {
+                  "lat" : 40.950943,
+                  "lng" : -73.72777499999999
+               }
+            }
+         },
+         "place_id" : "ChIJpVER8hFT5okR5XBhBVttmq4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

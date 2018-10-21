@@ -1,0 +1,549 @@
+{
+   "plus_code" : {
+      "compound_code" : "X9GV+P2 Newcastle upon Tyne, UK",
+      "global_code" : "9C6WX9GV+P2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ellison Place",
+               "short_name" : "Ellison Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE1 8ST",
+               "short_name" : "NE1 8ST",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Ellison Pl, Newcastle upon Tyne NE1 8ST, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.9767623,
+               "lng" : -1.6074983
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9781112802915,
+                  "lng" : -1.606149319708498
+               },
+               "southwest" : {
+                  "lat" : 54.9754133197085,
+                  "lng" : -1.608847280291502
+               }
+            }
+         },
+         "place_id" : "ChIJXWCmoshwfkgRCa_9kG6ozAs",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ellison Place",
+               "short_name" : "Ellison Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE1",
+               "short_name" : "NE1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Ellison Pl, Newcastle upon Tyne NE1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9764294,
+                  "lng" : -1.6072286
+               },
+               "southwest" : {
+                  "lat" : 54.9761793,
+                  "lng" : -1.6085155
+               }
+            },
+            "location" : {
+               "lat" : 54.9763057,
+               "lng" : -1.607873
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9776533302915,
+                  "lng" : -1.606523069708498
+               },
+               "southwest" : {
+                  "lat" : 54.9749553697085,
+                  "lng" : -1.609221030291502
+               }
+            }
+         },
+         "place_id" : "ChIJC19qkchwfkgRGGtDv1ha_hc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NE1 8ST",
+               "short_name" : "NE1 8ST",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne NE1 8ST, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9776033,
+                  "lng" : -1.6049252
+               },
+               "southwest" : {
+                  "lat" : 54.9762863,
+                  "lng" : -1.6086046
+               }
+            },
+            "location" : {
+               "lat" : 54.9767623,
+               "lng" : -1.6074983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9782937802915,
+                  "lng" : -1.6049252
+               },
+               "southwest" : {
+                  "lat" : 54.9755958197085,
+                  "lng" : -1.6086046
+               }
+            }
+         },
+         "place_id" : "ChIJN6CkoshwfkgRmBPzv1MmmSk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NE1",
+               "short_name" : "NE1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne NE1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.99912699999999,
+                  "lng" : -1.5889823
+               },
+               "southwest" : {
+                  "lat" : 54.9620642,
+                  "lng" : -1.6652204
+               }
+            },
+            "location" : {
+               "lat" : 54.9753348,
+               "lng" : -1.6100477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.99912699999999,
+                  "lng" : -1.5889823
+               },
+               "southwest" : {
+                  "lat" : 54.9620642,
+                  "lng" : -1.6652204
+               }
+            }
+         },
+         "place_id" : "ChIJZSsKMJVwfkgRDArSMEBI9XI",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0453044,
+                  "lng" : -1.5326051
+               },
+               "southwest" : {
+                  "lat" : 54.9594399,
+                  "lng" : -1.7810817
+               }
+            },
+            "location" : {
+               "lat" : 54.978252,
+               "lng" : -1.61778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0453044,
+                  "lng" : -1.5326051
+               },
+               "southwest" : {
+                  "lat" : 54.9594399,
+                  "lng" : -1.7810817
+               }
+            }
+         },
+         "place_id" : "ChIJzWRvDH6FfUgRkWGncrBS4gs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0793823,
+                  "lng" : -1.5292001
+               },
+               "southwest" : {
+                  "lat" : 54.959032,
+                  "lng" : -1.775672
+               }
+            },
+            "location" : {
+               "lat" : 54.9826867,
+               "lng" : -1.6125271
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0793823,
+                  "lng" : -1.5292001
+               },
+               "southwest" : {
+                  "lat" : 54.959032,
+                  "lng" : -1.775672
+               }
+            }
+         },
+         "place_id" : "ChIJs6q4o5V2fkgRALhs7Z75DAQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "Tyne and Wear",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tyne and Wear, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0793823,
+                  "lng" : -1.3456649
+               },
+               "southwest" : {
+                  "lat" : 54.7990491,
+                  "lng" : -1.8526595
+               }
+            },
+            "location" : {
+               "lat" : 54.9951837,
+               "lng" : -1.5666991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0793823,
+                  "lng" : -1.3456649
+               },
+               "southwest" : {
+                  "lat" : 54.7990491,
+                  "lng" : -1.8526595
+               }
+            }
+         },
+         "place_id" : "ChIJzWRvDH6FfUgRhdQ-O-5jKG0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.38118619999999,
+                  "lng" : -1.4673863
+               },
+               "southwest" : {
+                  "lat" : 54.8866635,
+                  "lng" : -2.5743154
+               }
+            },
+            "location" : {
+               "lat" : 55.0016152,
+               "lng" : -1.6670537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.38118619999999,
+                  "lng" : -1.4673863
+               },
+               "southwest" : {
+                  "lat" : 54.8866635,
+                  "lng" : -2.5743154
+               }
+            }
+         },
+         "place_id" : "ChIJV-wxps3pfUgRc4woV06UJ7M",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

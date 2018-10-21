@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "4H83+W9 Cuarte, Spain",
+      "global_code" : "8CJX4H83+W9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle de Cuarte",
+               "short_name" : "Calle de Cuarte",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragón",
+               "short_name" : "Aragón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22071",
+               "short_name" : "22071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle de Cuarte, s/n, 22071 Huesca, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1173511,
+               "lng" : -0.4465061
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1187000802915,
+                  "lng" : -0.4451571197084979
+               },
+               "southwest" : {
+                  "lat" : 42.1160021197085,
+                  "lng" : -0.447855080291502
+               }
+            }
+         },
+         "place_id" : "ChIJxd1F5oFFWA0Rzx-p249Mv5Q",
+         "plus_code" : {
+            "compound_code" : "4H83+W9 Cuarte, Spain",
+            "global_code" : "8CJX4H83+W9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragón",
+               "short_name" : "Aragón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22197",
+               "short_name" : "22197",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 22197 Huesca, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1172492,
+                  "lng" : -0.4465677
+               },
+               "southwest" : {
+                  "lat" : 42.1172147,
+                  "lng" : -0.446797
+               }
+            },
+            "location" : {
+               "lat" : 42.117232,
+               "lng" : -0.4466823
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1185809302915,
+                  "lng" : -0.4453333697084979
+               },
+               "southwest" : {
+                  "lat" : 42.1158829697085,
+                  "lng" : -0.4480313302915021
+               }
+            }
+         },
+         "place_id" : "ChIJPS_x3YFFWA0RCsEDmFRaH1E",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22197",
+               "short_name" : "22197",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragon",
+               "short_name" : "Aragon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "22197 Huesca, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1358556,
+                  "lng" : -0.3695318
+               },
+               "southwest" : {
+                  "lat" : 42.0378615,
+                  "lng" : -0.5176044
+               }
+            },
+            "location" : {
+               "lat" : 42.097008,
+               "lng" : -0.4691097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1358556,
+                  "lng" : -0.3695318
+               },
+               "southwest" : {
+                  "lat" : 42.0378615,
+                  "lng" : -0.5176044
+               }
+            }
+         },
+         "place_id" : "ChIJr5BqIgtPWA0RMN5zYWiMARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hoya de Huesca/Plana de Uesca",
+               "short_name" : "Hoya de Huesca/Plana de Uesca",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragon",
+               "short_name" : "Aragon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hoya de Huesca/Plana de Uesca, Huesca, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.50711930000001,
+                  "lng" : -0.0722773
+               },
+               "southwest" : {
+                  "lat" : 41.9453109,
+                  "lng" : -0.9189678000000001
+               }
+            },
+            "location" : {
+               "lat" : 42.1560699,
+               "lng" : -0.5257822999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.50711930000001,
+                  "lng" : -0.0722773
+               },
+               "southwest" : {
+                  "lat" : 41.9453109,
+                  "lng" : -0.9189678000000001
+               }
+            }
+         },
+         "place_id" : "ChIJwY2xMNBJWA0RnTr1BTisGpM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huesca",
+               "short_name" : "Huesca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragon",
+               "short_name" : "Aragon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huesca, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9244952,
+                  "lng" : 0.7713066
+               },
+               "southwest" : {
+                  "lat" : 41.3478056,
+                  "lng" : -0.9341684
+               }
+            },
+            "location" : {
+               "lat" : 42.1361842,
+               "lng" : -0.4082191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9244952,
+                  "lng" : 0.7713066
+               },
+               "southwest" : {
+                  "lat" : 41.3478056,
+                  "lng" : -0.9341684
+               }
+            }
+         },
+         "place_id" : "ChIJtwOaTjZxWA0RkMrNCGWMAQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aragon",
+               "short_name" : "Aragon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aragon, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9244952,
+                  "lng" : 0.7713066
+               },
+               "southwest" : {
+                  "lat" : 39.846778,
+                  "lng" : -2.1736712
+               }
+            },
+            "location" : {
+               "lat" : 41.5976275,
+               "lng" : -0.9056623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9244952,
+                  "lng" : 0.7713066
+               },
+               "southwest" : {
+                  "lat" : 39.846778,
+                  "lng" : -2.1736712
+               }
+            }
+         },
+         "place_id" : "ChIJ-W5lP-4UWQ0RWP14-ZVCICA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

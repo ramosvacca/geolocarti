@@ -1,0 +1,432 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1401",
+               "short_name" : "1401",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Devine Street",
+               "short_name" : "Devine St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown - Downtown",
+               "short_name" : "Midtown - Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29208",
+               "short_name" : "29208",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3902",
+               "short_name" : "3902",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1401 Devine St, Columbia, SC 29208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.995611,
+               "lng" : -81.0276513
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.99695998029149,
+                  "lng" : -81.02630231970849
+               },
+               "southwest" : {
+                  "lat" : 33.99426201970849,
+                  "lng" : -81.02900028029151
+               }
+            }
+         },
+         "place_id" : "ChIJXaSE5da6-IgRSG6d6UkB4g8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midtown - Downtown",
+               "short_name" : "Midtown - Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midtown - Downtown, Columbia, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.03435400000001,
+                  "lng" : -80.9932129
+               },
+               "southwest" : {
+                  "lat" : 33.960279,
+                  "lng" : -81.0695149
+               }
+            },
+            "location" : {
+               "lat" : 33.9975859,
+               "lng" : -81.02577629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.03435400000001,
+                  "lng" : -80.9932129
+               },
+               "southwest" : {
+                  "lat" : 33.960279,
+                  "lng" : -81.0695149
+               }
+            }
+         },
+         "place_id" : "ChIJa4dL_Sm7-IgRChE2Is5eGNI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbia, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.131598,
+                  "lng" : -80.7041519
+               },
+               "southwest" : {
+                  "lat" : 33.94341989999999,
+                  "lng" : -81.17097799999999
+               }
+            },
+            "location" : {
+               "lat" : 34.0007104,
+               "lng" : -81.0348144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.131598,
+                  "lng" : -80.7041519
+               },
+               "southwest" : {
+                  "lat" : 33.94341989999999,
+                  "lng" : -81.17097799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ49ExeWml-IgRlvp5s_QIKPM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "29208",
+               "short_name" : "29208",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Midtown - Downtown",
+               "short_name" : "Midtown - Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbia, SC 29208, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0004598,
+                  "lng" : -81.02309
+               },
+               "southwest" : {
+                  "lat" : 33.9877759,
+                  "lng" : -81.03110599999999
+               }
+            },
+            "location" : {
+               "lat" : 33.9963052,
+               "lng" : -81.027157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0004598,
+                  "lng" : -81.02309
+               },
+               "southwest" : {
+                  "lat" : 33.9877759,
+                  "lng" : -81.03110599999999
+               }
+            }
+         },
+         "place_id" : "ChIJgyueONS6-IgRFLaLUrAy2D0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Richland County, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.26876,
+                  "lng" : -80.596205
+               },
+               "southwest" : {
+                  "lat" : 33.743237,
+                  "lng" : -81.34532799999999
+               }
+            },
+            "location" : {
+               "lat" : 34.0412165,
+               "lng" : -80.9428911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.26876,
+                  "lng" : -80.596205
+               },
+               "southwest" : {
+                  "lat" : 33.743237,
+                  "lng" : -81.34532799999999
+               }
+            }
+         },
+         "place_id" : "ChIJOxu60MdK_4gRQqZb8Meu5LU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbia, SC",
+               "short_name" : "Columbia, SC",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbia, SC, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.614777,
+                  "lng" : -80.284088
+               },
+               "southwest" : {
+                  "lat" : 33.4660071,
+                  "lng" : -82.01013789999999
+               }
+            },
+            "location" : {
+               "lat" : 34.0002756,
+               "lng" : -80.9871074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.614777,
+                  "lng" : -80.284088
+               },
+               "southwest" : {
+                  "lat" : 33.4660071,
+                  "lng" : -82.01013789999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1Xim5yek-IgRtpI85CrOyG4",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Carolina, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2155401,
+                  "lng" : -78.49930090000001
+               },
+               "southwest" : {
+                  "lat" : 32.033454,
+                  "lng" : -83.35392800000001
+               }
+            },
+            "location" : {
+               "lat" : 33.836081,
+               "lng" : -81.1637245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2155401,
+                  "lng" : -78.49930090000001
+               },
+               "southwest" : {
+                  "lat" : 32.033454,
+                  "lng" : -83.35392800000001
+               }
+            }
+         },
+         "place_id" : "ChIJ49ExeWml-IgRnhcF9TKh_7k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

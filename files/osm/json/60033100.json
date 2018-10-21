@@ -1,0 +1,382 @@
+{
+   "plus_code" : {
+      "compound_code" : "3Q4H+PH Gulou, Nanjing, Jiangsu, China",
+      "global_code" : "8P4W3Q4H+PH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanjing University",
+               "short_name" : "Nanjing University",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hankou Road",
+               "short_name" : "Hankou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulou Qu",
+               "short_name" : "Gulou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing Shi",
+               "short_name" : "Nanjing Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu Sheng",
+               "short_name" : "Jiangsu Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "210008",
+               "short_name" : "210008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nanjing University, 22 Hankou Rd, Gulou Qu, Nanjing Shi, Jiangsu Sheng, China, 210008",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0568391,
+               "lng" : 118.7789602
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.05818808029149,
+                  "lng" : 118.7803091802915
+               },
+               "southwest" : {
+                  "lat" : 32.05549011970849,
+                  "lng" : 118.7776112197085
+               }
+            }
+         },
+         "place_id" : "ChIJ6STFOr2MtTURWybmPKCOuQQ",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulou Qu",
+               "short_name" : "Gulou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing Shi",
+               "short_name" : "Nanjing Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu Sheng",
+               "short_name" : "Jiangsu Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "210008",
+               "short_name" : "210008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Gulou Qu, Nanjing Shi, Jiangsu Sheng, China, 210008",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0577754,
+                  "lng" : 118.7797657
+               },
+               "southwest" : {
+                  "lat" : 32.0560966,
+                  "lng" : 118.7795073
+               }
+            },
+            "location" : {
+               "lat" : 32.056936,
+               "lng" : 118.7796365
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0582849802915,
+                  "lng" : 118.7809854802915
+               },
+               "southwest" : {
+                  "lat" : 32.0555870197085,
+                  "lng" : 118.7782875197085
+               }
+            }
+         },
+         "place_id" : "ChIJWXOEGL2MtTUR_hJnDmQmm5Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "210008",
+               "short_name" : "210008",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Xuanwu",
+               "short_name" : "Xuanwu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xuanwu, Nanjing, Jiangsu, China, 210008",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0788468,
+                  "lng" : 118.8014122
+               },
+               "southwest" : {
+                  "lat" : 31.9780799,
+                  "lng" : 118.7664409
+               }
+            },
+            "location" : {
+               "lat" : 32.0593072,
+               "lng" : 118.7852346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0788468,
+                  "lng" : 118.8014122
+               },
+               "southwest" : {
+                  "lat" : 31.9780799,
+                  "lng" : 118.7664409
+               }
+            }
+         },
+         "place_id" : "ChIJ2RjJR7mMtTUR5hSk-NqrH88",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gulou",
+               "short_name" : "Gulou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gulou, Nanjing, Jiangsu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1324569,
+                  "lng" : 118.8064053
+               },
+               "southwest" : {
+                  "lat" : 32.028948,
+                  "lng" : 118.7187017
+               }
+            },
+            "location" : {
+               "lat" : 32.066335,
+               "lng" : 118.76979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1324569,
+                  "lng" : 118.8064053
+               },
+               "southwest" : {
+                  "lat" : 32.028948,
+                  "lng" : 118.7187017
+               }
+            }
+         },
+         "place_id" : "ChIJyUt5VUKLtTURQFKo0Fd79lQ",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanjing, Jiangsu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6143632,
+                  "lng" : 119.2416626
+               },
+               "southwest" : {
+                  "lat" : 31.2280975,
+                  "lng" : 118.3633729
+               }
+            },
+            "location" : {
+               "lat" : 32.060255,
+               "lng" : 118.796877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6143632,
+                  "lng" : 119.2416626
+               },
+               "southwest" : {
+                  "lat" : 31.2280975,
+                  "lng" : 118.3633729
+               }
+            }
+         },
+         "place_id" : "ChIJg82NZpuMtTURBhvfeQu2-48",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jiangsu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.1245133,
+                  "lng" : 121.9751853
+               },
+               "southwest" : {
+                  "lat" : 30.7578404,
+                  "lng" : 116.3619603
+               }
+            },
+            "location" : {
+               "lat" : 33.1401715,
+               "lng" : 119.7889248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1245133,
+                  "lng" : 121.9751853
+               },
+               "southwest" : {
+                  "lat" : 30.7578404,
+                  "lng" : 116.3619603
+               }
+            }
+         },
+         "place_id" : "ChIJRcJLMdoAtzURtVOFbLbqlI0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

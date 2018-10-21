@@ -1,0 +1,627 @@
+{
+   "plus_code" : {
+      "compound_code" : "JRGX+VP Merida, Mérida, Venezuela",
+      "global_code" : "67WCJRGX+VP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Facultad de Ciencias",
+               "short_name" : "Facultad de Ciencias",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "La Hechicera",
+               "short_name" : "La Hechicera",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parroquia Milla",
+               "short_name" : "Parroquia Milla",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5101",
+               "short_name" : "5101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Facultad de Ciencias, Av. Alberto Carnevalli, Núcleo Universitario Pedro Rincón Gutiérrez, Edificio A., La Hechicera, Mérida 5101, Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.62806,
+                  "lng" : -71.1500922
+               },
+               "southwest" : {
+                  "lat" : 8.6266917,
+                  "lng" : -71.1511409
+               }
+            },
+            "location" : {
+               "lat" : 8.6274286,
+               "lng" : -71.1505145
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.628724830291503,
+                  "lng" : -71.1492675697085
+               },
+               "southwest" : {
+                  "lat" : 8.626026869708499,
+                  "lng" : -71.15196553029152
+               }
+            }
+         },
+         "place_id" : "ChIJHa6_tdaAZI4RN607u-wspFo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida Alberto Carnevali",
+               "short_name" : "Av Alberto Carnevali",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5101",
+               "short_name" : "5101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Alberto Carnevalli, La Hechicera, Núcleo Universitario Pedro Rincón Gutiérrez, Edificio A., Av Alberto Carnevali, Mérida 5101, Mérida, Venezuela",
+         "geometry" : {
+            "location" : {
+               "lat" : 8.627197899999999,
+               "lng" : -71.15062859999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.6285468802915,
+                  "lng" : -71.14927961970848
+               },
+               "southwest" : {
+                  "lat" : 8.625848919708496,
+                  "lng" : -71.1519775802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0eb0rdaAZI4RBeFTa5MOjuA",
+         "plus_code" : {
+            "compound_code" : "JRGX+VP Merida, Mérida, Venezuela",
+            "global_code" : "67WCJRGX+VP"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parroquia Milla",
+               "short_name" : "Parroquia Milla",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5101",
+               "short_name" : "5101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Mérida 5101, Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.6280725,
+                  "lng" : -71.15051009999999
+               },
+               "southwest" : {
+                  "lat" : 8.627521699999999,
+                  "lng" : -71.15104939999999
+               }
+            },
+            "location" : {
+               "lat" : 8.6277971,
+               "lng" : -71.1507797
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.629146080291502,
+                  "lng" : -71.14943076970849
+               },
+               "southwest" : {
+                  "lat" : 8.626448119708497,
+                  "lng" : -71.15212873029149
+               }
+            }
+         },
+         "place_id" : "ChIJud2YzNaAZI4RIjjodKTeKfg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Hechicera",
+               "short_name" : "La Hechicera",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Parroquia Antonio Spinetti Dini",
+               "short_name" : "Parroquia Antonio Spinetti Dini",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5101",
+               "short_name" : "5101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "La Hechicera, Mérida 5101, Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.632512499999999,
+                  "lng" : -71.14209649999999
+               },
+               "southwest" : {
+                  "lat" : 8.6217354,
+                  "lng" : -71.1610651
+               }
+            },
+            "location" : {
+               "lat" : 8.627285499999999,
+               "lng" : -71.14930769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.632512499999999,
+                  "lng" : -71.14209649999999
+               },
+               "southwest" : {
+                  "lat" : 8.6217354,
+                  "lng" : -71.1610651
+               }
+            }
+         },
+         "place_id" : "ChIJa2ih0daAZI4RQgO2YiFgUrQ",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parroquia Milla",
+               "short_name" : "Parroquia Milla",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5101",
+               "short_name" : "5101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parroquia Milla, Mérida 5101, Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.639322199999999,
+                  "lng" : -71.12385739999999
+               },
+               "southwest" : {
+                  "lat" : 8.5990132,
+                  "lng" : -71.1694337
+               }
+            },
+            "location" : {
+               "lat" : 8.6282216,
+               "lng" : -71.1418809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.639322199999999,
+                  "lng" : -71.12385739999999
+               },
+               "southwest" : {
+                  "lat" : 8.5990132,
+                  "lng" : -71.1694337
+               }
+            }
+         },
+         "place_id" : "ChIJ99ih2CmBZI4ROqP_0VkYaBw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merida",
+               "short_name" : "Merida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Merida, Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.6325337,
+                  "lng" : -71.12488759999999
+               },
+               "southwest" : {
+                  "lat" : 8.550806399999999,
+                  "lng" : -71.2217046
+               }
+            },
+            "location" : {
+               "lat" : 8.5698244,
+               "lng" : -71.1804988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.6325337,
+                  "lng" : -71.12488759999999
+               },
+               "southwest" : {
+                  "lat" : 8.550806399999999,
+                  "lng" : -71.2217046
+               }
+            }
+         },
+         "place_id" : "ChIJ3ehCuiGHZI4RZmzVVuo_9l0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milla",
+               "short_name" : "Milla",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5101",
+               "short_name" : "5101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milla, 5101, Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.729792999999999,
+                  "lng" : -71.1026049
+               },
+               "southwest" : {
+                  "lat" : 8.596169,
+                  "lng" : -71.20997299999999
+               }
+            },
+            "location" : {
+               "lat" : 8.6526002,
+               "lng" : -71.15673439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.729792999999999,
+                  "lng" : -71.1026049
+               },
+               "southwest" : {
+                  "lat" : 8.596169,
+                  "lng" : -71.20997299999999
+               }
+            }
+         },
+         "place_id" : "ChIJn7w-B_iAZI4R8rKtaJoinoI",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Libertador, Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.8190119,
+                  "lng" : -70.968842
+               },
+               "southwest" : {
+                  "lat" : 8.3644281,
+                  "lng" : -71.23586399999999
+               }
+            },
+            "location" : {
+               "lat" : 8.4946441,
+               "lng" : -71.1448516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.8190119,
+                  "lng" : -70.968842
+               },
+               "southwest" : {
+                  "lat" : 8.3644281,
+                  "lng" : -71.23586399999999
+               }
+            }
+         },
+         "place_id" : "ChIJFXcWRle6ZI4Rvs4sSYkPIwk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5101",
+               "short_name" : "5101",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "5101, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.6129699,
+                  "lng" : -70.968842
+               },
+               "southwest" : {
+                  "lat" : 8.3644281,
+                  "lng" : -72.49543589999999
+               }
+            },
+            "location" : {
+               "lat" : 9.343344999999999,
+               "lng" : -72.0468164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.6129699,
+                  "lng" : -70.968842
+               },
+               "southwest" : {
+                  "lat" : 8.3644281,
+                  "lng" : -72.49543589999999
+               }
+            }
+         },
+         "place_id" : "ChIJq8zLo8zoY44RHr5Y_5lkfCg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mérida, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.359985000000002,
+                  "lng" : -70.5435811
+               },
+               "southwest" : {
+                  "lat" : 7.662004,
+                  "lng" : -71.914991
+               }
+            },
+            "location" : {
+               "lat" : 8.548408999999999,
+               "lng" : -71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.359985000000002,
+                  "lng" : -70.5435811
+               },
+               "southwest" : {
+                  "lat" : 7.662004,
+                  "lng" : -71.914991
+               }
+            }
+         },
+         "place_id" : "ChIJBxaSgccOY44RqtDVKY7LBcw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6886,
+                  "lng" : -59.805666
+               },
+               "southwest" : {
+                  "lat" : 0.6475291,
+                  "lng" : -73.36703899999999
+               }
+            },
+            "location" : {
+               "lat" : 6.42375,
+               "lng" : -66.58973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.6886,
+                  "lng" : -59.805666
+               },
+               "southwest" : {
+                  "lat" : 0.6475291,
+                  "lng" : -73.36703899999999
+               }
+            }
+         },
+         "place_id" : "ChIJAdjLNstTKIwR003VfFjyoNw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

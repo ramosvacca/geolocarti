@@ -1,0 +1,373 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrer Illa de Buda",
+               "short_name" : "Carrer Illa de Buda",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sant Quirze del Vallès",
+               "short_name" : "Sant Quirze del Vallès",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08192",
+               "short_name" : "08192",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carrer Illa de Buda, 08192 Sant Quirze del Vallès, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5282167,
+                  "lng" : 2.0938074
+               },
+               "southwest" : {
+                  "lat" : 41.5279447,
+                  "lng" : 2.0921327
+               }
+            },
+            "location" : {
+               "lat" : 41.5282136,
+               "lng" : 2.093014
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5294296802915,
+                  "lng" : 2.094319030291502
+               },
+               "southwest" : {
+                  "lat" : 41.5267317197085,
+                  "lng" : 2.091621069708498
+               }
+            }
+         },
+         "place_id" : "ChIJxfDzMESUpBIRp7re1OMo1NI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "08192",
+               "short_name" : "08192",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sant Quirze del Vallès",
+               "short_name" : "Sant Quirze del Vallès",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "08192 Sant Quirze del Vallès, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.54326400000001,
+                  "lng" : 2.1020469
+               },
+               "southwest" : {
+                  "lat" : 41.5067334,
+                  "lng" : 2.0330929
+               }
+            },
+            "location" : {
+               "lat" : 41.5276681,
+               "lng" : 2.0714223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.54326400000001,
+                  "lng" : 2.1020469
+               },
+               "southwest" : {
+                  "lat" : 41.5067334,
+                  "lng" : 2.0330929
+               }
+            }
+         },
+         "place_id" : "ChIJKfq5gYqTpBIRoF9HeuP6ABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sant Quirze del Vallès",
+               "short_name" : "Sant Quirze del Vallès",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "El Vallès Occidental",
+               "short_name" : "El Vallès Occidental",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sant Quirze del Vallès, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.543276,
+                  "lng" : 2.1016931
+               },
+               "southwest" : {
+                  "lat" : 41.5067444,
+                  "lng" : 2.0314896
+               }
+            },
+            "location" : {
+               "lat" : 41.5351761,
+               "lng" : 2.077575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.543276,
+                  "lng" : 2.1016931
+               },
+               "southwest" : {
+                  "lat" : 41.5067444,
+                  "lng" : 2.0314896
+               }
+            }
+         },
+         "place_id" : "ChIJ25kchoqTpBIRwBCkIeD6AAQ",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Vallès Occidental",
+               "short_name" : "El Vallès Occidental",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Vallès Occidental, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7172243,
+                  "lng" : 2.2252151
+               },
+               "southwest" : {
+                  "lat" : 41.4150323,
+                  "lng" : 1.8612334
+               }
+            },
+            "location" : {
+               "lat" : 41.5434349,
+               "lng" : 2.027319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7172243,
+                  "lng" : 2.2252151
+               },
+               "southwest" : {
+                  "lat" : 41.4150323,
+                  "lng" : 1.8612334
+               }
+            }
+         },
+         "place_id" : "ChIJ9fYtjT6TpBIR5K-qiSf1ijM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.32330109999999,
+                  "lng" : 2.7777843
+               },
+               "southwest" : {
+                  "lat" : 41.1927452,
+                  "lng" : 1.3596215
+               }
+            },
+            "location" : {
+               "lat" : 41.3850477,
+               "lng" : 2.1733131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.32330109999999,
+                  "lng" : 2.7777843
+               },
+               "southwest" : {
+                  "lat" : 41.1927452,
+                  "lng" : 1.3596215
+               }
+            }
+         },
+         "place_id" : "ChIJZb1_yQvmpBIRsMmjIeD6AAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Catalonia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            },
+            "location" : {
+               "lat" : 41.5911589,
+               "lng" : 1.5208624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            }
+         },
+         "place_id" : "ChIJ8_UwhdxbpBIRUMijIeD6AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.244,
+                  "lng" : 5.098
+               },
+               "southwest" : {
+                  "lat" : 35.17300000000001,
+                  "lng" : -12.524
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

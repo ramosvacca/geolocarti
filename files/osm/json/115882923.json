@@ -1,0 +1,425 @@
+{
+   "plus_code" : {
+      "compound_code" : "C9JW+62 Trondheim, Norway",
+      "global_code" : "9FMGC9JW+62"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22C",
+               "short_name" : "22C",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Munkegata",
+               "short_name" : "Munkegata",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sør-Trøndelag",
+               "short_name" : "Sør-Trøndelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7013",
+               "short_name" : "7013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Munkegata 22C, 7013 Trondheim, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 63.43021989999999,
+               "lng" : 10.3943013
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.4315688802915,
+                  "lng" : 10.3956502802915
+               },
+               "southwest" : {
+                  "lat" : 63.42887091970849,
+                  "lng" : 10.3929523197085
+               }
+            }
+         },
+         "place_id" : "ChIJhWxw_JoxbUYRoJ9IhwStYo0",
+         "plus_code" : {
+            "compound_code" : "C9JV+3P Trondheim, Trondheim Municipality, Norway",
+            "global_code" : "9FMGC9JV+3P"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kongens gate",
+               "short_name" : "Kongens gate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7013",
+               "short_name" : "7013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kongens gate 16, 7013 Trondheim, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 63.4305758,
+               "lng" : 10.3951026
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.43192478029151,
+                  "lng" : 10.3964515802915
+               },
+               "southwest" : {
+                  "lat" : 63.4292268197085,
+                  "lng" : 10.3937536197085
+               }
+            }
+         },
+         "place_id" : "EiZLb25nZW5zIGdhdGUgMTYsIDcwMTMgVHJvbmRoZWltLCBOb3JnZSIaEhgKFAoSCQeCOwCbMW1GEU6FRKeEb8M7EBA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7013",
+               "short_name" : "7013",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Trondheim Municipality",
+               "short_name" : "Trondheim Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sor-Trondelag",
+               "short_name" : "Sor-Trondelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "7013 Trondheim, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.430608,
+                  "lng" : 10.4100837
+               },
+               "southwest" : {
+                  "lat" : 63.42356699999999,
+                  "lng" : 10.3921478
+               }
+            },
+            "location" : {
+               "lat" : 63.4263951,
+               "lng" : 10.4001358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.430608,
+                  "lng" : 10.4100837
+               },
+               "southwest" : {
+                  "lat" : 63.42356699999999,
+                  "lng" : 10.3921478
+               }
+            }
+         },
+         "place_id" : "ChIJ2Wwy_JkxbUYRljRzEqB5QJg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sor-Trondelag",
+               "short_name" : "Sor-Trondelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trondheim, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.45691890000001,
+                  "lng" : 10.5793655
+               },
+               "southwest" : {
+                  "lat" : 63.3805535,
+                  "lng" : 10.2981588
+               }
+            },
+            "location" : {
+               "lat" : 63.4305149,
+               "lng" : 10.3950528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.45691890000001,
+                  "lng" : 10.5793655
+               },
+               "southwest" : {
+                  "lat" : 63.3805535,
+                  "lng" : 10.2981588
+               }
+            }
+         },
+         "place_id" : "ChIJU34DR5cxbUYR1PM8jyjI9ws",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sør-Trøndelag",
+               "short_name" : "Sør-Trøndelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7050",
+               "short_name" : "7050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7050 Trondheim, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.51659480000001,
+                  "lng" : 10.7429604
+               },
+               "southwest" : {
+                  "lat" : 63.26938380000001,
+                  "lng" : 10.187501
+               }
+            },
+            "location" : {
+               "lat" : 63.4149085,
+               "lng" : 10.4042134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.51659480000001,
+                  "lng" : 10.7429604
+               },
+               "southwest" : {
+                  "lat" : 63.26938380000001,
+                  "lng" : 10.187501
+               }
+            }
+         },
+         "place_id" : "ChIJSYnbNykwbUYRHLY7Dw2nZgQ",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trondheim Municipality",
+               "short_name" : "Trondheim Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sor-Trondelag",
+               "short_name" : "Sor-Trondelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trondheim Municipality, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.5165944,
+                  "lng" : 10.7251711
+               },
+               "southwest" : {
+                  "lat" : 63.3027029,
+                  "lng" : 10.00353
+               }
+            },
+            "location" : {
+               "lat" : 63.4209561,
+               "lng" : 10.321571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.5165944,
+                  "lng" : 10.7251711
+               },
+               "southwest" : {
+                  "lat" : 63.3027029,
+                  "lng" : 10.00353
+               }
+            }
+         },
+         "place_id" : "ChIJ96h6VB0ubUYRVNnGf4YJrlc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sor-Trondelag",
+               "short_name" : "Sor-Trondelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sor-Trondelag, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.72845149999999,
+                  "lng" : 12.2546636
+               },
+               "southwest" : {
+                  "lat" : 62.2557267,
+                  "lng" : 7.6480963
+               }
+            },
+            "location" : {
+               "lat" : 63.0136823,
+               "lng" : 10.3487136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.72845149999999,
+                  "lng" : 12.2546636
+               },
+               "southwest" : {
+                  "lat" : 62.2557267,
+                  "lng" : 7.6480963
+               }
+            }
+         },
+         "place_id" : "ChIJTdvEdy3TEkYRAB3dD6sIAgM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.30780000000001,
+                  "lng" : 31.3549999
+               },
+               "southwest" : {
+                  "lat" : 57.8097,
+                  "lng" : 4.0649
+               }
+            },
+            "location" : {
+               "lat" : 60.47202399999999,
+               "lng" : 8.468945999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.30780000000001,
+                  "lng" : 31.3549999
+               },
+               "southwest" : {
+                  "lat" : 57.8097,
+                  "lng" : 4.0649
+               }
+            }
+         },
+         "place_id" : "ChIJv-VNj0VoEkYRK9BkuJ07sKE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

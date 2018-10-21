@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "4VQF+3V Pasadena, CA, USA",
+      "global_code" : "85634VQF+3V"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1200",
+               "short_name" : "1200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East California Boulevard",
+               "short_name" : "E California Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91125",
+               "short_name" : "91125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1200 E California Blvd, Pasadena, CA 91125, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1376576,
+               "lng" : -118.125269
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1390065802915,
+                  "lng" : -118.1239200197085
+               },
+               "southwest" : {
+                  "lat" : 34.1363086197085,
+                  "lng" : -118.1266179802915
+               }
+            }
+         },
+         "place_id" : "ChIJkXuZ6qfEwoARGt1hGtDnmTQ",
+         "plus_code" : {
+            "compound_code" : "4VQF+3V Pasadena, California, United States",
+            "global_code" : "85634VQF+3V"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Pasqual Walk",
+               "short_name" : "San Pasqual Walk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91125",
+               "short_name" : "91125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Pasqual Walk, Pasadena, CA 91125, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1378099,
+                  "lng" : -118.1251827
+               },
+               "southwest" : {
+                  "lat" : 34.137778,
+                  "lng" : -118.1253715
+               }
+            },
+            "location" : {
+               "lat" : 34.137794,
+               "lng" : -118.1252771
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1391429302915,
+                  "lng" : -118.1239281197085
+               },
+               "southwest" : {
+                  "lat" : 34.1364449697085,
+                  "lng" : -118.1266260802915
+               }
+            }
+         },
+         "place_id" : "ChIJAwGP8qfEwoARMCzDlRo09_U",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "91125",
+               "short_name" : "91125",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pasadena, CA 91125, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1414361,
+                  "lng" : -118.12126
+               },
+               "southwest" : {
+                  "lat" : 34.1358898,
+                  "lng" : -118.1279959
+               }
+            },
+            "location" : {
+               "lat" : 34.1378866,
+               "lng" : -118.1247032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1414361,
+                  "lng" : -118.12126
+               },
+               "southwest" : {
+                  "lat" : 34.1358898,
+                  "lng" : -118.1279959
+               }
+            }
+         },
+         "place_id" : "ChIJveCfcqbEwoARq68aADY0U2g",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pasadena, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.251905,
+                  "lng" : -118.0654789
+               },
+               "southwest" : {
+                  "lat" : 34.1170368,
+                  "lng" : -118.1981391
+               }
+            },
+            "location" : {
+               "lat" : 34.1477849,
+               "lng" : -118.1445155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.251905,
+                  "lng" : -118.0654789
+               },
+               "southwest" : {
+                  "lat" : 34.1170368,
+                  "lng" : -118.1981391
+               }
+            }
+         },
+         "place_id" : "ChIJUQszONzCwoARSo_RGhZBKwU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            },
+            "location" : {
+               "lat" : 34.0522265,
+               "lng" : -118.2436596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            }
+         },
+         "place_id" : "ChIJMc1kAdMq3YARKjm9z9YofYM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

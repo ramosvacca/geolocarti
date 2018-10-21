@@ -1,0 +1,591 @@
+{
+   "plus_code" : {
+      "compound_code" : "RM77+X4 Uppsala, Sweden",
+      "global_code" : "9FFVRM77+X4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Almas Allé",
+               "short_name" : "Almas Allé",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Uppsala län",
+               "short_name" : "Uppsala län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "750 07",
+               "short_name" : "750 07",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Almas Allé 8, 750 07 Uppsala, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.814947,
+               "lng" : 17.6628688
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.81629598029151,
+                  "lng" : 17.6642177802915
+               },
+               "southwest" : {
+                  "lat" : 59.81359801970849,
+                  "lng" : 17.6615198197085
+               }
+            }
+         },
+         "place_id" : "ChIJYy6gSHbJX0YRtu8i7RD-Pp8",
+         "plus_code" : {
+            "compound_code" : "RM77+X4 Uppsala, Sweden",
+            "global_code" : "9FFVRM77+X4"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Undervisningshuset",
+               "short_name" : "Undervisningshuset",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Almas Allé",
+               "short_name" : "Almas Allé",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valsätra-Ultuna",
+               "short_name" : "Valsätra-Ultuna",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Uppsala län",
+               "short_name" : "Uppsala län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "756 51",
+               "short_name" : "756 51",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Undervisningshuset, Almas Allé 10, 756 51 Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.8153574,
+                  "lng" : 17.6642119
+               },
+               "southwest" : {
+                  "lat" : 59.8149321,
+                  "lng" : 17.6621263
+               }
+            },
+            "location" : {
+               "lat" : 59.81511969999999,
+               "lng" : 17.6628878
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8164937302915,
+                  "lng" : 17.6645180802915
+               },
+               "southwest" : {
+                  "lat" : 59.8137957697085,
+                  "lng" : 17.6618201197085
+               }
+            }
+         },
+         "place_id" : "ChIJKbfp0XXJX0YRBMAbcu0QoJk",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Almas Allé",
+               "short_name" : "Almas Allé",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valsätra-Ultuna",
+               "short_name" : "Valsätra-Ultuna",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Uppsala län",
+               "short_name" : "Uppsala län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "756 51",
+               "short_name" : "756 51",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Almas Allé 5, 756 51 Uppsala, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.8149459,
+               "lng" : 17.6625175
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8162948802915,
+                  "lng" : 17.6638664802915
+               },
+               "southwest" : {
+                  "lat" : 59.81359691970849,
+                  "lng" : 17.6611685197085
+               }
+            }
+         },
+         "place_id" : "ChIJB50a0HXJX0YR9tbfiijvGxs",
+         "plus_code" : {
+            "compound_code" : "RM77+X2 Uppsala, Sweden",
+            "global_code" : "9FFVRM77+X2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Almas Allé",
+               "short_name" : "Almas Allé",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "756 51",
+               "short_name" : "756 51",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Almas Allé 10, 756 51 Uppsala, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.8149459,
+               "lng" : 17.6625176
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8162948802915,
+                  "lng" : 17.6638665802915
+               },
+               "southwest" : {
+                  "lat" : 59.81359691970849,
+                  "lng" : 17.6611686197085
+               }
+            }
+         },
+         "place_id" : "EidBbG1hcyBBbGzDqSAxMCwgNzU2IDUxIFVwcHNhbGEsIFN2ZXJpZ2UiGhIYChQKEglVE5bPdclfRhF0yZco3N860BAK",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valsätra-Ultuna",
+               "short_name" : "Valsätra-Ultuna",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valsätra-Ultuna, Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.8322019,
+                  "lng" : 17.6734699
+               },
+               "southwest" : {
+                  "lat" : 59.81100409999999,
+                  "lng" : 17.6148632
+               }
+            },
+            "location" : {
+               "lat" : 59.818103,
+               "lng" : 17.6479638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8322019,
+                  "lng" : 17.6734699
+               },
+               "southwest" : {
+                  "lat" : 59.81100409999999,
+                  "lng" : 17.6148632
+               }
+            }
+         },
+         "place_id" : "ChIJ73i5BHzJX0YREhWb9l5ZNNc",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "756 51",
+               "short_name" : "756 51",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "756 51 Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.83806190000001,
+                  "lng" : 17.6740111
+               },
+               "southwest" : {
+                  "lat" : 59.79527299999999,
+                  "lng" : 17.6379681
+               }
+            },
+            "location" : {
+               "lat" : 59.8163802,
+               "lng" : 17.657146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.83806190000001,
+                  "lng" : 17.6740111
+               },
+               "southwest" : {
+                  "lat" : 59.79527299999999,
+                  "lng" : 17.6379681
+               }
+            }
+         },
+         "place_id" : "ChIJYwV63ETJX0YR8zIvF_P-AAs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.904146,
+                  "lng" : 17.7709899
+               },
+               "southwest" : {
+                  "lat" : 59.7624129,
+                  "lng" : 17.5459042
+               }
+            },
+            "location" : {
+               "lat" : 59.85856380000001,
+               "lng" : 17.6389267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.904146,
+                  "lng" : 17.7709899
+               },
+               "southwest" : {
+                  "lat" : 59.7624129,
+                  "lng" : 17.5459042
+               }
+            }
+         },
+         "place_id" : "ChIJjasyhfvLX0YRBwiChQrpT6o",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Uppsala län",
+               "short_name" : "Uppsala län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.037176,
+                  "lng" : 18.024324
+               },
+               "southwest" : {
+                  "lat" : 59.7121311,
+                  "lng" : 17.3151231
+               }
+            },
+            "location" : {
+               "lat" : 59.8333782,
+               "lng" : 17.6852217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.037176,
+                  "lng" : 18.024324
+               },
+               "southwest" : {
+                  "lat" : 59.7121311,
+                  "lng" : 17.3151231
+               }
+            }
+         },
+         "place_id" : "ChIJj7dVYlEtXkYRGARo4Vvsw30",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.179428,
+                  "lng" : 18.4731669
+               },
+               "southwest" : {
+                  "lat" : 59.72629509999999,
+                  "lng" : 17.096596
+               }
+            },
+            "location" : {
+               "lat" : 59.9141078,
+               "lng" : 17.6193256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.179428,
+                  "lng" : 18.4731669
+               },
+               "southwest" : {
+                  "lat" : 59.72629509999999,
+                  "lng" : 17.096596
+               }
+            }
+         },
+         "place_id" : "ChIJydAVmsTRX0YR-vhTBDgpkCE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uppsala County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.73211800000001,
+                  "lng" : 18.7728361
+               },
+               "southwest" : {
+                  "lat" : 59.4050129,
+                  "lng" : 16.6783359
+               }
+            },
+            "location" : {
+               "lat" : 60.00922619999999,
+               "lng" : 17.2714588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.73211800000001,
+                  "lng" : 18.7728361
+               },
+               "southwest" : {
+                  "lat" : 59.4050129,
+                  "lng" : 16.6783359
+               }
+            }
+         },
+         "place_id" : "ChIJ7zcyuFgQXkYRoceQrKI9PuQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.0599709,
+                  "lng" : 24.1773101
+               },
+               "southwest" : {
+                  "lat" : 55.0059799,
+                  "lng" : 10.5798
+               }
+            },
+            "location" : {
+               "lat" : 60.12816100000001,
+               "lng" : 18.643501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.0599709,
+                  "lng" : 24.1773101
+               },
+               "southwest" : {
+                  "lat" : 55.0059799,
+                  "lng" : 10.5798
+               }
+            }
+         },
+         "place_id" : "ChIJ8fA1bTmyXEYRYm-tjaLruCI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

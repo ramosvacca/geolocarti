@@ -1,0 +1,503 @@
+{
+   "plus_code" : {
+      "compound_code" : "6CPV+6X Nantes, France",
+      "global_code" : "8CVW6CPV+6X"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chemin de la Houssinière",
+               "short_name" : "Chemin de la Houssinière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nantes",
+               "short_name" : "Nantes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Chemin de la Houssinière, 44300 Nantes, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.2355369,
+               "lng" : -1.5550482
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2368858802915,
+                  "lng" : -1.553699219708498
+               },
+               "southwest" : {
+                  "lat" : 47.2341879197085,
+                  "lng" : -1.556397180291502
+               }
+            }
+         },
+         "place_id" : "ChIJ6SqfTIHuBUgRAYjcDQ7ErUE",
+         "plus_code" : {
+            "compound_code" : "6CPV+6X Nantes, France",
+            "global_code" : "8CVW6CPV+6X"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "42B",
+               "short_name" : "42B",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boulevard Michelet",
+               "short_name" : "Boulevard Michelet",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nantes",
+               "short_name" : "Nantes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42B Boulevard Michelet, 44300 Nantes, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.23581859999999,
+               "lng" : -1.5562167
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2371675802915,
+                  "lng" : -1.554867719708498
+               },
+               "southwest" : {
+                  "lat" : 47.2344696197085,
+                  "lng" : -1.557565680291502
+               }
+            }
+         },
+         "place_id" : "ChIJ_QYgh4PuBUgRL7J7LnmUz6I",
+         "plus_code" : {
+            "compound_code" : "6CPV+8G Nantes, France",
+            "global_code" : "8CVW6CPV+8G"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nantes",
+               "short_name" : "Nantes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 44300 Nantes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2360949,
+                  "lng" : -1.5547454
+               },
+               "southwest" : {
+                  "lat" : 47.2353553,
+                  "lng" : -1.5560148
+               }
+            },
+            "location" : {
+               "lat" : 47.2357251,
+               "lng" : -1.5553801
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2370740802915,
+                  "lng" : -1.554031119708498
+               },
+               "southwest" : {
+                  "lat" : 47.2343761197085,
+                  "lng" : -1.556729080291502
+               }
+            }
+         },
+         "place_id" : "ChIJx0lSY4TuBUgRYAU-aS0AfbM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hauts-Pavés - Saint-Félix",
+               "short_name" : "Hauts-Pavés - Saint-Félix",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nantes",
+               "short_name" : "Nantes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hauts-Pavés - Saint-Félix, Nantes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.243564,
+                  "lng" : -1.5464091
+               },
+               "southwest" : {
+                  "lat" : 47.214507,
+                  "lng" : -1.5855051
+               }
+            },
+            "location" : {
+               "lat" : 47.230455,
+               "lng" : -1.563606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.243564,
+                  "lng" : -1.5464091
+               },
+               "southwest" : {
+                  "lat" : 47.214507,
+                  "lng" : -1.5855051
+               }
+            }
+         },
+         "place_id" : "ChIJTV4boSbsBUgRGVXYYQBDkQo",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nantes",
+               "short_name" : "Nantes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "44300 Nantes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.29577889999999,
+                  "lng" : -1.4790433
+               },
+               "southwest" : {
+                  "lat" : 47.2168502,
+                  "lng" : -1.592763
+               }
+            },
+            "location" : {
+               "lat" : 47.2482829,
+               "lng" : -1.5439361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.29577889999999,
+                  "lng" : -1.4790433
+               },
+               "southwest" : {
+                  "lat" : 47.2168502,
+                  "lng" : -1.592763
+               }
+            }
+         },
+         "place_id" : "ChIJE8qBc0TuBUgRwH_hoFU3DRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nantes",
+               "short_name" : "Nantes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nantes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.29582689999999,
+                  "lng" : -1.4783261
+               },
+               "southwest" : {
+                  "lat" : 47.1806171,
+                  "lng" : -1.6417861
+               }
+            },
+            "location" : {
+               "lat" : 47.218371,
+               "lng" : -1.553621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.29582689999999,
+                  "lng" : -1.4783261
+               },
+               "southwest" : {
+                  "lat" : 47.1806171,
+                  "lng" : -1.6417861
+               }
+            }
+         },
+         "place_id" : "ChIJra6o8IHuBUgRMO0NHlI3DQQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "Loire-Atlantique",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loire-Atlantique, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.835927,
+                  "lng" : -0.9232159999999998
+               },
+               "southwest" : {
+                  "lat" : 46.860073,
+                  "lng" : -2.559609
+               }
+            },
+            "location" : {
+               "lat" : 47.27804680000001,
+               "lng" : -1.8157647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.835927,
+                  "lng" : -0.9232159999999998
+               },
+               "southwest" : {
+                  "lat" : 46.860073,
+                  "lng" : -2.559609
+               }
+            }
+         },
+         "place_id" : "ChIJnbJ5rKiOBUgRQCgJHlI3DQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pays de la Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.567985,
+                  "lng" : 0.9166388999999999
+               },
+               "southwest" : {
+                  "lat" : 46.26653899999999,
+                  "lng" : -2.559609
+               }
+            },
+            "location" : {
+               "lat" : 47.7632836,
+               "lng" : -0.3299687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.567985,
+                  "lng" : 0.9166388999999999
+               },
+               "southwest" : {
+                  "lat" : 46.26653899999999,
+                  "lng" : -2.559609
+               }
+            }
+         },
+         "place_id" : "ChIJQQUJqjgXBUgRtkcc2Asrls8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

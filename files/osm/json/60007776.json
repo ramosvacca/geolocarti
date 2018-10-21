@@ -1,0 +1,534 @@
+{
+   "plus_code" : {
+      "compound_code" : "FG3G+9H Forest Home, NY, USA",
+      "global_code" : "87J5FG3G+9H"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Byway",
+               "short_name" : "The Byway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tompkins County",
+               "short_name" : "Tompkins County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14850",
+               "short_name" : "14850",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2719",
+               "short_name" : "2719",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "10 The Byway, Ithaca, NY 14850, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4533691,
+                  "lng" : -76.472235
+               },
+               "southwest" : {
+                  "lat" : 42.4532579,
+                  "lng" : -76.47248119999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4533125,
+               "lng" : -76.4722821
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4546624802915,
+                  "lng" : -76.47100911970848
+               },
+               "southwest" : {
+                  "lat" : 42.4519645197085,
+                  "lng" : -76.47370708029149
+               }
+            }
+         },
+         "place_id" : "ChIJ-7Fx9RuC0IkR0CSlC4rYy7g",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cradit Farm Drive",
+               "short_name" : "Cradit Farm Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tompkins County",
+               "short_name" : "Tompkins County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14850",
+               "short_name" : "14850",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cradit Farm Dr, Ithaca, NY 14850, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.45361339999999,
+                  "lng" : -76.4738114
+               },
+               "southwest" : {
+                  "lat" : 42.453394,
+                  "lng" : -76.47406959999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4535037,
+               "lng" : -76.4739405
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4548526802915,
+                  "lng" : -76.47259151970849
+               },
+               "southwest" : {
+                  "lat" : 42.4521547197085,
+                  "lng" : -76.47528948029151
+               }
+            }
+         },
+         "place_id" : "ChIJA_u4VBmC0IkRjhbNXEPZN3s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cornell Botanic Gardens",
+               "short_name" : "Cornell Botanic Gardens",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "124",
+               "short_name" : "124",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Comstock Knoll Drive",
+               "short_name" : "Comstock Knoll Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tompkins County",
+               "short_name" : "Tompkins County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14850",
+               "short_name" : "14850",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cornell Botanic Gardens, 124 Comstock Knoll Dr, Ithaca, NY 14850, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4496189,
+               "lng" : -76.47284449999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.45096788029149,
+                  "lng" : -76.47149551970848
+               },
+               "southwest" : {
+                  "lat" : 42.44826991970849,
+                  "lng" : -76.47419348029149
+               }
+            }
+         },
+         "place_id" : "ChIJNxT1wh2C0IkRakvki8OhxWE",
+         "plus_code" : {
+            "compound_code" : "CGXG+RV Forest Home, Ithaca, NY, United States",
+            "global_code" : "87J5CGXG+RV"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Forest Home",
+               "short_name" : "Forest Home",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tompkins County",
+               "short_name" : "Tompkins County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14850",
+               "short_name" : "14850",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Forest Home, NY 14850, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.457616,
+                  "lng" : -76.45929
+               },
+               "southwest" : {
+                  "lat" : 42.448447,
+                  "lng" : -76.475116
+               }
+            },
+            "location" : {
+               "lat" : 42.4536838,
+               "lng" : -76.4679948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.457616,
+                  "lng" : -76.45929
+               },
+               "southwest" : {
+                  "lat" : 42.448447,
+                  "lng" : -76.475116
+               }
+            }
+         },
+         "place_id" : "ChIJn1zMVBuC0IkRGvXtqofiZgo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tompkins County",
+               "short_name" : "Tompkins County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ithaca, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4811489,
+                  "lng" : -76.445932
+               },
+               "southwest" : {
+                  "lat" : 42.3938,
+                  "lng" : -76.573033
+               }
+            },
+            "location" : {
+               "lat" : 42.4079163,
+               "lng" : -76.5372625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4811489,
+                  "lng" : -76.445932
+               },
+               "southwest" : {
+                  "lat" : 42.3938,
+                  "lng" : -76.573033
+               }
+            }
+         },
+         "place_id" : "ChIJLzjbC_yA0IkREYlHt04RM44",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14850",
+               "short_name" : "14850",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ithaca",
+               "short_name" : "Ithaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tompkins County",
+               "short_name" : "Tompkins County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ithaca, NY 14850, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.545595,
+                  "lng" : -76.3421429
+               },
+               "southwest" : {
+                  "lat" : 42.2810549,
+                  "lng" : -76.6895298
+               }
+            },
+            "location" : {
+               "lat" : 42.435511,
+               "lng" : -76.5257007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.545595,
+                  "lng" : -76.3421429
+               },
+               "southwest" : {
+                  "lat" : 42.2810549,
+                  "lng" : -76.6895298
+               }
+            }
+         },
+         "place_id" : "ChIJ8QPrieWA0IkRhMlVx--AuPo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tompkins County",
+               "short_name" : "Tompkins County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tompkins County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6274188,
+                  "lng" : -76.237695
+               },
+               "southwest" : {
+                  "lat" : 42.2629759,
+                  "lng" : -76.6966571
+               }
+            },
+            "location" : {
+               "lat" : 42.4575747,
+               "lng" : -76.5488232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6274188,
+                  "lng" : -76.237695
+               },
+               "southwest" : {
+                  "lat" : 42.2629759,
+                  "lng" : -76.6966571
+               }
+            }
+         },
+         "place_id" : "ChIJPdZvpB-C0IkRoFN9R7uJuuw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

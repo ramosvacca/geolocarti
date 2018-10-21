@@ -1,0 +1,484 @@
+{
+   "plus_code" : {
+      "compound_code" : "V524+V6 New York, NY, USA",
+      "global_code" : "87G8V524+V6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1925",
+               "short_name" : "1925",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eastchester Road",
+               "short_name" : "Eastchester Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Bronx",
+               "short_name" : "East Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1925 Eastchester Rd, Bronx, NY 10461, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8519709,
+               "lng" : -73.84424629999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8533198802915,
+                  "lng" : -73.8428973197085
+               },
+               "southwest" : {
+                  "lat" : 40.8506219197085,
+                  "lng" : -73.8455952802915
+               }
+            }
+         },
+         "place_id" : "ChIJbcZC8Kr0wokRTs35qC0S2Cc",
+         "plus_code" : {
+            "compound_code" : "V524+Q8 New York, United States",
+            "global_code" : "87G8V524+Q8"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1944",
+               "short_name" : "1944",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eastchester Road",
+               "short_name" : "Eastchester Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1944 Eastchester Rd, Bronx, NY 10461, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.851951,
+               "lng" : -73.8438079
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8532999802915,
+                  "lng" : -73.84245891970851
+               },
+               "southwest" : {
+                  "lat" : 40.8506020197085,
+                  "lng" : -73.84515688029151
+               }
+            }
+         },
+         "place_id" : "EikxOTQ0IEVhc3RjaGVzdGVyIFJkLCBCcm9ueCwgTlkgMTA0NjEsIFVTQSIbEhkKFAoSCaHHru6q9MKJEYedSIqgKuhUEJgP",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morris Park",
+               "short_name" : "Morris Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morris Park, Bronx, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.857679,
+                  "lng" : -73.8356029
+               },
+               "southwest" : {
+                  "lat" : 40.8429881,
+                  "lng" : -73.86516109999999
+               }
+            },
+            "location" : {
+               "lat" : 40.8522006,
+               "lng" : -73.8507279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.857679,
+                  "lng" : -73.8356029
+               },
+               "southwest" : {
+                  "lat" : 40.8429881,
+                  "lng" : -73.86516109999999
+               }
+            }
+         },
+         "place_id" : "ChIJ83kGJqn0wokRdI6WlPe_SCE",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bronx, NY 10461, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8592041,
+                  "lng" : -73.824444
+               },
+               "southwest" : {
+                  "lat" : 40.8320719,
+                  "lng" : -73.8619199
+               }
+            },
+            "location" : {
+               "lat" : 40.8476284,
+               "lng" : -73.8360251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8592041,
+                  "lng" : -73.824444
+               },
+               "southwest" : {
+                  "lat" : 40.8320719,
+                  "lng" : -73.8619199
+               }
+            }
+         },
+         "place_id" : "ChIJ5fiZO1OLwokRAo31R7X2qRA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bronx County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.74806
+               },
+               "southwest" : {
+                  "lat" : 40.7857429,
+                  "lng" : -73.933808
+               }
+            },
+            "location" : {
+               "lat" : 40.8370495,
+               "lng" : -73.86542949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.74806
+               },
+               "southwest" : {
+                  "lat" : 40.7857429,
+                  "lng" : -73.933808
+               }
+            }
+         },
+         "place_id" : "ChIJBUEf6ovgwokRwlazSIxIpsk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bronx, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.74806
+               },
+               "southwest" : {
+                  "lat" : 40.7857429,
+                  "lng" : -73.933808
+               }
+            },
+            "location" : {
+               "lat" : 40.8447819,
+               "lng" : -73.8648268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.74806
+               },
+               "southwest" : {
+                  "lat" : 40.7857429,
+                  "lng" : -73.933808
+               }
+            }
+         },
+         "place_id" : "ChIJsXxpOlWLwokRd1zxj6dDblU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -74.25908989999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7127753,
+               "lng" : -74.0059728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -74.25908989999999
+               }
+            }
+         },
+         "place_id" : "ChIJOwg_06VPwokRYv534QaPC8g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

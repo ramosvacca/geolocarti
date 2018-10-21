@@ -1,0 +1,179 @@
+{
+   "plus_code" : {
+      "compound_code" : "9993+VV Kofa, Cameroon",
+      "global_code" : "6FVJ9993+VV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangangte",
+               "short_name" : "Bangangte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "bp9394, yongambakop@yahoo.com, Bangangte, Cameroon",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.369721999999999,
+               "lng" : 12.354722
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.371070980291502,
+                  "lng" : 12.3560709802915
+               },
+               "southwest" : {
+                  "lat" : 7.368373019708497,
+                  "lng" : 12.3533730197085
+               }
+            }
+         },
+         "place_id" : "ChIJZTJGSgy88BARry5WI6pXvwo",
+         "plus_code" : {
+            "compound_code" : "9993+VV Kofa, Cameroon",
+            "global_code" : "6FVJ9993+VV"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faro-et-Deo",
+               "short_name" : "Faro-et-Deo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adamawa",
+               "short_name" : "Adamawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faro-et-Deo, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.1679932,
+                  "lng" : 13.0847168
+               },
+               "southwest" : {
+                  "lat" : 6.9158613,
+                  "lng" : 11.8267822
+               }
+            },
+            "location" : {
+               "lat" : 7.439948299999999,
+               "lng" : 12.2547919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.1679932,
+                  "lng" : 13.0847168
+               },
+               "southwest" : {
+                  "lat" : 6.9158613,
+                  "lng" : 11.8267822
+               }
+            }
+         },
+         "place_id" : "ChIJp6qiSjOf8BARwmgTOriU1AM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adamawa",
+               "short_name" : "Adamawa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adamawa, Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.169044899999999,
+                  "lng" : 15.2492441
+               },
+               "southwest" : {
+                  "lat" : 5.992985,
+                  "lng" : 11.173742
+               }
+            },
+            "location" : {
+               "lat" : 6.9181954,
+               "lng" : 12.8054753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.169044899999999,
+                  "lng" : 15.2492441
+               },
+               "southwest" : {
+                  "lat" : 5.992985,
+                  "lng" : 11.173742
+               }
+            }
+         },
+         "place_id" : "ChIJWwh3JNS18RARIt_y5d85GnE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.083335,
+                  "lng" : 16.1944081
+               },
+               "southwest" : {
+                  "lat" : 1.6559,
+                  "lng" : 8.3936001
+               }
+            },
+            "location" : {
+               "lat" : 7.369721999999999,
+               "lng" : 12.354722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.083335,
+                  "lng" : 16.1944081
+               },
+               "southwest" : {
+                  "lat" : 1.6559,
+                  "lng" : 8.3936001
+               }
+            }
+         },
+         "place_id" : "ChIJIQ8-cFM3YRARU5uCmUXEAys",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

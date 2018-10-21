@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "FRCH+Q8 Cassino, Province of Frosinone, Italy",
+      "global_code" : "8FHMFRCH+Q8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cassino",
+               "short_name" : "Cassino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cassino",
+               "short_name" : "Cassino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Frosinone",
+               "short_name" : "FR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03043",
+               "short_name" : "03043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale dell'Università, 03043 Cassino FR, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.471875,
+               "lng" : 13.828328
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4732239802915,
+                  "lng" : 13.8296769802915
+               },
+               "southwest" : {
+                  "lat" : 41.4705260197085,
+                  "lng" : 13.8269790197085
+               }
+            }
+         },
+         "place_id" : "ChIJa8nSGAy8OhMRlKWwqiUc3Do",
+         "plus_code" : {
+            "compound_code" : "FRCH+Q8 Cassino, Province of Frosinone, Italy",
+            "global_code" : "8FHMFRCH+Q8"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale dell'Università",
+               "short_name" : "Viale dell'Università",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cassino",
+               "short_name" : "Cassino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cassino",
+               "short_name" : "Cassino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Frosinone",
+               "short_name" : "FR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03043",
+               "short_name" : "03043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale dell'Università, 03043 Cassino FR, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4727393,
+                  "lng" : 13.8294698
+               },
+               "southwest" : {
+                  "lat" : 41.4686984,
+                  "lng" : 13.8270408
+               }
+            },
+            "location" : {
+               "lat" : 41.4707188,
+               "lng" : 13.8282553
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4727393,
+                  "lng" : 13.8296042802915
+               },
+               "southwest" : {
+                  "lat" : 41.4686984,
+                  "lng" : 13.8269063197085
+               }
+            }
+         },
+         "place_id" : "ChIJm9F_mq6-OhMRyrzEagAjqag",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cassino",
+               "short_name" : "Cassino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Frosinone",
+               "short_name" : "FR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03043",
+               "short_name" : "03043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "03043 Cassino, Province of Frosinone, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5444633,
+                  "lng" : 13.9082611
+               },
+               "southwest" : {
+                  "lat" : 41.4160389,
+                  "lng" : 13.7775598
+               }
+            },
+            "location" : {
+               "lat" : 41.4866953,
+               "lng" : 13.8332193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5444633,
+                  "lng" : 13.9082611
+               },
+               "southwest" : {
+                  "lat" : 41.4160389,
+                  "lng" : 13.7775598
+               }
+            }
+         },
+         "place_id" : "ChIJ4RCtqg68OhMR2xVd0pA5x9A",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "03043",
+               "short_name" : "03043",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cassino",
+               "short_name" : "Cassino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Frosinone",
+               "short_name" : "FR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "03043 Cassino, Province of Frosinone, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5444631,
+                  "lng" : 13.9082602
+               },
+               "southwest" : {
+                  "lat" : 41.41604,
+                  "lng" : 13.77756
+               }
+            },
+            "location" : {
+               "lat" : 41.4866953,
+               "lng" : 13.8332193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5444631,
+                  "lng" : 13.9082602
+               },
+               "southwest" : {
+                  "lat" : 41.41604,
+                  "lng" : 13.77756
+               }
+            }
+         },
+         "place_id" : "ChIJ622GMR-8OhMRMIRbGp5PCRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Province of Frosinone",
+               "short_name" : "Province of Frosinone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Province of Frosinone, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.955142,
+                  "lng" : 14.0276484
+               },
+               "southwest" : {
+                  "lat" : 41.3013499,
+                  "lng" : 12.9918714
+               }
+            },
+            "location" : {
+               "lat" : 41.6576528,
+               "lng" : 13.6362715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.955142,
+                  "lng" : 14.0276484
+               },
+               "southwest" : {
+                  "lat" : 41.3013499,
+                  "lng" : 12.9918714
+               }
+            }
+         },
+         "place_id" : "ChIJ0TefmORSJRMRIIE4sppPCQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lazio, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8387207,
+                  "lng" : 14.0276424
+               },
+               "southwest" : {
+                  "lat" : 40.7847377,
+                  "lng" : 11.4493842
+               }
+            },
+            "location" : {
+               "lat" : 41.6552418,
+               "lng" : 12.989615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8387207,
+                  "lng" : 14.0276424
+               },
+               "southwest" : {
+                  "lat" : 40.7847377,
+                  "lng" : 11.4493842
+               }
+            }
+         },
+         "place_id" : "ChIJNWU6NebuJBMRKYWj8WSQSm8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            },
+            "location" : {
+               "lat" : 41.87194,
+               "lng" : 12.56738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            }
+         },
+         "place_id" : "ChIJA9KNRIL-1BIRb15jJFz1LOI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

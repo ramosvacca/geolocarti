@@ -1,0 +1,469 @@
+{
+   "plus_code" : {
+      "compound_code" : "XQ69+W5 Edinburgh, UK",
+      "global_code" : "9C7RXQ69+W5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crewe Road South",
+               "short_name" : "Crewe Rd S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2XU, Crewe Rd S, Edinburgh, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.9623198,
+               "lng" : -3.2320709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9636687802915,
+                  "lng" : -3.230721919708498
+               },
+               "southwest" : {
+                  "lat" : 55.9609708197085,
+                  "lng" : -3.233419880291502
+               }
+            }
+         },
+         "place_id" : "ChIJ_yVWs8vHh0gRIy04friA66M",
+         "plus_code" : {
+            "compound_code" : "XQ69+W5 Edinburgh, United Kingdom",
+            "global_code" : "9C7RXQ69+W5"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrington Crescent",
+               "short_name" : "Carrington Cres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH4 2LF",
+               "short_name" : "EH4 2LF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carrington Cres, Edinburgh EH4 2LF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9625335,
+                  "lng" : -3.2310505
+               },
+               "southwest" : {
+                  "lat" : 55.9620159,
+                  "lng" : -3.2319048
+               }
+            },
+            "location" : {
+               "lat" : 55.9621437,
+               "lng" : -3.2316817
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9636236802915,
+                  "lng" : -3.230128669708498
+               },
+               "southwest" : {
+                  "lat" : 55.9609257197085,
+                  "lng" : -3.232826630291501
+               }
+            }
+         },
+         "place_id" : "ChIJv1fpOMrHh0gRKE3QD4pk5z8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "EH4 2SP",
+               "short_name" : "EH4 2SP",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh EH4 2SP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9630439,
+                  "lng" : -3.2295355
+               },
+               "southwest" : {
+                  "lat" : 55.9610706,
+                  "lng" : -3.2332993
+               }
+            },
+            "location" : {
+               "lat" : 55.96134379999999,
+               "lng" : -3.2309517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9634062302915,
+                  "lng" : -3.2295355
+               },
+               "southwest" : {
+                  "lat" : 55.9607082697085,
+                  "lng" : -3.2332993
+               }
+            }
+         },
+         "place_id" : "ChIJZSVqEcrHh0gR7BtlWIIt2Dk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "EH4",
+               "short_name" : "EH4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh EH4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.98435120000001,
+                  "lng" : -3.2085515
+               },
+               "southwest" : {
+                  "lat" : 55.9481788,
+                  "lng" : -3.3277526
+               }
+            },
+            "location" : {
+               "lat" : 55.964883,
+               "lng" : -3.2739219
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.98435120000001,
+                  "lng" : -3.2085515
+               },
+               "southwest" : {
+                  "lat" : 55.9481788,
+                  "lng" : -3.3277526
+               }
+            }
+         },
+         "place_id" : "ChIJ684ErNjFh0gR6l_qV3bALwE",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9919939,
+                  "lng" : -3.0776588
+               },
+               "southwest" : {
+                  "lat" : 55.8904228,
+                  "lng" : -3.3330187
+               }
+            },
+            "location" : {
+               "lat" : 55.953252,
+               "lng" : -3.188267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9919939,
+                  "lng" : -3.0776588
+               },
+               "southwest" : {
+                  "lat" : 55.8904228,
+                  "lng" : -3.3330187
+               }
+            }
+         },
+         "place_id" : "ChIJIyaYpQC4h0gRJxfnfHsU8mQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9918179,
+                  "lng" : -3.0776611
+               },
+               "southwest" : {
+                  "lat" : 55.8628341,
+                  "lng" : -3.3897266
+               }
+            },
+            "location" : {
+               "lat" : 55.91658779999999,
+               "lng" : -3.2023923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9918179,
+                  "lng" : -3.0776611
+               },
+               "southwest" : {
+                  "lat" : 55.8628341,
+                  "lng" : -3.3897266
+               }
+            }
+         },
+         "place_id" : "ChIJN3QkLv3Gh0gRvnsA3JpExbY",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0126076,
+                  "lng" : -3.074951
+               },
+               "southwest" : {
+                  "lat" : 55.8187943,
+                  "lng" : -3.4495325
+               }
+            },
+            "location" : {
+               "lat" : 55.9530614,
+               "lng" : -3.187946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0126076,
+                  "lng" : -3.074951
+               },
+               "southwest" : {
+                  "lat" : 55.8187943,
+                  "lng" : -3.4495325
+               }
+            }
+         },
+         "place_id" : "ChIJUXnOUJTGh0gRwLNCBhpoDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Scotland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            },
+            "location" : {
+               "lat" : 56.49067119999999,
+               "lng" : -4.2026458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            }
+         },
+         "place_id" : "ChIJn6HyA8TiYUgRFAfDCdj6wec",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

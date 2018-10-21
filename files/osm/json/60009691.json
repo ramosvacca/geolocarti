@@ -1,0 +1,431 @@
+{
+   "plus_code" : {
+      "compound_code" : "29FJ+H8 Chernogolovka, Moscow Oblast, Russia",
+      "global_code" : "9G8W29FJ+H8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ulitsa Akademika Osip'yana",
+               "short_name" : "Ulitsa Akademika Osip'yana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chernogolovka",
+               "short_name" : "Chernogolovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorod Chernogolovka",
+               "short_name" : "Gorod Chernogolovka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast'",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142432",
+               "short_name" : "142432",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ulitsa Akademika Osip'yana, 8, Chernogolovka, Moskovskaya oblast', Russia, 142432",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.0238922,
+               "lng" : 38.3808691
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.02524118029149,
+                  "lng" : 38.38221808029149
+               },
+               "southwest" : {
+                  "lat" : 56.0225432197085,
+                  "lng" : 38.37952011970849
+               }
+            }
+         },
+         "place_id" : "ChIJm_BTwV8pS0EREi1WtvGxkso",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Институтская улица",
+               "short_name" : "Институтская ул.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chernogolovka",
+               "short_name" : "Chernogolovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorod Chernogolovka",
+               "short_name" : "Gorod Chernogolovka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast'",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142432",
+               "short_name" : "142432",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Институтская ул., 8, Chernogolovka, Moskovskaya oblast', Russia, 142432",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.023986,
+               "lng" : 38.380973
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0253349802915,
+                  "lng" : 38.38232198029149
+               },
+               "southwest" : {
+                  "lat" : 56.0226370197085,
+                  "lng" : 38.3796240197085
+               }
+            }
+         },
+         "place_id" : "ChIJKfClpuUrS0EReWzxINLcQcg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ulitsa Akademika Osip'yana",
+               "short_name" : "Ulitsa Akademika Osip'yana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chernogolovka",
+               "short_name" : "Chernogolovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorod Chernogolovka",
+               "short_name" : "Gorod Chernogolovka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast'",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142432",
+               "short_name" : "142432",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ulitsa Akademika Osip'yana, Chernogolovka, Moskovskaya oblast', Russia, 142432",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.02682369999999,
+                  "lng" : 38.3805801
+               },
+               "southwest" : {
+                  "lat" : 56.0225927,
+                  "lng" : 38.37418340000001
+               }
+            },
+            "location" : {
+               "lat" : 56.0247082,
+               "lng" : 38.37738179999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.02682369999999,
+                  "lng" : 38.3805801
+               },
+               "southwest" : {
+                  "lat" : 56.0225927,
+                  "lng" : 38.37418340000001
+               }
+            }
+         },
+         "place_id" : "ChIJuTgnk-UrS0ERCilla49LXyA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chernogolovka",
+               "short_name" : "Chernogolovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Noginsky District",
+               "short_name" : "Noginsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow Oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142432",
+               "short_name" : "142432",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chernogolovka, Moscow Oblast, Russia, 142432",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0309359,
+                  "lng" : 38.421084
+               },
+               "southwest" : {
+                  "lat" : 55.98668499999999,
+                  "lng" : 38.349861
+               }
+            },
+            "location" : {
+               "lat" : 56.0096238,
+               "lng" : 38.3853085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0309359,
+                  "lng" : 38.421084
+               },
+               "southwest" : {
+                  "lat" : 55.98668499999999,
+                  "lng" : 38.349861
+               }
+            }
+         },
+         "place_id" : "ChIJ6QUJt18pS0ERS1JsWTJo9g0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorod Chernogolovka",
+               "short_name" : "Gorod Chernogolovka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow Oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gorod Chernogolovka, Moscow Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.088117,
+                  "lng" : 38.47291920000001
+               },
+               "southwest" : {
+                  "lat" : 55.977145,
+                  "lng" : 38.265216
+               }
+            },
+            "location" : {
+               "lat" : 56.0063026,
+               "lng" : 38.3738749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.088117,
+                  "lng" : 38.47291920000001
+               },
+               "southwest" : {
+                  "lat" : 55.977145,
+                  "lng" : 38.265216
+               }
+            }
+         },
+         "place_id" : "ChIJU8aa0yoqS0ERRr9sszUNT7o",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "142432",
+               "short_name" : "142432",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Moscow Oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moscow Oblast, Russia, 142432",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.08729100000001,
+                  "lng" : 38.46982310000001
+               },
+               "southwest" : {
+                  "lat" : 55.939086,
+                  "lng" : 38.286855
+               }
+            },
+            "location" : {
+               "lat" : 56.01103269999999,
+               "lng" : 38.3545969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.08729100000001,
+                  "lng" : 38.46982310000001
+               },
+               "southwest" : {
+                  "lat" : 55.939086,
+                  "lng" : 38.286855
+               }
+            }
+         },
+         "place_id" : "ChIJazg4D2EpS0ERytesdzKgwmQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moscow Oblast",
+               "short_name" : "Moscow Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moscow Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.962834,
+                  "lng" : 40.2060071
+               },
+               "southwest" : {
+                  "lat" : 54.254261,
+                  "lng" : 35.149022
+               }
+            },
+            "location" : {
+               "lat" : 55.340396,
+               "lng" : 38.2917651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.962834,
+                  "lng" : 40.2060071
+               },
+               "southwest" : {
+                  "lat" : 54.254261,
+                  "lng" : 35.149022
+               }
+            }
+         },
+         "place_id" : "ChIJ2cXDsDGySkERQvLeO8CzDJE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,359 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue du Docteur Audigier",
+               "short_name" : "Rue du Dr Audigier",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Le Chesnay",
+               "short_name" : "Le Chesnay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "Yvelines",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78150",
+               "short_name" : "78150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12 Rue du Dr Audigier, 78150 Le Chesnay, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.82560369999999,
+               "lng" : 2.1306359
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.82695268029149,
+                  "lng" : 2.131984880291502
+               },
+               "southwest" : {
+                  "lat" : 48.82425471970849,
+                  "lng" : 2.129286919708498
+               }
+            }
+         },
+         "place_id" : "ChIJ-WGq3QV95kcRajGMuhSvmRc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Le Chesnay",
+               "short_name" : "Le Chesnay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "Yvelines",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78150",
+               "short_name" : "78150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "78150 Le Chesnay, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8368939,
+                  "lng" : 2.1484639
+               },
+               "southwest" : {
+                  "lat" : 48.8139731,
+                  "lng" : 2.1125918
+               }
+            },
+            "location" : {
+               "lat" : 48.82541500000001,
+               "lng" : 2.130544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8368939,
+                  "lng" : 2.1484639
+               },
+               "southwest" : {
+                  "lat" : 48.8139731,
+                  "lng" : 2.1125918
+               }
+            }
+         },
+         "place_id" : "ChIJZ0DhTAF95kcRBf65J29J5mI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "78150",
+               "short_name" : "78150",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Le Chesnay",
+               "short_name" : "Le Chesnay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "Yvelines",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "78150 Le Chesnay, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8430837,
+                  "lng" : 2.1484167
+               },
+               "southwest" : {
+                  "lat" : 48.8140003,
+                  "lng" : 2.0891767
+               }
+            },
+            "location" : {
+               "lat" : 48.8252678,
+               "lng" : 2.1234616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8430837,
+                  "lng" : 2.1484167
+               },
+               "southwest" : {
+                  "lat" : 48.8140003,
+                  "lng" : 2.0891767
+               }
+            }
+         },
+         "place_id" : "ChIJa7YIMA195kcRcG_Y4caCCxw",
+         "postcode_localities" : [ "Le Chesnay", "Rocquencourt" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "Yvelines",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yvelines, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0854481,
+                  "lng" : 2.2291269
+               },
+               "southwest" : {
+                  "lat" : 48.43855689999999,
+                  "lng" : 1.44617
+               }
+            },
+            "location" : {
+               "lat" : 48.7850939,
+               "lng" : 1.8256572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0854481,
+                  "lng" : 2.2291269
+               },
+               "southwest" : {
+                  "lat" : 48.43855689999999,
+                  "lng" : 1.44617
+               }
+            }
+         },
+         "place_id" : "ChIJ2c8x_zyc5kcRYCqLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Île-de-France, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            },
+            "location" : {
+               "lat" : 48.8499198,
+               "lng" : 2.6370411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            }
+         },
+         "place_id" : "ChIJF4ymA8Th5UcRcCWLaMOCCwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris Metropolitan Area",
+               "short_name" : "Paris Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paris Metropolitan Area, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            },
+            "location" : {
+               "lat" : 48.8575712,
+               "lng" : 2.2771715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            }
+         },
+         "place_id" : "ChIJW36m20gL5kcRiMnAEpHgyq8",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

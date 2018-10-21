@@ -1,0 +1,505 @@
+{
+   "plus_code" : {
+      "compound_code" : "6CJR+J3 Marseille, France",
+      "global_code" : "8FM76CJR+J3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "163",
+               "short_name" : "163",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue de Luminy",
+               "short_name" : "Avenue de Luminy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhône",
+               "short_name" : "Bouches-du-Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13009",
+               "short_name" : "13009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "163 Avenue de Luminy, 13009 Marseille, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2316089,
+               "lng" : 5.4401798
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2329578802915,
+                  "lng" : 5.441528780291502
+               },
+               "southwest" : {
+                  "lat" : 43.2302599197085,
+                  "lng" : 5.438830819708498
+               }
+            }
+         },
+         "place_id" : "ChIJjQmjqf24yRIRlMHnugdEnOQ",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhône",
+               "short_name" : "Bouches-du-Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13009",
+               "short_name" : "13009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 13009 Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.232307,
+                  "lng" : 5.4419881
+               },
+               "southwest" : {
+                  "lat" : 43.2317652,
+                  "lng" : 5.4405399
+               }
+            },
+            "location" : {
+               "lat" : 43.23203609999999,
+               "lng" : 5.441263999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.23338508029151,
+                  "lng" : 5.442612980291503
+               },
+               "southwest" : {
+                  "lat" : 43.23068711970851,
+                  "lng" : 5.439915019708498
+               }
+            }
+         },
+         "place_id" : "ChIJuQTNg665yRIRat3aTossPmg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redon",
+               "short_name" : "Redon",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhône",
+               "short_name" : "Bouches-du-Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13009",
+               "short_name" : "13009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Redon, 13009 Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2502305,
+                  "lng" : 5.4703205
+               },
+               "southwest" : {
+                  "lat" : 43.2092997,
+                  "lng" : 5.413196
+               }
+            },
+            "location" : {
+               "lat" : 43.23458979999999,
+               "lng" : 5.4386388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2502305,
+                  "lng" : 5.4703205
+               },
+               "southwest" : {
+                  "lat" : 43.2092997,
+                  "lng" : 5.413196
+               }
+            }
+         },
+         "place_id" : "ChIJ1eejA6W5yRIRQ6wIldQWhlc",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13009",
+               "short_name" : "13009",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "Bouches-du-Rhone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "13009 Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2761063,
+                  "lng" : 5.5263677
+               },
+               "southwest" : {
+                  "lat" : 43.1973118,
+                  "lng" : 5.378361099999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2290357,
+               "lng" : 5.4463322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2761063,
+                  "lng" : 5.5263677
+               },
+               "southwest" : {
+                  "lat" : 43.1973118,
+                  "lng" : 5.378361099999999
+               }
+            }
+         },
+         "place_id" : "ChIJHfQExaC5yRIRwMy2UKkZCBw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9th arrondissement of Marseille",
+               "short_name" : "9th arrondissement of Marseille",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "Bouches-du-Rhone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13009",
+               "short_name" : "13009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9th arrondissement of Marseille, 13009 Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2761119,
+                  "lng" : 5.526148999999999
+               },
+               "southwest" : {
+                  "lat" : 43.19716589999999,
+                  "lng" : 5.3784219
+               }
+            },
+            "location" : {
+               "lat" : 43.2290357,
+               "lng" : 5.4463322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2761119,
+                  "lng" : 5.526148999999999
+               },
+               "southwest" : {
+                  "lat" : 43.19716589999999,
+                  "lng" : 5.3784219
+               }
+            }
+         },
+         "place_id" : "ChIJHfQExaC5yRIRQBqY_aUZCAU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "Bouches-du-Rhone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3911601,
+                  "lng" : 5.5323519
+               },
+               "southwest" : {
+                  "lat" : 43.169621,
+                  "lng" : 5.228641
+               }
+            },
+            "location" : {
+               "lat" : 43.296482,
+               "lng" : 5.36978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3911601,
+                  "lng" : 5.5323519
+               },
+               "southwest" : {
+                  "lat" : 43.169621,
+                  "lng" : 5.228641
+               }
+            }
+         },
+         "place_id" : "ChIJM1PaREO_yRIRIAKX_aUZCAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "Bouches-du-Rhone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bouches-du-Rhone, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.924136,
+                  "lng" : 5.8134309
+               },
+               "southwest" : {
+                  "lat" : 43.1573841,
+                  "lng" : 4.230207
+               }
+            },
+            "location" : {
+               "lat" : 43.59116789999999,
+               "lng" : 5.3102505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.924136,
+                  "lng" : 5.8134309
+               },
+               "southwest" : {
+                  "lat" : 43.1573841,
+                  "lng" : 4.230207
+               }
+            }
+         },
+         "place_id" : "ChIJWxNFLN8CthIRQCaP_aUZCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Provence-Alpes-Côte d'Azur, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 4.230207
+               }
+            },
+            "location" : {
+               "lat" : 43.9351691,
+               "lng" : 6.0679194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 4.230207
+               }
+            }
+         },
+         "place_id" : "ChIJrVP5ihlothIRp9EWPSaQFrc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

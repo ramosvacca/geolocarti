@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "CRXR+P2 Palo Alto, CA, USA",
+      "global_code" : "849VCRXR+P2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lytton Avenue",
+               "short_name" : "Lytton Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown North",
+               "short_name" : "Downtown North",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Palo Alto",
+               "short_name" : "Palo Alto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94301",
+               "short_name" : "94301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "530 Lytton Ave, Palo Alto, CA 94301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4493401,
+               "lng" : -122.1599696
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4506890802915,
+                  "lng" : -122.1586206197085
+               },
+               "southwest" : {
+                  "lat" : 37.4479911197085,
+                  "lng" : -122.1613185802915
+               }
+            }
+         },
+         "place_id" : "ChIJ47xiiDi7j4AR9o5vQHLVeAk",
+         "plus_code" : {
+            "compound_code" : "CRXR+P2 Palo Alto, California, United States",
+            "global_code" : "849VCRXR+P2"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown North",
+               "short_name" : "Downtown North",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Palo Alto",
+               "short_name" : "Palo Alto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown North, Palo Alto, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.453938,
+                  "lng" : -122.1569753
+               },
+               "southwest" : {
+                  "lat" : 37.443238,
+                  "lng" : -122.1707751
+               }
+            },
+            "location" : {
+               "lat" : 37.449636,
+               "lng" : -122.1646708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.453938,
+                  "lng" : -122.1569753
+               },
+               "southwest" : {
+                  "lat" : 37.443238,
+                  "lng" : -122.1707751
+               }
+            }
+         },
+         "place_id" : "ChIJlxo-_Te7j4AR6r5kc76od0E",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94301",
+               "short_name" : "94301",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Palo Alto",
+               "short_name" : "Palo Alto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palo Alto, CA 94301, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4581999,
+                  "lng" : -122.1304251
+               },
+               "southwest" : {
+                  "lat" : 37.42523,
+                  "lng" : -122.171706
+               }
+            },
+            "location" : {
+               "lat" : 37.4457966,
+               "lng" : -122.1575745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4581999,
+                  "lng" : -122.1304251
+               },
+               "southwest" : {
+                  "lat" : 37.42523,
+                  "lng" : -122.171706
+               }
+            }
+         },
+         "place_id" : "ChIJbfq2kBe7j4ARBzf9LVIpZok",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palo Alto",
+               "short_name" : "Palo Alto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palo Alto, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.477838,
+                  "lng" : -122.0688679
+               },
+               "southwest" : {
+                  "lat" : 37.2853458,
+                  "lng" : -122.202476
+               }
+            },
+            "location" : {
+               "lat" : 37.4418834,
+               "lng" : -122.1430195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.477838,
+                  "lng" : -122.0688679
+               },
+               "southwest" : {
+                  "lat" : 37.2853458,
+                  "lng" : -122.202476
+               }
+            }
+         },
+         "place_id" : "ChIJORy6nXuwj4ARz3b1NVL1Hw4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Clara County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            },
+            "location" : {
+               "lat" : 37.3336581,
+               "lng" : -121.8907041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            }
+         },
+         "place_id" : "ChIJd_Y0eVIvkIARuQyDN0F1LBA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

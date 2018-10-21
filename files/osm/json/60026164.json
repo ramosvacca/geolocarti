@@ -1,0 +1,316 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "205",
+               "short_name" : "205",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue Agropolis",
+               "short_name" : "Avenue Agropolis",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montferrier-sur-Lez",
+               "short_name" : "Montferrier-sur-Lez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hérault",
+               "short_name" : "Hérault",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34980",
+               "short_name" : "34980",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "205 Avenue Agropolis, 34980 Montferrier-sur-Lez, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6499422,
+               "lng" : 3.8668812
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65129118029149,
+                  "lng" : 3.868230180291502
+               },
+               "southwest" : {
+                  "lat" : 43.64859321970849,
+                  "lng" : 3.865532219708498
+               }
+            }
+         },
+         "place_id" : "EjcyMDUgQXZlbnVlIEFncm9wb2xpcywgMzQ5ODAgTW9udGZlcnJpZXItc3VyLUxleiwgRnJhbmNlIhsSGQoUChIJz9bTL9WothIRHNXfCQu0DfUQzQE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montferrier-sur-Lez",
+               "short_name" : "Montferrier-sur-Lez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hérault",
+               "short_name" : "Hérault",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montferrier-sur-Lez, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.687701,
+                  "lng" : 3.883255
+               },
+               "southwest" : {
+                  "lat" : 43.647729,
+                  "lng" : 3.840993
+               }
+            },
+            "location" : {
+               "lat" : 43.67182400000001,
+               "lng" : 3.859265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.687701,
+                  "lng" : 3.883255
+               },
+               "southwest" : {
+                  "lat" : 43.647729,
+                  "lng" : 3.840993
+               }
+            }
+         },
+         "place_id" : "ChIJF7K22iGpthIRgMRqFiGIBwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "34980",
+               "short_name" : "34980",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Montferrier-sur-Lez",
+               "short_name" : "Montferrier-sur-Lez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hérault",
+               "short_name" : "Hérault",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "34980 Montferrier-sur-Lez, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7398761,
+                  "lng" : 3.8832696
+               },
+               "southwest" : {
+                  "lat" : 43.6477164,
+                  "lng" : 3.7191272
+               }
+            },
+            "location" : {
+               "lat" : 43.6801859,
+               "lng" : 3.7943157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7398761,
+                  "lng" : 3.8832696
+               },
+               "southwest" : {
+                  "lat" : 43.6477164,
+                  "lng" : 3.7191272
+               }
+            }
+         },
+         "place_id" : "ChIJF9fp2kuqthIRcAGNaSSIBxw",
+         "postcode_localities" : [
+            "Combaillaux",
+            "Montferrier-sur-Lez",
+            "Murles",
+            "Saint-Clément-de-Rivière",
+            "Saint-Gély-du-Fesc"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hérault",
+               "short_name" : "Hérault",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hérault, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9727599,
+                  "lng" : 4.1945401
+               },
+               "southwest" : {
+                  "lat" : 43.2102099,
+                  "lng" : 2.539549
+               }
+            },
+            "location" : {
+               "lat" : 43.5912356,
+               "lng" : 3.2583626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9727599,
+                  "lng" : 4.1945401
+               },
+               "southwest" : {
+                  "lat" : 43.2102099,
+                  "lng" : 2.539549
+               }
+            }
+         },
+         "place_id" : "ChIJ7TGrfiZmsRIRoCdlFiGIBwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Occitanie",
+               "short_name" : "Occitanie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Occitanie, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.046684,
+                  "lng" : 4.8455639
+               },
+               "southwest" : {
+                  "lat" : 42.333014,
+                  "lng" : -0.327159
+               }
+            },
+            "location" : {
+               "lat" : 43.8927232,
+               "lng" : 3.2827625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.046684,
+                  "lng" : 4.8455639
+               },
+               "southwest" : {
+                  "lat" : 42.333014,
+                  "lng" : -0.327159
+               }
+            }
+         },
+         "place_id" : "ChIJR21206wDshIRXMk7aLMSs6s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

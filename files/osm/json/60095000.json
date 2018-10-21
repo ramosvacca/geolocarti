@@ -1,0 +1,371 @@
+{
+   "plus_code" : {
+      "compound_code" : "972C+85 São Paulo, State of São Paulo, Brazil",
+      "global_code" : "588M972C+85"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "215",
+               "short_name" : "215",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Maria Coelho Aguiar",
+               "short_name" : "Av. Maria Coelho Aguiar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim São Luís",
+               "short_name" : "Jardim São Luís",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05804-900",
+               "short_name" : "05804-900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Maria Coelho Aguiar, 215 - Jardim São Luís, São Paulo - SP, 05804-900, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.6491528,
+               "lng" : -46.7295289
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6478038197085,
+                  "lng" : -46.7281799197085
+               },
+               "southwest" : {
+                  "lat" : -23.6505017802915,
+                  "lng" : -46.73087788029149
+               }
+            }
+         },
+         "place_id" : "ChIJWxQXdW1RzpQR6SvLnoSep-E",
+         "plus_code" : {
+            "compound_code" : "972C+85 São Paulo, State of São Paulo, Brazil",
+            "global_code" : "588M972C+85"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "05802",
+               "short_name" : "05802",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Jardim São Luís (Zona Sul)",
+               "short_name" : "Jardim São Luís (Zona Sul)",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jardim São Luís (Zona Sul), São Paulo - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.6449206,
+                  "lng" : -46.7237596
+               },
+               "southwest" : {
+                  "lat" : -23.651611,
+                  "lng" : -46.7311154
+               }
+            },
+            "location" : {
+               "lat" : -23.6482468,
+               "lng" : -46.72730079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6449206,
+                  "lng" : -46.7237596
+               },
+               "southwest" : {
+                  "lat" : -23.651611,
+                  "lng" : -46.7311154
+               }
+            }
+         },
+         "place_id" : "ChIJxYp8QA1RzpQRl3URSWosCJE",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jardim São Luís (Zona Sul)",
+               "short_name" : "Jardim São Luís (Zona Sul)",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jardim São Luís (Zona Sul), São Paulo - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.6446934,
+                  "lng" : -46.7091736
+               },
+               "southwest" : {
+                  "lat" : -23.6677227,
+                  "lng" : -46.7442624
+               }
+            },
+            "location" : {
+               "lat" : -23.6531783,
+               "lng" : -46.73454359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6446934,
+                  "lng" : -46.7091736
+               },
+               "southwest" : {
+                  "lat" : -23.6677227,
+                  "lng" : -46.7442624
+               }
+            }
+         },
+         "place_id" : "ChIJQePRnApRzpQR5jwN7FPHWNU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.356293,
+                  "lng" : -46.3650838
+               },
+               "southwest" : {
+                  "lat" : -24.0084309,
+                  "lng" : -46.826199
+               }
+            },
+            "location" : {
+               "lat" : -23.6503225,
+               "lng" : -46.70917670000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.356293,
+                  "lng" : -46.3650838
+               },
+               "southwest" : {
+                  "lat" : -24.0084309,
+                  "lng" : -46.826199
+               }
+            }
+         },
+         "place_id" : "ChIJ9cXwmIFEzpQR7-ebZCySXMo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo, State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.3566039,
+                  "lng" : -46.3650844
+               },
+               "southwest" : {
+                  "lat" : -24.0082209,
+                  "lng" : -46.825514
+               }
+            },
+            "location" : {
+               "lat" : -23.5505199,
+               "lng" : -46.63330939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.3566039,
+                  "lng" : -46.3650844
+               },
+               "southwest" : {
+                  "lat" : -24.0082209,
+                  "lng" : -46.825514
+               }
+            }
+         },
+         "place_id" : "ChIJ0WGkg4FEzpQRrlsz_whLqZs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "State of São Paulo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            },
+            "location" : {
+               "lat" : -23.5431786,
+               "lng" : -46.6291845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            }
+         },
+         "place_id" : "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

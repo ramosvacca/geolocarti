@@ -1,0 +1,361 @@
+{
+   "plus_code" : {
+      "compound_code" : "8RGC+F3 Mexico City, CDMX, Mexico",
+      "global_code" : "76F28RGC+F3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Universitaria",
+               "short_name" : "Ciudad Universitaria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04510",
+               "short_name" : "04510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Circuito Exterior S/N, Circuito de la Investigación Científica, Ciudad Universitaria, 04510 Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.326126,
+               "lng" : -99.179761
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3274749802915,
+                  "lng" : -99.17841201970849
+               },
+               "southwest" : {
+                  "lat" : 19.3247770197085,
+                  "lng" : -99.18110998029151
+               }
+            }
+         },
+         "place_id" : "ChIJYbYlRAUAzoURIFrrn4kRmM8",
+         "plus_code" : {
+            "compound_code" : "8RGC+F3 Mexico City, Mexico",
+            "global_code" : "76F28RGC+F3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ciudad Universitaria",
+               "short_name" : "CU UNAM",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Ciudad Universitaria, Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3263475,
+                  "lng" : -99.1796756
+               },
+               "southwest" : {
+                  "lat" : 19.3261672,
+                  "lng" : -99.18013119999999
+               }
+            },
+            "location" : {
+               "lat" : 19.3262574,
+               "lng" : -99.1799034
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3276063302915,
+                  "lng" : -99.1785544197085
+               },
+               "southwest" : {
+                  "lat" : 19.3249083697085,
+                  "lng" : -99.18125238029151
+               }
+            }
+         },
+         "place_id" : "ChIJh_MzQQUAzoUR-GtZqNxbiKE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University City",
+               "short_name" : "University City",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University City, Mexico City, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.336989,
+                  "lng" : -99.16908760000001
+               },
+               "southwest" : {
+                  "lat" : 19.3063059,
+                  "lng" : -99.20122920000001
+               }
+            },
+            "location" : {
+               "lat" : 19.3188895,
+               "lng" : -99.1843676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.336989,
+                  "lng" : -99.16908760000001
+               },
+               "southwest" : {
+                  "lat" : 19.3063059,
+                  "lng" : -99.20122920000001
+               }
+            }
+         },
+         "place_id" : "ChIJG5qXIAkAzoURTYC6BwI8n3w",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coyoacán",
+               "short_name" : "Coyoacán",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coyoacán, Mexico City, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3595682,
+                  "lng" : -99.0990762
+               },
+               "southwest" : {
+                  "lat" : 19.2968369,
+                  "lng" : -99.2057521
+               }
+            },
+            "location" : {
+               "lat" : 19.3437444,
+               "lng" : -99.1561883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3595682,
+                  "lng" : -99.0990762
+               },
+               "southwest" : {
+                  "lat" : 19.2968369,
+                  "lng" : -99.2057521
+               }
+            }
+         },
+         "place_id" : "ChIJwy80ES4AzoURgODUMdhnJpo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico City, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            },
+            "location" : {
+               "lat" : 19.4326077,
+               "lng" : -99.133208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            }
+         },
+         "place_id" : "ChIJB3UJ2yYAzoURQeheJnYQBlQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico City, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.0482366,
+                  "lng" : -99.36492419999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2464696,
+               "lng" : -99.10134979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.0482366,
+                  "lng" : -99.36492419999999
+               }
+            }
+         },
+         "place_id" : "ChIJJyk1sTYAzoURW4rR6E6e_d4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

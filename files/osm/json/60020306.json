@@ -1,0 +1,245 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ammerländer Heerstraße",
+               "short_name" : "Ammerländer Heerstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oldenburg",
+               "short_name" : "Oldenburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26129",
+               "short_name" : "26129",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ammerländer Heerstraße 114, 26129 Oldenburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.146873,
+               "lng" : 8.181317
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1482219802915,
+                  "lng" : 8.182665980291501
+               },
+               "southwest" : {
+                  "lat" : 53.1455240197085,
+                  "lng" : 8.179968019708497
+               }
+            }
+         },
+         "place_id" : "ChIJvQsD8MnftkcRjdHAoHzyJQE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oldenburg",
+               "short_name" : "Oldenburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oldenburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2047664,
+                  "lng" : 8.312276600000001
+               },
+               "southwest" : {
+                  "lat" : 53.0832715,
+                  "lng" : 8.129192699999999
+               }
+            },
+            "location" : {
+               "lat" : 53.1434501,
+               "lng" : 8.214552099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2047664,
+                  "lng" : 8.312276600000001
+               },
+               "southwest" : {
+                  "lat" : 53.0832715,
+                  "lng" : 8.129192699999999
+               }
+            }
+         },
+         "place_id" : "ChIJs2m2tVPetkcRZUiFrRvLHO0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26129",
+               "short_name" : "26129",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oldenburg",
+               "short_name" : "Oldenburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "26129 Oldenburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.17880700000001,
+                  "lng" : 8.194141
+               },
+               "southwest" : {
+                  "lat" : 53.12946909999999,
+                  "lng" : 8.144043099999999
+               }
+            },
+            "location" : {
+               "lat" : 53.1479457,
+               "lng" : 8.175364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17880700000001,
+                  "lng" : 8.194141
+               },
+               "southwest" : {
+                  "lat" : 53.12946909999999,
+                  "lng" : 8.144043099999999
+               }
+            }
+         },
+         "place_id" : "ChIJFZzrntLftkcRQKY8qnrPJhw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lower Saxony, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8922841,
+                  "lng" : 11.5982056
+               },
+               "southwest" : {
+                  "lat" : 51.29506740000001,
+                  "lng" : 6.6538789
+               }
+            },
+            "location" : {
+               "lat" : 52.6367036,
+               "lng" : 9.845076600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8922841,
+                  "lng" : 11.5982056
+               },
+               "southwest" : {
+                  "lat" : 51.29506740000001,
+                  "lng" : 6.6538789
+               }
+            }
+         },
+         "place_id" : "ChIJZTST8-ORsEcRAHkCY3fPJgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

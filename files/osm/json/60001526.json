@@ -1,0 +1,362 @@
+{
+   "plus_code" : {
+      "compound_code" : "F644+36 Mississippi State, MS, USA",
+      "global_code" : "865HF644+36"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B. S. Hood Road",
+               "short_name" : "B. S. Hood Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Starkville",
+               "short_name" : "Starkville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oktibbeha County",
+               "short_name" : "Oktibbeha County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39759",
+               "short_name" : "39759",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B. S. Hood Rd, Starkville, MS 39759, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.4551742,
+               "lng" : -88.79437659999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4565231802915,
+                  "lng" : -88.7930276197085
+               },
+               "southwest" : {
+                  "lat" : 33.45382521970851,
+                  "lng" : -88.7957255802915
+               }
+            }
+         },
+         "place_id" : "ChIJqwF75D41gYgRK3IANU9C8Xs",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "798",
+               "short_name" : "798",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Russell Street",
+               "short_name" : "Russell St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Starkville",
+               "short_name" : "Starkville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39759",
+               "short_name" : "39759",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "798 Russell St, Starkville, MS 39759, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.4553794,
+               "lng" : -88.7949531
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4567283802915,
+                  "lng" : -88.79360411970849
+               },
+               "southwest" : {
+                  "lat" : 33.4540304197085,
+                  "lng" : -88.79630208029151
+               }
+            }
+         },
+         "place_id" : "Eik3OTggUnVzc2VsbCBTdCwgU3Rhcmt2aWxsZSwgTVMgMzk3NTksIFVTQSIbEhkKFAoSCb_df883NYGIEdJDwsxPMZAEEJ4G",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mississippi State",
+               "short_name" : "Mississippi State",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oktibbeha County",
+               "short_name" : "Oktibbeha County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39759",
+               "short_name" : "39759",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mississippi State, MS 39759, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.47433,
+                  "lng" : -88.7765139
+               },
+               "southwest" : {
+                  "lat" : 33.431284,
+                  "lng" : -88.80363
+               }
+            },
+            "location" : {
+               "lat" : 33.4555279,
+               "lng" : -88.79038679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.47433,
+                  "lng" : -88.7765139
+               },
+               "southwest" : {
+                  "lat" : 33.431284,
+                  "lng" : -88.80363
+               }
+            }
+         },
+         "place_id" : "ChIJ21Ji90o1gYgRPH_WwJEyzPI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "39759",
+               "short_name" : "39759",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Starkville",
+               "short_name" : "Starkville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Starkville, MS 39759, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5821279,
+                  "lng" : -88.63588799999999
+               },
+               "southwest" : {
+                  "lat" : 33.259705,
+                  "lng" : -89.073257
+               }
+            },
+            "location" : {
+               "lat" : 33.47765890000001,
+               "lng" : -88.8263006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5821279,
+                  "lng" : -88.63588799999999
+               },
+               "southwest" : {
+                  "lat" : 33.259705,
+                  "lng" : -89.073257
+               }
+            }
+         },
+         "place_id" : "ChIJJ4KZcY81gYgRq4cK27AgwB4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oktibbeha County",
+               "short_name" : "Oktibbeha County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oktibbeha County, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.565443,
+                  "lng" : -88.66907599999999
+               },
+               "southwest" : {
+                  "lat" : 33.286003,
+                  "lng" : -89.088658
+               }
+            },
+            "location" : {
+               "lat" : 33.3886689,
+               "lng" : -88.90306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.565443,
+                  "lng" : -88.66907599999999
+               },
+               "southwest" : {
+                  "lat" : 33.286003,
+                  "lng" : -89.088658
+               }
+            }
+         },
+         "place_id" : "ChIJPbrN9dwvgYgRG1ZglcuDFmU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "Mississippi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mississippi, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.9961091,
+                  "lng" : -88.097888
+               },
+               "southwest" : {
+                  "lat" : 30.146096,
+                  "lng" : -91.6550089
+               }
+            },
+            "location" : {
+               "lat" : 32.3546679,
+               "lng" : -89.3985283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.9961091,
+                  "lng" : -88.097888
+               },
+               "southwest" : {
+                  "lat" : 30.146096,
+                  "lng" : -91.6550089
+               }
+            }
+         },
+         "place_id" : "ChIJGdRK5OQyKIYR2qbc6X8XDWI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

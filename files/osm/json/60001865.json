@@ -1,0 +1,557 @@
+{
+   "plus_code" : {
+      "compound_code" : "3VWM+Q8 Niterói, State of Rio de Janeiro, Brazil",
+      "global_code" : "589R3VWM+Q8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Miguel de Frias",
+               "short_name" : "R. Miguel de Frias",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Icaraí",
+               "short_name" : "Icaraí",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24220-900",
+               "short_name" : "24220-900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Miguel de Frias, 9 - Icaraí, Niterói - RJ, 24220-900, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.90308,
+               "lng" : -43.11671399999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9017310197085,
+                  "lng" : -43.11536501970849
+               },
+               "southwest" : {
+                  "lat" : -22.9044289802915,
+                  "lng" : -43.11806298029149
+               }
+            }
+         },
+         "place_id" : "ChIJRfL4AN6DmQARwfNtYnHPseo",
+         "plus_code" : {
+            "compound_code" : "3VWM+Q8 Niterói, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3VWM+Q8"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Miguel de Frias",
+               "short_name" : "R. Miguel de Frias",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Icaraí",
+               "short_name" : "Icaraí",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24220-045",
+               "short_name" : "24220-045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Miguel de Frias, 9 - Icaraí, Niterói - RJ, 24220-045, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.9030265,
+               "lng" : -43.11672249999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9016775197085,
+                  "lng" : -43.1153735197085
+               },
+               "southwest" : {
+                  "lat" : -22.9043754802915,
+                  "lng" : -43.11807148029149
+               }
+            }
+         },
+         "place_id" : "ChIJbej5puCDmQARTXResIQgxDU",
+         "plus_code" : {
+            "compound_code" : "3VWM+Q8 Niterói, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3VWM+Q8"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Icaraí",
+               "short_name" : "Icaraí",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24220",
+               "short_name" : "24220",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road - Icaraí, Niterói - RJ, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.9026389,
+                  "lng" : -43.1165445
+               },
+               "southwest" : {
+                  "lat" : -22.9035183,
+                  "lng" : -43.1170666
+               }
+            },
+            "location" : {
+               "lat" : -22.9030786,
+               "lng" : -43.1168056
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9017296197085,
+                  "lng" : -43.11545656970851
+               },
+               "southwest" : {
+                  "lat" : -22.9044275802915,
+                  "lng" : -43.11815453029151
+               }
+            }
+         },
+         "place_id" : "ChIJB97ZAN6DmQAR6K-p7l5Dpcg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "24230-002",
+               "short_name" : "24230-002",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Avenida Jornalista Alberto Francisco Torres",
+               "short_name" : "Av. Jorn. Alberto Francisco Torres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Icaraí",
+               "short_name" : "Icaraí",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. Jorn. Alberto Francisco Torres - Icaraí, Niterói - RJ, 24230-002, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.9025748,
+                  "lng" : -43.1129252
+               },
+               "southwest" : {
+                  "lat" : -22.9065913,
+                  "lng" : -43.1177742
+               }
+            },
+            "location" : {
+               "lat" : -22.9048216,
+               "lng" : -43.1150069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9025748,
+                  "lng" : -43.1129252
+               },
+               "southwest" : {
+                  "lat" : -22.9065913,
+                  "lng" : -43.1177742
+               }
+            }
+         },
+         "place_id" : "ChIJxS-b6eCDmQARW_c7dOUEpOs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Icaraí",
+               "short_name" : "Icaraí",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Icaraí, Niterói - State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8975205,
+                  "lng" : -43.0949328
+               },
+               "southwest" : {
+                  "lat" : -22.9137345,
+                  "lng" : -43.121026
+               }
+            },
+            "location" : {
+               "lat" : -22.9043971,
+               "lng" : -43.1093638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8975205,
+                  "lng" : -43.0949328
+               },
+               "southwest" : {
+                  "lat" : -22.9137345,
+                  "lng" : -43.121026
+               }
+            }
+         },
+         "place_id" : "ChIJobqaOPuDmQAR7K9YBm5zvjk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "24220",
+               "short_name" : "24220",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niterói - State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8948144,
+                  "lng" : -43.1016903
+               },
+               "southwest" : {
+                  "lat" : -22.9159472,
+                  "lng" : -43.1179631
+               }
+            },
+            "location" : {
+               "lat" : -22.9030342,
+               "lng" : -43.1092881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8948144,
+                  "lng" : -43.1016903
+               },
+               "southwest" : {
+                  "lat" : -22.9159472,
+                  "lng" : -43.1179631
+               }
+            }
+         },
+         "place_id" : "ChIJZVHKh-ODmQARMqEmvnwYqp0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niterói, State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8558447,
+                  "lng" : -42.9535096
+               },
+               "southwest" : {
+                  "lat" : -22.9896103,
+                  "lng" : -43.1371023
+               }
+            },
+            "location" : {
+               "lat" : -22.8858975,
+               "lng" : -43.1152211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8558447,
+                  "lng" : -42.9535096
+               },
+               "southwest" : {
+                  "lat" : -22.9896103,
+                  "lng" : -43.1371023
+               }
+            }
+         },
+         "place_id" : "ChIJhbnINMCFmQARdRfM35PnLiY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niterói",
+               "short_name" : "Niterói",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niterói - State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8537979,
+                  "lng" : -42.9535096
+               },
+               "southwest" : {
+                  "lat" : -22.9896103,
+                  "lng" : -43.1367853
+               }
+            },
+            "location" : {
+               "lat" : -22.8859267,
+               "lng" : -43.1152587
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8537979,
+                  "lng" : -42.9535096
+               },
+               "southwest" : {
+                  "lat" : -22.9896103,
+                  "lng" : -43.1367853
+               }
+            }
+         },
+         "place_id" : "ChIJQaITF9GAmQAR1akUZgTMuUo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "State of Rio de Janeiro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7632054,
+                  "lng" : -40.9568207
+               },
+               "southwest" : {
+                  "lat" : -23.3689318,
+                  "lng" : -44.8893205
+               }
+            },
+            "location" : {
+               "lat" : -22.9098755,
+               "lng" : -43.2094971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7632054,
+                  "lng" : -40.9568207
+               },
+               "southwest" : {
+                  "lat" : -23.3689318,
+                  "lng" : -44.8893205
+               }
+            }
+         },
+         "place_id" : "ChIJw4riypQYmAAR0IMFwRrDSQM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

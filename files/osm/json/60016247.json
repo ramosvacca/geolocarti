@@ -1,0 +1,436 @@
+{
+   "plus_code" : {
+      "compound_code" : "9P8R+5G Waltham, MA, USA",
+      "global_code" : "87JC9P8R+5G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "415",
+               "short_name" : "415",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Street",
+               "short_name" : "South St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brandeis",
+               "short_name" : "Brandeis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02453",
+               "short_name" : "02453",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "415 South St, Waltham, MA 02453, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3654796,
+               "lng" : -71.25870089999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3668285802915,
+                  "lng" : -71.2573519197085
+               },
+               "southwest" : {
+                  "lat" : 42.3641306197085,
+                  "lng" : -71.2600498802915
+               }
+            }
+         },
+         "place_id" : "ChIJb7a96RWD44kRhPnh0bK8XyM",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "139",
+               "short_name" : "139",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old South Street",
+               "short_name" : "Old S St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02453",
+               "short_name" : "02453",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "139 Old S St, Waltham, MA 02453, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3649481,
+               "lng" : -71.2582365
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3662970802915,
+                  "lng" : -71.25688751970849
+               },
+               "southwest" : {
+                  "lat" : 42.3635991197085,
+                  "lng" : -71.25958548029151
+               }
+            }
+         },
+         "place_id" : "EiQxMzkgT2xkIFMgU3QsIFdhbHRoYW0sIE1BIDAyNDUzLCBVU0EiGxIZChQKEgmt53V_FoPjiREmcmW0GZQ1hhCLAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brandeis",
+               "short_name" : "Brandeis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02453",
+               "short_name" : "02453",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brandeis, Waltham, MA 02453, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3721449,
+                  "lng" : -71.25323109999999
+               },
+               "southwest" : {
+                  "lat" : 42.36188509999999,
+                  "lng" : -71.2695578
+               }
+            },
+            "location" : {
+               "lat" : 42.3662666,
+               "lng" : -71.2592083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3721449,
+                  "lng" : -71.25323109999999
+               },
+               "southwest" : {
+                  "lat" : 42.36188509999999,
+                  "lng" : -71.2695578
+               }
+            }
+         },
+         "place_id" : "ChIJTyLdcRWD44kRouJqSvL3M4k",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "02453",
+               "short_name" : "02453",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waltham, MA 02453, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3864031,
+                  "lng" : -71.19445589999999
+               },
+               "southwest" : {
+                  "lat" : 42.3536328,
+                  "lng" : -71.272502
+               }
+            },
+            "location" : {
+               "lat" : 42.3624504,
+               "lng" : -71.25772329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3864031,
+                  "lng" : -71.19445589999999
+               },
+               "southwest" : {
+                  "lat" : 42.3536328,
+                  "lng" : -71.272502
+               }
+            }
+         },
+         "place_id" : "ChIJI1deT9qC44kRaSoDL_Qg51w",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waltham, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.424226,
+                  "lng" : -71.19388090000001
+               },
+               "southwest" : {
+                  "lat" : 42.353715,
+                  "lng" : -71.285501
+               }
+            },
+            "location" : {
+               "lat" : 42.3764852,
+               "lng" : -71.2356113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.424226,
+                  "lng" : -71.19388090000001
+               },
+               "southwest" : {
+                  "lat" : 42.353715,
+                  "lng" : -71.285501
+               }
+            }
+         },
+         "place_id" : "ChIJ3eQad-F344kRxFr-GmKH2t4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middlesex County, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.736102,
+                  "lng" : -71.020095
+               },
+               "southwest" : {
+                  "lat" : 42.15669,
+                  "lng" : -71.8987159
+               }
+            },
+            "location" : {
+               "lat" : 42.467206,
+               "lng" : -71.2874209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.736102,
+                  "lng" : -71.020095
+               },
+               "southwest" : {
+                  "lat" : 42.15669,
+                  "lng" : -71.8987159
+               }
+            }
+         },
+         "place_id" : "ChIJmQwtQe4L5IkRCLDyk1MVcOI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "Massachusetts",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            },
+            "location" : {
+               "lat" : 42.4072107,
+               "lng" : -71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            }
+         },
+         "place_id" : "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

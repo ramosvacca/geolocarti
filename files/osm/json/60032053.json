@@ -1,0 +1,420 @@
+{
+   "plus_code" : {
+      "compound_code" : "P9FM+7J Tehran, Tehran Province, Iran",
+      "global_code" : "8H7HP9FM+7J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran Province, Tehran, Al Ahmad Street, No. 7، Jalal، Iran",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7232423,
+               "lng" : 51.3840198
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.72459128029149,
+                  "lng" : 51.3853687802915
+               },
+               "southwest" : {
+                  "lat" : 35.72189331970849,
+                  "lng" : 51.3826708197085
+               }
+            }
+         },
+         "place_id" : "ChIJX6rXo9QAjj8RBei9Rm2dv28",
+         "plus_code" : {
+            "compound_code" : "P9FM+7J Tehran, Tehran Province, Iran",
+            "global_code" : "8H7HP9FM+7J"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalal Al Ahmad Street",
+               "short_name" : "Jalal Al Ahmad St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "District 6",
+               "short_name" : "District 6",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran Province, Tehran, District 6, Jalal Al Ahmad St, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.723645,
+                  "lng" : 51.3844789
+               },
+               "southwest" : {
+                  "lat" : 35.72343600000001,
+                  "lng" : 51.3840999
+               }
+            },
+            "location" : {
+               "lat" : 35.7235405,
+               "lng" : 51.3842894
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7248894802915,
+                  "lng" : 51.3856383802915
+               },
+               "southwest" : {
+                  "lat" : 35.7221915197085,
+                  "lng" : 51.3829404197085
+               }
+            }
+         },
+         "place_id" : "ChIJezmOotQAjj8R1LDuV2_3eoQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jamshidiyeh",
+               "short_name" : "Jamshidiyeh",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jamshidiyeh, Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7249973,
+                  "lng" : 51.3893794
+               },
+               "southwest" : {
+                  "lat" : 35.7120047,
+                  "lng" : 51.3779853
+               }
+            },
+            "location" : {
+               "lat" : 35.7164968,
+               "lng" : 51.3811045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7249973,
+                  "lng" : 51.3893794
+               },
+               "southwest" : {
+                  "lat" : 35.7120047,
+                  "lng" : 51.3779853
+               }
+            }
+         },
+         "place_id" : "ChIJSzrbw9YAjj8RfCIUHAcZWPI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District 6",
+               "short_name" : "District 6",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "District 6, Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7520153,
+                  "lng" : 51.4272165
+               },
+               "southwest" : {
+                  "lat" : 35.7008887,
+                  "lng" : 51.3778209
+               }
+            },
+            "location" : {
+               "lat" : 35.7211186,
+               "lng" : 51.3994672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7520153,
+                  "lng" : 51.4272165
+               },
+               "southwest" : {
+                  "lat" : 35.7008887,
+                  "lng" : 51.3778209
+               }
+            }
+         },
+         "place_id" : "ChIJmX4KAjEBjj8ROI66zMrmFuI",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8345498,
+                  "lng" : 51.6062163
+               },
+               "southwest" : {
+                  "lat" : 35.5590784,
+                  "lng" : 51.0934209
+               }
+            },
+            "location" : {
+               "lat" : 35.6891975,
+               "lng" : 51.3889736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8345498,
+                  "lng" : 51.6062163
+               },
+               "southwest" : {
+                  "lat" : 35.5590784,
+                  "lng" : 51.0934209
+               }
+            }
+         },
+         "place_id" : "ChIJ2dzzH0kAjj8RvCRwVnxps_A",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.895169,
+                  "lng" : 51.884308
+               },
+               "southwest" : {
+                  "lat" : 35.5392108,
+                  "lng" : 51.1176682
+               }
+            },
+            "location" : {
+               "lat" : 35.7209396,
+               "lng" : 51.4729695
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.895169,
+                  "lng" : 51.884308
+               },
+               "southwest" : {
+                  "lat" : 35.5392108,
+                  "lng" : 51.1176682
+               }
+            }
+         },
+         "place_id" : "ChIJOZCRm8YCjj8RKFksd3lkwhc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.07789210000001,
+                  "lng" : 53.216228
+               },
+               "southwest" : {
+                  "lat" : 34.909543,
+                  "lng" : 50.3186971
+               }
+            },
+            "location" : {
+               "lat" : 35.7248416,
+               "lng" : 51.381653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.07789210000001,
+                  "lng" : 53.216228
+               },
+               "southwest" : {
+                  "lat" : 34.909543,
+                  "lng" : 50.3186971
+               }
+            }
+         },
+         "place_id" : "ChIJf5Us9YQBjj8R0OohvHQms1U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            },
+            "location" : {
+               "lat" : 32.427908,
+               "lng" : 53.688046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            }
+         },
+         "place_id" : "ChIJ8R1rwS7s9z4RzvpRntOVsEA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

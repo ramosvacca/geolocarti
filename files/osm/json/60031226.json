@@ -1,0 +1,363 @@
+{
+   "plus_code" : {
+      "compound_code" : "XVVV+GQ Bentley WA, Australia",
+      "global_code" : "4PVQXVVV+GQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sir Charles Court Promenade",
+               "short_name" : "Sir Charles Ct Promenade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bentley",
+               "short_name" : "Bentley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Town of Victoria Park",
+               "short_name" : "Victoria Park",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6102",
+               "short_name" : "6102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sir Charles Ct Promenade, Bentley WA 6102, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.0058806,
+                  "lng" : 115.8940263
+               },
+               "southwest" : {
+                  "lat" : -32.0064918,
+                  "lng" : 115.8940258
+               }
+            },
+            "location" : {
+               "lat" : -32.0061862,
+               "lng" : 115.894026
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.0048372197085,
+                  "lng" : 115.8953750302915
+               },
+               "southwest" : {
+                  "lat" : -32.0075351802915,
+                  "lng" : 115.8926770697085
+               }
+            }
+         },
+         "place_id" : "ChIJodtmVom8MioR3iYllNfGswo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bentley",
+               "short_name" : "Bentley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6102",
+               "short_name" : "6102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bentley WA 6102, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.99132,
+                  "lng" : 115.9327863
+               },
+               "southwest" : {
+                  "lat" : -32.0135091,
+                  "lng" : 115.8867831
+               }
+            },
+            "location" : {
+               "lat" : -32.001,
+               "lng" : 115.924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.99132,
+                  "lng" : 115.9327863
+               },
+               "southwest" : {
+                  "lat" : -32.0135091,
+                  "lng" : 115.8867831
+               }
+            }
+         },
+         "place_id" : "ChIJAeCVgw68MioRwD_fNbXwBAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6102",
+               "short_name" : "6102",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bentley DC",
+               "short_name" : "Bentley DC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bentley DC WA 6102, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.99132,
+                  "lng" : 115.9327863
+               },
+               "southwest" : {
+                  "lat" : -32.0135091,
+                  "lng" : 115.8867831
+               }
+            },
+            "location" : {
+               "lat" : -32.0058457,
+               "lng" : 115.9083631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.99132,
+                  "lng" : 115.9327863
+               },
+               "southwest" : {
+                  "lat" : -32.0135091,
+                  "lng" : 115.8867831
+               }
+            }
+         },
+         "place_id" : "ChIJAeCVgw68MioRAKUUgLjwBBw",
+         "postcode_localities" : [ "Bentley", "Bentley DC", "St James" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Town of Victoria Park",
+               "short_name" : "Victoria Park",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victoria Park, WA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.9399603,
+                  "lng" : 115.9330996
+               },
+               "southwest" : {
+                  "lat" : -32.0132193,
+                  "lng" : 115.8787626
+               }
+            },
+            "location" : {
+               "lat" : -31.9826524,
+               "lng" : 115.9054062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.9399603,
+                  "lng" : 115.9330996
+               },
+               "southwest" : {
+                  "lat" : -32.0132193,
+                  "lng" : 115.8787626
+               }
+            }
+         },
+         "place_id" : "ChIJq7eDUJu7MioR86Tu9g2p2pQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perth",
+               "short_name" : "Perth",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perth WA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.6244855,
+                  "lng" : 116.239023
+               },
+               "southwest" : {
+                  "lat" : -32.4556424,
+                  "lng" : 115.6840483
+               }
+            },
+            "location" : {
+               "lat" : -31.9505269,
+               "lng" : 115.8604572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.6244855,
+                  "lng" : 116.239023
+               },
+               "southwest" : {
+                  "lat" : -32.4556424,
+                  "lng" : 115.6840483
+               }
+            }
+         },
+         "place_id" : "ChIJPXNH22yWMioR0FXfNbXwBAM",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "Western Australia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Australia, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.6105008,
+                  "lng" : 129.0018535
+               },
+               "southwest" : {
+                  "lat" : -35.2132016,
+                  "lng" : 112.7604507
+               }
+            },
+            "location" : {
+               "lat" : -27.6728168,
+               "lng" : 121.6283098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.6105008,
+                  "lng" : 129.0018535
+               },
+               "southwest" : {
+                  "lat" : -35.2132016,
+                  "lng" : 112.7604507
+               }
+            }
+         },
+         "place_id" : "ChIJ0YTziS4qOSoRmaMAMt9KDm4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.187026399999999,
+                  "lng" : 159.2872223
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            },
+            "location" : {
+               "lat" : -25.274398,
+               "lng" : 133.775136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.187026399999999,
+                  "lng" : 159.2872223
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            }
+         },
+         "place_id" : "ChIJ38WHZwf9KysRUhNblaFnglM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

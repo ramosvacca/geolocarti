@@ -1,0 +1,550 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "745",
+               "short_name" : "745",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southeast Washington Avenue",
+               "short_name" : "Southeast Washington Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stadium Village",
+               "short_name" : "Stadium Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55455",
+               "short_name" : "55455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "745 Southeast Washington Avenue, Minneapolis, MN 55455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9737703,
+               "lng" : -93.2279482
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97511928029149,
+                  "lng" : -93.22659921970849
+               },
+               "southwest" : {
+                  "lat" : 44.9724213197085,
+                  "lng" : -93.22929718029151
+               }
+            }
+         },
+         "place_id" : "Ejs3NDUgU291dGhlYXN0IFdhc2hpbmd0b24gQXZlbnVlLCBNaW5uZWFwb2xpcywgTU4gNTU0NTUsIFVTQSIbEhkKFAoSCcXErGIYLbNSEWODn-sN_lUaEOkF",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oak St SE & Washington Ave SE",
+               "short_name" : "Oak St SE & Washington Ave SE",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Stadium Village",
+               "short_name" : "Stadium Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55455",
+               "short_name" : "55455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oak St SE & Washington Ave SE, Minneapolis, MN 55455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.973744,
+               "lng" : -93.22716799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97509298029149,
+                  "lng" : -93.22581901970848
+               },
+               "southwest" : {
+                  "lat" : 44.9723950197085,
+                  "lng" : -93.22851698029149
+               }
+            }
+         },
+         "place_id" : "ChIJ-XUekRgts1IRfK9pmIKgkdM",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stadium Village",
+               "short_name" : "Stadium Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stadium Village, Minneapolis, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9786313,
+                  "lng" : -93.2212926
+               },
+               "southwest" : {
+                  "lat" : 44.9736409,
+                  "lng" : -93.23325229999999
+               }
+            },
+            "location" : {
+               "lat" : 44.9742852,
+               "lng" : -93.2271052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9786313,
+                  "lng" : -93.2212926
+               },
+               "southwest" : {
+                  "lat" : 44.9736409,
+                  "lng" : -93.23325229999999
+               }
+            }
+         },
+         "place_id" : "ChIJ80Y7Mh8ts1IR01GbXaIbfzc",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Minnesota - Twin Cities",
+               "short_name" : "University of Minnesota - Twin Cities",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Union Park",
+               "short_name" : "Union Park",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Minnesota - Twin Cities, Minneapolis, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.984465,
+                  "lng" : -93.22053919999999
+               },
+               "southwest" : {
+                  "lat" : 44.96780390000001,
+                  "lng" : -93.24572409999999
+               }
+            },
+            "location" : {
+               "lat" : 44.9753541,
+               "lng" : -93.23307389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.984465,
+                  "lng" : -93.22053919999999
+               },
+               "southwest" : {
+                  "lat" : 44.96780390000001,
+                  "lng" : -93.24572409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9RzqMhQts1IRxoP6F31_DO0",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minneapolis, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.05125,
+                  "lng" : -93.193794
+               },
+               "southwest" : {
+                  "lat" : 44.890144,
+                  "lng" : -93.32916299999999
+               }
+            },
+            "location" : {
+               "lat" : 44.977753,
+               "lng" : -93.2650108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.05125,
+                  "lng" : -93.193794
+               },
+               "southwest" : {
+                  "lat" : 44.890144,
+                  "lng" : -93.32916299999999
+               }
+            }
+         },
+         "place_id" : "ChIJvbt3k5Azs1IRB-56L4TJn5M",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "55455",
+               "short_name" : "55455",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minneapolis, MN 55455, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.983851,
+                  "lng" : -93.2234979
+               },
+               "southwest" : {
+                  "lat" : 44.9661909,
+                  "lng" : -93.247726
+               }
+            },
+            "location" : {
+               "lat" : 44.97415609999999,
+               "lng" : -93.2342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.983851,
+                  "lng" : -93.2234979
+               },
+               "southwest" : {
+                  "lat" : 44.9661909,
+                  "lng" : -93.247726
+               }
+            }
+         },
+         "place_id" : "ChIJXbssJRYts1IRZy9XF5Z6zaI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hennepin County, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2466179,
+                  "lng" : -93.177201
+               },
+               "southwest" : {
+                  "lat" : 44.785263,
+                  "lng" : -93.767799
+               }
+            },
+            "location" : {
+               "lat" : 45.0208911,
+               "lng" : -93.5094574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2466179,
+                  "lng" : -93.177201
+               },
+               "southwest" : {
+                  "lat" : 44.785263,
+                  "lng" : -93.767799
+               }
+            }
+         },
+         "place_id" : "ChIJpe7ZFZId9ocRnkR32F9xAcw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minneapolis-St. Paul Metropolitan Area",
+               "short_name" : "Minneapolis-St. Paul Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minneapolis-St. Paul Metropolitan Area, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.24715,
+                  "lng" : -92.1347849
+               },
+               "southwest" : {
+                  "lat" : 44.195836,
+                  "lng" : -94.6297659
+               }
+            },
+            "location" : {
+               "lat" : 45.2472601,
+               "lng" : -93.4553904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.24715,
+                  "lng" : -92.1347849
+               },
+               "southwest" : {
+                  "lat" : 44.195836,
+                  "lng" : -94.6297659
+               }
+            }
+         },
+         "place_id" : "ChIJe2CbQtgus1IRiMzoh65FSak",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minnesota, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.384358,
+                  "lng" : -89.48338509999999
+               },
+               "southwest" : {
+                  "lat" : 43.499361,
+                  "lng" : -97.2391959
+               }
+            },
+            "location" : {
+               "lat" : 46.729553,
+               "lng" : -94.6858998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.384358,
+                  "lng" : -89.48338509999999
+               },
+               "southwest" : {
+                  "lat" : 43.499361,
+                  "lng" : -97.2391959
+               }
+            }
+         },
+         "place_id" : "ChIJmwt4YJpbWE0RD6L-EJvJogI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

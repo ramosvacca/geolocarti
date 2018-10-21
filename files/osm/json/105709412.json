@@ -1,0 +1,196 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Morelos 2",
+               "short_name" : "MOR 2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Cima",
+               "short_name" : "La Cima",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bonifacio García",
+               "short_name" : "Bonifacio García",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tlaltizapán",
+               "short_name" : "Tlaltizapán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "MOR 2 38, La Cima, Bonifacio García, Mor., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.722846,
+               "lng" : -99.12175309999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.7241949802915,
+                  "lng" : -99.12040411970848
+               },
+               "southwest" : {
+                  "lat" : 18.7214970197085,
+                  "lng" : -99.12310208029149
+               }
+            }
+         },
+         "place_id" : "ChIJ0eSdlHR5zoURPIcCk4uxQ4A",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tlaltizapán",
+               "short_name" : "Tlaltizapán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tlaltizapán, Mor., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.8305886,
+                  "lng" : -98.9957057
+               },
+               "southwest" : {
+                  "lat" : 18.5783036,
+                  "lng" : -99.1995814
+               }
+            },
+            "location" : {
+               "lat" : 18.689951,
+               "lng" : -99.1204018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8305886,
+                  "lng" : -98.9957057
+               },
+               "southwest" : {
+                  "lat" : 18.5783036,
+                  "lng" : -99.1995814
+               }
+            }
+         },
+         "place_id" : "ChIJEzPHgUl5zoURPF3g1TfZqSc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morelos, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1317018,
+                  "lng" : -98.63294660000001
+               },
+               "southwest" : {
+                  "lat" : 18.332373,
+                  "lng" : -99.4944141
+               }
+            },
+            "location" : {
+               "lat" : 18.6813049,
+               "lng" : -99.10134979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1317018,
+                  "lng" : -98.63294660000001
+               },
+               "southwest" : {
+                  "lat" : 18.332373,
+                  "lng" : -99.4944141
+               }
+            }
+         },
+         "place_id" : "ChIJR_72Ja7fzYURD91poSWCX5c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

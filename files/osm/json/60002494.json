@@ -1,0 +1,634 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "James Administration Building",
+               "short_name" : "James Administration Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Golden Square Mile",
+               "short_name" : "Golden Square Mile",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3A 2T5",
+               "short_name" : "H3A 2T5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "James Administration Building, Montreal, QC H3A 2T5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.506423,
+                  "lng" : -73.57725409999999
+               },
+               "southwest" : {
+                  "lat" : 45.5059922,
+                  "lng" : -73.5779807
+               }
+            },
+            "location" : {
+               "lat" : 45.506222,
+               "lng" : -73.5776022
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50755658029149,
+                  "lng" : -73.5762684197085
+               },
+               "southwest" : {
+                  "lat" : 45.50485861970849,
+                  "lng" : -73.5789663802915
+               }
+            }
+         },
+         "place_id" : "ChIJSSMPDTgayUwRUhSv_ZFVV5c",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "845",
+               "short_name" : "845",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Sherbrooke Ouest",
+               "short_name" : "Rue Sherbrooke O",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Golden Square Mile",
+               "short_name" : "Golden Square Mile",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montréal",
+               "short_name" : "Montréal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Montréal",
+               "short_name" : "Communauté-Urbaine-de-Montréal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3A 2T5",
+               "short_name" : "H3A 2T5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "845 Rue Sherbrooke O, Montréal, QC H3A 2T5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5061666,
+               "lng" : -73.5776415
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5075155802915,
+                  "lng" : -73.5762925197085
+               },
+               "southwest" : {
+                  "lat" : 45.5048176197085,
+                  "lng" : -73.57899048029151
+               }
+            }
+         },
+         "place_id" : "ChIJnZReA0cayUwRr_Yy90u0U9I",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Square Mile",
+               "short_name" : "Golden Square Mile",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Golden Square Mile, Montreal, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.50986,
+                  "lng" : -73.5672896
+               },
+               "southwest" : {
+                  "lat" : 45.49380650000001,
+                  "lng" : -73.5886307
+               }
+            },
+            "location" : {
+               "lat" : 45.499937,
+               "lng" : -73.57727799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50986,
+                  "lng" : -73.5672896
+               },
+               "southwest" : {
+                  "lat" : 45.49380650000001,
+                  "lng" : -73.5886307
+               }
+            }
+         },
+         "place_id" : "ChIJYf4J8EAayUwRFaCI_K6egdw",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ville-Marie, Montreal, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5399732,
+                  "lng" : -73.51718389999999
+               },
+               "southwest" : {
+                  "lat" : 45.485555,
+                  "lng" : -73.6049891
+               }
+            },
+            "location" : {
+               "lat" : 45.5087937,
+               "lng" : -73.5553019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5399732,
+                  "lng" : -73.51718389999999
+               },
+               "southwest" : {
+                  "lat" : 45.485555,
+                  "lng" : -73.6049891
+               }
+            }
+         },
+         "place_id" : "ChIJPWsWMU0ayUwRniAG_tdSYuE",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreal, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7058381,
+                  "lng" : -73.47426
+               },
+               "southwest" : {
+                  "lat" : 45.410246,
+                  "lng" : -73.986345
+               }
+            },
+            "location" : {
+               "lat" : 45.5016889,
+               "lng" : -73.567256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7058381,
+                  "lng" : -73.47426
+               },
+               "southwest" : {
+                  "lat" : 45.410246,
+                  "lng" : -73.986345
+               }
+            }
+         },
+         "place_id" : "ChIJDbdkHFQayUwR7-8fITgxTmU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H3A 2T5",
+               "short_name" : "H3A 2T5",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Golden Square Mile",
+               "short_name" : "Golden Square Mile",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreal, QC H3A 2T5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5063839,
+                  "lng" : -73.5768635
+               },
+               "southwest" : {
+                  "lat" : 45.505619,
+                  "lng" : -73.57797769999999
+               }
+            },
+            "location" : {
+               "lat" : 45.50584509999999,
+               "lng" : -73.5773533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5073504302915,
+                  "lng" : -73.57607161970849
+               },
+               "southwest" : {
+                  "lat" : 45.5046524697085,
+                  "lng" : -73.57876958029149
+               }
+            }
+         },
+         "place_id" : "ChIJjZWHAkcayUwRk2c0HqpGOPU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H3A",
+               "short_name" : "H3A",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreal, QC H3A, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.512608,
+                  "lng" : -73.5669479
+               },
+               "southwest" : {
+                  "lat" : 45.498855,
+                  "lng" : -73.585814
+               }
+            },
+            "location" : {
+               "lat" : 45.5035028,
+               "lng" : -73.57685029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.512608,
+                  "lng" : -73.5669479
+               },
+               "southwest" : {
+                  "lat" : 45.498855,
+                  "lng" : -73.585814
+               }
+            }
+         },
+         "place_id" : "ChIJnQt9jUcayUwR8L6RhH9qkgE",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreal, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7058381,
+                  "lng" : -73.47426
+               },
+               "southwest" : {
+                  "lat" : 45.375141,
+                  "lng" : -73.986345
+               }
+            },
+            "location" : {
+               "lat" : 45.4699445,
+               "lng" : -73.7852913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7058381,
+                  "lng" : -73.47426
+               },
+               "southwest" : {
+                  "lat" : 45.375141,
+                  "lng" : -73.986345
+               }
+            }
+         },
+         "place_id" : "ChIJl7TSQk3ex0wRM0QRpZ0sb30",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montreal Metropolitan Area",
+               "short_name" : "Montreal Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreal Metropolitan Area, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9830789,
+                  "lng" : -73.062268
+               },
+               "southwest" : {
+                  "lat" : 45.2290141,
+                  "lng" : -74.26755899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.5552492,
+               "lng" : -73.57482820000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9830789,
+                  "lng" : -73.062268
+               },
+               "southwest" : {
+                  "lat" : 45.2290141,
+                  "lng" : -74.26755899999999
+               }
+            }
+         },
+         "place_id" : "ChIJFf-RdwY5yUwRGH7jYDpIYec",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            },
+            "location" : {
+               "lat" : 52.9399159,
+               "lng" : -73.5491361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            }
+         },
+         "place_id" : "ChIJoajRnzS1WEwRIABNrq0MBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70,
+                  "lng" : -50
+               },
+               "southwest" : {
+                  "lat" : 42,
+                  "lng" : -142
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

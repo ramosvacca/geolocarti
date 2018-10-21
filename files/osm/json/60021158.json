@@ -1,0 +1,628 @@
+{
+   "plus_code" : {
+      "compound_code" : "P9HV+34 Dhaka, Bangladesh",
+      "global_code" : "7MMGP9HV+34"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Academic Building",
+               "short_name" : "Old Academic Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "BUET Central Road",
+               "short_name" : "BUET Central Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramna",
+               "short_name" : "Ramna",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Academic Building, BUET, BUET Central Road, Dhaka 1000, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7280418,
+                  "lng" : 90.3936191
+               },
+               "southwest" : {
+                  "lat" : 23.7270677,
+                  "lng" : 90.39203689999999
+               }
+            },
+            "location" : {
+               "lat" : 23.7275962,
+               "lng" : 90.39286319999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7289037302915,
+                  "lng" : 90.39417698029149
+               },
+               "southwest" : {
+                  "lat" : 23.7262057697085,
+                  "lng" : 90.39147901970848
+               }
+            }
+         },
+         "place_id" : "ChIJkzLhs8K4VTcRO-udax97DTQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fuller Road",
+               "short_name" : "Fuller Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BUET Campus Health Complex, Fuller Road, Dhaka 1000, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7280357,
+               "lng" : 90.39247859999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7293846802915,
+                  "lng" : 90.3938275802915
+               },
+               "southwest" : {
+                  "lat" : 23.7266867197085,
+                  "lng" : 90.39112961970848
+               }
+            }
+         },
+         "place_id" : "ChIJQcCYx8K4VTcR9HrfCqiot4g",
+         "types" : [ "establishment", "hospital", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fuller Road",
+               "short_name" : "Fuller Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramna",
+               "short_name" : "Ramna",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1205",
+               "short_name" : "1205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fuller Road, Dhaka 1205, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7288339,
+                  "lng" : 90.39302259999999
+               },
+               "southwest" : {
+                  "lat" : 23.7281698,
+                  "lng" : 90.39242340000001
+               }
+            },
+            "location" : {
+               "lat" : 23.7285018,
+               "lng" : 90.39272299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7298508302915,
+                  "lng" : 90.39407198029151
+               },
+               "southwest" : {
+                  "lat" : 23.7271528697085,
+                  "lng" : 90.39137401970849
+               }
+            }
+         },
+         "place_id" : "ChIJAzLnvcK4VTcRqB4qGM3xAuA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ward-56",
+               "short_name" : "Ward-56",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ward-56, Dhaka, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7418993,
+                  "lng" : 90.41077250000001
+               },
+               "southwest" : {
+                  "lat" : 23.7229214,
+                  "lng" : 90.3897903
+               }
+            },
+            "location" : {
+               "lat" : 23.7300406,
+               "lng" : 90.40073839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7418993,
+                  "lng" : 90.41077250000001
+               },
+               "southwest" : {
+                  "lat" : 23.7229214,
+                  "lng" : 90.3897903
+               }
+            }
+         },
+         "place_id" : "ChIJi6QIhe64VTcRg0LdDdY80xg",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dcc (Ramna)",
+               "short_name" : "Dcc (Ramna)",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dcc (Ramna), Dhaka, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7632321,
+                  "lng" : 90.41760739999999
+               },
+               "southwest" : {
+                  "lat" : 23.7229214,
+                  "lng" : 90.38701429999999
+               }
+            },
+            "location" : {
+               "lat" : 23.7330218,
+               "lng" : 90.3983829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7632321,
+                  "lng" : 90.41760739999999
+               },
+               "southwest" : {
+                  "lat" : 23.7229214,
+                  "lng" : 90.38701429999999
+               }
+            }
+         },
+         "place_id" : "ChIJxSskbJK4VTcRDEMuB6JPwWQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramna",
+               "short_name" : "Ramna",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramna, Dhaka, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7626543,
+                  "lng" : 90.4176051
+               },
+               "southwest" : {
+                  "lat" : 23.72324,
+                  "lng" : 90.38673439999999
+               }
+            },
+            "location" : {
+               "lat" : 23.7330218,
+               "lng" : 90.3983829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7626543,
+                  "lng" : 90.4176051
+               },
+               "southwest" : {
+                  "lat" : 23.72324,
+                  "lng" : 90.38673439999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1yO-aJK4VTcRUNPO_HBJ4fk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1205",
+               "short_name" : "1205",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhaka 1205, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7806335,
+                  "lng" : 90.41840929999999
+               },
+               "southwest" : {
+                  "lat" : 23.71817,
+                  "lng" : 90.3654205
+               }
+            },
+            "location" : {
+               "lat" : 23.7504092,
+               "lng" : 90.39238739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7806335,
+                  "lng" : 90.41840929999999
+               },
+               "southwest" : {
+                  "lat" : 23.71817,
+                  "lng" : 90.3654205
+               }
+            }
+         },
+         "place_id" : "ChIJPSRDNr24VTcRl4MNuf6CcIM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhaka, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.9000025,
+                  "lng" : 90.50910469999999
+               },
+               "southwest" : {
+                  "lat" : 23.6612704,
+                  "lng" : 90.3295468
+               }
+            },
+            "location" : {
+               "lat" : 23.810332,
+               "lng" : 90.4125181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.9000025,
+                  "lng" : 90.50910469999999
+               },
+               "southwest" : {
+                  "lat" : 23.6612704,
+                  "lng" : 90.3295468
+               }
+            }
+         },
+         "place_id" : "ChIJgWsCh7C4VTcRwgRZ3btjpY8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhaka District",
+               "short_name" : "Dhaka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhaka District, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.0440548,
+                  "lng" : 90.51152809999999
+               },
+               "southwest" : {
+                  "lat" : 23.5237479,
+                  "lng" : 90.0050263
+               }
+            },
+            "location" : {
+               "lat" : 23.810514,
+               "lng" : 90.3371889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0440548,
+                  "lng" : 90.51152809999999
+               },
+               "southwest" : {
+                  "lat" : 23.5237479,
+                  "lng" : 90.0050263
+               }
+            }
+         },
+         "place_id" : "ChIJx_GJe1i_VTcRLwQf0Y3tnbE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhaka Division, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.7886923,
+                  "lng" : 91.25564009999999
+               },
+               "southwest" : {
+                  "lat" : 22.8518496,
+                  "lng" : 89.3051942
+               }
+            },
+            "location" : {
+               "lat" : 23.9535742,
+               "lng" : 90.14949879999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7886923,
+                  "lng" : 91.25564009999999
+               },
+               "southwest" : {
+                  "lat" : 22.8518496,
+                  "lng" : 89.3051942
+               }
+            }
+         },
+         "place_id" : "ChIJRf0h8AO5VTcR62cTS3TcQ4o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.633914,
+                  "lng" : 92.6801153
+               },
+               "southwest" : {
+                  "lat" : 20.3794,
+                  "lng" : 88.00861410000002
+               }
+            },
+            "location" : {
+               "lat" : 23.684994,
+               "lng" : 90.356331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.633914,
+                  "lng" : 92.6801153
+               },
+               "southwest" : {
+                  "lat" : 20.3794,
+                  "lng" : 88.00861410000002
+               }
+            }
+         },
+         "place_id" : "ChIJp4vhgO2qrTARa_zhxOAoLQ8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

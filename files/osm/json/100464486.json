@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "3XW6+FW Niagara Falls, NY, USA",
+      "global_code" : "87M23XW6+FW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "802",
+               "short_name" : "802",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "20th Street",
+               "short_name" : "20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niagara Falls",
+               "short_name" : "Niagara Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niagara County",
+               "short_name" : "Niagara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14301",
+               "short_name" : "14301",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2365",
+               "short_name" : "2365",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "802 20th St, Niagara Falls, NY 14301, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0962822,
+                  "lng" : -79.03781739999999
+               },
+               "southwest" : {
+                  "lat" : 43.0961974,
+                  "lng" : -79.0379825
+               }
+            },
+            "location" : {
+               "lat" : 43.0962398,
+               "lng" : -79.03791
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0975887802915,
+                  "lng" : -79.03655096970849
+               },
+               "southwest" : {
+                  "lat" : 43.0948908197085,
+                  "lng" : -79.03924893029149
+               }
+            }
+         },
+         "place_id" : "ChIJDcS7y75C04kRVtcHaRBphU4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "806",
+               "short_name" : "806",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "20th Street",
+               "short_name" : "20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niagara Falls",
+               "short_name" : "Niagara Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niagara County",
+               "short_name" : "Niagara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14301",
+               "short_name" : "14301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "806 20th St, Niagara Falls, NY 14301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.096314,
+               "lng" : -79.038067
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0976629802915,
+                  "lng" : -79.03671801970849
+               },
+               "southwest" : {
+                  "lat" : 43.0949650197085,
+                  "lng" : -79.03941598029151
+               }
+            }
+         },
+         "place_id" : "ChIJzw-IzL5C04kRrmEoP2R8neQ",
+         "plus_code" : {
+            "compound_code" : "3XW6+GQ Niagara Falls, New York, United States",
+            "global_code" : "87M23XW6+GQ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "780",
+               "short_name" : "780",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "20th Street",
+               "short_name" : "20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niagara Falls",
+               "short_name" : "Niagara Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14301",
+               "short_name" : "14301",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2365",
+               "short_name" : "2365",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "780 20th St, Niagara Falls, NY 14301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0962143,
+               "lng" : -79.0377026
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0975632802915,
+                  "lng" : -79.03635361970849
+               },
+               "southwest" : {
+                  "lat" : 43.0948653197085,
+                  "lng" : -79.03905158029151
+               }
+            }
+         },
+         "place_id" : "Eik3ODAgMjB0aCBTdCwgTmlhZ2FyYSBGYWxscywgTlkgMTQzMDEsIFVTQSIbEhkKFAoSCdkvejW5QtOJETrpCB83pz-iEIwG",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14301",
+               "short_name" : "14301",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Niagara Falls",
+               "short_name" : "Niagara Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niagara County",
+               "short_name" : "Niagara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niagara Falls, NY 14301, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1091349,
+                  "lng" : -79.005206
+               },
+               "southwest" : {
+                  "lat" : 43.088265,
+                  "lng" : -79.063559
+               }
+            },
+            "location" : {
+               "lat" : 43.0984101,
+               "lng" : -79.0334288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1091349,
+                  "lng" : -79.005206
+               },
+               "southwest" : {
+                  "lat" : 43.088265,
+                  "lng" : -79.063559
+               }
+            }
+         },
+         "place_id" : "ChIJsz2iarlC04kRBax3lb0f3cs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niagara Falls",
+               "short_name" : "Niagara Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niagara County",
+               "short_name" : "Niagara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niagara Falls, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.132055,
+                  "lng" : -78.9421621
+               },
+               "southwest" : {
+                  "lat" : 43.066956,
+                  "lng" : -79.075321
+               }
+            },
+            "location" : {
+               "lat" : 43.0962143,
+               "lng" : -79.0377388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.132055,
+                  "lng" : -78.9421621
+               },
+               "southwest" : {
+                  "lat" : 43.066956,
+                  "lng" : -79.075321
+               }
+            }
+         },
+         "place_id" : "ChIJtzPmKepj04kRs6rFueRal2E",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niagara County",
+               "short_name" : "Niagara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niagara County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.634823,
+                  "lng" : -78.460416
+               },
+               "southwest" : {
+                  "lat" : 43.01886289999999,
+                  "lng" : -79.200947
+               }
+            },
+            "location" : {
+               "lat" : 43.3119496,
+               "lng" : -78.74762079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.634823,
+                  "lng" : -78.460416
+               },
+               "southwest" : {
+                  "lat" : 43.01886289999999,
+                  "lng" : -79.200947
+               }
+            }
+         },
+         "place_id" : "ChIJqZePrpqE1IkRdVv2SU7kou0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

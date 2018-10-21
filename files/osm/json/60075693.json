@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "G487+CW Müncheberg, Germany",
+      "global_code" : "9F4PG487+CW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "84",
+               "short_name" : "84",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eberswalder Straße",
+               "short_name" : "Eberswalder Str.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Märkisch-Oderland",
+               "short_name" : "Märkisch-Oderland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15374",
+               "short_name" : "15374",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eberswalder Str. 84, 15374 Müncheberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.51607440000001,
+               "lng" : 14.1148233
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.51742338029151,
+                  "lng" : 14.1161722802915
+               },
+               "southwest" : {
+                  "lat" : 52.51472541970851,
+                  "lng" : 14.1134743197085
+               }
+            }
+         },
+         "place_id" : "ChIJMZ6IK5MqqEcRz3hNpKUpap0",
+         "plus_code" : {
+            "compound_code" : "G487+CW Müncheberg, Germany",
+            "global_code" : "9F4PG487+CW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Märkisch-Oderland",
+               "short_name" : "Märkisch-Oderland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15374",
+               "short_name" : "15374",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 15374 Müncheberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5164296,
+                  "lng" : 14.1145487
+               },
+               "southwest" : {
+                  "lat" : 52.5160266,
+                  "lng" : 14.113144
+               }
+            },
+            "location" : {
+               "lat" : 52.51622810000001,
+               "lng" : 14.1138464
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5175770802915,
+                  "lng" : 14.1151953302915
+               },
+               "southwest" : {
+                  "lat" : 52.5148791197085,
+                  "lng" : 14.1124973697085
+               }
+            }
+         },
+         "place_id" : "ChIJ4eDs0u0qqEcRWpnxO2nona8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Märkisch-Oderland",
+               "short_name" : "Märkisch-Oderland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15374",
+               "short_name" : "15374",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Müncheberg, 15374 Müncheberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5512798,
+                  "lng" : 14.1919441
+               },
+               "southwest" : {
+                  "lat" : 52.44657249999999,
+                  "lng" : 13.9528336
+               }
+            },
+            "location" : {
+               "lat" : 52.5147689,
+               "lng" : 14.1044064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5512798,
+                  "lng" : 14.1919441
+               },
+               "southwest" : {
+                  "lat" : 52.44657249999999,
+                  "lng" : 13.9528336
+               }
+            }
+         },
+         "place_id" : "ChIJ91d9d64rqEcRZBdQnO692Mw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15374",
+               "short_name" : "15374",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Märkisch-Oderland",
+               "short_name" : "Märkisch-Oderland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "15374 Müncheberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5994281,
+                  "lng" : 14.2585791
+               },
+               "southwest" : {
+                  "lat" : 52.446516,
+                  "lng" : 13.9551989
+               }
+            },
+            "location" : {
+               "lat" : 52.51118959999999,
+               "lng" : 14.1338739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5994281,
+                  "lng" : 14.2585791
+               },
+               "southwest" : {
+                  "lat" : 52.446516,
+                  "lng" : 13.9551989
+               }
+            }
+         },
+         "place_id" : "ChIJSRvryecqqEcRAA0-lUkgIRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Müncheberg",
+               "short_name" : "Müncheberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Märkisch-Oderland",
+               "short_name" : "Märkisch-Oderland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Müncheberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.60124760000001,
+                  "lng" : 14.2586405
+               },
+               "southwest" : {
+                  "lat" : 52.44657249999999,
+                  "lng" : 13.9528336
+               }
+            },
+            "location" : {
+               "lat" : 52.5069173,
+               "lng" : 14.1281614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.60124760000001,
+                  "lng" : 14.2586405
+               },
+               "southwest" : {
+                  "lat" : 52.44657249999999,
+                  "lng" : 13.9528336
+               }
+            }
+         },
+         "place_id" : "ChIJFah2BYEqqEcRdn9qLiVjKmI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Märkisch-Oderland",
+               "short_name" : "Märkisch-Oderland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Märkisch-Oderland, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.90337150000001,
+                  "lng" : 14.6397244
+               },
+               "southwest" : {
+                  "lat" : 52.3739492,
+                  "lng" : 13.6105064
+               }
+            },
+            "location" : {
+               "lat" : 52.6364233,
+               "lng" : 14.0892616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.90337150000001,
+                  "lng" : 14.6397244
+               },
+               "southwest" : {
+                  "lat" : 52.3739492,
+                  "lng" : 13.6105064
+               }
+            }
+         },
+         "place_id" : "ChIJzWlb3JjWqUcRxb06n0K3Wgk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "Brandenburg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brandenburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.55898,
+                  "lng" : 14.765826
+               },
+               "southwest" : {
+                  "lat" : 51.3590586,
+                  "lng" : 11.265727
+               }
+            },
+            "location" : {
+               "lat" : 52.1313922,
+               "lng" : 13.2162494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55898,
+                  "lng" : 14.765826
+               },
+               "southwest" : {
+                  "lat" : 51.3590586,
+                  "lng" : 11.265727
+               }
+            }
+         },
+         "place_id" : "ChIJmzZ86O1PqEcRjN9SNJwmIoE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

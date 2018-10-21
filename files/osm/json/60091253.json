@@ -1,0 +1,451 @@
+{
+   "plus_code" : {
+      "compound_code" : "CRHG+4V Stanford, CA, USA",
+      "global_code" : "849VCRHG+4V"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "466",
+               "short_name" : "466",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lomita Mall",
+               "short_name" : "Lomita Mall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "466 Lomita Mall, Stanford, CA 94305, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4278748,
+               "lng" : -122.1728407
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4292237802915,
+                  "lng" : -122.1714917197085
+               },
+               "southwest" : {
+                  "lat" : 37.4265258197085,
+                  "lng" : -122.1741896802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_7GdlCq7j4ARVWuRNxyd_eQ",
+         "plus_code" : {
+            "compound_code" : "CRHG+4V Stanford, California, United States",
+            "global_code" : "849VCRHG+4V"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moore Materials Research Building",
+               "short_name" : "Moore Materials Research Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "466",
+               "short_name" : "466",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lomita Mall",
+               "short_name" : "Lomita Mall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moore Materials Research Building, 466 Lomita Mall, Stanford, CA 94305, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.42800709999999,
+                  "lng" : -122.1724218
+               },
+               "southwest" : {
+                  "lat" : 37.4276225,
+                  "lng" : -122.1731898
+               }
+            },
+            "location" : {
+               "lat" : 37.42785260000001,
+               "lng" : -122.1728754
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4291637802915,
+                  "lng" : -122.1714568197085
+               },
+               "southwest" : {
+                  "lat" : 37.4264658197085,
+                  "lng" : -122.1741547802915
+               }
+            }
+         },
+         "place_id" : "ChIJV8s2kyq7j4AR4KBEYtJI3pU",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Service Road",
+               "short_name" : "S Service Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S Service Rd, Stanford, CA 94305, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4274312,
+                  "lng" : -122.1732005
+               },
+               "southwest" : {
+                  "lat" : 37.4273429,
+                  "lng" : -122.1736042
+               }
+            },
+            "location" : {
+               "lat" : 37.427387,
+               "lng" : -122.1734024
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4287360302915,
+                  "lng" : -122.1720533697085
+               },
+               "southwest" : {
+                  "lat" : 37.4260380697085,
+                  "lng" : -122.1747513302915
+               }
+            }
+         },
+         "place_id" : "ChIJnXNavCq7j4AR7MGFKeEMW9k",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stanford, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4435369,
+                  "lng" : -122.149475
+               },
+               "southwest" : {
+                  "lat" : 37.4063388,
+                  "lng" : -122.191292
+               }
+            },
+            "location" : {
+               "lat" : 37.42410599999999,
+               "lng" : -122.1660756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4435369,
+                  "lng" : -122.149475
+               },
+               "southwest" : {
+                  "lat" : 37.4063388,
+                  "lng" : -122.191292
+               }
+            }
+         },
+         "place_id" : "ChIJzd7xXsm6j4ARUp8sFUMNrWs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Palo Alto",
+               "short_name" : "Palo Alto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palo Alto, CA 94305, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.44363,
+                  "lng" : -122.1494501
+               },
+               "southwest" : {
+                  "lat" : 37.382743,
+                  "lng" : -122.194849
+               }
+            },
+            "location" : {
+               "lat" : 37.4135757,
+               "lng" : -122.1689284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.44363,
+                  "lng" : -122.1494501
+               },
+               "southwest" : {
+                  "lat" : 37.382743,
+                  "lng" : -122.194849
+               }
+            }
+         },
+         "place_id" : "ChIJjTG5QdS6j4ARKPHsBmylXH8",
+         "postcode_localities" : [ "Palo Alto", "Stanford" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Clara County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            },
+            "location" : {
+               "lat" : 37.3336581,
+               "lng" : -121.8907041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            }
+         },
+         "place_id" : "ChIJd_Y0eVIvkIARuQyDN0F1LBA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

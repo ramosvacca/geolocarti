@@ -1,0 +1,427 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "758",
+               "short_name" : "758",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North University Avenue",
+               "short_name" : "N University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burns Park",
+               "short_name" : "Burns Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "758 N University Ave, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.27853959999999,
+               "lng" : -83.7382532
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2798885802915,
+                  "lng" : -83.73690421970849
+               },
+               "southwest" : {
+                  "lat" : 42.2771906197085,
+                  "lng" : -83.73960218029151
+               }
+            }
+         },
+         "place_id" : "ChIJ10zcGEGuPIgRv-L5MfhqTTw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burns Park",
+               "short_name" : "Burns Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burns Park, Ann Arbor, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2817379,
+                  "lng" : -83.65993879999999
+               },
+               "southwest" : {
+                  "lat" : 42.2521759,
+                  "lng" : -83.74083979999999
+               }
+            },
+            "location" : {
+               "lat" : 42.266051,
+               "lng" : -83.728126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2817379,
+                  "lng" : -83.65993879999999
+               },
+               "southwest" : {
+                  "lat" : 42.2521759,
+                  "lng" : -83.74083979999999
+               }
+            }
+         },
+         "place_id" : "ChIJO4FtEeeuPIgRnjJguoTWPgM",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ann Arbor, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3239728,
+                  "lng" : -83.6758069
+               },
+               "southwest" : {
+                  "lat" : 42.222668,
+                  "lng" : -83.799572
+               }
+            },
+            "location" : {
+               "lat" : 42.2808256,
+               "lng" : -83.7430378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3239728,
+                  "lng" : -83.6758069
+               },
+               "southwest" : {
+                  "lat" : 42.222668,
+                  "lng" : -83.799572
+               }
+            }
+         },
+         "place_id" : "ChIJMx9D1A2wPIgR4rXIhkb5Cds",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3119899,
+                  "lng" : -83.66124590000001
+               },
+               "southwest" : {
+                  "lat" : 42.2630209,
+                  "lng" : -83.7474581
+               }
+            },
+            "location" : {
+               "lat" : 42.3053253,
+               "lng" : -83.6694169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3119899,
+                  "lng" : -83.66124590000001
+               },
+               "southwest" : {
+                  "lat" : 42.2630209,
+                  "lng" : -83.7474581
+               }
+            }
+         },
+         "place_id" : "ChIJIwIqh0GuPIgRpJk4UbPRvy4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ann Arbor, MI",
+               "short_name" : "Ann Arbor, MI",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ann Arbor, MI, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.434936,
+                  "lng" : -83.539394
+               },
+               "southwest" : {
+                  "lat" : 42.072143,
+                  "lng" : -84.133748
+               }
+            },
+            "location" : {
+               "lat" : 42.3076493,
+               "lng" : -83.8473015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.434936,
+                  "lng" : -83.539394
+               },
+               "southwest" : {
+                  "lat" : 42.072143,
+                  "lng" : -84.133748
+               }
+            }
+         },
+         "place_id" : "ChIJvxWmM8-wPIgRqNwtF0PSnv0",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washtenaw County, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4351659,
+                  "lng" : -83.539396
+               },
+               "southwest" : {
+                  "lat" : 42.071577,
+                  "lng" : -84.13407889999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3076493,
+               "lng" : -83.8473015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4351659,
+                  "lng" : -83.539396
+               },
+               "southwest" : {
+                  "lat" : 42.071577,
+                  "lng" : -84.13407889999999
+               }
+            }
+         },
+         "place_id" : "ChIJMx9D1A2wPIgRuLFVuZmuyW4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Michigan, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            },
+            "location" : {
+               "lat" : 44.3148443,
+               "lng" : -85.60236429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            }
+         },
+         "place_id" : "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

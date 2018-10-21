@@ -1,0 +1,373 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rua Dr Fernando José Martins D'Almeida Couto",
+               "short_name" : "R. Dr Fernando José Martins D'Almeida Couto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Funchal",
+               "short_name" : "Funchal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9020",
+               "short_name" : "9020",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "R. Dr Fernando José Martins D'Almeida Couto, 9020 Funchal, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.659709,
+                  "lng" : -16.9248639
+               },
+               "southwest" : {
+                  "lat" : 32.6579139,
+                  "lng" : -16.9273241
+               }
+            },
+            "location" : {
+               "lat" : 32.6590059,
+               "lng" : -16.9258857
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6601604302915,
+                  "lng" : -16.9247450197085
+               },
+               "southwest" : {
+                  "lat" : 32.6574624697085,
+                  "lng" : -16.9274429802915
+               }
+            }
+         },
+         "place_id" : "ChIJHap3HMNfYAwR0hGF_PM6yn0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Funchal",
+               "short_name" : "Funchal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Funchal, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6871381,
+                  "lng" : -16.882095
+               },
+               "southwest" : {
+                  "lat" : 32.63294520000001,
+                  "lng" : -16.9672461
+               }
+            },
+            "location" : {
+               "lat" : 32.6669328,
+               "lng" : -16.9240554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6871381,
+                  "lng" : -16.882095
+               },
+               "southwest" : {
+                  "lat" : 32.63294520000001,
+                  "lng" : -16.9672461
+               }
+            }
+         },
+         "place_id" : "ChIJq4sfUMNfYAwROaHNFSxN2P8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9020-335",
+               "short_name" : "9020-335",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Funchal",
+               "short_name" : "Funchal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santo António",
+               "short_name" : "Santo António",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Funchal",
+               "short_name" : "Funchal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9020-335 Funchal, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.6594089,
+               "lng" : -16.926438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6607578802915,
+                  "lng" : -16.9250890197085
+               },
+               "southwest" : {
+                  "lat" : 32.6580599197085,
+                  "lng" : -16.9277869802915
+               }
+            }
+         },
+         "place_id" : "ChIJUZbVDcNfYAwR_E-6brG0jD0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9020-105",
+               "short_name" : "9020-105",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Funchal",
+               "short_name" : "Funchal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Roque",
+               "short_name" : "São Roque",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Funchal",
+               "short_name" : "Funchal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9020-105 Funchal, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6661165,
+                  "lng" : -16.9225798
+               },
+               "southwest" : {
+                  "lat" : 32.6582969,
+                  "lng" : -16.9358603
+               }
+            },
+            "location" : {
+               "lat" : 32.661997,
+               "lng" : -16.927831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6661165,
+                  "lng" : -16.9225798
+               },
+               "southwest" : {
+                  "lat" : 32.6582969,
+                  "lng" : -16.9358603
+               }
+            }
+         },
+         "place_id" : "ChIJ_R-4aMRfYAwRHTw1Fny8BvI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9020",
+               "short_name" : "9020",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9020, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7332945,
+                  "lng" : -16.914392
+               },
+               "southwest" : {
+                  "lat" : 32.652944,
+                  "lng" : -16.9659819
+               }
+            },
+            "location" : {
+               "lat" : 32.6919039,
+               "lng" : -16.9417632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7332945,
+                  "lng" : -16.914392
+               },
+               "southwest" : {
+                  "lat" : 32.652944,
+                  "lng" : -16.9659819
+               }
+            }
+         },
+         "place_id" : "ChIJRc2apTxeYAwRsIr1D8HrABw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madeira",
+               "short_name" : "Madeira",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madeira, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.1281642,
+                  "lng" : -15.8560965
+               },
+               "southwest" : {
+                  "lat" : 30.0303397,
+                  "lng" : -17.2659373
+               }
+            },
+            "location" : {
+               "lat" : 32.76070740000001,
+               "lng" : -16.9594723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1281642,
+                  "lng" : -15.8560965
+               },
+               "southwest" : {
+                  "lat" : 30.0303397,
+                  "lng" : -17.2659373
+               }
+            }
+         },
+         "place_id" : "ChIJ7y75-KDpXwwRb166dGfldww",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            },
+            "location" : {
+               "lat" : 39.39987199999999,
+               "lng" : -8.224454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            }
+         },
+         "place_id" : "ChIJ1SZCvy0kMgsRQfBOHAlLuCo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

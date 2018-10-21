@@ -1,0 +1,461 @@
+{
+   "plus_code" : {
+      "compound_code" : "WHHP+G8 Bayreuth, Germany",
+      "global_code" : "8FXHWHHP+G8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsstraße",
+               "short_name" : "Universitätsstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Frankengut",
+               "short_name" : "Frankengut",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "BT",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberfranken",
+               "short_name" : "Oberfranken",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95447",
+               "short_name" : "95447",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsstraße 30, 95447 Bayreuth, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.9288196,
+               "lng" : 11.585831
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9301685802915,
+                  "lng" : 11.5871799802915
+               },
+               "southwest" : {
+                  "lat" : 49.9274706197085,
+                  "lng" : 11.5844820197085
+               }
+            }
+         },
+         "place_id" : "ChIJ3QZCZda8oUcRSXmiTZVgVhQ",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Frankengut",
+               "short_name" : "Frankengut",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "BT",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberfranken",
+               "short_name" : "Oberfranken",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95447",
+               "short_name" : "95447",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 95447 Bayreuth, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.928885,
+                  "lng" : 11.5858574
+               },
+               "southwest" : {
+                  "lat" : 49.92885099999999,
+                  "lng" : 11.5857334
+               }
+            },
+            "location" : {
+               "lat" : 49.92886799999999,
+               "lng" : 11.5857954
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9302169802915,
+                  "lng" : 11.5871443802915
+               },
+               "southwest" : {
+                  "lat" : 49.92751901970851,
+                  "lng" : 11.5844464197085
+               }
+            }
+         },
+         "place_id" : "ChIJl7ySBiq9oUcRLCB2I9GFFok",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frankengut",
+               "short_name" : "Frankengut",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "BT",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "BT",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oberfranken",
+               "short_name" : "Oberfranken",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Frankengut, Bayreuth, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9400315,
+                  "lng" : 11.5975477
+               },
+               "southwest" : {
+                  "lat" : 49.9207286,
+                  "lng" : 11.5726706
+               }
+            },
+            "location" : {
+               "lat" : 49.9312391,
+               "lng" : 11.5836402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9400315,
+                  "lng" : 11.5975477
+               },
+               "southwest" : {
+                  "lat" : 49.9207286,
+                  "lng" : 11.5726706
+               }
+            }
+         },
+         "place_id" : "ChIJf3YUaCq9oUcRQMh08yZ-rBo",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "95447",
+               "short_name" : "95447",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Saas",
+               "short_name" : "Saas",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "BT",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberfranken",
+               "short_name" : "Oberfranken",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "95447 Bayreuth, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9420559,
+                  "lng" : 11.5922219
+               },
+               "southwest" : {
+                  "lat" : 49.901661,
+                  "lng" : 11.5203761
+               }
+            },
+            "location" : {
+               "lat" : 49.9204587,
+               "lng" : 11.5618007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9420559,
+                  "lng" : 11.5922219
+               },
+               "southwest" : {
+                  "lat" : 49.901661,
+                  "lng" : 11.5203761
+               }
+            }
+         },
+         "place_id" : "ChIJMdAzpDi9oUcRgBfQHiy3HRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "Bayreuth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "BT",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Upper Franconia",
+               "short_name" : "Upper Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayreuth, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9772605,
+                  "lng" : 11.6728261
+               },
+               "southwest" : {
+                  "lat" : 49.88819119999999,
+                  "lng" : 11.4750831
+               }
+            },
+            "location" : {
+               "lat" : 49.9456399,
+               "lng" : 11.5713346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9772605,
+                  "lng" : 11.6728261
+               },
+               "southwest" : {
+                  "lat" : 49.88819119999999,
+                  "lng" : 11.4750831
+               }
+            }
+         },
+         "place_id" : "ChIJGQMtqMWioUcRNOfR0gnfhto",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Franconia",
+               "short_name" : "Upper Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Franconia, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.52320400000001,
+                  "lng" : 12.275413
+               },
+               "southwest" : {
+                  "lat" : 49.5873465,
+                  "lng" : 10.4401103
+               }
+            },
+            "location" : {
+               "lat" : 49.9599819,
+               "lng" : 11.3216311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.52320400000001,
+                  "lng" : 12.275413
+               },
+               "southwest" : {
+                  "lat" : 49.5873465,
+                  "lng" : 10.4401103
+               }
+            }
+         },
+         "place_id" : "ChIJpQc8fUuDoUcR-oMW676388Y",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "Bavaria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bavaria, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            },
+            "location" : {
+               "lat" : 48.7904472,
+               "lng" : 11.4978895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            }
+         },
+         "place_id" : "ChIJqVPfD0wEn0cRYHk4CaQlHQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

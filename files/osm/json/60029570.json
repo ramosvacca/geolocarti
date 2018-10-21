@@ -1,0 +1,447 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "589",
+               "short_name" : "589",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Albert Einstein",
+               "short_name" : "Av. Albert Einstein",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13083-852",
+               "short_name" : "13083-852",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Albert Einstein, 589 - Cidade Universitária, Campinas - SP, 13083-852, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.8190587,
+               "lng" : -47.064646
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8177097197085,
+                  "lng" : -47.0632970197085
+               },
+               "southwest" : {
+                  "lat" : -22.8204076802915,
+                  "lng" : -47.0659949802915
+               }
+            }
+         },
+         "place_id" : "ElJBdi4gQWxiZXJ0IEVpbnN0ZWluLCA1ODkgLSBDaWRhZGUgVW5pdmVyc2l0w6FyaWEsIENhbXBpbmFzIC0gU1AsIDEzMDgzLTg1MiwgQnJhc2lsIhsSGQoUChIJobGDP6zGyJQRB5jIsBWR4_0QzQQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rua Mendeleyev, 349-405",
+               "short_name" : "Rua Mendeleyev, 349-405",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13083-852",
+               "short_name" : "13083-852",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Mendeleyev, 349-405 - Cidade Universitária, Campinas - SP, 13083-852, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.8187724,
+               "lng" : -47.0650842
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8174234197085,
+                  "lng" : -47.06373521970851
+               },
+               "southwest" : {
+                  "lat" : -22.8201213802915,
+                  "lng" : -47.0664331802915
+               }
+            }
+         },
+         "place_id" : "ChIJrUjBSKzGyJQRBTQO77NQHc0",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cidade Universitária, Campinas - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.799717,
+                  "lng" : -47.0580879
+               },
+               "southwest" : {
+                  "lat" : -22.8325829,
+                  "lng" : -47.0811974
+               }
+            },
+            "location" : {
+               "lat" : -22.8183413,
+               "lng" : -47.0724604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.799717,
+                  "lng" : -47.0580879
+               },
+               "southwest" : {
+                  "lat" : -22.8325829,
+                  "lng" : -47.0811974
+               }
+            }
+         },
+         "place_id" : "ChIJC0omAqjGyJQRVRFa7n-dRgw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campinas, State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.7333357,
+                  "lng" : -46.935494
+               },
+               "southwest" : {
+                  "lat" : -23.0534185,
+                  "lng" : -47.209686
+               }
+            },
+            "location" : {
+               "lat" : -22.9099384,
+               "lng" : -47.0626332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.7333357,
+                  "lng" : -46.935494
+               },
+               "southwest" : {
+                  "lat" : -23.0534185,
+                  "lng" : -47.209686
+               }
+            }
+         },
+         "place_id" : "ChIJJWNL5x3GyJQRKsJ4IWo65Rc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13083-852",
+               "short_name" : "13083-852",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cidade Universitária, Campinas - State of São Paulo, 13083-852, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8116003,
+                  "lng" : -47.0619515
+               },
+               "southwest" : {
+                  "lat" : -22.8231972,
+                  "lng" : -47.0704678
+               }
+            },
+            "location" : {
+               "lat" : -22.8181235,
+               "lng" : -47.0641477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8116003,
+                  "lng" : -47.0619515
+               },
+               "southwest" : {
+                  "lat" : -22.8231972,
+                  "lng" : -47.0704678
+               }
+            }
+         },
+         "place_id" : "ChIJ42-wF1PByJQRqxZzZlxlR5E",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campinas - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.729225,
+                  "lng" : -46.81530189999999
+               },
+               "southwest" : {
+                  "lat" : -23.061219,
+                  "lng" : -47.2467669
+               }
+            },
+            "location" : {
+               "lat" : -22.9329252,
+               "lng" : -47.073845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.729225,
+                  "lng" : -46.81530189999999
+               },
+               "southwest" : {
+                  "lat" : -23.061219,
+                  "lng" : -47.2467669
+               }
+            }
+         },
+         "place_id" : "ChIJSSZVovbIyJQRNjUEWBwAdXQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            },
+            "location" : {
+               "lat" : -23.5431786,
+               "lng" : -46.6291845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            }
+         },
+         "place_id" : "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

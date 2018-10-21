@@ -1,0 +1,621 @@
+{
+   "plus_code" : {
+      "compound_code" : "3F92+M4 Graz, Austria",
+      "global_code" : "8FVQ3F92+M4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technische Universität - Campus Alte Technik",
+               "short_name" : "Technische Universität - Campus Alte Technik",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rechbauerstraße",
+               "short_name" : "Rechbauerstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Steiermark",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8010",
+               "short_name" : "8010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technische Universität - Campus Alte Technik, Rechbauerstraße 12, 8010 Graz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0695257,
+                  "lng" : 15.4509357
+               },
+               "southwest" : {
+                  "lat" : 47.0686702,
+                  "lng" : 15.449742
+               }
+            },
+            "location" : {
+               "lat" : 47.0691941,
+               "lng" : 15.4504411
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0704469302915,
+                  "lng" : 15.4516878302915
+               },
+               "southwest" : {
+                  "lat" : 47.0677489697085,
+                  "lng" : 15.4489898697085
+               }
+            }
+         },
+         "place_id" : "ChIJpS8L6oBKbkcRMfKNUUCCTyk",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rechbauerstraße",
+               "short_name" : "Rechbauerstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Steiermark",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8010",
+               "short_name" : "8010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rechbauerstraße 12, 8010 Graz, Austria",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.0691371,
+               "lng" : 15.4503154
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0704860802915,
+                  "lng" : 15.4516643802915
+               },
+               "southwest" : {
+                  "lat" : 47.0677881197085,
+                  "lng" : 15.4489664197085
+               }
+            }
+         },
+         "place_id" : "ChIJ9X3j9IVKbkcRow2N6LoMKY8",
+         "plus_code" : {
+            "compound_code" : "3F92+M4 Graz, Austria",
+            "global_code" : "8FVQ3F92+M4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rechbauerstraße",
+               "short_name" : "Rechbauerstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Steiermark",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8010",
+               "short_name" : "8010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rechbauerstraße 12, 8010 Graz, Austria",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.0693796,
+               "lng" : 15.4504651
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.07072858029149,
+                  "lng" : 15.4518140802915
+               },
+               "southwest" : {
+                  "lat" : 47.0680306197085,
+                  "lng" : 15.4491161197085
+               }
+            }
+         },
+         "place_id" : "ChIJHzTPooBKbkcRAS2daDiDXpY",
+         "plus_code" : {
+            "compound_code" : "3F92+Q5 Graz, Austria",
+            "global_code" : "8FVQ3F92+Q5"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lessingstraße",
+               "short_name" : "Lessingstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8010",
+               "short_name" : "8010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lessingstraße 28, 8010 Graz, Austria",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.0691515,
+               "lng" : 15.4496554
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.07050048029149,
+                  "lng" : 15.4510043802915
+               },
+               "southwest" : {
+                  "lat" : 47.06780251970849,
+                  "lng" : 15.4483064197085
+               }
+            }
+         },
+         "place_id" : "EilMZXNzaW5nc3RyYcOfZSAyOCwgODAxMCBHcmF6LCDDlnN0ZXJyZWljaCIaEhgKFAoSCUkIdZGASm5HEdIJTUBNloUTEBw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankt Leonhard",
+               "short_name" : "Sankt Leonhard",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Styria",
+               "short_name" : "Styria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sankt Leonhard, Graz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.079172,
+                  "lng" : 15.4745488
+               },
+               "southwest" : {
+                  "lat" : 47.0593699,
+                  "lng" : 15.4455099
+               }
+            },
+            "location" : {
+               "lat" : 47.0692217,
+               "lng" : 15.4590253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.079172,
+                  "lng" : 15.4745488
+               },
+               "southwest" : {
+                  "lat" : 47.0593699,
+                  "lng" : 15.4455099
+               }
+            }
+         },
+         "place_id" : "ChIJc8hFaohKbkcReHERHVdjtNU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8010",
+               "short_name" : "8010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Styria",
+               "short_name" : "Styria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8010 Graz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1213874,
+                  "lng" : 15.5673979
+               },
+               "southwest" : {
+                  "lat" : 47.046214,
+                  "lng" : 15.4194172
+               }
+            },
+            "location" : {
+               "lat" : 47.0743531,
+               "lng" : 15.454803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1213874,
+                  "lng" : 15.5673979
+               },
+               "southwest" : {
+                  "lat" : 47.046214,
+                  "lng" : 15.4194172
+               }
+            }
+         },
+         "place_id" : "ChIJMTxKK2FKbkcRQ2lQzpboBr8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Steiermark",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8010",
+               "short_name" : "8010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Graz, 8010 Graz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1213874,
+                  "lng" : 15.5673979
+               },
+               "southwest" : {
+                  "lat" : 47.0418497,
+                  "lng" : 15.3754957
+               }
+            },
+            "location" : {
+               "lat" : 47.0743531,
+               "lng" : 15.454803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1213874,
+                  "lng" : 15.5673979
+               },
+               "southwest" : {
+                  "lat" : 47.0418497,
+                  "lng" : 15.3754957
+               }
+            }
+         },
+         "place_id" : "ChIJMTxKK2FKbkcRcrZRLiXQLOw",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Steiermark",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Graz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.13460000000001,
+                  "lng" : 15.5340499
+               },
+               "southwest" : {
+                  "lat" : 47.01204,
+                  "lng" : 15.3495299
+               }
+            },
+            "location" : {
+               "lat" : 47.070714,
+               "lng" : 15.439504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.13460000000001,
+                  "lng" : 15.5340499
+               },
+               "southwest" : {
+                  "lat" : 47.01204,
+                  "lng" : 15.3495299
+               }
+            }
+         },
+         "place_id" : "ChIJlXx957BKbkcRbk9Z1DtWDBc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Styria",
+               "short_name" : "Styria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Graz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1351393,
+                  "lng" : 15.5340499
+               },
+               "southwest" : {
+                  "lat" : 47.01204,
+                  "lng" : 15.3495299
+               }
+            },
+            "location" : {
+               "lat" : 47.070714,
+               "lng" : 15.439504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1351393,
+                  "lng" : 15.5340499
+               },
+               "southwest" : {
+                  "lat" : 47.01204,
+                  "lng" : 15.3495299
+               }
+            }
+         },
+         "place_id" : "ChIJu2UwF4c1bkcRm93f0tGKjv4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Styria",
+               "short_name" : "Styria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Styria, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.82789,
+                  "lng" : 16.17014
+               },
+               "southwest" : {
+                  "lat" : 46.61163,
+                  "lng" : 13.56417
+               }
+            },
+            "location" : {
+               "lat" : 47.3593442,
+               "lng" : 14.4699827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.82789,
+                  "lng" : 16.17014
+               },
+               "southwest" : {
+                  "lat" : 46.61163,
+                  "lng" : 13.56417
+               }
+            }
+         },
+         "place_id" : "ChIJUQItuHg1bkcRNH0i-37kBdA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0206081,
+                  "lng" : 17.1607329
+               },
+               "southwest" : {
+                  "lat" : 46.37233579999999,
+                  "lng" : 9.530783399999999
+               }
+            },
+            "location" : {
+               "lat" : 47.516231,
+               "lng" : 14.550072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0206081,
+                  "lng" : 17.1607329
+               },
+               "southwest" : {
+                  "lat" : 46.37233579999999,
+                  "lng" : 9.530783399999999
+               }
+            }
+         },
+         "place_id" : "ChIJfyqdJZsHbUcRr8Hk3XvUEhA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

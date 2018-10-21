@@ -1,0 +1,509 @@
+{
+   "plus_code" : {
+      "compound_code" : "FFC4+W3 Waterloo, ON, Canada",
+      "global_code" : "86MXFFC4+W3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo Avenue West",
+               "short_name" : "Waterloo Avenue West",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 3C5",
+               "short_name" : "N2L 3C5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waterloo Avenue West, Waterloo, ON N2L 3C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4722854,
+               "lng" : -80.5448576
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4736343802915,
+                  "lng" : -80.54350861970849
+               },
+               "southwest" : {
+                  "lat" : 43.4709364197085,
+                  "lng" : -80.5462065802915
+               }
+            }
+         },
+         "place_id" : "ChIJC9lTE6r2K4gRzA0DztfL42o",
+         "plus_code" : {
+            "compound_code" : "FFC4+W3 Waterloo, Ontario, Canada",
+            "global_code" : "86MXFFC4+W3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mathematics and Computer",
+               "short_name" : "Mathematics and Computer",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue West",
+               "short_name" : "University Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 3G1",
+               "short_name" : "N2L 3G1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mathematics and Computer, University of, 200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4726159,
+                  "lng" : -80.5434394
+               },
+               "southwest" : {
+                  "lat" : 43.47158839999999,
+                  "lng" : -80.5444511
+               }
+            },
+            "location" : {
+               "lat" : 43.4721517,
+               "lng" : -80.5439318
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4734511302915,
+                  "lng" : -80.5425962697085
+               },
+               "southwest" : {
+                  "lat" : 43.4707531697085,
+                  "lng" : -80.5452942302915
+               }
+            }
+         },
+         "place_id" : "ChIJWZY_Cqr2K4gRupdGgWilPnE",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2L 3G1",
+               "short_name" : "N2L 3G1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Waterloo, ON N2L 3G1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4723293,
+                  "lng" : -80.54477609999999
+               },
+               "southwest" : {
+                  "lat" : 43.4721712,
+                  "lng" : -80.5451686
+               }
+            },
+            "location" : {
+               "lat" : 43.4722502,
+               "lng" : -80.5449723
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4735992302915,
+                  "lng" : -80.54362336970848
+               },
+               "southwest" : {
+                  "lat" : 43.4709012697085,
+                  "lng" : -80.54632133029149
+               }
+            }
+         },
+         "place_id" : "ChIJmfq_FKr2K4gRUhCfceNI7g4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "N2L 3G1",
+               "short_name" : "N2L 3G1",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, ON N2L 3G1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.474904,
+                  "lng" : -80.53840889999999
+               },
+               "southwest" : {
+                  "lat" : 43.466401,
+                  "lng" : -80.5480379
+               }
+            },
+            "location" : {
+               "lat" : 43.4715646,
+               "lng" : -80.5431505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.474904,
+                  "lng" : -80.53840889999999
+               },
+               "southwest" : {
+                  "lat" : 43.466401,
+                  "lng" : -80.5480379
+               }
+            }
+         },
+         "place_id" : "ChIJz1J7ZKv2K4gRN9qjmSOVRXY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "N2L",
+               "short_name" : "N2L",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, ON N2L, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.503997,
+                  "lng" : -80.51605900000001
+               },
+               "southwest" : {
+                  "lat" : 43.443174,
+                  "lng" : -80.57233099999999
+               }
+            },
+            "location" : {
+               "lat" : 43.47148749999999,
+               "lng" : -80.54940069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.503997,
+                  "lng" : -80.51605900000001
+               },
+               "southwest" : {
+                  "lat" : 43.443174,
+                  "lng" : -80.57233099999999
+               }
+            }
+         },
+         "place_id" : "ChIJO8Yqh6r2K4gRx6lgFmKttu8",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5317799,
+                  "lng" : -80.46729289999999
+               },
+               "southwest" : {
+                  "lat" : 43.4326571,
+                  "lng" : -80.6261459
+               }
+            },
+            "location" : {
+               "lat" : 43.4642578,
+               "lng" : -80.52040959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5317799,
+                  "lng" : -80.46729289999999
+               },
+               "southwest" : {
+                  "lat" : 43.4326571,
+                  "lng" : -80.6261459
+               }
+            }
+         },
+         "place_id" : "ChIJK2f-X1bxK4gRkB0jxyh7AwU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterloo Regional Municipality, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.68964099999999,
+                  "lng" : -80.187642
+               },
+               "southwest" : {
+                  "lat" : 43.2668561,
+                  "lng" : -80.8689979
+               }
+            },
+            "location" : {
+               "lat" : 43.4757989,
+               "lng" : -80.54384499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68964099999999,
+                  "lng" : -80.187642
+               },
+               "southwest" : {
+                  "lat" : 43.2668561,
+                  "lng" : -80.8689979
+               }
+            }
+         },
+         "place_id" : "ChIJzVW-r9J0LIgROw_vzdZHqoM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ontario",
+               "short_name" : "Ontario",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            },
+            "location" : {
+               "lat" : 51.253775,
+               "lng" : -85.32321399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwRCR5iKVZC-HA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

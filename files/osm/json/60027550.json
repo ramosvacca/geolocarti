@@ -1,0 +1,519 @@
+{
+   "plus_code" : {
+      "compound_code" : "3H93+HW Los Angeles, CA, USA",
+      "global_code" : "85633H93+HW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suite #365A",
+               "short_name" : "Suite #365A",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "200 UCLA",
+               "short_name" : "200 UCLA",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Medical Plaza Driveway",
+               "short_name" : "Medical Plaza Driveway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westwood",
+               "short_name" : "Westwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 UCLA, Medical Plaza Driveway Suite #365A, Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.068921,
+               "lng" : -118.4451811
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.07026998029149,
+                  "lng" : -118.4438321197085
+               },
+               "southwest" : {
+                  "lat" : 34.06757201970849,
+                  "lng" : -118.4465300802915
+               }
+            }
+         },
+         "place_id" : "ChIJV9EqEDS7woAR-jAR0xH0lSQ",
+         "plus_code" : {
+            "compound_code" : "3H93+HW Los Angeles, California, United States",
+            "global_code" : "85633H93+HW"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4077",
+               "short_name" : "4077",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westwood Plaza",
+               "short_name" : "Westwood Plaza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westwood",
+               "short_name" : "Westwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4077 Westwood Plaza, Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0697352,
+                  "lng" : -118.4452913
+               },
+               "southwest" : {
+                  "lat" : 34.0688884,
+                  "lng" : -118.4462064
+               }
+            },
+            "location" : {
+               "lat" : 34.0693714,
+               "lng" : -118.4456989
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0706607802915,
+                  "lng" : -118.4443998697085
+               },
+               "southwest" : {
+                  "lat" : 34.0679628197085,
+                  "lng" : -118.4470978302915
+               }
+            }
+         },
+         "place_id" : "ChIJZcO6TY-8woARWwIk3tQkiP0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "399",
+               "short_name" : "399",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westwood Plaza",
+               "short_name" : "Westwood Plaza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "399 Westwood Plaza, Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0690321,
+               "lng" : -118.4451345
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0703810802915,
+                  "lng" : -118.4437855197085
+               },
+               "southwest" : {
+                  "lat" : 34.0676831197085,
+                  "lng" : -118.4464834802915
+               }
+            }
+         },
+         "place_id" : "Ei4zOTkgV2VzdHdvb2QgUGxhemEsIExvcyBBbmdlbGVzLCBDQSA5MDA5NSwgVVNBIhsSGQoUChIJtcuproi8woARJsnwYsAlQ8IQjwM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Westwood",
+               "short_name" : "Westwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.076625,
+                  "lng" : -118.437812
+               },
+               "southwest" : {
+                  "lat" : 34.063724,
+                  "lng" : -118.4504281
+               }
+            },
+            "location" : {
+               "lat" : 34.070264,
+               "lng" : -118.4440562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.076625,
+                  "lng" : -118.437812
+               },
+               "southwest" : {
+                  "lat" : 34.063724,
+                  "lng" : -118.4504281
+               }
+            }
+         },
+         "place_id" : "ChIJF4iHJ4-8woARXqNVM9iKp8A",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westwood",
+               "short_name" : "Westwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westwood, Los Angeles, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0827807,
+                  "lng" : -118.4141518
+               },
+               "southwest" : {
+                  "lat" : 34.0470589,
+                  "lng" : -118.4665319
+               }
+            },
+            "location" : {
+               "lat" : 34.0635016,
+               "lng" : -118.4455164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0827807,
+                  "lng" : -118.4141518
+               },
+               "southwest" : {
+                  "lat" : 34.0470589,
+                  "lng" : -118.4665319
+               }
+            }
+         },
+         "place_id" : "ChIJecf92oa8woARVlNT9X_x42M",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3373061,
+                  "lng" : -118.1552891
+               },
+               "southwest" : {
+                  "lat" : 33.7036519,
+                  "lng" : -118.6681759
+               }
+            },
+            "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3373061,
+                  "lng" : -118.1552891
+               },
+               "southwest" : {
+                  "lat" : 33.7036519,
+                  "lng" : -118.6681759
+               }
+            }
+         },
+         "place_id" : "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            },
+            "location" : {
+               "lat" : 34.0522265,
+               "lng" : -118.2436596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            }
+         },
+         "place_id" : "ChIJMc1kAdMq3YARKjm9z9YofYM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

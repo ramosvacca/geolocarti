@@ -1,0 +1,303 @@
+{
+   "plus_code" : {
+      "compound_code" : "XCCC+9C Chaoyang, Beijing, China",
+      "global_code" : "8PFRXCCC+9C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chaoyang Qu",
+               "short_name" : "Chaoyang Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing Shi",
+               "short_name" : "Beijing Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100096",
+               "short_name" : "100096",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Chaoyang Qu, Beijing Shi, China, 100096",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.970853,
+                  "lng" : 116.4212959
+               },
+               "southwest" : {
+                  "lat" : 39.97084,
+                  "lng" : 116.4207681
+               }
+            },
+            "location" : {
+               "lat" : 39.9708465,
+               "lng" : 116.421032
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9721954802915,
+                  "lng" : 116.4223809802915
+               },
+               "southwest" : {
+                  "lat" : 39.9694975197085,
+                  "lng" : 116.4196830197085
+               }
+            }
+         },
+         "place_id" : "ChIJSS0mn1Kr8TURTG8DTxjFCVY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "100096",
+               "short_name" : "100096",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Haidian",
+               "short_name" : "Haidian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haidian, Beijing, China, 100096",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0997777,
+                  "lng" : 116.5137965
+               },
+               "southwest" : {
+                  "lat" : 39.938801,
+                  "lng" : 116.293946
+               }
+            },
+            "location" : {
+               "lat" : 40.0602512,
+               "lng" : 116.3633656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0997777,
+                  "lng" : 116.5137965
+               },
+               "southwest" : {
+                  "lat" : 39.938801,
+                  "lng" : 116.293946
+               }
+            }
+         },
+         "place_id" : "ChIJ_6KS3V7_8DUREjOAefKoc6o",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chaoyang",
+               "short_name" : "Chaoyang",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chaoyang, Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1079329,
+                  "lng" : 116.6452732
+               },
+               "southwest" : {
+                  "lat" : 39.8097685,
+                  "lng" : 116.3508827
+               }
+            },
+            "location" : {
+               "lat" : 39.921469,
+               "lng" : 116.443107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1079329,
+                  "lng" : 116.6452732
+               },
+               "southwest" : {
+                  "lat" : 39.8097685,
+                  "lng" : 116.3508827
+               }
+            }
+         },
+         "place_id" : "ChIJR2lzI-6r8TUROoHQJjCLu9c",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0608157,
+                  "lng" : 117.514625
+               },
+               "southwest" : {
+                  "lat" : 39.442758,
+                  "lng" : 115.4234112
+               }
+            },
+            "location" : {
+               "lat" : 39.90419989999999,
+               "lng" : 116.4073963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0608157,
+                  "lng" : 117.514625
+               },
+               "southwest" : {
+                  "lat" : 39.442758,
+                  "lng" : 115.4234112
+               }
+            }
+         },
+         "place_id" : "ChIJuSwU55ZS8DURiqkPryBWYrk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0608157,
+                  "lng" : 117.514625
+               },
+               "southwest" : {
+                  "lat" : 39.442758,
+                  "lng" : 115.4234112
+               }
+            },
+            "location" : {
+               "lat" : 40.2373519,
+               "lng" : 116.2304616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0608157,
+                  "lng" : 117.514625
+               },
+               "southwest" : {
+                  "lat" : 39.442758,
+                  "lng" : 115.4234112
+               }
+            }
+         },
+         "place_id" : "ChIJuSwU55ZS8DURp8_dOLuVd8A",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

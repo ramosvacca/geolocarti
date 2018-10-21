@@ -1,0 +1,456 @@
+{
+   "plus_code" : {
+      "compound_code" : "XMJQ+85 Stockton, CA, USA",
+      "global_code" : "849WXMJQ+85"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3601",
+               "short_name" : "3601",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pacific Avenue",
+               "short_name" : "Pacific Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pacific",
+               "short_name" : "Pacific",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Stockton",
+               "short_name" : "Stockton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95211",
+               "short_name" : "95211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3601 Pacific Ave, Stockton, CA 95211, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9808152,
+               "lng" : -121.3120225
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9821641802915,
+                  "lng" : -121.3106735197085
+               },
+               "southwest" : {
+                  "lat" : 37.9794662197085,
+                  "lng" : -121.3133714802915
+               }
+            }
+         },
+         "place_id" : "ChIJXbvRQKYNkIAREbcUV2eMSwg",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Stagg Way",
+               "short_name" : "W Stagg Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pacific",
+               "short_name" : "Pacific",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Stockton",
+               "short_name" : "Stockton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95204",
+               "short_name" : "95204",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W Stagg Way, Stockton, CA 95204, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.980376,
+                  "lng" : -121.3120705
+               },
+               "southwest" : {
+                  "lat" : 37.98030130000001,
+                  "lng" : -121.3120761
+               }
+            },
+            "location" : {
+               "lat" : 37.9803386,
+               "lng" : -121.3120733
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9816876302915,
+                  "lng" : -121.3107243197085
+               },
+               "southwest" : {
+                  "lat" : 37.9789896697085,
+                  "lng" : -121.3134222802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0TILOKYNkIARnNVMSLtH60k",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "95211",
+               "short_name" : "95211",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pacific",
+               "short_name" : "Pacific",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Stockton",
+               "short_name" : "Stockton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stockton, CA 95211, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9879636,
+                  "lng" : -121.307575
+               },
+               "southwest" : {
+                  "lat" : 37.9740293,
+                  "lng" : -121.318949
+               }
+            },
+            "location" : {
+               "lat" : 37.9794321,
+               "lng" : -121.3141847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9879636,
+                  "lng" : -121.307575
+               },
+               "southwest" : {
+                  "lat" : 37.9740293,
+                  "lng" : -121.318949
+               }
+            }
+         },
+         "place_id" : "ChIJl1dsWKYNkIAR2fT8raK2glo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pacific",
+               "short_name" : "Pacific",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lakeview",
+               "short_name" : "Lakeview",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Stockton",
+               "short_name" : "Stockton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pacific, Stockton, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.007305,
+                  "lng" : -121.261913
+               },
+               "southwest" : {
+                  "lat" : 37.952323,
+                  "lng" : -121.351558
+               }
+            },
+            "location" : {
+               "lat" : 37.9795045,
+               "lng" : -121.3026883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.007305,
+                  "lng" : -121.261913
+               },
+               "southwest" : {
+                  "lat" : 37.952323,
+                  "lng" : -121.351558
+               }
+            }
+         },
+         "place_id" : "ChIJu3ozuQkNkIARpHvsQP_TvLA",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stockton",
+               "short_name" : "Stockton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stockton, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0582999,
+                  "lng" : -121.1840191
+               },
+               "southwest" : {
+                  "lat" : 37.887747,
+                  "lng" : -121.419736
+               }
+            },
+            "location" : {
+               "lat" : 37.9577016,
+               "lng" : -121.2907796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0582999,
+                  "lng" : -121.1840191
+               },
+               "southwest" : {
+                  "lat" : 37.887747,
+                  "lng" : -121.419736
+               }
+            }
+         },
+         "place_id" : "ChIJgSFEe3MNkIAR2MtPBNH1dlg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Joaquin County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2994709,
+                  "lng" : -120.920665
+               },
+               "southwest" : {
+                  "lat" : 37.4817831,
+                  "lng" : -121.585079
+               }
+            },
+            "location" : {
+               "lat" : 37.9175935,
+               "lng" : -121.1710389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2994709,
+                  "lng" : -120.920665
+               },
+               "southwest" : {
+                  "lat" : 37.4817831,
+                  "lng" : -121.585079
+               }
+            }
+         },
+         "place_id" : "ChIJ31ZZ5gY-kIAR0dtYpsEqJEc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

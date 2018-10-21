@@ -1,0 +1,260 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "302",
+               "short_name" : "302",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bartolome Mitre Este",
+               "short_name" : "Bartolome Mitre Este",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital",
+               "short_name" : "Capital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "J5402",
+               "short_name" : "J5402",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "CWH",
+               "short_name" : "CWH",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Bartolome Mitre Este 302, J5402CWH San Juan, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -31.5375733,
+               "lng" : -68.5213114
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.5362243197085,
+                  "lng" : -68.51996241970849
+               },
+               "southwest" : {
+                  "lat" : -31.5389222802915,
+                  "lng" : -68.5226603802915
+               }
+            }
+         },
+         "place_id" : "EjZCYXJ0b2xvbWUgTWl0cmUgRXN0ZSAzMDIsIEo1NDAyQ1dIIFNhbiBKdWFuLCBBcmdlbnRpbmEiGxIZChQKEglRhprNnGqBlhGVmI329bvOfxCuAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Department",
+               "short_name" : "Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Juan Province",
+               "short_name" : "San Juan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Juan, San Juan Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.5018425,
+                  "lng" : -68.4962616
+               },
+               "southwest" : {
+                  "lat" : -31.56170849999999,
+                  "lng" : -68.5690917
+               }
+            },
+            "location" : {
+               "lat" : -31.5351074,
+               "lng" : -68.5385941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.5018425,
+                  "lng" : -68.4962616
+               },
+               "southwest" : {
+                  "lat" : -31.56170849999999,
+                  "lng" : -68.5690917
+               }
+            }
+         },
+         "place_id" : "ChIJl9Q8oylAgZYRs_w8I6Cj878",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capital Department",
+               "short_name" : "Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Juan Province",
+               "short_name" : "San Juan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Capital Department, San Juan, San Juan Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.5018377,
+                  "lng" : -68.4962601
+               },
+               "southwest" : {
+                  "lat" : -31.5617195,
+                  "lng" : -68.56908679999999
+               }
+            },
+            "location" : {
+               "lat" : -31.5335174,
+               "lng" : -68.53067700000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.5018377,
+                  "lng" : -68.4962601
+               },
+               "southwest" : {
+                  "lat" : -31.5617195,
+                  "lng" : -68.56908679999999
+               }
+            }
+         },
+         "place_id" : "ChIJT5TMe9BBgZYRgylAPmzR6Co",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Juan Province",
+               "short_name" : "San Juan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Juan Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.36589,
+                  "lng" : -66.71514359999999
+               },
+               "southwest" : {
+                  "lat" : -32.6268692,
+                  "lng" : -70.56785909999999
+               }
+            },
+            "location" : {
+               "lat" : -31.5287127,
+               "lng" : -68.5360403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.36589,
+                  "lng" : -66.71514359999999
+               },
+               "southwest" : {
+                  "lat" : -32.6268692,
+                  "lng" : -70.56785909999999
+               }
+            }
+         },
+         "place_id" : "ChIJl9Q8oylAgZYR37HjZ-P_UjU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            },
+            "location" : {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

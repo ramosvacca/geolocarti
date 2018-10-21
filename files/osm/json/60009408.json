@@ -1,0 +1,572 @@
+{
+   "plus_code" : {
+      "compound_code" : "9W5M+M9 Detroit, MI, USA",
+      "global_code" : "86JR9W5M+M9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Warren Avenue",
+               "short_name" : "W Warren Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wayne State",
+               "short_name" : "Wayne State",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48202",
+               "short_name" : "48202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42 W Warren Ave, Detroit, MI 48202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3591388,
+               "lng" : -83.06654619999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.36048778029149,
+                  "lng" : -83.06519721970848
+               },
+               "southwest" : {
+                  "lat" : 42.35778981970849,
+                  "lng" : -83.06789518029149
+               }
+            }
+         },
+         "place_id" : "ChIJQ9hCnbzSJIgRTl7fSYmWiLY",
+         "plus_code" : {
+            "compound_code" : "9W5M+M9 Detroit, Michigan, United States",
+            "global_code" : "86JR9W5M+M9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5201",
+               "short_name" : "5201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Woodward Avenue",
+               "short_name" : "Woodward Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48202",
+               "short_name" : "48202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5201 Woodward Ave, Detroit, MI 48202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3585427,
+               "lng" : -83.0666141
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3598916802915,
+                  "lng" : -83.06526511970849
+               },
+               "southwest" : {
+                  "lat" : 42.3571937197085,
+                  "lng" : -83.06796308029149
+               }
+            }
+         },
+         "place_id" : "ChIJNcZz_rzSJIgRCnnSbdn0bcU",
+         "plus_code" : {
+            "compound_code" : "9W5M+C9 Detroit, Michigan, United States",
+            "global_code" : "86JR9W5M+C9"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Midtown Loop",
+               "short_name" : "Midtown Loop",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48202",
+               "short_name" : "48202",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4044",
+               "short_name" : "4044",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "59 Midtown Loop, Detroit, MI 48202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3595445,
+               "lng" : -83.066863
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.36089348029149,
+                  "lng" : -83.06551401970849
+               },
+               "southwest" : {
+                  "lat" : 42.3581955197085,
+                  "lng" : -83.06821198029151
+               }
+            }
+         },
+         "place_id" : "Eic1OSBNaWR0b3duIExvb3AsIERldHJvaXQsIE1JIDQ4MjAyLCBVU0EiGhIYChQKEgkDPUIWvdIkiBF8yDez5SEk7hA7",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wayne State",
+               "short_name" : "Wayne State",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wayne State, Detroit, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.371037,
+                  "lng" : -83.0622211
+               },
+               "southwest" : {
+                  "lat" : 42.350137,
+                  "lng" : -83.0851229
+               }
+            },
+            "location" : {
+               "lat" : 42.3590346,
+               "lng" : -83.07087369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.371037,
+                  "lng" : -83.0622211
+               },
+               "southwest" : {
+                  "lat" : 42.350137,
+                  "lng" : -83.0851229
+               }
+            }
+         },
+         "place_id" : "ChIJi0IQHqLSJIgR4DLEE5pRBik",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midtown, Detroit, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.368436,
+                  "lng" : -83.04403049999999
+               },
+               "southwest" : {
+                  "lat" : 42.3353233,
+                  "lng" : -83.0760138
+               }
+            },
+            "location" : {
+               "lat" : 42.348495,
+               "lng" : -83.0602998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.368436,
+                  "lng" : -83.04403049999999
+               },
+               "southwest" : {
+                  "lat" : 42.3353233,
+                  "lng" : -83.0760138
+               }
+            }
+         },
+         "place_id" : "ChIJDTm4TLHSJIgRuz6umxN848Q",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48202",
+               "short_name" : "48202",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Detroit, MI 48202, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3964819,
+                  "lng" : -83.0541489
+               },
+               "southwest" : {
+                  "lat" : 42.3537701,
+                  "lng" : -83.10058810000001
+               }
+            },
+            "location" : {
+               "lat" : 42.3664506,
+               "lng" : -83.0737195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3964819,
+                  "lng" : -83.0541489
+               },
+               "southwest" : {
+                  "lat" : 42.3537701,
+                  "lng" : -83.10058810000001
+               }
+            }
+         },
+         "place_id" : "ChIJ65YIQoLSJIgRC3XCPpM8pcU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Detroit, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.45023,
+                  "lng" : -82.91045099999999
+               },
+               "southwest" : {
+                  "lat" : 42.255192,
+                  "lng" : -83.287959
+               }
+            },
+            "location" : {
+               "lat" : 42.331427,
+               "lng" : -83.0457538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.45023,
+                  "lng" : -82.91045099999999
+               },
+               "southwest" : {
+                  "lat" : 42.255192,
+                  "lng" : -83.287959
+               }
+            }
+         },
+         "place_id" : "ChIJdR3LEAHKJIgR0sS5NU6Gdlc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wayne County, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.451557,
+                  "lng" : -82.7499078
+               },
+               "southwest" : {
+                  "lat" : 42.02793,
+                  "lng" : -83.55190689999999
+               }
+            },
+            "location" : {
+               "lat" : 42.2790746,
+               "lng" : -83.33618799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.451557,
+                  "lng" : -82.7499078
+               },
+               "southwest" : {
+                  "lat" : 42.02793,
+                  "lng" : -83.55190689999999
+               }
+            }
+         },
+         "place_id" : "ChIJDZ6VuYPKJIgR15xhPzwyGyw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Michigan",
+               "short_name" : "Michigan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Michigan, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            },
+            "location" : {
+               "lat" : 44.3148443,
+               "lng" : -85.60236429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            }
+         },
+         "place_id" : "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,477 @@
+{
+   "plus_code" : {
+      "compound_code" : "5W9X+QR Helsinki, Finland",
+      "global_code" : "9GG65W9X+QR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fabiansgatan",
+               "short_name" : "Fabiansgatan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Helsingfors",
+               "short_name" : "H:fors",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00100",
+               "short_name" : "00100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fabiansgatan 33, 00100 Helsingfors, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.169499,
+               "lng" : 24.9495684
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.17084798029151,
+                  "lng" : 24.9509173802915
+               },
+               "southwest" : {
+                  "lat" : 60.1681500197085,
+                  "lng" : 24.9482194197085
+               }
+            }
+         },
+         "place_id" : "ChIJKdnpLyoKkkYRsCB31e5UQJw",
+         "plus_code" : {
+            "compound_code" : "5W9X+QR Helsinki, Finland",
+            "global_code" : "9GG65W9X+QR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fabianinkatu",
+               "short_name" : "Fabianinkatu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "HKI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00170",
+               "short_name" : "00170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fabianinkatu 33, 00170 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.16945089999999,
+               "lng" : 24.9495854
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.1707998802915,
+                  "lng" : 24.9509343802915
+               },
+               "southwest" : {
+                  "lat" : 60.16810191970848,
+                  "lng" : 24.9482364197085
+               }
+            }
+         },
+         "place_id" : "ChIJe0lcXs4LkkYRxw_ejsMdoss",
+         "plus_code" : {
+            "compound_code" : "5W9X+QR Helsinki, Finland",
+            "global_code" : "9GG65W9X+QR"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fabianinkatu",
+               "short_name" : "Fabianinkatu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fabianinkatu 18, Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.169217,
+               "lng" : 24.949337
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.1705659802915,
+                  "lng" : 24.9506859802915
+               },
+               "southwest" : {
+                  "lat" : 60.16786801970849,
+                  "lng" : 24.9479880197085
+               }
+            }
+         },
+         "place_id" : "EiBGYWJpYW5pbmthdHUgMTgsIEhlbHNpbmtpLCBTdW9taSIaEhgKFAoSCZtFN17OC5JGEd9u1Mb5GjPtEBI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kluuvi",
+               "short_name" : "Kluuvi",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "HKI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kluuvi, Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.1799087,
+                  "lng" : 24.951228
+               },
+               "southwest" : {
+                  "lat" : 60.1665892,
+                  "lng" : 24.9334502
+               }
+            },
+            "location" : {
+               "lat" : 60.1724821,
+               "lng" : 24.9406449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.1799087,
+                  "lng" : 24.951228
+               },
+               "southwest" : {
+                  "lat" : 60.1665892,
+                  "lng" : 24.9334502
+               }
+            }
+         },
+         "place_id" : "ChIJnw6y0M0LkkYRwXcZPFK1ACY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "00100",
+               "short_name" : "00100",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "HKI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "00100 Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.180108,
+                  "lng" : 24.9517454
+               },
+               "southwest" : {
+                  "lat" : 60.163484,
+                  "lng" : 24.8977079
+               }
+            },
+            "location" : {
+               "lat" : 60.1726668,
+               "lng" : 24.9320088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.180108,
+                  "lng" : 24.9517454
+               },
+               "southwest" : {
+                  "lat" : 60.163484,
+                  "lng" : 24.8977079
+               }
+            }
+         },
+         "place_id" : "ChIJJ29HWjEKkkYREDtXeFS1ABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.2978389,
+                  "lng" : 25.2544849
+               },
+               "southwest" : {
+                  "lat" : 59.9224887,
+                  "lng" : 24.7828758
+               }
+            },
+            "location" : {
+               "lat" : 60.16985569999999,
+               "lng" : 24.9383791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.2978389,
+                  "lng" : 25.2544849
+               },
+               "southwest" : {
+                  "lat" : 59.9224887,
+                  "lng" : 24.7828758
+               }
+            }
+         },
+         "place_id" : "ChIJkQYhlscLkkYRY_fiO4S9Ts0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "HKI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.2978389,
+                  "lng" : 25.2544849
+               },
+               "southwest" : {
+                  "lat" : 59.9224887,
+                  "lng" : 24.7828758
+               }
+            },
+            "location" : {
+               "lat" : 60.1698626,
+               "lng" : 24.9383788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.2978389,
+                  "lng" : 25.2544849
+               },
+               "southwest" : {
+                  "lat" : 59.9224887,
+                  "lng" : 24.7828758
+               }
+            }
+         },
+         "place_id" : "ChIJAdICZ_IMkkYRtfGd9T9Qyf0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 25.5265525
+               },
+               "southwest" : {
+                  "lat" : 59.7915576,
+                  "lng" : 23.5868581
+               }
+            },
+            "location" : {
+               "lat" : 60.2308636,
+               "lng" : 24.7178413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 25.5265525
+               },
+               "southwest" : {
+                  "lat" : 59.7915576,
+                  "lng" : 23.5868581
+               }
+            }
+         },
+         "place_id" : "ChIJ8d7XsbPvjUYRSkCZVH4SEe4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uusimaa",
+               "short_name" : "Uusimaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uusimaa, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 26.5905075
+               },
+               "southwest" : {
+                  "lat" : 59.7366942,
+                  "lng" : 22.7612088
+               }
+            },
+            "location" : {
+               "lat" : 60.21872,
+               "lng" : 25.271621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 26.5905075
+               },
+               "southwest" : {
+                  "lat" : 59.7366942,
+                  "lng" : 22.7612088
+               }
+            }
+         },
+         "place_id" : "ChIJjxx_x8PzjUYRoPTt2ZDEppc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            },
+            "location" : {
+               "lat" : 61.92410999999999,
+               "lng" : 25.7481511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            }
+         },
+         "place_id" : "ChIJ3fYyS9_KgUYREKh1PNZGAQA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

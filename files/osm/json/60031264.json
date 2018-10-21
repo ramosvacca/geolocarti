@@ -1,0 +1,498 @@
+{
+   "plus_code" : {
+      "compound_code" : "QVM9+GM Villeurbanne, France",
+      "global_code" : "8FQ6QVM9+GM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Victor Grignard",
+               "short_name" : "Rue Victor Grignard",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villeurbanne",
+               "short_name" : "Villeurbanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69100",
+               "short_name" : "69100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 Rue Victor Grignard, 69100 Villeurbanne, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7835931,
+               "lng" : 4.8690624
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.78494208029149,
+                  "lng" : 4.870411380291502
+               },
+               "southwest" : {
+                  "lat" : 45.78224411970849,
+                  "lng" : 4.867713419708497
+               }
+            }
+         },
+         "place_id" : "ChIJbeNySqLq9EcR9tb8CVKWF2k",
+         "plus_code" : {
+            "compound_code" : "QVM9+CJ Villeurbanne, France",
+            "global_code" : "8FQ6QVM9+CJ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Victor Grignard",
+               "short_name" : "Rue Victor Grignard",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villeurbanne",
+               "short_name" : "Villeurbanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69100",
+               "short_name" : "69100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7 Rue Victor Grignard, 69100 Villeurbanne, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7837422,
+               "lng" : 4.869322599999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7850911802915,
+                  "lng" : 4.870671580291502
+               },
+               "southwest" : {
+                  "lat" : 45.7823932197085,
+                  "lng" : 4.867973619708497
+               }
+            }
+         },
+         "place_id" : "EjE3IFJ1ZSBWaWN0b3IgR3JpZ25hcmQsIDY5MTAwIFZpbGxldXJiYW5uZSwgRnJhbmNlIhoSGAoUChIJI6s5zaPq9EcRlBPuG_mQ4ZEQBw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "-",
+               "short_name" : "-",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue Gaston Berger",
+               "short_name" : "Avenue Gaston Berger",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villeurbanne",
+               "short_name" : "Villeurbanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69100",
+               "short_name" : "69100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "-, 20 Avenue Gaston Berger, 69100 Villeurbanne, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7821677,
+               "lng" : 4.8702453
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.78351668029149,
+                  "lng" : 4.871594280291502
+               },
+               "southwest" : {
+                  "lat" : 45.78081871970849,
+                  "lng" : 4.868896319708497
+               }
+            }
+         },
+         "place_id" : "ChIJG0fJU6Dq9EcRuP7vnjSFc_0",
+         "plus_code" : {
+            "compound_code" : "QVJC+V3 Villeurbanne, France",
+            "global_code" : "8FQ6QVJC+V3"
+         },
+         "types" : [ "establishment", "library", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doua",
+               "short_name" : "Doua",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lyon",
+               "short_name" : "Lyon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Doua, Lyon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.796102,
+                  "lng" : 4.893818899999999
+               },
+               "southwest" : {
+                  "lat" : 45.776047,
+                  "lng" : 4.8592029
+               }
+            },
+            "location" : {
+               "lat" : 45.7836359,
+               "lng" : 4.8731316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.796102,
+                  "lng" : 4.893818899999999
+               },
+               "southwest" : {
+                  "lat" : 45.776047,
+                  "lng" : 4.8592029
+               }
+            }
+         },
+         "place_id" : "ChIJt_T3Lmvq9EcRMOulVD-ucPI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "69100",
+               "short_name" : "69100",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Villeurbanne",
+               "short_name" : "Villeurbanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "69100 Villeurbanne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7955345,
+                  "lng" : 4.921217899999999
+               },
+               "southwest" : {
+                  "lat" : 45.7484522,
+                  "lng" : 4.858354299999999
+               }
+            },
+            "location" : {
+               "lat" : 45.77127360000001,
+               "lng" : 4.8844514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7955345,
+                  "lng" : 4.921217899999999
+               },
+               "southwest" : {
+                  "lat" : 45.7484522,
+                  "lng" : 4.858354299999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2Q1mHjrA9EcREHrkQS6rCBw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Villeurbanne",
+               "short_name" : "Villeurbanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69100",
+               "short_name" : "69100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "69100 Villeurbanne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.795069,
+                  "lng" : 4.9212289
+               },
+               "southwest" : {
+                  "lat" : 45.7484471,
+                  "lng" : 4.858423999999999
+               }
+            },
+            "location" : {
+               "lat" : 45.771944,
+               "lng" : 4.8901709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.795069,
+                  "lng" : 4.9212289
+               },
+               "southwest" : {
+                  "lat" : 45.7484471,
+                  "lng" : 4.858423999999999
+               }
+            }
+         },
+         "place_id" : "ChIJryN2zS_A9EcRUiZbJSsMusM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhône, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.30650199999999,
+                  "lng" : 5.1601089
+               },
+               "southwest" : {
+                  "lat" : 45.45413,
+                  "lng" : 4.243647
+               }
+            },
+            "location" : {
+               "lat" : 45.7351456,
+               "lng" : 4.6108043
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.30650199999999,
+                  "lng" : 5.1601089
+               },
+               "southwest" : {
+                  "lat" : 45.45413,
+                  "lng" : 4.243647
+               }
+            }
+         },
+         "place_id" : "ChIJcf_obOGN9EcR0Cm55CqrCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auvergne-Rhône-Alpes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            },
+            "location" : {
+               "lat" : 45.4471431,
+               "lng" : 4.385250699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            }
+         },
+         "place_id" : "ChIJ_fju9ukE9UcROuOAIn5wRjk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

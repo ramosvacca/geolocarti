@@ -1,0 +1,440 @@
+{
+   "plus_code" : {
+      "compound_code" : "QGHX+77 Richmond District, San Francisco, CA, USA",
+      "global_code" : "849VQGHX+77"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2800",
+               "short_name" : "2800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Turk Street",
+               "short_name" : "Turk St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inner Richmond",
+               "short_name" : "Inner Richmond",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94118",
+               "short_name" : "94118",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2800 Turk St, San Francisco, CA 94118, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7781662,
+               "lng" : -122.4518239
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7795151802915,
+                  "lng" : -122.4504749197085
+               },
+               "southwest" : {
+                  "lat" : 37.7768172197085,
+                  "lng" : -122.4531728802915
+               }
+            }
+         },
+         "place_id" : "ChIJUdq80UuHhYARiYgsbpM48cc",
+         "plus_code" : {
+            "compound_code" : "QGHX+77 Richmond District, San Francisco, CA, United States",
+            "global_code" : "849VQGHX+77"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2804",
+               "short_name" : "2804",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Turk Street",
+               "short_name" : "Turk St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94118",
+               "short_name" : "94118",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2804 Turk St, San Francisco, CA 94118, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.778073,
+               "lng" : -122.4518341
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7794219802915,
+                  "lng" : -122.4504851197085
+               },
+               "southwest" : {
+                  "lat" : 37.7767240197085,
+                  "lng" : -122.4531830802915
+               }
+            }
+         },
+         "place_id" : "EioyODA0IFR1cmsgU3QsIFNhbiBGcmFuY2lzY28sIENBIDk0MTE4LCBVU0EiGxIZChQKEglxAp7ZS4eFgBEJVdPWlfd5NxD0FQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inner Richmond",
+               "short_name" : "Inner Richmond",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Inner Richmond, San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7890408,
+                  "lng" : -122.4464566
+               },
+               "southwest" : {
+                  "lat" : 37.7728702,
+                  "lng" : -122.4787354
+               }
+            },
+            "location" : {
+               "lat" : 37.7798704,
+               "lng" : -122.4647458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7890408,
+                  "lng" : -122.4464566
+               },
+               "southwest" : {
+                  "lat" : 37.7728702,
+                  "lng" : -122.4787354
+               }
+            }
+         },
+         "place_id" : "ChIJszxxHD-HhYARZjJ0DZ92BQ4",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94118",
+               "short_name" : "94118",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA 94118, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.791637,
+                  "lng" : -122.4436991
+               },
+               "southwest" : {
+                  "lat" : 37.766062,
+                  "lng" : -122.479504
+               }
+            },
+            "location" : {
+               "lat" : 37.7822891,
+               "lng" : -122.463708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.791637,
+                  "lng" : -122.4436991
+               },
+               "southwest" : {
+                  "lat" : 37.766062,
+                  "lng" : -122.479504
+               }
+            }
+         },
+         "place_id" : "ChIJE8NGljiHhYARnSY8nSgLJkk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco County, San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            },
+            "location" : {
+               "lat" : 37.7749073,
+               "lng" : -122.4193878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            }
+         },
+         "place_id" : "ChIJIQBpAG2ahYARUksNqd0_1h8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "San Francisco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            },
+            "location" : {
+               "lat" : 37.7749295,
+               "lng" : -122.4194155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            }
+         },
+         "place_id" : "ChIJIQBpAG2ahYAR_6128GcTUEo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

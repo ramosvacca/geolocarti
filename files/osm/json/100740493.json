@@ -1,0 +1,656 @@
+{
+   "plus_code" : {
+      "compound_code" : "2P5G+RG London, ON, Canada",
+      "global_code" : "86MW2P5G+RG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1151",
+               "short_name" : "1151",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Richmond St",
+               "short_name" : "Richmond St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N6A 3K7",
+               "short_name" : "N6A 3K7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1151 Richmond St, London, ON N6A 3K7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0095971,
+               "lng" : -81.2737336
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0109460802915,
+                  "lng" : -81.27238461970849
+               },
+               "southwest" : {
+                  "lat" : 43.0082481197085,
+                  "lng" : -81.27508258029151
+               }
+            }
+         },
+         "place_id" : "ChIJ0SvEag7uLogRm3m5qlPzh6o",
+         "plus_code" : {
+            "compound_code" : "2P5G+RG London, Ontario, Canada",
+            "global_code" : "86MW2P5G+RG"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "37",
+               "short_name" : "37",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kent Drive",
+               "short_name" : "Kent Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N6G 2V4",
+               "short_name" : "N6G 2V4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "37 Kent Dr, London, ON N6G 2V4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0091847,
+               "lng" : -81.27392139999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.01053368029149,
+                  "lng" : -81.2725724197085
+               },
+               "southwest" : {
+                  "lat" : 43.0078357197085,
+                  "lng" : -81.2752703802915
+               }
+            }
+         },
+         "place_id" : "ChIJAW-Jhz3uLogR2DvPufucFFQ",
+         "plus_code" : {
+            "compound_code" : "2P5G+MC London, Ontario, Canada",
+            "global_code" : "86MW2P5G+MC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stevenson Hall",
+               "short_name" : "Stevenson Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "37",
+               "short_name" : "37",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kent Drive",
+               "short_name" : "Kent Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N6G 2V4",
+               "short_name" : "N6G 2V4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stevenson Hall, 37 Kent Dr, London, ON N6G 2V4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0092223,
+                  "lng" : -81.27344739999999
+               },
+               "southwest" : {
+                  "lat" : 43.0086073,
+                  "lng" : -81.27422469999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0089088,
+               "lng" : -81.2740063
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0102637802915,
+                  "lng" : -81.27248706970848
+               },
+               "southwest" : {
+                  "lat" : 43.0075658197085,
+                  "lng" : -81.2751850302915
+               }
+            }
+         },
+         "place_id" : "ChIJGYY-KhbuLogRmKEzNWgXEQo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kent Drive",
+               "short_name" : "Kent Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N6G 2V4",
+               "short_name" : "N6G 2V4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kent Dr, London, ON N6G 2V4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.009374,
+                  "lng" : -81.27369829999999
+               },
+               "southwest" : {
+                  "lat" : 43.0093176,
+                  "lng" : -81.27414349999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0093458,
+               "lng" : -81.27392089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.01069478029149,
+                  "lng" : -81.27257191970848
+               },
+               "southwest" : {
+                  "lat" : 43.0079968197085,
+                  "lng" : -81.2752698802915
+               }
+            }
+         },
+         "place_id" : "ChIJQ10giD3uLogRRrWuh16BJlE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "N6G 2V4",
+               "short_name" : "N6G 2V4",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, ON N6G 2V4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0146443,
+                  "lng" : -81.26949689999999
+               },
+               "southwest" : {
+                  "lat" : 43.005998,
+                  "lng" : -81.2774258
+               }
+            },
+            "location" : {
+               "lat" : 43.009989,
+               "lng" : -81.27528359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0146443,
+                  "lng" : -81.26949689999999
+               },
+               "southwest" : {
+                  "lat" : 43.005998,
+                  "lng" : -81.2774258
+               }
+            }
+         },
+         "place_id" : "ChIJYYIGcxfuLogReECh3REVY50",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medway, London, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.020074,
+                  "lng" : -81.2672939
+               },
+               "southwest" : {
+                  "lat" : 42.99212,
+                  "lng" : -81.32413729999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0035452,
+               "lng" : -81.30142839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.020074,
+                  "lng" : -81.2672939
+               },
+               "southwest" : {
+                  "lat" : 42.99212,
+                  "lng" : -81.32413729999999
+               }
+            }
+         },
+         "place_id" : "ChIJ76GFLS3uLogRFjr3cCa-6EI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "N6G",
+               "short_name" : "N6G",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, ON N6G, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.047733,
+                  "lng" : -81.260516
+               },
+               "southwest" : {
+                  "lat" : 42.991705,
+                  "lng" : -81.34788399999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0140325,
+               "lng" : -81.31243409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.047733,
+                  "lng" : -81.260516
+               },
+               "southwest" : {
+                  "lat" : 42.991705,
+                  "lng" : -81.34788399999999
+               }
+            }
+         },
+         "place_id" : "ChIJVeOrtLfvLogRJUO-gB-gKRg",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.073245,
+                  "lng" : -81.1063879
+               },
+               "southwest" : {
+                  "lat" : 42.824517,
+                  "lng" : -81.390852
+               }
+            },
+            "location" : {
+               "lat" : 42.9849233,
+               "lng" : -81.2452768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.073245,
+                  "lng" : -81.1063879
+               },
+               "southwest" : {
+                  "lat" : 42.824517,
+                  "lng" : -81.390852
+               }
+            }
+         },
+         "place_id" : "ChIJC5uNqA7yLogRlWsFmmnXxyg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middlesex County, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.292973,
+                  "lng" : -80.8987659
+               },
+               "southwest" : {
+                  "lat" : 42.607479,
+                  "lng" : -81.83562289999999
+               }
+            },
+            "location" : {
+               "lat" : 42.9310419,
+               "lng" : -81.42789839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.292973,
+                  "lng" : -80.8987659
+               },
+               "southwest" : {
+                  "lat" : 42.607479,
+                  "lng" : -81.83562289999999
+               }
+            }
+         },
+         "place_id" : "ChIJv8s7RyYdLIgRQTOl7qAHfRw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ontario",
+               "short_name" : "Ontario",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            },
+            "location" : {
+               "lat" : 51.253775,
+               "lng" : -85.32321399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwRCR5iKVZC-HA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

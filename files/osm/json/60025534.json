@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "P8JC+3F Troy, NY, USA",
+      "global_code" : "87J8P8JC+3F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "8th Street",
+               "short_name" : "8th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Troy",
+               "short_name" : "Troy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rensselaer County",
+               "short_name" : "Rensselaer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12180",
+               "short_name" : "12180",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "110 8th St, Troy, NY 12180, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.730172,
+               "lng" : -73.67880300000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.73152098029149,
+                  "lng" : -73.67745401970852
+               },
+               "southwest" : {
+                  "lat" : 42.72882301970849,
+                  "lng" : -73.68015198029153
+               }
+            }
+         },
+         "place_id" : "ChIJfQn6654P3okRAlMf2xMrWaU",
+         "plus_code" : {
+            "compound_code" : "P8JC+3F Troy, New York, United States",
+            "global_code" : "87J8P8JC+3F"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Troy",
+               "short_name" : "Troy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rensselaer County",
+               "short_name" : "Rensselaer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12180",
+               "short_name" : "12180",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Troy, NY 12180, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7305137,
+                  "lng" : -73.6789833
+               },
+               "southwest" : {
+                  "lat" : 42.7298863,
+                  "lng" : -73.6796305
+               }
+            },
+            "location" : {
+               "lat" : 42.7302,
+               "lng" : -73.6793069
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.73154898029149,
+                  "lng" : -73.6779579197085
+               },
+               "southwest" : {
+                  "lat" : 42.7288510197085,
+                  "lng" : -73.68065588029151
+               }
+            }
+         },
+         "place_id" : "ChIJA-ngbqAP3okRXm6zjRf_QEk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Troy",
+               "short_name" : "Troy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rensselaer County",
+               "short_name" : "Rensselaer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Troy, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.795791,
+                  "lng" : -73.649259
+               },
+               "southwest" : {
+                  "lat" : 42.694078,
+                  "lng" : -73.706463
+               }
+            },
+            "location" : {
+               "lat" : 42.7284117,
+               "lng" : -73.69178509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.795791,
+                  "lng" : -73.649259
+               },
+               "southwest" : {
+                  "lat" : 42.694078,
+                  "lng" : -73.706463
+               }
+            }
+         },
+         "place_id" : "ChIJc4cQTKcP3okRPHKk9fl-ETM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12180",
+               "short_name" : "12180",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Troy",
+               "short_name" : "Troy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rensselaer County",
+               "short_name" : "Rensselaer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Troy, NY 12180, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.826401,
+                  "lng" : -73.46159609999999
+               },
+               "southwest" : {
+                  "lat" : 42.6664501,
+                  "lng" : -73.724964
+               }
+            },
+            "location" : {
+               "lat" : 42.734263,
+               "lng" : -73.5829689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.826401,
+                  "lng" : -73.46159609999999
+               },
+               "southwest" : {
+                  "lat" : 42.6664501,
+                  "lng" : -73.724964
+               }
+            }
+         },
+         "place_id" : "ChIJuQAUBVMD3okR3pDzDUNb9Y4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rensselaer County",
+               "short_name" : "Rensselaer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rensselaer County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.95865,
+                  "lng" : -73.2649571
+               },
+               "southwest" : {
+                  "lat" : 42.464231,
+                  "lng" : -73.78616500000001
+               }
+            },
+            "location" : {
+               "lat" : 42.673664,
+               "lng" : -73.55941279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.95865,
+                  "lng" : -73.2649571
+               },
+               "southwest" : {
+                  "lat" : 42.464231,
+                  "lng" : -73.78616500000001
+               }
+            }
+         },
+         "place_id" : "ChIJp31xcQUa3okRXeon5LH7SRg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

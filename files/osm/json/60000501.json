@@ -1,0 +1,543 @@
+{
+   "plus_code" : {
+      "compound_code" : "8XH6+R5 Detroit, MI, USA",
+      "global_code" : "86JR8XH6+R5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "# 3145",
+               "short_name" : "# 3145",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Renaissance Center",
+               "short_name" : "Renaissance Center",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48243",
+               "short_name" : "48243",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1303",
+               "short_name" : "1303",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "200 Renaissance Center # 3145, Detroit, MI 48243, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3295852,
+               "lng" : -83.039529
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.33093418029149,
+                  "lng" : -83.03818001970851
+               },
+               "southwest" : {
+                  "lat" : 42.3282362197085,
+                  "lng" : -83.04087798029151
+               }
+            }
+         },
+         "place_id" : "ChIJn52KgCgtO4gRfMva7lwy8BM",
+         "plus_code" : {
+            "compound_code" : "8XH6+R5 Detroit, Michigan, United States",
+            "global_code" : "86JR8XH6+R5"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Renaissance Center",
+               "short_name" : "Renaissance Center",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48243",
+               "short_name" : "48243",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 Renaissance Center, Detroit, MI 48243, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3295852,
+               "lng" : -83.039529
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.33093418029149,
+                  "lng" : -83.03818001970851
+               },
+               "southwest" : {
+                  "lat" : 42.3282362197085,
+                  "lng" : -83.04087798029151
+               }
+            }
+         },
+         "place_id" : "ChIJ1-lSLCYtO4gRJaURqBwW5-g",
+         "plus_code" : {
+            "compound_code" : "8XH6+R5 Detroit, Michigan, United States",
+            "global_code" : "86JR8XH6+R5"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Renaissance Center",
+               "short_name" : "Renaissance Center",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Renaissance Center",
+               "short_name" : "Renaissance Center",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48243",
+               "short_name" : "48243",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Renaissance Center, 100 Renaissance Center, Detroit, MI 48243, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3301946,
+                  "lng" : -83.03815630000001
+               },
+               "southwest" : {
+                  "lat" : 42.3278244,
+                  "lng" : -83.04136729999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3293486,
+               "lng" : -83.0399975
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3303584802915,
+                  "lng" : -83.03815630000001
+               },
+               "southwest" : {
+                  "lat" : 42.3276605197085,
+                  "lng" : -83.04136729999999
+               }
+            }
+         },
+         "place_id" : "ChIJmco7OSYtO4gR4yS8y8n7jw0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48243",
+               "short_name" : "48243",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Detroit, MI 48243, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.331115,
+                  "lng" : -83.03740289999999
+               },
+               "southwest" : {
+                  "lat" : 42.328837,
+                  "lng" : -83.0418459
+               }
+            },
+            "location" : {
+               "lat" : 42.3297979,
+               "lng" : -83.0398296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.33132498029149,
+                  "lng" : -83.03740289999999
+               },
+               "southwest" : {
+                  "lat" : 42.3286270197085,
+                  "lng" : -83.0418459
+               }
+            }
+         },
+         "place_id" : "ChIJXVS_EyYtO4gR730_v7ESoaM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown, Detroit, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.343837,
+                  "lng" : -83.0340202
+               },
+               "southwest" : {
+                  "lat" : 42.3232669,
+                  "lng" : -83.06380779999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3331454,
+               "lng" : -83.0495622
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.343837,
+                  "lng" : -83.0340202
+               },
+               "southwest" : {
+                  "lat" : 42.3232669,
+                  "lng" : -83.06380779999999
+               }
+            }
+         },
+         "place_id" : "ChIJD_xeojEtO4gR1L3fFlt6TBE",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Detroit, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.45023,
+                  "lng" : -82.91045099999999
+               },
+               "southwest" : {
+                  "lat" : 42.255192,
+                  "lng" : -83.287959
+               }
+            },
+            "location" : {
+               "lat" : 42.331427,
+               "lng" : -83.0457538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.45023,
+                  "lng" : -82.91045099999999
+               },
+               "southwest" : {
+                  "lat" : 42.255192,
+                  "lng" : -83.287959
+               }
+            }
+         },
+         "place_id" : "ChIJdR3LEAHKJIgR0sS5NU6Gdlc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wayne County, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.451557,
+                  "lng" : -82.7499078
+               },
+               "southwest" : {
+                  "lat" : 42.02793,
+                  "lng" : -83.55190689999999
+               }
+            },
+            "location" : {
+               "lat" : 42.2790746,
+               "lng" : -83.33618799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.451557,
+                  "lng" : -82.7499078
+               },
+               "southwest" : {
+                  "lat" : 42.02793,
+                  "lng" : -83.55190689999999
+               }
+            }
+         },
+         "place_id" : "ChIJDZ6VuYPKJIgR15xhPzwyGyw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Michigan",
+               "short_name" : "Michigan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Michigan, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            },
+            "location" : {
+               "lat" : 44.3148443,
+               "lng" : -85.60236429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            }
+         },
+         "place_id" : "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

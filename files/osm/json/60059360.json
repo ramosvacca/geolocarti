@@ -1,0 +1,481 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue Stewart Park",
+               "short_name" : "Rue Stewart Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sainte-Anne-de-Bellevue",
+               "short_name" : "Sainte-Anne-de-Bellevue",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Montréal",
+               "short_name" : "Communauté-Urbaine-de-Montréal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H9X 2E5",
+               "short_name" : "H9X 2E5",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "H9X",
+               "short_name" : "H9X",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Rue Stewart Park, Sainte-Anne-de-Bellevue, QC H9X 2E5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4053953,
+                  "lng" : -73.93809589999999
+               },
+               "southwest" : {
+                  "lat" : 45.40487419999999,
+                  "lng" : -73.93816629999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4051356,
+               "lng" : -73.93812090000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40648373029149,
+                  "lng" : -73.93678211970848
+               },
+               "southwest" : {
+                  "lat" : 45.40378576970849,
+                  "lng" : -73.9394800802915
+               }
+            }
+         },
+         "place_id" : "ChIJsYwudlo4yUwRZD-kIN-2yU0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sainte-Anne-de-Bellevue",
+               "short_name" : "Sainte-Anne-de-Bellevue",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sainte-Anne-de-Bellevue, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4485189,
+                  "lng" : -73.90090309999999
+               },
+               "southwest" : {
+                  "lat" : 45.3995728,
+                  "lng" : -73.9723379
+               }
+            },
+            "location" : {
+               "lat" : 45.4032761,
+               "lng" : -73.95036069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4485189,
+                  "lng" : -73.90090309999999
+               },
+               "southwest" : {
+                  "lat" : 45.3995728,
+                  "lng" : -73.9723379
+               }
+            }
+         },
+         "place_id" : "ChIJS-tRh0Y4yUwRatD_JL0-56E",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H9X 3L9",
+               "short_name" : "H9X 3L9",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sainte-Anne-de-Bellevue",
+               "short_name" : "Sainte-Anne-de-Bellevue",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sainte-Anne-de-Bellevue, QC H9X 3L9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.41188529999999,
+                  "lng" : -73.93283989999999
+               },
+               "southwest" : {
+                  "lat" : 45.4038492,
+                  "lng" : -73.945492
+               }
+            },
+            "location" : {
+               "lat" : 45.4088626,
+               "lng" : -73.9387126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41188529999999,
+                  "lng" : -73.93283989999999
+               },
+               "southwest" : {
+                  "lat" : 45.4038492,
+                  "lng" : -73.945492
+               }
+            }
+         },
+         "place_id" : "ChIJ-VMNv1o4yUwRDcTcvrTBOtk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H9X 2E5",
+               "short_name" : "H9X 2E5",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sainte-Anne-de-Bellevue",
+               "short_name" : "Sainte-Anne-de-Bellevue",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sainte-Anne-de-Bellevue, QC H9X 2E5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.41188529999999,
+                  "lng" : -73.93283989999999
+               },
+               "southwest" : {
+                  "lat" : 45.4029362,
+                  "lng" : -73.945492
+               }
+            },
+            "location" : {
+               "lat" : 45.4066356,
+               "lng" : -73.939995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41188529999999,
+                  "lng" : -73.93283989999999
+               },
+               "southwest" : {
+                  "lat" : 45.4029362,
+                  "lng" : -73.945492
+               }
+            }
+         },
+         "place_id" : "ChIJTxwiK1A4yUwR3HFFN2Ux7uQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H9X",
+               "short_name" : "H9X",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec H9X, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4517181,
+                  "lng" : -73.89577299999999
+               },
+               "southwest" : {
+                  "lat" : 45.402126,
+                  "lng" : -73.976376
+               }
+            },
+            "location" : {
+               "lat" : 45.4235609,
+               "lng" : -73.93190609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4517181,
+                  "lng" : -73.89577299999999
+               },
+               "southwest" : {
+                  "lat" : 45.402126,
+                  "lng" : -73.976376
+               }
+            }
+         },
+         "place_id" : "ChIJgVtx0bs5yUwRQupKQK3gIkg",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreal, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7058381,
+                  "lng" : -73.47426
+               },
+               "southwest" : {
+                  "lat" : 45.375141,
+                  "lng" : -73.986345
+               }
+            },
+            "location" : {
+               "lat" : 45.4699445,
+               "lng" : -73.7852913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7058381,
+                  "lng" : -73.47426
+               },
+               "southwest" : {
+                  "lat" : 45.375141,
+                  "lng" : -73.986345
+               }
+            }
+         },
+         "place_id" : "ChIJl7TSQk3ex0wRM0QRpZ0sb30",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montreal Metropolitan Area",
+               "short_name" : "Montreal Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreal Metropolitan Area, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9830789,
+                  "lng" : -73.062268
+               },
+               "southwest" : {
+                  "lat" : 45.2290141,
+                  "lng" : -74.26755899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.5552492,
+               "lng" : -73.57482820000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9830789,
+                  "lng" : -73.062268
+               },
+               "southwest" : {
+                  "lat" : 45.2290141,
+                  "lng" : -74.26755899999999
+               }
+            }
+         },
+         "place_id" : "ChIJFf-RdwY5yUwRGH7jYDpIYec",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            },
+            "location" : {
+               "lat" : 52.9399159,
+               "lng" : -73.5491361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            }
+         },
+         "place_id" : "ChIJoajRnzS1WEwRIABNrq0MBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70,
+                  "lng" : -50
+               },
+               "southwest" : {
+                  "lat" : 42,
+                  "lng" : -142
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

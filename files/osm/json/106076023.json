@@ -1,0 +1,245 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Place de la Victoire",
+               "short_name" : "Place de la Victoire",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pointe-à-Pitre",
+               "short_name" : "Pointe-à-Pitre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Les Abymes",
+               "short_name" : "Les Abymes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grande-Terre",
+               "short_name" : "Grande-Terre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guadeloupe",
+               "short_name" : "GP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3 Place de la Victoire, Pointe-à-Pitre, Guadeloupe",
+         "geometry" : {
+            "location" : {
+               "lat" : 16.2368481,
+               "lng" : -61.53358479999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.2381970802915,
+                  "lng" : -61.53223581970849
+               },
+               "southwest" : {
+                  "lat" : 16.2354991197085,
+                  "lng" : -61.5349337802915
+               }
+            }
+         },
+         "place_id" : "ChIJHVQTG-FFE4wRA1ZJv2M0EkM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pointe-a-Pitre",
+               "short_name" : "Pointe-a-Pitre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Les Abymes",
+               "short_name" : "Les Abymes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grande-Terre",
+               "short_name" : "Grande-Terre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guadeloupe",
+               "short_name" : "GP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pointe-a-Pitre, Guadeloupe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.2531387,
+                  "lng" : -61.5256048
+               },
+               "southwest" : {
+                  "lat" : 16.2174458,
+                  "lng" : -61.55007189999999
+               }
+            },
+            "location" : {
+               "lat" : 16.2376869,
+               "lng" : -61.5340424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.2531387,
+                  "lng" : -61.5256048
+               },
+               "southwest" : {
+                  "lat" : 16.2174458,
+                  "lng" : -61.55007189999999
+               }
+            }
+         },
+         "place_id" : "ChIJBRWixeNFE4wRY2Ax28N7gRE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Les Abymes",
+               "short_name" : "Les Abymes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grande-Terre",
+               "short_name" : "Grande-Terre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guadeloupe",
+               "short_name" : "GP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Les Abymes, Guadeloupe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.3128083,
+                  "lng" : -61.4497948
+               },
+               "southwest" : {
+                  "lat" : 16.2308277,
+                  "lng" : -61.5507317
+               }
+            },
+            "location" : {
+               "lat" : 16.2676847,
+               "lng" : -61.50192559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.3128083,
+                  "lng" : -61.4497948
+               },
+               "southwest" : {
+                  "lat" : 16.2308277,
+                  "lng" : -61.5507317
+               }
+            }
+         },
+         "place_id" : "ChIJY6goOY9IE4wRiwbV7vhwgEs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grande-Terre",
+               "short_name" : "Grande-Terre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guadeloupe",
+               "short_name" : "GP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grande-Terre, Guadeloupe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.514251,
+                  "lng" : -61.0036509
+               },
+               "southwest" : {
+                  "lat" : 15.866679,
+                  "lng" : -61.5968629
+               }
+            },
+            "location" : {
+               "lat" : 16.2732353,
+               "lng" : -61.46689620000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.514251,
+                  "lng" : -61.0036509
+               },
+               "southwest" : {
+                  "lat" : 15.866679,
+                  "lng" : -61.5968629
+               }
+            }
+         },
+         "place_id" : "ChIJazwvhpmzbIwRU-IAJ_0qELg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guadeloupe",
+               "short_name" : "GP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guadeloupe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.5572273,
+                  "lng" : -60.9473
+               },
+               "southwest" : {
+                  "lat" : 15.742032,
+                  "lng" : -61.8468
+               }
+            },
+            "location" : {
+               "lat" : 16.265,
+               "lng" : -61.55099999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.5572273,
+                  "lng" : -60.9473
+               },
+               "southwest" : {
+                  "lat" : 15.742032,
+                  "lng" : -61.8468
+               }
+            }
+         },
+         "place_id" : "ChIJUX0od1p1DowRqwdKtzc-vuw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

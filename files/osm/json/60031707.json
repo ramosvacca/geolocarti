@@ -1,0 +1,461 @@
+{
+   "plus_code" : {
+      "compound_code" : "PGJ9+58 East Lansing, MI, USA",
+      "global_code" : "86JQPGJ9+58"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "408",
+               "short_name" : "408",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Circle Drive",
+               "short_name" : "W Circle Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Lansing",
+               "short_name" : "East Lansing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48823",
+               "short_name" : "48823",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "408 W Circle Dr, East Lansing, MI 48823, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7304362,
+               "lng" : -84.48168079999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7317851802915,
+                  "lng" : -84.4803318197085
+               },
+               "southwest" : {
+                  "lat" : 42.7290872197085,
+                  "lng" : -84.4830297802915
+               }
+            }
+         },
+         "place_id" : "ChIJx-Hti3_CIogRoz6JygT_d8M",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olds Hall",
+               "short_name" : "Olds Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "408",
+               "short_name" : "408",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Circle Drive",
+               "short_name" : "W Circle Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Okemos",
+               "short_name" : "Okemos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East Lansing",
+               "short_name" : "East Lansing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48864",
+               "short_name" : "48864",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Olds Hall, 408 W Circle Dr, Okemos, MI 48864, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.73055309999999,
+                  "lng" : -84.48139089999999
+               },
+               "southwest" : {
+                  "lat" : 42.7303208,
+                  "lng" : -84.4820778
+               }
+            },
+            "location" : {
+               "lat" : 42.7304409,
+               "lng" : -84.4817147
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7317859302915,
+                  "lng" : -84.48038536970849
+               },
+               "southwest" : {
+                  "lat" : 42.7290879697085,
+                  "lng" : -84.48308333029149
+               }
+            }
+         },
+         "place_id" : "ChIJjZ1hkn_CIogR6mE95c7YYtI",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Okemos",
+               "short_name" : "Okemos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East Lansing",
+               "short_name" : "East Lansing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48864",
+               "short_name" : "48864",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Okemos, MI 48864, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7307703,
+                  "lng" : -84.48125139999999
+               },
+               "southwest" : {
+                  "lat" : 42.730461,
+                  "lng" : -84.4815708
+               }
+            },
+            "location" : {
+               "lat" : 42.7306157,
+               "lng" : -84.4814111
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7319646302915,
+                  "lng" : -84.48006211970849
+               },
+               "southwest" : {
+                  "lat" : 42.7292666697085,
+                  "lng" : -84.4827600802915
+               }
+            }
+         },
+         "place_id" : "ChIJk-5P8n_CIogRuoP8zcGoAyE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48824",
+               "short_name" : "48824",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "East Lansing",
+               "short_name" : "East Lansing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Lansing, MI 48824, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7336546,
+                  "lng" : -84.46230249999999
+               },
+               "southwest" : {
+                  "lat" : 42.7146768,
+                  "lng" : -84.49383209999999
+               }
+            },
+            "location" : {
+               "lat" : 42.724305,
+               "lng" : -84.4796047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7336546,
+                  "lng" : -84.46230249999999
+               },
+               "southwest" : {
+                  "lat" : 42.7146768,
+                  "lng" : -84.49383209999999
+               }
+            }
+         },
+         "place_id" : "ChIJA6mNoIDCIogRPFvEDCK5iZg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Lansing",
+               "short_name" : "East Lansing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Lansing, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.800976,
+                  "lng" : -84.438874
+               },
+               "southwest" : {
+                  "lat" : 42.69691599999999,
+                  "lng" : -84.51350499999999
+               }
+            },
+            "location" : {
+               "lat" : 42.7369792,
+               "lng" : -84.48386540000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.800976,
+                  "lng" : -84.438874
+               },
+               "southwest" : {
+                  "lat" : 42.69691599999999,
+                  "lng" : -84.51350499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ86vl6nXoIogRJaZ8EfezGTs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ingham County, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.776639,
+                  "lng" : -84.1406009
+               },
+               "southwest" : {
+                  "lat" : 42.4219371,
+                  "lng" : -84.6031369
+               }
+            },
+            "location" : {
+               "lat" : 42.6468943,
+               "lng" : -84.3542049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.776639,
+                  "lng" : -84.1406009
+               },
+               "southwest" : {
+                  "lat" : 42.4219371,
+                  "lng" : -84.6031369
+               }
+            }
+         },
+         "place_id" : "ChIJD9W2LEnaIogRAyhZlrTppyY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Michigan",
+               "short_name" : "Michigan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Michigan, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            },
+            "location" : {
+               "lat" : 44.3148443,
+               "lng" : -85.60236429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            }
+         },
+         "place_id" : "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

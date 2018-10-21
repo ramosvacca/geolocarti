@@ -1,0 +1,711 @@
+{
+   "plus_code" : {
+      "compound_code" : "6XQ5+GH Warsaw, Poland",
+      "global_code" : "9G426XQ5+GH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sokołowska",
+               "short_name" : "Sokołowska",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wola",
+               "short_name" : "Wola",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01-142",
+               "short_name" : "01-142",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sokołowska 29, 01-142 Warszawa, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2387935,
+               "lng" : 20.9588631
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2401424802915,
+                  "lng" : 20.9602120802915
+               },
+               "southwest" : {
+                  "lat" : 52.2374445197085,
+                  "lng" : 20.9575141197085
+               }
+            }
+         },
+         "place_id" : "ChIJ19oJV3DLHkcRdUl-vaG7Z40",
+         "plus_code" : {
+            "compound_code" : "6XQ5+GG Warsaw, Poland",
+            "global_code" : "9G426XQ5+GG"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Górczewska",
+               "short_name" : "Górczewska",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wola",
+               "short_name" : "Wola",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00-001",
+               "short_name" : "00-001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Górczewska, 00-001 Warszawa, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2391454,
+               "lng" : 20.9584963
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.24049438029149,
+                  "lng" : 20.9598452802915
+               },
+               "southwest" : {
+                  "lat" : 52.23779641970849,
+                  "lng" : 20.9571473197085
+               }
+            }
+         },
+         "place_id" : "ChIJB9Ls_3DLHkcRzan8bMRSLYA",
+         "plus_code" : {
+            "compound_code" : "6XQ5+M9 Warsaw, Poland",
+            "global_code" : "9G426XQ5+M9"
+         },
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sokołowska",
+               "short_name" : "Sokołowska",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01-142",
+               "short_name" : "01-142",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sokołowska 24, 01-142 Warszawa, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2389155,
+               "lng" : 20.9592399
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2402644802915,
+                  "lng" : 20.9605888802915
+               },
+               "southwest" : {
+                  "lat" : 52.2375665197085,
+                  "lng" : 20.9578909197085
+               }
+            }
+         },
+         "place_id" : "EidTb2tvxYJvd3NrYSAyNCwgMDEtMTQyIFdhcnN6YXdhLCBQb2xza2EiGhIYChQKEglX7nBZcMseRxExMpPBvEavKhAY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "01-142",
+               "short_name" : "01-142",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Warsaw",
+               "short_name" : "Warsaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "01-142 Warsaw, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2408637,
+                  "lng" : 21.0029465
+               },
+               "southwest" : {
+                  "lat" : 52.231627,
+                  "lng" : 20.9562612
+               }
+            },
+            "location" : {
+               "lat" : 52.2373008,
+               "lng" : 20.9590415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2408637,
+                  "lng" : 21.0029465
+               },
+               "southwest" : {
+                  "lat" : 52.231627,
+                  "lng" : 20.9562612
+               }
+            }
+         },
+         "place_id" : "ChIJl0iVD3DLHkcRKq3RROFo5pw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Młynów",
+               "short_name" : "Młynów",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wola",
+               "short_name" : "Wola",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00-001",
+               "short_name" : "00-001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Młynów, 00-001 Warszawa, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.25322449999999,
+                  "lng" : 20.9801585
+               },
+               "southwest" : {
+                  "lat" : 52.23153199999999,
+                  "lng" : 20.957837
+               }
+            },
+            "location" : {
+               "lat" : 52.2376832,
+               "lng" : 20.9657996
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.25322449999999,
+                  "lng" : 20.9801585
+               },
+               "southwest" : {
+                  "lat" : 52.23153199999999,
+                  "lng" : 20.957837
+               }
+            }
+         },
+         "place_id" : "ChIJWZiFjHnLHkcRsgldn_wOUe0",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wola",
+               "short_name" : "Wola",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Warsaw",
+               "short_name" : "Warsaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00-001",
+               "short_name" : "00-001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wola, 00-001 Warsaw, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2594345,
+                  "lng" : 21.0010801
+               },
+               "southwest" : {
+                  "lat" : 52.20966259999999,
+                  "lng" : 20.9149233
+               }
+            },
+            "location" : {
+               "lat" : 52.2333751,
+               "lng" : 20.9571835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2594345,
+                  "lng" : 21.0010801
+               },
+               "southwest" : {
+                  "lat" : 52.20966259999999,
+                  "lng" : 20.9149233
+               }
+            }
+         },
+         "place_id" : "ChIJD6wUjm_LHkcRibsu8SyZ3Ro",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "03",
+               "short_name" : "03",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Warsaw",
+               "short_name" : "Warsaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warsaw, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3679991,
+                  "lng" : 21.2710986
+               },
+               "southwest" : {
+                  "lat" : 52.09787679999999,
+                  "lng" : 20.85129
+               }
+            },
+            "location" : {
+               "lat" : 52.2315136,
+               "lng" : 21.04383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3679991,
+                  "lng" : 21.2710986
+               },
+               "southwest" : {
+                  "lat" : 52.09787679999999,
+                  "lng" : 20.85129
+               }
+            }
+         },
+         "place_id" : "ChIJz-0Yu6jNHkcRzZPaQ_WuhQo",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05",
+               "short_name" : "05",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Warszawa, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710984
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            },
+            "location" : {
+               "lat" : 52.2315136,
+               "lng" : 21.04383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710984
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            }
+         },
+         "place_id" : "ChIJAZ-GmmbMHkcRV8OJjFRnolw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warsaw",
+               "short_name" : "Warsaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05",
+               "short_name" : "05",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Warsaw, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710984
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            },
+            "location" : {
+               "lat" : 52.2296756,
+               "lng" : 21.0122287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710984
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            }
+         },
+         "place_id" : "ChIJAZ-GmmbMHkcR_NPqiCq-8HI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05",
+               "short_name" : "05",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Warszawa, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710984
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            },
+            "location" : {
+               "lat" : 52.2315136,
+               "lng" : 21.04383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710984
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            }
+         },
+         "place_id" : "ChIJ8ZMYu6jNHkcRKqCBUGorYvM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Masovian Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4818919,
+                  "lng" : 23.1283211
+               },
+               "southwest" : {
+                  "lat" : 51.0132082,
+                  "lng" : 19.2592569
+               }
+            },
+            "location" : {
+               "lat" : 51.8927182,
+               "lng" : 21.0021679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4818919,
+                  "lng" : 23.1283211
+               },
+               "southwest" : {
+                  "lat" : 51.0132082,
+                  "lng" : 19.2592569
+               }
+            }
+         },
+         "place_id" : "ChIJ-diLDIDRHkcRgMA4lLefAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9054761,
+                  "lng" : 24.1458931
+               },
+               "southwest" : {
+                  "lat" : 49.002025,
+                  "lng" : 14.1228641
+               }
+            },
+            "location" : {
+               "lat" : 51.919438,
+               "lng" : 19.145136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9054761,
+                  "lng" : 24.1458931
+               },
+               "southwest" : {
+                  "lat" : 49.002025,
+                  "lng" : 14.1228641
+               }
+            }
+         },
+         "place_id" : "ChIJuwtkpGSZAEcR6lXMScpzdQk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

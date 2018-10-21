@@ -1,0 +1,195 @@
+{
+   "plus_code" : {
+      "compound_code" : "QF5C+M9 Boumerdes, Algeria",
+      "global_code" : "8F85QF5C+M9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boulevard de la Liberté",
+               "short_name" : "Boulevard de la Liberté",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boumerdès",
+               "short_name" : "Boumerdès",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya de Boumerdès",
+               "short_name" : "Wilaya de Boumerdès",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boulevard de la Liberté, Boumerdès, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7581156,
+                  "lng" : 3.4733784
+               },
+               "southwest" : {
+                  "lat" : 36.757653,
+                  "lng" : 3.471091
+               }
+            },
+            "location" : {
+               "lat" : 36.7578843,
+               "lng" : 3.4722347
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7592332802915,
+                  "lng" : 3.473583680291501
+               },
+               "southwest" : {
+                  "lat" : 36.7565353197085,
+                  "lng" : 3.470885719708498
+               }
+            }
+         },
+         "place_id" : "ChIJhwed0e1ojhIRCPdUnUKgw50",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boumerdes",
+               "short_name" : "Boumerdes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boumerdès Province",
+               "short_name" : "Boumerdès Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boumerdes, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7794549,
+                  "lng" : 3.5336494
+               },
+               "southwest" : {
+                  "lat" : 36.7333814,
+                  "lng" : 3.4497929
+               }
+            },
+            "location" : {
+               "lat" : 36.7580109,
+               "lng" : 3.4851867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7794549,
+                  "lng" : 3.5336494
+               },
+               "southwest" : {
+                  "lat" : 36.7333814,
+                  "lng" : 3.4497929
+               }
+            }
+         },
+         "place_id" : "ChIJI1ueyNxojhIRE-sFlCcU6YQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boumerdès Province",
+               "short_name" : "Boumerdès Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boumerdès Province, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9252124,
+                  "lng" : 4.1178311
+               },
+               "southwest" : {
+                  "lat" : 36.526798,
+                  "lng" : 3.301881
+               }
+            },
+            "location" : {
+               "lat" : 36.7391137,
+               "lng" : 3.7175406
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9252124,
+                  "lng" : 4.1178311
+               },
+               "southwest" : {
+                  "lat" : 36.526798,
+                  "lng" : 3.301881
+               }
+            }
+         },
+         "place_id" : "ChIJsUoUL8TnjRIRUWD8hWVNkSM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2216,
+                  "lng" : 11.9999992
+               },
+               "southwest" : {
+                  "lat" : 18.9681469,
+                  "lng" : -8.6676111
+               }
+            },
+            "location" : {
+               "lat" : 28.033886,
+               "lng" : 1.659626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2216,
+                  "lng" : 11.9999992
+               },
+               "southwest" : {
+                  "lat" : 18.9681469,
+                  "lng" : -8.6676111
+               }
+            }
+         },
+         "place_id" : "ChIJ0XsDKGqKfg0RovjXq-O-QHE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

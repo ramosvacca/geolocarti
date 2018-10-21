@@ -1,0 +1,461 @@
+{
+   "plus_code" : {
+      "compound_code" : "JM49+F5 Seattle, WA, USA",
+      "global_code" : "84VVJM49+F5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2951",
+               "short_name" : "2951",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Marmora Road",
+               "short_name" : "Marmora Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98164",
+               "short_name" : "98164",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2951 Marmora Road, Seattle, WA 98164, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.6062095,
+               "lng" : -122.3320708
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6075584802915,
+                  "lng" : -122.3307218197085
+               },
+               "southwest" : {
+                  "lat" : 47.6048605197085,
+                  "lng" : -122.3334197802915
+               }
+            }
+         },
+         "place_id" : "ChIJHYe-IQwkyVQRYdeHczL2oAE",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fourth and Madison Building",
+               "short_name" : "Fourth and Madison Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "909",
+               "short_name" : "909",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "5th Avenue",
+               "short_name" : "5th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98164",
+               "short_name" : "98164",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fourth and Madison Building, 909 5th Ave, Seattle, WA 98164, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6064363,
+                  "lng" : -122.3317398
+               },
+               "southwest" : {
+                  "lat" : 47.6060633,
+                  "lng" : -122.3324091
+               }
+            },
+            "location" : {
+               "lat" : 47.6062446,
+               "lng" : -122.3319929
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6075987802915,
+                  "lng" : -122.3307254697085
+               },
+               "southwest" : {
+                  "lat" : 47.6049008197085,
+                  "lng" : -122.3334234302915
+               }
+            }
+         },
+         "place_id" : "ChIJ9bv3LrFqkFQRotc0wVEyvuA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "98164",
+               "short_name" : "98164",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seattle, WA 98164, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.607265,
+                  "lng" : -122.3311479
+               },
+               "southwest" : {
+                  "lat" : 47.60537189999999,
+                  "lng" : -122.3335642
+               }
+            },
+            "location" : {
+               "lat" : 47.606503,
+               "lng" : -122.3323955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.60766743029149,
+                  "lng" : -122.3310070697085
+               },
+               "southwest" : {
+                  "lat" : 47.60496946970849,
+                  "lng" : -122.3337050302915
+               }
+            }
+         },
+         "place_id" : "ChIJtdQxKbFqkFQRMKxXNaDNUkk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Business District, Seattle, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.616292,
+                  "lng" : -122.3280681
+               },
+               "southwest" : {
+                  "lat" : 47.60196,
+                  "lng" : -122.3426369
+               }
+            },
+            "location" : {
+               "lat" : 47.6082259,
+               "lng" : -122.334868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.616292,
+                  "lng" : -122.3280681
+               },
+               "southwest" : {
+                  "lat" : 47.60196,
+                  "lng" : -122.3426369
+               }
+            }
+         },
+         "place_id" : "ChIJfV0jebZqkFQRbO0fq4I6dq4",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seattle, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.734145,
+                  "lng" : -122.2244331
+               },
+               "southwest" : {
+                  "lat" : 47.4919119,
+                  "lng" : -122.4596959
+               }
+            },
+            "location" : {
+               "lat" : 47.6062095,
+               "lng" : -122.3320708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.734145,
+                  "lng" : -122.2244331
+               },
+               "southwest" : {
+                  "lat" : 47.4919119,
+                  "lng" : -122.4596959
+               }
+            }
+         },
+         "place_id" : "ChIJVTPokywQkFQRmtVEaUZlJRA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King County, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.780328,
+                  "lng" : -121.065709
+               },
+               "southwest" : {
+                  "lat" : 47.084457,
+                  "lng" : -122.5410681
+               }
+            },
+            "location" : {
+               "lat" : 47.5480339,
+               "lng" : -121.9836029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.780328,
+                  "lng" : -121.065709
+               },
+               "southwest" : {
+                  "lat" : 47.084457,
+                  "lng" : -122.5410681
+               }
+            }
+         },
+         "place_id" : "ChIJN3gtg4xckFQRPuBki2urgOI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0024305,
+                  "lng" : -116.91558
+               },
+               "southwest" : {
+                  "lat" : 45.543541,
+                  "lng" : -124.8489739
+               }
+            },
+            "location" : {
+               "lat" : 47.7510741,
+               "lng" : -120.7401385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0024305,
+                  "lng" : -116.91558
+               },
+               "southwest" : {
+                  "lat" : 45.543541,
+                  "lng" : -124.8489739
+               }
+            }
+         },
+         "place_id" : "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

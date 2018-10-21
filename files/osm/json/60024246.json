@@ -1,0 +1,529 @@
+{
+   "plus_code" : {
+      "compound_code" : "74HF+67 Montes Claros, MG, Brazil",
+      "global_code" : "58MR74HF+67"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "089",
+               "short_name" : "089",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Professor Rui Braga",
+               "short_name" : "Av. Prof. Rui Braga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Mauriceia",
+               "short_name" : "Vila Mauriceia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avenida Dr - Av. Prof. Rui Braga, 089 - s/n - Vila Mauriceia, MG, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -16.7219585,
+               "lng" : -43.8768713
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.7206095197085,
+                  "lng" : -43.8755223197085
+               },
+               "southwest" : {
+                  "lat" : -16.7233074802915,
+                  "lng" : -43.8782202802915
+               }
+            }
+         },
+         "place_id" : "ChIJyZBpw1urVAcRBWWUvRS9Cag",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "545",
+               "short_name" : "545",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida José Corrêa Machado",
+               "short_name" : "Av. José Corrêa Machado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sao Norberto",
+               "short_name" : "Sao Norberto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39400-127",
+               "short_name" : "39400-127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. José Corrêa Machado, 545 - Sao Norberto, Montes Claros - MG, 39400-127, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -16.722498,
+               "lng" : -43.87692200000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.72114901970849,
+                  "lng" : -43.87557301970851
+               },
+               "southwest" : {
+                  "lat" : -16.7238469802915,
+                  "lng" : -43.87827098029151
+               }
+            }
+         },
+         "place_id" : "ChIJSQWJAk5TqwARzSLEdXqnlKk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "535",
+               "short_name" : "535",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida José Corrêa Machado",
+               "short_name" : "Av. José Corrêa Machado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Melo",
+               "short_name" : "Melo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. José Corrêa Machado, 535 - Melo, Montes Claros - MG, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -16.7223758,
+               "lng" : -43.8768204
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.7210268197085,
+                  "lng" : -43.8754714197085
+               },
+               "southwest" : {
+                  "lat" : -16.7237247802915,
+                  "lng" : -43.8781693802915
+               }
+            }
+         },
+         "place_id" : "EkFBdi4gSm9zw6kgQ29ycsOqYSBNYWNoYWRvLCA1MzUgLSBNZWxvLCBNb250ZXMgQ2xhcm9zIC0gTUcsIEJyYXNpbCIbEhkKFAoSCSMTdBFOU6sAEf91lqw1Jk8REJcE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "39400-127",
+               "short_name" : "39400-127",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Todos Os Santos",
+               "short_name" : "Todos Os Santos",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Todos Os Santos, Montes Claros - MG, 39400-127, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.7137657,
+                  "lng" : -43.8709041
+               },
+               "southwest" : {
+                  "lat" : -16.7249019,
+                  "lng" : -43.8804544
+               }
+            },
+            "location" : {
+               "lat" : -16.7187542,
+               "lng" : -43.8743659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.7137657,
+                  "lng" : -43.8709041
+               },
+               "southwest" : {
+                  "lat" : -16.7249019,
+                  "lng" : -43.8804544
+               }
+            }
+         },
+         "place_id" : "ChIJqZBBM1NTqwARknwOch5RIqo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melo",
+               "short_name" : "Melo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melo, Montes Claros - MG, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.717373,
+                  "lng" : -43.8719794
+               },
+               "southwest" : {
+                  "lat" : -16.7293321,
+                  "lng" : -43.88123119999999
+               }
+            },
+            "location" : {
+               "lat" : -16.7235387,
+               "lng" : -43.8756795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.717373,
+                  "lng" : -43.8719794
+               },
+               "southwest" : {
+                  "lat" : -16.7293321,
+                  "lng" : -43.88123119999999
+               }
+            }
+         },
+         "place_id" : "ChIJL7gN3lFTqwAR2EuU6L295qs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "39400",
+               "short_name" : "39400",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montes Claros - State of Minas Gerais, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.6683505,
+                  "lng" : -43.8166629
+               },
+               "southwest" : {
+                  "lat" : -16.7387376,
+                  "lng" : -43.8789399
+               }
+            },
+            "location" : {
+               "lat" : -16.7031651,
+               "lng" : -43.8434361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.6683505,
+                  "lng" : -43.8166629
+               },
+               "southwest" : {
+                  "lat" : -16.7387376,
+                  "lng" : -43.8789399
+               }
+            }
+         },
+         "place_id" : "ChIJhxrmzhSrVAcR_KvIt-_Ou0g",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montes Claros, MG, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.664923,
+                  "lng" : -43.7987954
+               },
+               "southwest" : {
+                  "lat" : -16.7912612,
+                  "lng" : -43.9033703
+               }
+            },
+            "location" : {
+               "lat" : -16.7286406,
+               "lng" : -43.8582139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.664923,
+                  "lng" : -43.7987954
+               },
+               "southwest" : {
+                  "lat" : -16.7912612,
+                  "lng" : -43.9033703
+               }
+            }
+         },
+         "place_id" : "ChIJ9ebcMLRUqwARuxsEsEj5GyM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montes Claros",
+               "short_name" : "Montes Claros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montes Claros - State of Minas Gerais, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.084038,
+                  "lng" : -43.6659111
+               },
+               "southwest" : {
+                  "lat" : -17.145792,
+                  "lng" : -44.2109159
+               }
+            },
+            "location" : {
+               "lat" : -16.7286478,
+               "lng" : -43.8582274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.084038,
+                  "lng" : -43.6659111
+               },
+               "southwest" : {
+                  "lat" : -17.145792,
+                  "lng" : -44.2109159
+               }
+            }
+         },
+         "place_id" : "ChIJawHV369UqwAR7683umq2Xo8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Minas Gerais",
+               "short_name" : "State of Minas Gerais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Minas Gerais, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.233183,
+                  "lng" : -39.8568263
+               },
+               "southwest" : {
+                  "lat" : -22.9227576,
+                  "lng" : -51.0460748
+               }
+            },
+            "location" : {
+               "lat" : -18.512178,
+               "lng" : -44.5550308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.233183,
+                  "lng" : -39.8568263
+               },
+               "southwest" : {
+                  "lat" : -22.9227576,
+                  "lng" : -51.0460748
+               }
+            }
+         },
+         "place_id" : "ChIJiUIyZaGQpgARs-edN8lwIRE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

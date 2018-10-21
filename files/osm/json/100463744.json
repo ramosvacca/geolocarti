@@ -1,0 +1,362 @@
+{
+   "plus_code" : {
+      "compound_code" : "GH98+JP Ecublens, Switzerland",
+      "global_code" : "8FR8GH98+JP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lausanne",
+               "short_name" : "Lausanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parc Scientifique EPFL, 1015 Lausanne, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5190557,
+               "lng" : 6.5667576
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52040468029149,
+                  "lng" : 6.568106580291502
+               },
+               "southwest" : {
+                  "lat" : 46.5177067197085,
+                  "lng" : 6.565408619708498
+               }
+            }
+         },
+         "place_id" : "ChIJS4p31_0wjEcRkWaQAgn6NQ0",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Route des Noyerettes",
+               "short_name" : "Route des Noyerettes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ecublens",
+               "short_name" : "Ecublens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ouest lausannois",
+               "short_name" : "Ouest lausannois",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Route des Noyerettes, 1015 Ecublens, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5192035,
+                  "lng" : 6.567347000000001
+               },
+               "southwest" : {
+                  "lat" : 46.5191927,
+                  "lng" : 6.5667385
+               }
+            },
+            "location" : {
+               "lat" : 46.5191981,
+               "lng" : 6.567042799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5205470802915,
+                  "lng" : 6.568391730291503
+               },
+               "southwest" : {
+                  "lat" : 46.5178491197085,
+                  "lng" : 6.565693769708498
+               }
+            }
+         },
+         "place_id" : "ChIJcdLId_4wjEcRoIWpIVc1CUg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lausanne",
+               "short_name" : "Lausanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ouest Lausannois District",
+               "short_name" : "Ouest Lausannois District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1015 Lausanne, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5259677,
+                  "lng" : 6.5856344
+               },
+               "southwest" : {
+                  "lat" : 46.5149449,
+                  "lng" : 6.559938400000001
+               }
+            },
+            "location" : {
+               "lat" : 46.5195985,
+               "lng" : 6.5684919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5259677,
+                  "lng" : 6.5856344
+               },
+               "southwest" : {
+                  "lat" : 46.5149449,
+                  "lng" : 6.559938400000001
+               }
+            }
+         },
+         "place_id" : "ChIJ1bVZNwIxjEcRUQiaM1WWlv0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ecublens",
+               "short_name" : "Ecublens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ouest Lausannois District",
+               "short_name" : "Ouest Lausannois District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ecublens, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.54495,
+                  "lng" : 6.5840799
+               },
+               "southwest" : {
+                  "lat" : 46.51347,
+                  "lng" : 6.541589999999999
+               }
+            },
+            "location" : {
+               "lat" : 46.5296363,
+               "lng" : 6.561525199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.54495,
+                  "lng" : 6.5840799
+               },
+               "southwest" : {
+                  "lat" : 46.51347,
+                  "lng" : 6.541589999999999
+               }
+            }
+         },
+         "place_id" : "ChIJb-W-LAUxjEcRIIUZQIj_AAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ouest Lausannois District",
+               "short_name" : "Ouest Lausannois District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ouest Lausannois District, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.58443,
+                  "lng" : 6.61275
+               },
+               "southwest" : {
+                  "lat" : 46.4556401,
+                  "lng" : 6.526869899999999
+               }
+            },
+            "location" : {
+               "lat" : 46.5116543,
+               "lng" : 6.559539999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.58443,
+                  "lng" : 6.61275
+               },
+               "southwest" : {
+                  "lat" : 46.4556401,
+                  "lng" : 6.526869899999999
+               }
+            }
+         },
+         "place_id" : "ChIJseSIlQkxjEcRIGns-ZPw5FE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vaud",
+               "short_name" : "Vaud",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vaud, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9867099,
+                  "lng" : 7.2492599
+               },
+               "southwest" : {
+                  "lat" : 46.1870301,
+                  "lng" : 6.06401
+               }
+            },
+            "location" : {
+               "lat" : 46.5613135,
+               "lng" : 6.536765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9867099,
+                  "lng" : 7.2492599
+               },
+               "southwest" : {
+                  "lat" : 46.1870301,
+                  "lng" : 6.06401
+               }
+            }
+         },
+         "place_id" : "ChIJtZALbaItjEcRUNgYQIj_AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8084546,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 5.95608
+               }
+            },
+            "location" : {
+               "lat" : 46.818188,
+               "lng" : 8.227511999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8084546,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 5.95608
+               }
+            }
+         },
+         "place_id" : "ChIJYW1Zb-9kjEcRFXvLDxG1Vlw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

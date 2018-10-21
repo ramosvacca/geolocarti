@@ -1,0 +1,490 @@
+{
+   "plus_code" : {
+      "compound_code" : "M5RM+RQ Nancy, France",
+      "global_code" : "8FW8M5RM+RQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Notre Dame, Passage Bleu",
+               "short_name" : "Rue Notre Dame, Passage Bleu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nancy",
+               "short_name" : "Nancy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "Meurthe-et-Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14 Rue Notre Dame, Passage Bleu, 54000 Nancy, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.692054,
+               "lng" : 6.184417
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.69340298029149,
+                  "lng" : 6.185765980291502
+               },
+               "southwest" : {
+                  "lat" : 48.6907050197085,
+                  "lng" : 6.183068019708498
+               }
+            }
+         },
+         "place_id" : "ChIJTeV48WyYlEcR3ICEEL8GGwI",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Saint-Julien",
+               "short_name" : "Rue Saint-Julien",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nancy",
+               "short_name" : "Nancy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "Meurthe-et-Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3 Rue Saint-Julien, 54000 Nancy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6920958,
+                  "lng" : 6.184546699999999
+               },
+               "southwest" : {
+                  "lat" : 48.6918951,
+                  "lng" : 6.184166200000001
+               }
+            },
+            "location" : {
+               "lat" : 48.6920052,
+               "lng" : 6.1843679
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6933444302915,
+                  "lng" : 6.185705430291502
+               },
+               "southwest" : {
+                  "lat" : 48.6906464697085,
+                  "lng" : 6.183007469708498
+               }
+            }
+         },
+         "place_id" : "ChIJjVJq8WyYlEcRki2fQ0k0UJU",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Saint-Julien",
+               "short_name" : "Rue Saint-Julien",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nancy",
+               "short_name" : "Nancy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "Meurthe-et-Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3 Rue Saint-Julien, 54000 Nancy, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.6919844,
+               "lng" : 6.1842817
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6933333802915,
+                  "lng" : 6.185630680291502
+               },
+               "southwest" : {
+                  "lat" : 48.6906354197085,
+                  "lng" : 6.182932719708497
+               }
+            }
+         },
+         "place_id" : "ChIJy0w88WyYlEcRqPpkTGDkjIE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Saint-Julien",
+               "short_name" : "Rue Saint-Julien",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nancy",
+               "short_name" : "Nancy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "28 Rue Saint-Julien, 54000 Nancy, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.6919271,
+               "lng" : 6.1841218
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6932760802915,
+                  "lng" : 6.185470780291502
+               },
+               "southwest" : {
+                  "lat" : 48.6905781197085,
+                  "lng" : 6.182772819708497
+               }
+            }
+         },
+         "place_id" : "EigyOCBSdWUgU2FpbnQtSnVsaWVuLCA1NDAwMCBOYW5jeSwgRnJhbmNlIhoSGAoUChIJP20c92yYlEcRmbO8tq0PJ5EQHA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nancy",
+               "short_name" : "Nancy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "Meurthe-et-Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "54000 Nancy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.70924189999999,
+                  "lng" : 6.2126679
+               },
+               "southwest" : {
+                  "lat" : 48.6668706,
+                  "lng" : 6.1342325
+               }
+            },
+            "location" : {
+               "lat" : 48.6896459,
+               "lng" : 6.1737197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.70924189999999,
+                  "lng" : 6.2126679
+               },
+               "southwest" : {
+                  "lat" : 48.6668706,
+                  "lng" : 6.1342325
+               }
+            }
+         },
+         "place_id" : "ChIJk_RcM3GYlEcR4LNxAL1fChw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nancy",
+               "short_name" : "Nancy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "Meurthe-et-Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nancy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7092969,
+                  "lng" : 6.2126329
+               },
+               "southwest" : {
+                  "lat" : 48.66686499999999,
+                  "lng" : 6.134240999999999
+               }
+            },
+            "location" : {
+               "lat" : 48.692054,
+               "lng" : 6.184417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7092969,
+                  "lng" : 6.2126329
+               },
+               "southwest" : {
+                  "lat" : 48.66686499999999,
+                  "lng" : 6.134240999999999
+               }
+            }
+         },
+         "place_id" : "ChIJzZKmF26YlEcRjUmCDbFx1k4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "Meurthe-et-Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meurthe-et-Moselle, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.56326800000001,
+                  "lng" : 7.123213100000001
+               },
+               "southwest" : {
+                  "lat" : 48.348987,
+                  "lng" : 5.426108
+               }
+            },
+            "location" : {
+               "lat" : 48.7997007,
+               "lng" : 6.094701400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.56326800000001,
+                  "lng" : 7.123213100000001
+               },
+               "southwest" : {
+                  "lat" : 48.348987,
+                  "lng" : 5.426108
+               }
+            }
+         },
+         "place_id" : "ChIJ2QzP5IHplEcR4Cg3mrlfCgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Est",
+               "short_name" : "Grand Est",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Est, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.169162,
+                  "lng" : 8.233549099999999
+               },
+               "southwest" : {
+                  "lat" : 47.4202619,
+                  "lng" : 3.3836479
+               }
+            },
+            "location" : {
+               "lat" : 48.699803,
+               "lng" : 6.1878074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.169162,
+                  "lng" : 8.233549099999999
+               },
+               "southwest" : {
+                  "lat" : 47.4202619,
+                  "lng" : 3.3836479
+               }
+            }
+         },
+         "place_id" : "ChIJsbWPxd9VkUcR_RfRz30ZyLk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

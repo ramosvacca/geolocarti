@@ -1,0 +1,445 @@
+{
+   "plus_code" : {
+      "compound_code" : "3VW4+9X Dublin, OH, USA",
+      "global_code" : "86GR3VW4+9X"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5721",
+               "short_name" : "5721",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shier Rings Road",
+               "short_name" : "Shier Rings Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43016",
+               "short_name" : "43016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1233",
+               "short_name" : "1233",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "5721 Shier Rings Rd, Dublin, OH 43016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0958841,
+               "lng" : -83.14252429999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0972330802915,
+                  "lng" : -83.14117531970848
+               },
+               "southwest" : {
+                  "lat" : 40.0945351197085,
+                  "lng" : -83.1438732802915
+               }
+            }
+         },
+         "place_id" : "ChIJz6rXaziTOIgRk9ZC3WsjWps",
+         "plus_code" : {
+            "compound_code" : "3VW4+9X Dublin, Ohio, United States",
+            "global_code" : "86GR3VW4+9X"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5721",
+               "short_name" : "5721",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shier Rings Road",
+               "short_name" : "Shier Rings Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43016",
+               "short_name" : "43016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1233",
+               "short_name" : "1233",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "5721 Shier Rings Rd, Dublin, OH 43016, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0960504,
+                  "lng" : -83.1423578
+               },
+               "southwest" : {
+                  "lat" : 40.0954443,
+                  "lng" : -83.14304349999999
+               }
+            },
+            "location" : {
+               "lat" : 40.0957895,
+               "lng" : -83.14270330000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.09709633029149,
+                  "lng" : -83.14135166970848
+               },
+               "southwest" : {
+                  "lat" : 40.09439836970849,
+                  "lng" : -83.14404963029151
+               }
+            }
+         },
+         "place_id" : "ChIJKb0hHTiTOIgRXAnf439pmtI",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5750",
+               "short_name" : "5750",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Highway 42",
+               "short_name" : "Co Hwy 42",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43016",
+               "short_name" : "43016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5750 Co Hwy 42, Dublin, OH 43016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0964318,
+               "lng" : -83.1430154
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.09778078029149,
+                  "lng" : -83.1416664197085
+               },
+               "southwest" : {
+                  "lat" : 40.0950828197085,
+                  "lng" : -83.14436438029151
+               }
+            }
+         },
+         "place_id" : "EiU1NzUwIENvIEh3eSA0MiwgRHVibGluLCBPSCA0MzAxNiwgVVNBIhsSGQoUChIJ049h-zeTOIgRS90kpODciz8Q9iw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "43016",
+               "short_name" : "43016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, OH 43016, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.151046,
+                  "lng" : -83.067252
+               },
+               "southwest" : {
+                  "lat" : 40.0545192,
+                  "lng" : -83.21030709999999
+               }
+            },
+            "location" : {
+               "lat" : 40.0761455,
+               "lng" : -83.15417959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.151046,
+                  "lng" : -83.067252
+               },
+               "southwest" : {
+                  "lat" : 40.0545192,
+                  "lng" : -83.21030709999999
+               }
+            }
+         },
+         "place_id" : "ChIJJ5yPJiKTOIgRK5gydA-p3lY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1632729,
+                  "lng" : -83.089778
+               },
+               "southwest" : {
+                  "lat" : 40.0636839,
+                  "lng" : -83.2020691
+               }
+            },
+            "location" : {
+               "lat" : 40.0992294,
+               "lng" : -83.1140771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1632729,
+                  "lng" : -83.089778
+               },
+               "southwest" : {
+                  "lat" : 40.0636839,
+                  "lng" : -83.2020691
+               }
+            }
+         },
+         "place_id" : "ChIJH6FQ1MTsOIgRKJBoFWgXwgA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Franklin County, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1430869,
+                  "lng" : -82.761827
+               },
+               "southwest" : {
+                  "lat" : 39.794996,
+                  "lng" : -83.2608769
+               }
+            },
+            "location" : {
+               "lat" : 40.0154745,
+               "lng" : -82.99316069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1430869,
+                  "lng" : -82.761827
+               },
+               "southwest" : {
+                  "lat" : 39.794996,
+                  "lng" : -83.2608769
+               }
+            }
+         },
+         "place_id" : "ChIJcd6QucGJOIgR3zgRtZz7NcQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ohio",
+               "short_name" : "Ohio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ohio, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.327132,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            },
+            "location" : {
+               "lat" : 40.4172871,
+               "lng" : -82.90712300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.327132,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            }
+         },
+         "place_id" : "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

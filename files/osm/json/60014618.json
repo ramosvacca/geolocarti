@@ -1,0 +1,484 @@
+{
+   "plus_code" : {
+      "compound_code" : "26P4+83 Giza, Al Omraneyah, Egypt",
+      "global_code" : "8G2H26P4+83"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "El Buhouth St",
+               "short_name" : "El Buhouth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dokki",
+               "short_name" : "Dokki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12622",
+               "short_name" : "12622",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "33 El Buhouth St، Ad Doqi, Dokki، Cairo Governorate 12622, Egypt",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.0358447,
+               "lng" : 31.20512979999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.03719368029149,
+                  "lng" : 31.20647878029149
+               },
+               "southwest" : {
+                  "lat" : 30.0344957197085,
+                  "lng" : 31.2037808197085
+               }
+            }
+         },
+         "place_id" : "ChIJbwin-c1GWBQR81aN1rc12As",
+         "plus_code" : {
+            "compound_code" : "26P4+83 Giza, Al Omraneyah, Egypt",
+            "global_code" : "8G2H26P4+83"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doctor .Mickel Bakhoum Road",
+               "short_name" : "Dr .Mickel Bakhoum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dr .Mickel Bakhoum Rd, Ad Doqi, Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0353328,
+                  "lng" : 31.2050859
+               },
+               "southwest" : {
+                  "lat" : 30.0343466,
+                  "lng" : 31.2049858
+               }
+            },
+            "location" : {
+               "lat" : 30.0348397,
+               "lng" : 31.2050358
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0361886802915,
+                  "lng" : 31.2063848302915
+               },
+               "southwest" : {
+                  "lat" : 30.0334907197085,
+                  "lng" : 31.2036868697085
+               }
+            }
+         },
+         "place_id" : "ChIJ0Y8dIs5GWBQRTuIFus0DtYE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Duqqi",
+               "short_name" : "Al Duqqi",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Duqqi, Ad Doqi, Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2125788
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            },
+            "location" : {
+               "lat" : 30.0396471,
+               "lng" : 31.2056471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2125788
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            }
+         },
+         "place_id" : "ChIJAY0F1MVGWBQR0HJKv6MtgAM",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ad Doqi, Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2125788
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            },
+            "location" : {
+               "lat" : 30.0394511,
+               "lng" : 31.2025336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2125788
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            }
+         },
+         "place_id" : "ChIJkx2HJc1GWBQRSNzstAXvoXQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Doqi",
+               "short_name" : "Al Doqi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Doqi, Ad Doqi, Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2213022
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            },
+            "location" : {
+               "lat" : 30.0382232,
+               "lng" : 31.2114114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2213022
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            }
+         },
+         "place_id" : "ChIJ5TmtMS1BWBQR4T3bwEqZG7Y",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ad Doqi",
+               "short_name" : "Ad Doqi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ad Doqi, Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2213022
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            },
+            "location" : {
+               "lat" : 30.0379482,
+               "lng" : 31.208259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0551566,
+                  "lng" : 31.2213022
+               },
+               "southwest" : {
+                  "lat" : 30.02736029999999,
+                  "lng" : 31.1935024
+               }
+            }
+         },
+         "place_id" : "ChIJ409zrSpBWBQR58jWcTQzz8I",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giza",
+               "short_name" : "Giza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Al Omraneyah",
+               "short_name" : "Al Omraneyah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Giza, Al Omraneyah, Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0714063,
+                  "lng" : 31.2320457
+               },
+               "southwest" : {
+                  "lat" : 29.9621703,
+                  "lng" : 31.1472406
+               }
+            },
+            "location" : {
+               "lat" : 30.0130557,
+               "lng" : 31.2088526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0714063,
+                  "lng" : 31.2320457
+               },
+               "southwest" : {
+                  "lat" : 29.9621703,
+                  "lng" : 31.1472406
+               }
+            }
+         },
+         "place_id" : "ChIJl5ZXNZJGWBQRUvx4mB_WkU4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giza Governorate",
+               "short_name" : "Giza Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Giza Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.34039869999999,
+                  "lng" : 31.9402533
+               },
+               "southwest" : {
+                  "lat" : 27.6592744,
+                  "lng" : 27.2140591
+               }
+            },
+            "location" : {
+               "lat" : 28.7666216,
+               "lng" : 29.2320784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.34039869999999,
+                  "lng" : 31.9402533
+               },
+               "southwest" : {
+                  "lat" : 27.6592744,
+                  "lng" : 27.2140591
+               }
+            }
+         },
+         "place_id" : "ChIJwR6eLwRBWBQRJqwgD9dpxfs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8122,
+                  "lng" : 37.0569
+               },
+               "southwest" : {
+                  "lat" : 21.9999999,
+                  "lng" : 24.696775
+               }
+            },
+            "location" : {
+               "lat" : 26.820553,
+               "lng" : 30.802498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8122,
+                  "lng" : 37.0569
+               },
+               "southwest" : {
+                  "lat" : 21.9999999,
+                  "lng" : 24.696775
+               }
+            }
+         },
+         "place_id" : "ChIJ6TZcw3aJNhQRRMTEJQmgRSw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

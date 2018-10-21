@@ -1,0 +1,361 @@
+{
+   "plus_code" : {
+      "compound_code" : "55H8+V9 Hongqiao, Tianjin, China",
+      "global_code" : "8PFV55H8+V9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dingzigu 1st Road",
+               "short_name" : "Dingzigu 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hongqiao Qu",
+               "short_name" : "Hongqiao Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tianjin Shi",
+               "short_name" : "Tianjin Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "300131",
+               "short_name" : "300131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8 Dingzigu 1st Rd, Hongqiao Qu, China, 300131",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.179635,
+               "lng" : 117.165882
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1809839802915,
+                  "lng" : 117.1672309802915
+               },
+               "southwest" : {
+                  "lat" : 39.1782860197085,
+                  "lng" : 117.1645330197085
+               }
+            }
+         },
+         "place_id" : "ChIJYwEKaqIA7jURY-_oHE80OsE",
+         "plus_code" : {
+            "compound_code" : "55H8+V9 Hongqiao, Tianjin, China",
+            "global_code" : "8PFV55H8+V9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hongqiao Qu",
+               "short_name" : "Hongqiao Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tianjin Shi",
+               "short_name" : "Tianjin Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "300131",
+               "short_name" : "300131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Hongqiao Qu, Tianjin Shi, China, 300131",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.1800169,
+                  "lng" : 117.1663719
+               },
+               "southwest" : {
+                  "lat" : 39.1791945,
+                  "lng" : 117.1647634
+               }
+            },
+            "location" : {
+               "lat" : 39.1796057,
+               "lng" : 117.1655676
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1809546802915,
+                  "lng" : 117.1669166302915
+               },
+               "southwest" : {
+                  "lat" : 39.1782567197085,
+                  "lng" : 117.1642186697085
+               }
+            }
+         },
+         "place_id" : "ChIJAQjvQqIA7jURuvx6u18ipls",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "300131",
+               "short_name" : "300131",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hongqiao",
+               "short_name" : "Hongqiao",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tianjin",
+               "short_name" : "Tianjin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hongqiao, Tianjin, China, 300131",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.1911322,
+                  "lng" : 117.1735317
+               },
+               "southwest" : {
+                  "lat" : 39.1596116,
+                  "lng" : 117.1264754
+               }
+            },
+            "location" : {
+               "lat" : 39.1672249,
+               "lng" : 117.1516219
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1911322,
+                  "lng" : 117.1735317
+               },
+               "southwest" : {
+                  "lat" : 39.1596116,
+                  "lng" : 117.1264754
+               }
+            }
+         },
+         "place_id" : "ChIJQY6CDLUA7jURNYEhAzbuRV0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hongqiao",
+               "short_name" : "Hongqiao",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tianjin",
+               "short_name" : "Tianjin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hongqiao, Tianjin, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.1919007,
+                  "lng" : 117.1944431
+               },
+               "southwest" : {
+                  "lat" : 39.1411799,
+                  "lng" : 117.1262847
+               }
+            },
+            "location" : {
+               "lat" : 39.167345,
+               "lng" : 117.151533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1919007,
+                  "lng" : 117.1944431
+               },
+               "southwest" : {
+                  "lat" : 39.1411799,
+                  "lng" : 117.1262847
+               }
+            }
+         },
+         "place_id" : "ChIJd-XuQbIA7jURpkCicmayGUs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tianjin",
+               "short_name" : "Tianjin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tianjin, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.253214,
+                  "lng" : 118.0656115
+               },
+               "southwest" : {
+                  "lat" : 38.5555782,
+                  "lng" : 116.7080284
+               }
+            },
+            "location" : {
+               "lat" : 39.3433574,
+               "lng" : 117.3616476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.253214,
+                  "lng" : 118.0656115
+               },
+               "southwest" : {
+                  "lat" : 38.5555782,
+                  "lng" : 116.7080284
+               }
+            }
+         },
+         "place_id" : "ChIJF0mT4o_97TURbfN4fk2owic",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tianjin",
+               "short_name" : "Tianjin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tianjin",
+               "short_name" : "Tianjin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tianjin, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.253214,
+                  "lng" : 118.0656115
+               },
+               "southwest" : {
+                  "lat" : 38.5555782,
+                  "lng" : 116.7080284
+               }
+            },
+            "location" : {
+               "lat" : 39.3433574,
+               "lng" : 117.3616476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.253214,
+                  "lng" : 118.0656115
+               },
+               "southwest" : {
+                  "lat" : 38.5555782,
+                  "lng" : 116.7080284
+               }
+            }
+         },
+         "place_id" : "ChIJhw4sHmL87TURMUCIMLeUcYQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

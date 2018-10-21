@@ -1,0 +1,607 @@
+{
+   "plus_code" : {
+      "compound_code" : "M2GQ+J6 Denver, CO, USA",
+      "global_code" : "85FQM2GQ+J6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2199",
+               "short_name" : "2199",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South University Boulevard",
+               "short_name" : "S University Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80208",
+               "short_name" : "80208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2199 S University Blvd, Denver, CO 80208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6766174,
+               "lng" : -104.9618965
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6779663802915,
+                  "lng" : -104.9605475197085
+               },
+               "southwest" : {
+                  "lat" : 39.6752684197085,
+                  "lng" : -104.9632454802915
+               }
+            }
+         },
+         "place_id" : "ChIJYafenBV-bIcR2ScPxyGnmHE",
+         "plus_code" : {
+            "compound_code" : "M2GQ+J6 Denver, Colorado, United States",
+            "global_code" : "85FQM2GQ+J6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mary Reed Building",
+               "short_name" : "Mary Reed Bldg",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "2199",
+               "short_name" : "2199",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South University Boulevard",
+               "short_name" : "S University Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80210",
+               "short_name" : "80210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mary Reed Bldg, 2199 S University Blvd, Denver, CO 80210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6768976,
+                  "lng" : -104.9613067
+               },
+               "southwest" : {
+                  "lat" : 39.6763502,
+                  "lng" : -104.9617423
+               }
+            },
+            "location" : {
+               "lat" : 39.6766368,
+               "lng" : -104.9614844
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6779728802915,
+                  "lng" : -104.9601755197085
+               },
+               "southwest" : {
+                  "lat" : 39.6752749197085,
+                  "lng" : -104.9628734802915
+               }
+            }
+         },
+         "place_id" : "ChIJvzRe5RV-bIcRl9qaRrFDESE",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2199",
+               "short_name" : "2199",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South University Boulevard",
+               "short_name" : "S University Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80210",
+               "short_name" : "80210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2199 S University Blvd, Denver, CO 80210, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6766932,
+               "lng" : -104.9615404
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6780421802915,
+                  "lng" : -104.9601914197085
+               },
+               "southwest" : {
+                  "lat" : 39.6753442197085,
+                  "lng" : -104.9628893802915
+               }
+            }
+         },
+         "place_id" : "ChIJn0vd3BV-bIcRijF1SHihrZA",
+         "plus_code" : {
+            "compound_code" : "M2GQ+M9 Denver, Colorado, United States",
+            "global_code" : "85FQM2GQ+M9"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80210",
+               "short_name" : "80210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Denver, CO 80210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6767344,
+                  "lng" : -104.9620387
+               },
+               "southwest" : {
+                  "lat" : 39.6764179,
+                  "lng" : -104.9620698
+               }
+            },
+            "location" : {
+               "lat" : 39.6765762,
+               "lng" : -104.9620542
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6779251302915,
+                  "lng" : -104.9607052697085
+               },
+               "southwest" : {
+                  "lat" : 39.6752271697085,
+                  "lng" : -104.9634032302915
+               }
+            }
+         },
+         "place_id" : "ChIJN3wJ9xV-bIcRFu96CEyA1cY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80210",
+               "short_name" : "80210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University, Denver, CO 80210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.689987,
+                  "lng" : -104.9593361
+               },
+               "southwest" : {
+                  "lat" : 39.6602819,
+                  "lng" : -104.9735361
+               }
+            },
+            "location" : {
+               "lat" : 39.6729875,
+               "lng" : -104.9651706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.689987,
+                  "lng" : -104.9593361
+               },
+               "southwest" : {
+                  "lat" : 39.6602819,
+                  "lng" : -104.9735361
+               }
+            }
+         },
+         "place_id" : "ChIJ6wsSaDx-bIcRKEQZYbJuSRA",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80210",
+               "short_name" : "80210",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denver, CO 80210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.73525900000001,
+                  "lng" : -104.9405649
+               },
+               "southwest" : {
+                  "lat" : 39.652972,
+                  "lng" : -104.989713
+               }
+            },
+            "location" : {
+               "lat" : 39.6751269,
+               "lng" : -104.9680914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.73525900000001,
+                  "lng" : -104.9405649
+               },
+               "southwest" : {
+                  "lat" : 39.652972,
+                  "lng" : -104.989713
+               }
+            }
+         },
+         "place_id" : "ChIJpxZiLD5-bIcRoSPq1lJSuKQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denver, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.91424689999999,
+                  "lng" : -104.6002959
+               },
+               "southwest" : {
+                  "lat" : 39.614431,
+                  "lng" : -105.109927
+               }
+            },
+            "location" : {
+               "lat" : 39.7392358,
+               "lng" : -104.990251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.91424689999999,
+                  "lng" : -104.6002959
+               },
+               "southwest" : {
+                  "lat" : 39.614431,
+                  "lng" : -105.109927
+               }
+            }
+         },
+         "place_id" : "ChIJzxcfI6qAa4cR1jaKJ_j0jhE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denver County, Denver, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.91424689999999,
+                  "lng" : -104.6002959
+               },
+               "southwest" : {
+                  "lat" : 39.614431,
+                  "lng" : -105.109927
+               }
+            },
+            "location" : {
+               "lat" : 39.76161889999999,
+               "lng" : -104.9622498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.91424689999999,
+                  "lng" : -104.6002959
+               },
+               "southwest" : {
+                  "lat" : 39.614431,
+                  "lng" : -105.109927
+               }
+            }
+         },
+         "place_id" : "ChIJzWww5uJfbIcRBvfuO6cAtKY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colorado",
+               "short_name" : "Colorado",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colorado, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            },
+            "location" : {
+               "lat" : 39.5500507,
+               "lng" : -105.7820674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            }
+         },
+         "place_id" : "ChIJt1YYm3QUQIcR_6eQSTGDVMc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

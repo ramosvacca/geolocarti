@@ -1,0 +1,529 @@
+{
+   "plus_code" : {
+      "compound_code" : "CP5G+37 Waltham, MA, USA",
+      "global_code" : "87JCCP5G+37"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Winter Street",
+               "short_name" : "Winter St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02451",
+               "short_name" : "02451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1000 Winter St #22000, Waltham, MA 02451, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4077031,
+               "lng" : -71.2742925
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4090520802915,
+                  "lng" : -71.27294351970851
+               },
+               "southwest" : {
+                  "lat" : 42.4063541197085,
+                  "lng" : -71.27564148029151
+               }
+            }
+         },
+         "place_id" : "ChIJkwgmXL2c44kRrwl2FlMqv0w",
+         "plus_code" : {
+            "compound_code" : "CP5G+37 Waltham, Massachusetts, United States",
+            "global_code" : "87JCCP5G+37"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Winter Street",
+               "short_name" : "Winter St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02451",
+               "short_name" : "02451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1000 Winter St, Waltham, MA 02451, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4087687,
+                  "lng" : -71.27362959999999
+               },
+               "southwest" : {
+                  "lat" : 42.40660039999999,
+                  "lng" : -71.27495720000002
+               }
+            },
+            "location" : {
+               "lat" : 42.4076226,
+               "lng" : -71.2741501
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4090335302915,
+                  "lng" : -71.27294441970851
+               },
+               "southwest" : {
+                  "lat" : 42.4063355697085,
+                  "lng" : -71.27564238029152
+               }
+            }
+         },
+         "place_id" : "ChIJX2nRXb2c44kRFiMy225PKcs",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02451",
+               "short_name" : "02451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Waltham, MA 02451, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4084352,
+                  "lng" : -71.2744359
+               },
+               "southwest" : {
+                  "lat" : 42.4068315,
+                  "lng" : -71.2756356
+               }
+            },
+            "location" : {
+               "lat" : 42.40763339999999,
+               "lng" : -71.2750358
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4089823302915,
+                  "lng" : -71.27368676970849
+               },
+               "southwest" : {
+                  "lat" : 42.4062843697085,
+                  "lng" : -71.27638473029151
+               }
+            }
+         },
+         "place_id" : "ChIJl0niUL2c44kR-oT8_aYzNUI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West End, Waltham, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4139,
+                  "lng" : -71.24930309999999
+               },
+               "southwest" : {
+                  "lat" : 42.366834,
+                  "lng" : -71.28707279999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3948476,
+               "lng" : -71.26663289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4139,
+                  "lng" : -71.24930309999999
+               },
+               "southwest" : {
+                  "lat" : 42.366834,
+                  "lng" : -71.28707279999999
+               }
+            }
+         },
+         "place_id" : "ChIJJ38eYLSc44kRNqckyU68vvw",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "02451",
+               "short_name" : "02451",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waltham, MA 02451, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4311771,
+                  "lng" : -71.232919
+               },
+               "southwest" : {
+                  "lat" : 42.3702589,
+                  "lng" : -71.28603099999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3971065,
+               "lng" : -71.25989969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4311771,
+                  "lng" : -71.232919
+               },
+               "southwest" : {
+                  "lat" : 42.3702589,
+                  "lng" : -71.28603099999999
+               }
+            }
+         },
+         "place_id" : "ChIJiSUPRNmc44kRN2FiAO7bwt4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waltham, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.424226,
+                  "lng" : -71.19388090000001
+               },
+               "southwest" : {
+                  "lat" : 42.353715,
+                  "lng" : -71.285501
+               }
+            },
+            "location" : {
+               "lat" : 42.3764852,
+               "lng" : -71.2356113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.424226,
+                  "lng" : -71.19388090000001
+               },
+               "southwest" : {
+                  "lat" : 42.353715,
+                  "lng" : -71.285501
+               }
+            }
+         },
+         "place_id" : "ChIJ3eQad-F344kRxFr-GmKH2t4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middlesex County, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.736102,
+                  "lng" : -71.020095
+               },
+               "southwest" : {
+                  "lat" : 42.15669,
+                  "lng" : -71.8987159
+               }
+            },
+            "location" : {
+               "lat" : 42.467206,
+               "lng" : -71.2874209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.736102,
+                  "lng" : -71.020095
+               },
+               "southwest" : {
+                  "lat" : 42.15669,
+                  "lng" : -71.8987159
+               }
+            }
+         },
+         "place_id" : "ChIJmQwtQe4L5IkRCLDyk1MVcOI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "Massachusetts",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            },
+            "location" : {
+               "lat" : 42.4072107,
+               "lng" : -71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            }
+         },
+         "place_id" : "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

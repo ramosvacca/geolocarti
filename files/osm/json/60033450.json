@@ -1,0 +1,575 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle de Serrano Galvache",
+               "short_name" : "Calle de Serrano Galvache",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28033",
+               "short_name" : "28033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle de Serrano Galvache, 4, 28033 Madrid, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4723136,
+               "lng" : -3.6717513
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4736625802915,
+                  "lng" : -3.670402319708498
+               },
+               "southwest" : {
+                  "lat" : 40.4709646197085,
+                  "lng" : -3.673100280291502
+               }
+            }
+         },
+         "place_id" : "ChIJ46vCdzcpQg0RByZAOytecbU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Costillares",
+               "short_name" : "Costillares",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ciudad Lineal",
+               "short_name" : "Ciudad Lineal",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28033",
+               "short_name" : "28033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Costillares, 28033 Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.48416080000001,
+                  "lng" : -3.6599331
+               },
+               "southwest" : {
+                  "lat" : 40.4667009,
+                  "lng" : -3.6743421
+               }
+            },
+            "location" : {
+               "lat" : 40.473685,
+               "lng" : -3.6718324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.48416080000001,
+                  "lng" : -3.6599331
+               },
+               "southwest" : {
+                  "lat" : 40.4667009,
+                  "lng" : -3.6743421
+               }
+            }
+         },
+         "place_id" : "ChIJQdToA0opQg0RHrsxddTdL5k",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Lineal",
+               "short_name" : "Ciudad Lineal",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ciudad Lineal, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.48416080000001,
+                  "lng" : -3.6202568
+               },
+               "southwest" : {
+                  "lat" : 40.413049,
+                  "lng" : -3.6743421
+               }
+            },
+            "location" : {
+               "lat" : 40.4456678,
+               "lng" : -3.6543844
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.48416080000001,
+                  "lng" : -3.6202568
+               },
+               "southwest" : {
+                  "lat" : 40.413049,
+                  "lng" : -3.6743421
+               }
+            }
+         },
+         "place_id" : "ChIJ0fSMdiQvQg0Rd6NnZEtZumk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5638447,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            },
+            "location" : {
+               "lat" : 40.4167754,
+               "lng" : -3.7037902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5638447,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            }
+         },
+         "place_id" : "ChIJgTwKgJcpQg0RaSKMYcHeNsQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "28033",
+               "short_name" : "28033",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "28033 Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4841521,
+                  "lng" : -3.6263288
+               },
+               "southwest" : {
+                  "lat" : 40.4559345,
+                  "lng" : -3.6744324
+               }
+            },
+            "location" : {
+               "lat" : 40.4729146,
+               "lng" : -3.654719499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4841521,
+                  "lng" : -3.6263288
+               },
+               "southwest" : {
+                  "lat" : 40.4559345,
+                  "lng" : -3.6744324
+               }
+            }
+         },
+         "place_id" : "ChIJmVXwW8YuQg0R0K2LM_dAAxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.64333269999999,
+                  "lng" : -3.5182349
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8889567
+               }
+            },
+            "location" : {
+               "lat" : 40.4157569,
+               "lng" : -3.703721499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64333269999999,
+                  "lng" : -3.5182349
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8889567
+               }
+            }
+         },
+         "place_id" : "ChIJyWY3OH0oQg0RfZlQ7cCcRq0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Área Metropolitalitana y Corredor del Henares, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6453875,
+                  "lng" : -3.2838978
+               },
+               "southwest" : {
+                  "lat" : 40.1989269,
+                  "lng" : -4.006454
+               }
+            },
+            "location" : {
+               "lat" : 40.4955493,
+               "lng" : -3.6623239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6453875,
+                  "lng" : -3.2838978
+               },
+               "southwest" : {
+                  "lat" : 40.1989269,
+                  "lng" : -4.006454
+               }
+            }
+         },
+         "place_id" : "ChIJgXVwV1wvQg0RzPz8wabKb2k",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            },
+            "location" : {
+               "lat" : 40.4162883,
+               "lng" : -3.7033725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            }
+         },
+         "place_id" : "ChIJuTPgQHqBQQ0R8MpLvvNAAwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Community of Madrid, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            },
+            "location" : {
+               "lat" : 40.4167515,
+               "lng" : -3.7038322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            }
+         },
+         "place_id" : "ChIJuTPgQHqBQQ0RgMhLvvNAAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.244,
+                  "lng" : 5.098
+               },
+               "southwest" : {
+                  "lat" : 35.17300000000001,
+                  "lng" : -12.524
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

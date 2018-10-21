@@ -1,0 +1,504 @@
+{
+   "plus_code" : {
+      "compound_code" : "HX8M+JR Hamburg, Germany",
+      "global_code" : "9F5FHX8M+JR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Von-Melle-Park",
+               "short_name" : "Von-Melle-Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Eimsbüttel",
+               "short_name" : "Bezirk Eimsbüttel",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20146",
+               "short_name" : "20146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Von-Melle-Park 4, 20146 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5664433,
+               "lng" : 9.9855672
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56779228029149,
+                  "lng" : 9.986916180291503
+               },
+               "southwest" : {
+                  "lat" : 53.56509431970849,
+                  "lng" : 9.984218219708499
+               }
+            }
+         },
+         "place_id" : "ChIJhW_ouTuPsUcRKRuqUjfxPkk",
+         "plus_code" : {
+            "compound_code" : "HX8P+H6 Hamburg, Germany",
+            "global_code" : "9F5FHX8P+H6"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HWP",
+               "short_name" : "HWP",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Von-Melle-Park",
+               "short_name" : "Von-Melle-Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Eimsbüttel",
+               "short_name" : "Bezirk Eimsbüttel",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20146",
+               "short_name" : "20146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "HWP, Von-Melle-Park 9, 20146 Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.56655689999999,
+                  "lng" : 9.9841254
+               },
+               "southwest" : {
+                  "lat" : 53.5659395,
+                  "lng" : 9.9831007
+               }
+            },
+            "location" : {
+               "lat" : 53.5662105,
+               "lng" : 9.9835707
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56759718029149,
+                  "lng" : 9.984962030291502
+               },
+               "southwest" : {
+                  "lat" : 53.56489921970849,
+                  "lng" : 9.982264069708497
+               }
+            }
+         },
+         "place_id" : "ChIJk9tl3DuPsUcRKQZRKx8yak4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Von-Melle-Park",
+               "short_name" : "Von-Melle-Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Eimsbüttel",
+               "short_name" : "Bezirk Eimsbüttel",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20146",
+               "short_name" : "20146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Von-Melle-Park 5, 20146 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5662786,
+               "lng" : 9.9844747
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56762758029149,
+                  "lng" : 9.985823680291503
+               },
+               "southwest" : {
+                  "lat" : 53.5649296197085,
+                  "lng" : 9.983125719708498
+               }
+            }
+         },
+         "place_id" : "EixWb24tTWVsbGUtUGFyayA1LCAyMDE0NiBIYW1idXJnLCBEZXV0c2NobGFuZCIaEhgKFAoSCVWDv8A7j7FHESgs-qiXds00EAU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20146",
+               "short_name" : "20146",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "20146 Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.573895,
+                  "lng" : 9.989780099999999
+               },
+               "southwest" : {
+                  "lat" : 53.561062,
+                  "lng" : 9.9702199
+               }
+            },
+            "location" : {
+               "lat" : 53.5688101,
+               "lng" : 9.9819779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.573895,
+                  "lng" : 9.989780099999999
+               },
+               "southwest" : {
+                  "lat" : 53.561062,
+                  "lng" : 9.9702199
+               }
+            }
+         },
+         "place_id" : "ChIJy026ADmPsUcRAPf5xPU9Jhw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rotherbaum",
+               "short_name" : "Rotherbaum",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Eimsbüttel",
+               "short_name" : "Eimsbüttel",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rotherbaum, Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.57350890000001,
+                  "lng" : 10.0068389
+               },
+               "southwest" : {
+                  "lat" : 53.55767600000001,
+                  "lng" : 9.970144899999999
+               }
+            },
+            "location" : {
+               "lat" : 53.566407,
+               "lng" : 9.994297599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57350890000001,
+                  "lng" : 10.0068389
+               },
+               "southwest" : {
+                  "lat" : 53.55767600000001,
+                  "lng" : 9.970144899999999
+               }
+            }
+         },
+         "place_id" : "ChIJTfw_vC-PsUcR5kwcBmT87FQ",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eimsbüttel",
+               "short_name" : "Eimsbüttel",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eimsbüttel, Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.653394,
+                  "lng" : 10.0068389
+               },
+               "southwest" : {
+                  "lat" : 53.55767600000001,
+                  "lng" : 9.871931
+               }
+            },
+            "location" : {
+               "lat" : 53.57476750000001,
+               "lng" : 9.959453199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.653394,
+                  "lng" : 10.0068389
+               },
+               "southwest" : {
+                  "lat" : 53.55767600000001,
+                  "lng" : 9.871931
+               }
+            }
+         },
+         "place_id" : "ChIJ27n9OxaGsUcRq4nFs0W8SpE",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7394463,
+                  "lng" : 10.3252765
+               },
+               "southwest" : {
+                  "lat" : 53.3951194,
+                  "lng" : 9.730086399999999
+               }
+            },
+            "location" : {
+               "lat" : 53.5363318,
+               "lng" : 9.994521599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7394463,
+                  "lng" : 10.3252765
+               },
+               "southwest" : {
+                  "lat" : 53.3951194,
+                  "lng" : 9.730086399999999
+               }
+            }
+         },
+         "place_id" : "ChIJuRMYfoNhsUcR8HjYe_I9JgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7394463,
+                  "lng" : 10.3252765
+               },
+               "southwest" : {
+                  "lat" : 53.3951194,
+                  "lng" : 9.730090799999999
+               }
+            },
+            "location" : {
+               "lat" : 53.5510846,
+               "lng" : 9.9936819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7394463,
+                  "lng" : 10.3252765
+               },
+               "southwest" : {
+                  "lat" : 53.3951194,
+                  "lng" : 9.730090799999999
+               }
+            }
+         },
+         "place_id" : "ChIJuRMYfoNhsUcRoDrWe_I9JgQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

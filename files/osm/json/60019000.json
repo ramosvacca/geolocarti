@@ -1,0 +1,573 @@
+{
+   "plus_code" : {
+      "compound_code" : "H7F8+GR St. John's, NL, Canada",
+      "global_code" : "88V9H7F8+GR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "230",
+               "short_name" : "230",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Elizabeth Avenue",
+               "short_name" : "Elizabeth Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. John's",
+               "short_name" : "St. John's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "A1C 5S7",
+               "short_name" : "A1C 5S7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "230 Elizabeth Ave, St. John's, NL A1C 5S7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.5737975,
+               "lng" : -52.7329053
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.57514648029149,
+                  "lng" : -52.7315563197085
+               },
+               "southwest" : {
+                  "lat" : 47.57244851970849,
+                  "lng" : -52.7342542802915
+               }
+            }
+         },
+         "place_id" : "ChIJifur2I6jDEsRQJdRZNoIWms",
+         "plus_code" : {
+            "compound_code" : "H7F8+GR St. John's, Division No. 1, Subd. D, NL, Canada",
+            "global_code" : "88V9H7F8+GR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chemistry-Physics",
+               "short_name" : "Chemistry-Physics",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "283",
+               "short_name" : "283",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prince Philip Drive",
+               "short_name" : "PPD",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central St. John's",
+               "short_name" : "Central St. John's",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. John's",
+               "short_name" : "St. John's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "A1B 3X7",
+               "short_name" : "A1B 3X7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chemistry-Physics, 283 Prince Philip Dr, St. John's, NL A1B 3X7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5735275,
+                  "lng" : -52.7326371
+               },
+               "southwest" : {
+                  "lat" : 47.5727522,
+                  "lng" : -52.7337632
+               }
+            },
+            "location" : {
+               "lat" : 47.5731106,
+               "lng" : -52.7334445
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.57448883029149,
+                  "lng" : -52.7318511697085
+               },
+               "southwest" : {
+                  "lat" : 47.57179086970849,
+                  "lng" : -52.7345491302915
+               }
+            }
+         },
+         "place_id" : "ChIJC3A3XI6jDEsRU7hQYaESIUw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prince Philip Drive",
+               "short_name" : "PPD",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. John's",
+               "short_name" : "St. John's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "12 Prince Philip Dr, St. John's, NL, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.573908,
+               "lng" : -52.733867
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.57525698029149,
+                  "lng" : -52.73251801970851
+               },
+               "southwest" : {
+                  "lat" : 47.57255901970849,
+                  "lng" : -52.73521598029151
+               }
+            }
+         },
+         "place_id" : "EisxMiBQcmluY2UgUGhpbGlwIERyLCBTdC4gSm9obidzLCBOTCwgQ2FuYWRhIhoSGAoUChIJTaM0jI6jDEsRvWoS7x_Kuu0QDA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1B 1T5",
+               "short_name" : "A1B 1T5",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Central St. John's",
+               "short_name" : "Central St. John's",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. John's",
+               "short_name" : "St. John's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. John's, NL A1B 1T5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.57415899999999,
+                  "lng" : -52.7272289
+               },
+               "southwest" : {
+                  "lat" : 47.568829,
+                  "lng" : -52.736885
+               }
+            },
+            "location" : {
+               "lat" : 47.5720773,
+               "lng" : -52.7316947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.57415899999999,
+                  "lng" : -52.7272289
+               },
+               "southwest" : {
+                  "lat" : 47.568829,
+                  "lng" : -52.736885
+               }
+            }
+         },
+         "place_id" : "ChIJa8kMAo6jDEsRRe3P9XOZtPU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central St. John's",
+               "short_name" : "Central St. John's",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. John's",
+               "short_name" : "St. John's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central St. John's, St. John's, NL, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.588169,
+                  "lng" : -52.702078
+               },
+               "southwest" : {
+                  "lat" : 47.548374,
+                  "lng" : -52.74874510000001
+               }
+            },
+            "location" : {
+               "lat" : 47.5633949,
+               "lng" : -52.7331996
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.588169,
+                  "lng" : -52.702078
+               },
+               "southwest" : {
+                  "lat" : 47.548374,
+                  "lng" : -52.74874510000001
+               }
+            }
+         },
+         "place_id" : "ChIJk_R_MpejDEsRkBIh83TOrwk",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1B",
+               "short_name" : "A1B",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "St. John's",
+               "short_name" : "St. John's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. John's, NL A1B, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.608291,
+                  "lng" : -52.7063139
+               },
+               "southwest" : {
+                  "lat" : 47.537414,
+                  "lng" : -52.8462809
+               }
+            },
+            "location" : {
+               "lat" : 47.5651062,
+               "lng" : -52.7828281
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.608291,
+                  "lng" : -52.7063139
+               },
+               "southwest" : {
+                  "lat" : 47.537414,
+                  "lng" : -52.8462809
+               }
+            }
+         },
+         "place_id" : "ChIJjcdHy4mkDEsRVWa7STwleyM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. John's",
+               "short_name" : "St. John's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1, Subd. D",
+               "short_name" : "Division No. 1, Subd. D",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. John's, NL, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6340069,
+                  "lng" : -52.6175349
+               },
+               "southwest" : {
+                  "lat" : 47.329816,
+                  "lng" : -53.03786789999999
+               }
+            },
+            "location" : {
+               "lat" : 47.5615096,
+               "lng" : -52.7125768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6340069,
+                  "lng" : -52.6175349
+               },
+               "southwest" : {
+                  "lat" : 47.329816,
+                  "lng" : -53.03786789999999
+               }
+            }
+         },
+         "place_id" : "ChIJYaIKa46jDEsRHyYSHwDUH54",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Division No. 1, NL, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.541112,
+                  "lng" : -51.99999589999999
+               },
+               "southwest" : {
+                  "lat" : 45.066028,
+                  "lng" : -54.420468
+               }
+            },
+            "location" : {
+               "lat" : 46.921452,
+               "lng" : -53.5646763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.541112,
+                  "lng" : -51.99999589999999
+               },
+               "southwest" : {
+                  "lat" : 45.066028,
+                  "lng" : -54.420468
+               }
+            }
+         },
+         "place_id" : "ChIJaZfDbBZYDUsRThKER3Alhrw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "Newfoundland and Labrador",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newfoundland and Labrador, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.37774399999999,
+                  "lng" : -51.99999589999999
+               },
+               "southwest" : {
+                  "lat" : 45.7675001,
+                  "lng" : -67.82168489999999
+               }
+            },
+            "location" : {
+               "lat" : 53.1355091,
+               "lng" : -57.6604364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.37774399999999,
+                  "lng" : -51.99999589999999
+               },
+               "southwest" : {
+                  "lat" : 45.7675001,
+                  "lng" : -67.82168489999999
+               }
+            }
+         },
+         "place_id" : "ChIJD_AvfcKjDEsRqDl21bOd7GQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

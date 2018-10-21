@@ -1,0 +1,180 @@
+{
+   "plus_code" : {
+      "compound_code" : "9R29+RW Singapore",
+      "global_code" : "6PH59R29+RW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medak",
+               "short_name" : "Medak",
+               "types" : [ "airport", "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Central Water Catchment",
+               "short_name" : "Central Water Catchment",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medak, Singapore",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.352083,
+               "lng" : 103.819836
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.353431980291502,
+                  "lng" : 103.8211849802915
+               },
+               "southwest" : {
+                  "lat" : 1.350734019708498,
+                  "lng" : 103.8184870197085
+               }
+            }
+         },
+         "place_id" : "ChIJAZkZAWER2jERUktyWbOw-nE",
+         "types" : [ "airport", "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Water Catchment",
+               "short_name" : "Central Water Catchment",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Water Catchment, Singapore",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4161719,
+                  "lng" : 103.8367991
+               },
+               "southwest" : {
+                  "lat" : 1.3357299,
+                  "lng" : 103.7716728
+               }
+            },
+            "location" : {
+               "lat" : 1.3551526,
+               "lng" : 103.7972022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4161719,
+                  "lng" : 103.8367991
+               },
+               "southwest" : {
+                  "lat" : 1.3357299,
+                  "lng" : 103.7716728
+               }
+            }
+         },
+         "place_id" : "ChIJv59jeDsR2jERAKfarqz3AAU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Singapore",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4708809,
+                  "lng" : 104.0415799
+               },
+               "southwest" : {
+                  "lat" : 1.216611,
+                  "lng" : 103.6065099
+               }
+            },
+            "location" : {
+               "lat" : 1.3553794,
+               "lng" : 103.8677444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4708809,
+                  "lng" : 104.0415799
+               },
+               "southwest" : {
+                  "lat" : 1.216611,
+                  "lng" : 103.6065099
+               }
+            }
+         },
+         "place_id" : "ChIJyY4rtGcX2jERIKTarqz3AAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Singapore",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.4784001,
+                  "lng" : 104.0945001
+               },
+               "southwest" : {
+                  "lat" : 1.1496,
+                  "lng" : 103.594
+               }
+            },
+            "location" : {
+               "lat" : 1.352083,
+               "lng" : 103.819836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.4784001,
+                  "lng" : 104.0945001
+               },
+               "southwest" : {
+                  "lat" : 1.1496,
+                  "lng" : 103.594
+               }
+            }
+         },
+         "place_id" : "ChIJdZOLiiMR2jERxPWrUs9peIg",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

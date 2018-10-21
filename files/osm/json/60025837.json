@@ -1,0 +1,508 @@
+{
+   "plus_code" : {
+      "compound_code" : "3M42+5M Temple, TX, USA",
+      "global_code" : "86343M42+5M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "720",
+               "short_name" : "720",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Blackland Road",
+               "short_name" : "E Blackland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Temple",
+               "short_name" : "Temple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76502",
+               "short_name" : "76502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "720 E Blackland Rd, Temple, TX 76502, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.055681,
+                  "lng" : -97.34796709999999
+               },
+               "southwest" : {
+                  "lat" : 31.0553352,
+                  "lng" : -97.3485142
+               }
+            },
+            "location" : {
+               "lat" : 31.0555226,
+               "lng" : -97.3482377
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0568570802915,
+                  "lng" : -97.3468916697085
+               },
+               "southwest" : {
+                  "lat" : 31.0541591197085,
+                  "lng" : -97.3495896302915
+               }
+            }
+         },
+         "place_id" : "ChIJlToOEKtsRYYRRH-rNeqpYro",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "720",
+               "short_name" : "720",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Blackland Road",
+               "short_name" : "E Blackland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Temple",
+               "short_name" : "Temple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76502",
+               "short_name" : "76502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "720 E Blackland Rd, Temple, TX 76502, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.0554938,
+               "lng" : -97.34829239999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0568427802915,
+                  "lng" : -97.3469434197085
+               },
+               "southwest" : {
+                  "lat" : 31.0541448197085,
+                  "lng" : -97.3496413802915
+               }
+            }
+         },
+         "place_id" : "ChIJdTVGEKtsRYYR1Iq9Otc2nNk",
+         "plus_code" : {
+            "compound_code" : "3M42+5M Temple, Texas, United States",
+            "global_code" : "86343M42+5M"
+         },
+         "types" : [ "establishment", "local_government_office", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "808",
+               "short_name" : "808",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Blackland Road",
+               "short_name" : "E Blackland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Temple",
+               "short_name" : "Temple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76502",
+               "short_name" : "76502",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6712",
+               "short_name" : "6712",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "808 E Blackland Rd, Temple, TX 76502, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.054709,
+               "lng" : -97.34791899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0560579802915,
+                  "lng" : -97.34657001970848
+               },
+               "southwest" : {
+                  "lat" : 31.0533600197085,
+                  "lng" : -97.3492679802915
+               }
+            }
+         },
+         "place_id" : "ChIJGSV8PqtsRYYRQ_J6ElwdBdA",
+         "plus_code" : {
+            "compound_code" : "3M32+VR Temple, Texas, United States",
+            "global_code" : "86343M32+VR"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "725",
+               "short_name" : "725",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Blackland Road",
+               "short_name" : "E Blackland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Temple",
+               "short_name" : "Temple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76502",
+               "short_name" : "76502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "725 E Blackland Rd, Temple, TX 76502, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.0548532,
+               "lng" : -97.3485211
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0562021802915,
+                  "lng" : -97.3471721197085
+               },
+               "southwest" : {
+                  "lat" : 31.0535042197085,
+                  "lng" : -97.34987008029151
+               }
+            }
+         },
+         "place_id" : "Eik3MjUgRSBCbGFja2xhbmQgUmQsIFRlbXBsZSwgVFggNzY1MDIsIFVTQSIbEhkKFAoSCSFJ6yKrbEWGEcYQo4ilc0DNENUF",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temple",
+               "short_name" : "Temple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Temple, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.177408,
+                  "lng" : -97.29673609999999
+               },
+               "southwest" : {
+                  "lat" : 31.0305209,
+                  "lng" : -97.47712490000001
+               }
+            },
+            "location" : {
+               "lat" : 31.0982344,
+               "lng" : -97.342782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.177408,
+                  "lng" : -97.29673609999999
+               },
+               "southwest" : {
+                  "lat" : 31.0305209,
+                  "lng" : -97.47712490000001
+               }
+            }
+         },
+         "place_id" : "ChIJpZIUl29CRYYRZMs2mQYuTC8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "76502",
+               "short_name" : "76502",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Temple",
+               "short_name" : "Temple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Temple, TX 76502, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.230564,
+                  "lng" : -97.3217389
+               },
+               "southwest" : {
+                  "lat" : 30.9879579,
+                  "lng" : -97.620515
+               }
+            },
+            "location" : {
+               "lat" : 31.1179055,
+               "lng" : -97.4165053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.230564,
+                  "lng" : -97.3217389
+               },
+               "southwest" : {
+                  "lat" : 30.9879579,
+                  "lng" : -97.620515
+               }
+            }
+         },
+         "place_id" : "ChIJ6fPUc05qRYYRoFFjbduANEo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bell County, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.320202,
+                  "lng" : -97.070188
+               },
+               "southwest" : {
+                  "lat" : 30.752371,
+                  "lng" : -97.9138468
+               }
+            },
+            "location" : {
+               "lat" : 31.134411,
+               "lng" : -97.5247243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.320202,
+                  "lng" : -97.070188
+               },
+               "southwest" : {
+                  "lat" : 30.752371,
+                  "lng" : -97.9138468
+               }
+            }
+         },
+         "place_id" : "ChIJWQqIJGJGRYYR9aDqx3l4418",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texas",
+               "short_name" : "Texas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            },
+            "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            }
+         },
+         "place_id" : "ChIJSTKCCzZwQIYRPN4IGI8c6xY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

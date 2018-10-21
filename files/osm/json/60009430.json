@@ -1,0 +1,483 @@
+{
+   "plus_code" : {
+      "compound_code" : "VQGJ+76 Cuernavaca, Morelos, Mexico",
+      "global_code" : "76C2VQGJ+76"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "113",
+               "short_name" : "113",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Reforma",
+               "short_name" : "Reforma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palmira",
+               "short_name" : "Palmira",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cuernavaca",
+               "short_name" : "Cuernavaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "62490",
+               "short_name" : "62490",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Reforma 113, Palmira, 62490 Cuernavaca, Mor., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.875645,
+               "lng" : -99.219465
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8769939802915,
+                  "lng" : -99.21811601970849
+               },
+               "southwest" : {
+                  "lat" : 18.8742960197085,
+                  "lng" : -99.2208139802915
+               }
+            }
+         },
+         "place_id" : "ChIJdeFcdjrfzYURR40I4lSnPPg",
+         "plus_code" : {
+            "compound_code" : "VQGJ+76 Cuernavaca, Morelos, Mexico",
+            "global_code" : "76C2VQGJ+76"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gloria Almada de Bejarano",
+               "short_name" : "Gloria Almada de Bejarano",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palmira",
+               "short_name" : "Palmira",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cuernavaca",
+               "short_name" : "Cuernavaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "62490",
+               "short_name" : "62490",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gloria Almada de Bejarano, Palmira, 62490 Cuernavaca, Mor., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.8754011,
+               "lng" : -99.2198368
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8767500802915,
+                  "lng" : -99.21848781970849
+               },
+               "southwest" : {
+                  "lat" : 18.8740521197085,
+                  "lng" : -99.22118578029151
+               }
+            }
+         },
+         "place_id" : "ChIJQfr2gjDfzYURKDh-71Jmyf4",
+         "plus_code" : {
+            "compound_code" : "VQGJ+53 Cuernavaca, Morelos, Mexico",
+            "global_code" : "76C2VQGJ+53"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Interna del Internado",
+               "short_name" : "Interna del Internado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palmira",
+               "short_name" : "Palmira",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cuernavaca",
+               "short_name" : "Cuernavaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "62490",
+               "short_name" : "62490",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Interna del Internado 15, Palmira, 62490 Cuernavaca, Mor., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.8755547,
+               "lng" : -99.219534
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8769036802915,
+                  "lng" : -99.2181850197085
+               },
+               "southwest" : {
+                  "lat" : 18.8742057197085,
+                  "lng" : -99.22088298029151
+               }
+            }
+         },
+         "place_id" : "EkJJbnRlcm5hIGRlbCBJbnRlcm5hZG8gMTUsIFBhbG1pcmEsIDYyNDkwIEN1ZXJuYXZhY2EsIE1vci4sIE3DqXhpY28iGhIYChQKEgkLhwJ4Ot_NhRH39ejCXjc3_hAP",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "62490",
+               "short_name" : "62490",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Las Colmenas",
+               "short_name" : "Las Colmenas",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cuernavaca",
+               "short_name" : "Cuernavaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Las Colmenas, 62490 Cuernavaca, Mor., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9107291,
+                  "lng" : -99.2159545
+               },
+               "southwest" : {
+                  "lat" : 18.8751492,
+                  "lng" : -99.22876430000001
+               }
+            },
+            "location" : {
+               "lat" : 18.8916122,
+               "lng" : -99.22175369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9107291,
+                  "lng" : -99.2159545
+               },
+               "southwest" : {
+                  "lat" : 18.8751492,
+                  "lng" : -99.22876430000001
+               }
+            }
+         },
+         "place_id" : "ChIJJasUTRffzYURkkqM9x4FVQE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palmira",
+               "short_name" : "Palmira",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cuernavaca",
+               "short_name" : "Cuernavaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palmira, Cuernavaca, Mor., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9107304,
+                  "lng" : -99.2160253
+               },
+               "southwest" : {
+                  "lat" : 18.8751318,
+                  "lng" : -99.22876430000001
+               }
+            },
+            "location" : {
+               "lat" : 18.8916122,
+               "lng" : -99.22175369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9107304,
+                  "lng" : -99.2160253
+               },
+               "southwest" : {
+                  "lat" : 18.8751318,
+                  "lng" : -99.22876430000001
+               }
+            }
+         },
+         "place_id" : "ChIJvSreTRffzYURHKcSbSRcaUs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuernavaca",
+               "short_name" : "Cuernavaca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuernavaca, Morelos, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0015735,
+                  "lng" : -99.18053890000002
+               },
+               "southwest" : {
+                  "lat" : 18.8621897,
+                  "lng" : -99.300591
+               }
+            },
+            "location" : {
+               "lat" : 18.9242095,
+               "lng" : -99.22156590000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0015735,
+                  "lng" : -99.18053890000002
+               },
+               "southwest" : {
+                  "lat" : 18.8621897,
+                  "lng" : -99.300591
+               }
+            }
+         },
+         "place_id" : "ChIJra8im0nezYURoZC3ubW8tsk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuernavaca",
+               "short_name" : "Cuernavaca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuernavaca, Morelos, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0246499,
+                  "lng" : -99.18053890000002
+               },
+               "southwest" : {
+                  "lat" : 18.841911,
+                  "lng" : -99.34201159999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9338475,
+               "lng" : -99.23168899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0246499,
+                  "lng" : -99.18053890000002
+               },
+               "southwest" : {
+                  "lat" : 18.841911,
+                  "lng" : -99.34201159999999
+               }
+            }
+         },
+         "place_id" : "ChIJGXl1uQzfzYURAOMNZC4fcAw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Morelos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morelos, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1317018,
+                  "lng" : -98.63294660000001
+               },
+               "southwest" : {
+                  "lat" : 18.332373,
+                  "lng" : -99.4944141
+               }
+            },
+            "location" : {
+               "lat" : 18.6813049,
+               "lng" : -99.10134979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1317018,
+                  "lng" : -98.63294660000001
+               },
+               "southwest" : {
+                  "lat" : 18.332373,
+                  "lng" : -99.4944141
+               }
+            }
+         },
+         "place_id" : "ChIJR_72Ja7fzYURD91poSWCX5c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

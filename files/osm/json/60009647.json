@@ -1,0 +1,444 @@
+{
+   "plus_code" : {
+      "compound_code" : "X84R+FH Villetaneuse, France",
+      "global_code" : "8FW4X84R+FH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue Jean Baptiste Clément",
+               "short_name" : "Avenue Jean Baptiste Clément",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villetaneuse",
+               "short_name" : "Villetaneuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93430",
+               "short_name" : "93430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "99 Avenue Jean Baptiste Clément, 93430 Villetaneuse, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.95620900000001,
+               "lng" : 2.341461
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.95755798029151,
+                  "lng" : 2.342809980291502
+               },
+               "southwest" : {
+                  "lat" : 48.95486001970851,
+                  "lng" : 2.340112019708498
+               }
+            }
+         },
+         "place_id" : "ChIJIy5MryJp5kcRyj-hgacTMf4",
+         "plus_code" : {
+            "compound_code" : "X84R+FH Villetaneuse, France",
+            "global_code" : "8FW4X84R+FH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue Jean Baptiste Clément",
+               "short_name" : "Avenue Jean Baptiste Clément",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villetaneuse",
+               "short_name" : "Villetaneuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93430",
+               "short_name" : "93430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "99 Avenue Jean Baptiste Clément, 93430 Villetaneuse, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.9561507,
+               "lng" : 2.3412626
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.95749968029151,
+                  "lng" : 2.342611580291502
+               },
+               "southwest" : {
+                  "lat" : 48.95480171970851,
+                  "lng" : 2.339913619708498
+               }
+            }
+         },
+         "place_id" : "ChIJQbqDsyJp5kcRgQp30l4lHHc",
+         "plus_code" : {
+            "compound_code" : "X84R+FG Villetaneuse, France",
+            "global_code" : "8FW4X84R+FG"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue de l'Université",
+               "short_name" : "Rue de l'Université",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villetaneuse",
+               "short_name" : "Villetaneuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93430",
+               "short_name" : "93430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue de l'Université, 93430 Villetaneuse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9573614,
+                  "lng" : 2.3434942
+               },
+               "southwest" : {
+                  "lat" : 48.95692649999999,
+                  "lng" : 2.3421117
+               }
+            },
+            "location" : {
+               "lat" : 48.95714390000001,
+               "lng" : 2.342803
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.95849293029149,
+                  "lng" : 2.344151930291502
+               },
+               "southwest" : {
+                  "lat" : 48.95579496970849,
+                  "lng" : 2.341453969708498
+               }
+            }
+         },
+         "place_id" : "ChIJixtP4Bdp5kcR6IBgGm0Gddg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93430",
+               "short_name" : "93430",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Villetaneuse",
+               "short_name" : "Villetaneuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "93430 Villetaneuse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9684317,
+                  "lng" : 2.3547987
+               },
+               "southwest" : {
+                  "lat" : 48.9462453,
+                  "lng" : 2.3334094
+               }
+            },
+            "location" : {
+               "lat" : 48.9595253,
+               "lng" : 2.3445514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9684317,
+                  "lng" : 2.3547987
+               },
+               "southwest" : {
+                  "lat" : 48.9462453,
+                  "lng" : 2.3334094
+               }
+            }
+         },
+         "place_id" : "ChIJIaoK1Bdp5kcRIITY4caCCxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Villetaneuse",
+               "short_name" : "Villetaneuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Villetaneuse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.968419,
+                  "lng" : 2.354859
+               },
+               "southwest" : {
+                  "lat" : 48.9463811,
+                  "lng" : 2.333344
+               }
+            },
+            "location" : {
+               "lat" : 48.963476,
+               "lng" : 2.347354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.968419,
+                  "lng" : 2.354859
+               },
+               "southwest" : {
+                  "lat" : 48.9463811,
+                  "lng" : 2.333344
+               }
+            }
+         },
+         "place_id" : "ChIJrR1XhRNp5kcR-YN6h6BojXo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seine-Saint-Denis, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.012329,
+                  "lng" : 2.6032919
+               },
+               "southwest" : {
+                  "lat" : 48.8072484,
+                  "lng" : 2.2883109
+               }
+            },
+            "location" : {
+               "lat" : 48.9137455,
+               "lng" : 2.4845729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.012329,
+                  "lng" : 2.6032919
+               },
+               "southwest" : {
+                  "lat" : 48.8072484,
+                  "lng" : 2.2883109
+               }
+            }
+         },
+         "place_id" : "ChIJTeBXx8Zs5kcRUCuLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Île-de-France, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            },
+            "location" : {
+               "lat" : 48.8499198,
+               "lng" : 2.6370411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            }
+         },
+         "place_id" : "ChIJF4ymA8Th5UcRcCWLaMOCCwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

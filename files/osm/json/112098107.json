@@ -1,0 +1,195 @@
+{
+   "plus_code" : {
+      "compound_code" : "V72C+6C Pottachira, Kerala, India",
+      "global_code" : "7J2RV72C+6C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "679335",
+               "short_name" : "679335",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Palakkad",
+               "short_name" : "Palakkad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kerala 679335, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.9133526,
+                  "lng" : 76.3138421
+               },
+               "southwest" : {
+                  "lat" : 10.8321942,
+                  "lng" : 76.2331547
+               }
+            },
+            "location" : {
+               "lat" : 10.8620651,
+               "lng" : 76.2826675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9133526,
+                  "lng" : 76.3138421
+               },
+               "southwest" : {
+                  "lat" : 10.8321942,
+                  "lng" : 76.2331547
+               }
+            }
+         },
+         "place_id" : "ChIJ-b-4KSDQpzsR31dRn0wJs8U",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palakkad",
+               "short_name" : "Palakkad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palakkad, Kerala, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2375029,
+                  "lng" : 76.9084398
+               },
+               "southwest" : {
+                  "lat" : 10.3360414,
+                  "lng" : 76.02626049999999
+               }
+            },
+            "location" : {
+               "lat" : 10.9512736,
+               "lng" : 76.5488232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2375029,
+                  "lng" : 76.9084398
+               },
+               "southwest" : {
+                  "lat" : 10.3360414,
+                  "lng" : 76.02626049999999
+               }
+            }
+         },
+         "place_id" : "ChIJWQs2Ju9tqDsRmbA67dugBGc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kerala",
+               "short_name" : "Kerala",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kerala, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.7883001,
+                  "lng" : 77.3956369
+               },
+               "southwest" : {
+                  "lat" : 8.2929599,
+                  "lng" : 74.861
+               }
+            },
+            "location" : {
+               "lat" : 10.8505159,
+               "lng" : 76.2710833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.7883001,
+                  "lng" : 77.3956369
+               },
+               "southwest" : {
+                  "lat" : 8.2929599,
+                  "lng" : 74.861
+               }
+            }
+         },
+         "place_id" : "ChIJW_Wc1P8SCDsRmXw47fuQvWQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

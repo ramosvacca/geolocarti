@@ -1,0 +1,949 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sir William Logan Building",
+               "short_name" : "Sir William Logan Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "580",
+               "short_name" : "580",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Booth Street",
+               "short_name" : "Booth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1A 0E4",
+               "short_name" : "K1A 0E4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sir William Logan Building, 580 Booth St, Ottawa, ON K1A 0E4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.400118,
+                  "lng" : -75.705562
+               },
+               "southwest" : {
+                  "lat" : 45.39966099999999,
+                  "lng" : -75.70626589999999
+               }
+            },
+            "location" : {
+               "lat" : 45.3998614,
+               "lng" : -75.7059026
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4012384802915,
+                  "lng" : -75.7045649697085
+               },
+               "southwest" : {
+                  "lat" : 45.3985405197085,
+                  "lng" : -75.70726293029151
+               }
+            }
+         },
+         "place_id" : "ChIJN4JuXssFzkwRPF_Uo2ISNbU",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "534",
+               "short_name" : "534",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rochester Street",
+               "short_name" : "Rochester St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1S 4M1",
+               "short_name" : "K1S 4M1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "534 Rochester St, Ottawa, ON K1S 4M1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3997998,
+               "lng" : -75.7065611
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40114878029149,
+                  "lng" : -75.70521211970849
+               },
+               "southwest" : {
+                  "lat" : 45.3984508197085,
+                  "lng" : -75.7079100802915
+               }
+            }
+         },
+         "place_id" : "ChIJFeA9WMsFzkwRmrDhAPfpNLE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Glebe Annex",
+               "short_name" : "The Glebe Annex",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1S",
+               "short_name" : "K1S",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "The Glebe Annex, Ottawa, ON K1S, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4047777,
+                  "lng" : -75.70009229999999
+               },
+               "southwest" : {
+                  "lat" : 45.3987814,
+                  "lng" : -75.70854659999999
+               }
+            },
+            "location" : {
+               "lat" : 45.40235759999999,
+               "lng" : -75.7037277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4047777,
+                  "lng" : -75.70009229999999
+               },
+               "southwest" : {
+                  "lat" : 45.3987814,
+                  "lng" : -75.70854659999999
+               }
+            }
+         },
+         "place_id" : "ChIJO1vU48oFzkwRSUYqXGGifJY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centretown West, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.415006,
+                  "lng" : -75.699787
+               },
+               "southwest" : {
+                  "lat" : 45.39491899999999,
+                  "lng" : -75.7220061
+               }
+            },
+            "location" : {
+               "lat" : 45.4024663,
+               "lng" : -75.7092888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.415006,
+                  "lng" : -75.699787
+               },
+               "southwest" : {
+                  "lat" : 45.39491899999999,
+                  "lng" : -75.7220061
+               }
+            }
+         },
+         "place_id" : "ChIJq2k7_zUEzkwRjpocRnJrrgU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4215296,
+               "lng" : -75.69719309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwR7RXdMeFRaoo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1A 1G5",
+               "short_name" : "K1A 1G5",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1A 1G5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.401051,
+                  "lng" : -75.70432579999999
+               },
+               "southwest" : {
+                  "lat" : 45.39854,
+                  "lng" : -75.706914
+               }
+            },
+            "location" : {
+               "lat" : 45.4005308,
+               "lng" : -75.7058624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40114448029149,
+                  "lng" : -75.70427091970849
+               },
+               "southwest" : {
+                  "lat" : 45.39844651970849,
+                  "lng" : -75.7069688802915
+               }
+            }
+         },
+         "place_id" : "ChIJifocYcsFzkwRGLs44LyNGMQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1A 0Y7",
+               "short_name" : "K1A 0Y7",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1A 0Y7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.401051,
+                  "lng" : -75.70432579999999
+               },
+               "southwest" : {
+                  "lat" : 45.39854,
+                  "lng" : -75.706914
+               }
+            },
+            "location" : {
+               "lat" : 45.4005308,
+               "lng" : -75.7058624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40114448029149,
+                  "lng" : -75.70427091970849
+               },
+               "southwest" : {
+                  "lat" : 45.39844651970849,
+                  "lng" : -75.7069688802915
+               }
+            }
+         },
+         "place_id" : "ChIJifocYcsFzkwR8Ebuq0h7cD8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1A 0E4",
+               "short_name" : "K1A 0E4",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1A 0E4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.401051,
+                  "lng" : -75.70432579999999
+               },
+               "southwest" : {
+                  "lat" : 45.39854,
+                  "lng" : -75.706914
+               }
+            },
+            "location" : {
+               "lat" : 45.4005308,
+               "lng" : -75.7058624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40114448029149,
+                  "lng" : -75.70427091970849
+               },
+               "southwest" : {
+                  "lat" : 45.39844651970849,
+                  "lng" : -75.7069688802915
+               }
+            }
+         },
+         "place_id" : "ChIJifocYcsFzkwRqTvVNf13fp0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1A 0E8",
+               "short_name" : "K1A 0E8",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1A 0E8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.401051,
+                  "lng" : -75.70432579999999
+               },
+               "southwest" : {
+                  "lat" : 45.39854,
+                  "lng" : -75.706914
+               }
+            },
+            "location" : {
+               "lat" : 45.4005308,
+               "lng" : -75.7058624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40114448029149,
+                  "lng" : -75.70427091970849
+               },
+               "southwest" : {
+                  "lat" : 45.39844651970849,
+                  "lng" : -75.7069688802915
+               }
+            }
+         },
+         "place_id" : "ChIJd7K2XssFzkwRTDm-sLUnlA4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1A 0G1",
+               "short_name" : "K1A 0G1",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1A 0G1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.401051,
+                  "lng" : -75.70432579999999
+               },
+               "southwest" : {
+                  "lat" : 45.39854,
+                  "lng" : -75.706914
+               }
+            },
+            "location" : {
+               "lat" : 45.4005308,
+               "lng" : -75.7058624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40114448029149,
+                  "lng" : -75.70427091970849
+               },
+               "southwest" : {
+                  "lat" : 45.39844651970849,
+                  "lng" : -75.7069688802915
+               }
+            }
+         },
+         "place_id" : "ChIJifocYcsFzkwRiSiJGqIq9BA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1A 0Y3",
+               "short_name" : "K1A 0Y3",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centretown West",
+               "short_name" : "Centretown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1A 0Y3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.401051,
+                  "lng" : -75.70432579999999
+               },
+               "southwest" : {
+                  "lat" : 45.39854,
+                  "lng" : -75.706914
+               }
+            },
+            "location" : {
+               "lat" : 45.4005308,
+               "lng" : -75.7058624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.40114448029149,
+                  "lng" : -75.70427091970849
+               },
+               "southwest" : {
+                  "lat" : 45.39844651970849,
+                  "lng" : -75.7069688802915
+               }
+            }
+         },
+         "place_id" : "ChIJifocYcsFzkwRnwXCCIk1ByY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1S",
+               "short_name" : "K1S",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1S, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.419929,
+                  "lng" : -75.662369
+               },
+               "southwest" : {
+                  "lat" : 45.375737,
+                  "lng" : -75.71468
+               }
+            },
+            "location" : {
+               "lat" : 45.399393,
+               "lng" : -75.68517679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.419929,
+                  "lng" : -75.662369
+               },
+               "southwest" : {
+                  "lat" : 45.375737,
+                  "lng" : -75.71468
+               }
+            }
+         },
+         "place_id" : "ChIJFcp-WsEFzkwR0K5--P4Ztfs",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa Division, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            },
+            "location" : {
+               "lat" : 45.2484615,
+               "lng" : -75.83537059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            }
+         },
+         "place_id" : "ChIJmcB2guBn0UwRr0RW_iic0LY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa-Gatineau Metropolitan Area",
+               "short_name" : "Ottawa-Gatineau Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa-Gatineau Metropolitan Area, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.024768,
+                  "lng" : -74.6921399
+               },
+               "southwest" : {
+                  "lat" : 44.758624,
+                  "lng" : -76.64305879999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4522431,
+               "lng" : -75.6292163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.024768,
+                  "lng" : -74.6921399
+               },
+               "southwest" : {
+                  "lat" : 44.758624,
+                  "lng" : -76.64305879999999
+               }
+            }
+         },
+         "place_id" : "ChIJS9B4F3H8zUwRvoAmvKNTuUE",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            },
+            "location" : {
+               "lat" : 51.253775,
+               "lng" : -85.32321399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwRCR5iKVZC-HA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70,
+                  "lng" : -50
+               },
+               "southwest" : {
+                  "lat" : 42,
+                  "lng" : -142
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

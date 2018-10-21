@@ -1,0 +1,503 @@
+{
+   "plus_code" : {
+      "compound_code" : "CMPW+XH Tallahassee, FL, USA",
+      "global_code" : "862QCMPW+XH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B",
+               "short_name" : "B",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "403",
+               "short_name" : "403",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stadium Drive",
+               "short_name" : "Stadium Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tallahassee",
+               "short_name" : "Tallahassee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leon County",
+               "short_name" : "Leon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32306",
+               "short_name" : "32306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B, 403 Stadium Dr, Tallahassee, FL 32306, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.4374901,
+               "lng" : -84.3035594
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4388390802915,
+                  "lng" : -84.3022104197085
+               },
+               "southwest" : {
+                  "lat" : 30.4361411197085,
+                  "lng" : -84.30490838029151
+               }
+            }
+         },
+         "place_id" : "ChIJ42esq3H17IgR2FBqLlW6rhc",
+         "plus_code" : {
+            "compound_code" : "CMPW+XH Tallahassee, Florida, United States",
+            "global_code" : "862QCMPW+XH"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "403",
+               "short_name" : "403",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stadium Drive",
+               "short_name" : "Stadium Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tallahassee",
+               "short_name" : "Tallahassee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leon County",
+               "short_name" : "Leon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32304",
+               "short_name" : "32304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "403 Stadium Dr, Tallahassee, FL 32304, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4395321,
+                  "lng" : -84.302739
+               },
+               "southwest" : {
+                  "lat" : 30.4368152,
+                  "lng" : -84.30603809999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4386869,
+               "lng" : -84.30514269999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4395321,
+                  "lng" : -84.302739
+               },
+               "southwest" : {
+                  "lat" : 30.4368152,
+                  "lng" : -84.30603809999999
+               }
+            }
+         },
+         "place_id" : "ChIJd6dpwxr17IgRPuKYa2qq9Gk",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "288",
+               "short_name" : "288",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Champions Way",
+               "short_name" : "Champions Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tallahassee",
+               "short_name" : "Tallahassee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leon County",
+               "short_name" : "Leon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32304",
+               "short_name" : "32304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "288 Champions Way, Tallahassee, FL 32304, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.4374901,
+               "lng" : -84.30355929999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4388390802915,
+                  "lng" : -84.30221031970849
+               },
+               "southwest" : {
+                  "lat" : 30.4361411197085,
+                  "lng" : -84.3049082802915
+               }
+            }
+         },
+         "place_id" : "ChIJUYYDuBr17IgRzHvW5_em_-A",
+         "plus_code" : {
+            "compound_code" : "CMPW+XH Tallahassee, Florida, United States",
+            "global_code" : "862QCMPW+XH"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "288",
+               "short_name" : "288",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Champions Way",
+               "short_name" : "Champions Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tallahassee",
+               "short_name" : "Tallahassee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32304",
+               "short_name" : "32304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "288 Champions Way, Tallahassee, FL 32304, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.4371027,
+               "lng" : -84.3030912
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4384516802915,
+                  "lng" : -84.3017422197085
+               },
+               "southwest" : {
+                  "lat" : 30.4357537197085,
+                  "lng" : -84.30444018029151
+               }
+            }
+         },
+         "place_id" : "Ei0yODggQ2hhbXBpb25zIFdheSwgVGFsbGFoYXNzZWUsIEZMIDMyMzA0LCBVU0EiGxIZChQKEgkhKrjBGvXsiBF88JFvH7VZABCgAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "32304",
+               "short_name" : "32304",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tallahassee",
+               "short_name" : "Tallahassee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tallahassee, FL 32304, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4859889,
+                  "lng" : -84.2884419
+               },
+               "southwest" : {
+                  "lat" : 30.4126429,
+                  "lng" : -84.4198019
+               }
+            },
+            "location" : {
+               "lat" : 30.4649282,
+               "lng" : -84.38574419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4859889,
+                  "lng" : -84.2884419
+               },
+               "southwest" : {
+                  "lat" : 30.4126429,
+                  "lng" : -84.4198019
+               }
+            }
+         },
+         "place_id" : "ChIJ-zrxIn_07IgRI4Da9hUCBwA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tallahassee",
+               "short_name" : "Tallahassee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leon County",
+               "short_name" : "Leon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tallahassee, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.587337,
+                  "lng" : -84.12982599999999
+               },
+               "southwest" : {
+                  "lat" : 30.34694199999999,
+                  "lng" : -84.3838858
+               }
+            },
+            "location" : {
+               "lat" : 30.4382559,
+               "lng" : -84.28073289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.587337,
+                  "lng" : -84.12982599999999
+               },
+               "southwest" : {
+                  "lat" : 30.34694199999999,
+                  "lng" : -84.3838858
+               }
+            }
+         },
+         "place_id" : "ChIJU0sSh1GK7IgR-LH91HoH7us",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leon County",
+               "short_name" : "Leon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leon County, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.685334,
+                  "lng" : -83.97716509999999
+               },
+               "southwest" : {
+                  "lat" : 30.2734381,
+                  "lng" : -84.715356
+               }
+            },
+            "location" : {
+               "lat" : 30.4906177,
+               "lng" : -84.1857115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.685334,
+                  "lng" : -83.97716509999999
+               },
+               "southwest" : {
+                  "lat" : 30.2734381,
+                  "lng" : -84.715356
+               }
+            }
+         },
+         "place_id" : "ChIJU0sSh1GK7IgRd8C1aGi7b8g",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florida",
+               "short_name" : "Florida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florida, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.000968,
+                  "lng" : -79.974306
+               },
+               "southwest" : {
+                  "lat" : 24.396308,
+                  "lng" : -87.634896
+               }
+            },
+            "location" : {
+               "lat" : 27.6648274,
+               "lng" : -81.5157535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.000968,
+                  "lng" : -79.974306
+               },
+               "southwest" : {
+                  "lat" : 24.396308,
+                  "lng" : -87.634896
+               }
+            }
+         },
+         "place_id" : "ChIJvypWkWV2wYgR0E7HW9MTLvc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

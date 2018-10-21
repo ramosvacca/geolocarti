@@ -1,0 +1,617 @@
+{
+   "plus_code" : {
+      "compound_code" : "QQ3R+M8 Oxford, UK",
+      "global_code" : "9C3WQQ3R+M8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Windmill Road",
+               "short_name" : "Windmill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX3 7LD",
+               "short_name" : "OX3 7LD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "101 Windmill Rd, Oxford OX3 7LD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7541525,
+               "lng" : -1.2091931
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.75550148029149,
+                  "lng" : -1.207844119708498
+               },
+               "southwest" : {
+                  "lat" : 51.75280351970849,
+                  "lng" : -1.210542080291502
+               }
+            }
+         },
+         "place_id" : "ChIJFXP0JXvBdkgRZRptMR3Xpbw",
+         "plus_code" : {
+            "compound_code" : "QQ3R+M8 Oxford, United Kingdom",
+            "global_code" : "9C3WQQ3R+M8"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX3 7LD",
+               "short_name" : "OX3 7LD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Oxford OX3 7LD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7545414,
+                  "lng" : -1.2086371
+               },
+               "southwest" : {
+                  "lat" : 51.7543006,
+                  "lng" : -1.2091059
+               }
+            },
+            "location" : {
+               "lat" : 51.754421,
+               "lng" : -1.2088715
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7557699802915,
+                  "lng" : -1.207522519708498
+               },
+               "southwest" : {
+                  "lat" : 51.7530720197085,
+                  "lng" : -1.210220480291502
+               }
+            }
+         },
+         "place_id" : "ChIJTQcYO3vBdkgRvAvsLsIgnb8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "OX3 7LD",
+               "short_name" : "OX3 7LD",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford OX3 7LD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7550658,
+                  "lng" : -1.2074056
+               },
+               "southwest" : {
+                  "lat" : 51.75348959999999,
+                  "lng" : -1.2103201
+               }
+            },
+            "location" : {
+               "lat" : 51.7540787,
+               "lng" : -1.2089792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7556266802915,
+                  "lng" : -1.2074056
+               },
+               "southwest" : {
+                  "lat" : 51.7529287197085,
+                  "lng" : -1.2103201
+               }
+            }
+         },
+         "place_id" : "ChIJJ-5eJ2XBdkgRo_GWsqMa-c0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Headington",
+               "short_name" : "Headington",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Headington, Oxford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7784032,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.7393728,
+                  "lng" : -1.2535548
+               }
+            },
+            "location" : {
+               "lat" : 51.76264630000001,
+               "lng" : -1.1985742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7784032,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.7393728,
+                  "lng" : -1.2535548
+               }
+            }
+         },
+         "place_id" : "ChIJJeE-9VfBdkgR1ezH8KEwHIM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "OX3",
+               "short_name" : "OX3",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford OX3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8175947,
+                  "lng" : -1.145737
+               },
+               "southwest" : {
+                  "lat" : 51.7204509,
+                  "lng" : -1.268706
+               }
+            },
+            "location" : {
+               "lat" : 51.7721343,
+               "lng" : -1.2105434
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8175947,
+                  "lng" : -1.145737
+               },
+               "southwest" : {
+                  "lat" : 51.7204509,
+                  "lng" : -1.268706
+               }
+            }
+         },
+         "place_id" : "ChIJR64drULBdkgRI0BCU24bVS0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1758134
+               },
+               "southwest" : {
+                  "lat" : 51.71093620000001,
+                  "lng" : -1.3042449
+               }
+            },
+            "location" : {
+               "lat" : 51.7507856,
+               "lng" : -1.2338697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1758134
+               },
+               "southwest" : {
+                  "lat" : 51.71093620000001,
+                  "lng" : -1.3042449
+               }
+            }
+         },
+         "place_id" : "ChIJqQsoql3BdkgRIIqX1COLDQQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            },
+            "location" : {
+               "lat" : 51.7520209,
+               "lng" : -1.2577263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            }
+         },
+         "place_id" : "ChIJrx_ErYAzcUgRAnRUy6jbIMg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.824766,
+                  "lng" : -1.0219056
+               },
+               "southwest" : {
+                  "lat" : 51.65596619999999,
+                  "lng" : -1.3696223
+               }
+            },
+            "location" : {
+               "lat" : 51.740858,
+               "lng" : -1.1728387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.824766,
+                  "lng" : -1.0219056
+               },
+               "southwest" : {
+                  "lat" : 51.65596619999999,
+                  "lng" : -1.3696223
+               }
+            }
+         },
+         "place_id" : "ChIJd8bcHqDBdkgRV0JUSxziqv0",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.16847139999999,
+                  "lng" : -0.8700833
+               },
+               "southwest" : {
+                  "lat" : 51.4594132,
+                  "lng" : -1.7195008
+               }
+            },
+            "location" : {
+               "lat" : 51.7612056,
+               "lng" : -1.2464674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.16847139999999,
+                  "lng" : -0.8700833
+               },
+               "southwest" : {
+                  "lat" : 51.4594132,
+                  "lng" : -1.7195008
+               }
+            }
+         },
+         "place_id" : "ChIJ5xOOaNPUcEgRUY89nbaaqW8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

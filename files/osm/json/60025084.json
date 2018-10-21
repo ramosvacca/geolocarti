@@ -1,0 +1,478 @@
+{
+   "plus_code" : {
+      "compound_code" : "6C2M+C4 Xuhui, Shanghai, China",
+      "global_code" : "8Q336C2M+C4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1954号",
+               "short_name" : "1954号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huashan Road",
+               "short_name" : "Huashan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "JiaoTong DaXue",
+               "short_name" : "JiaoTong DaXue",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Xuhui Qu",
+               "short_name" : "Xuhui Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200000",
+               "short_name" : "200000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1954 Huashan Rd, JiaoTong DaXue, Xuhui Qu, Shanghai Shi, China, 200000",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.201001,
+               "lng" : 121.432841
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2023499802915,
+                  "lng" : 121.4341899802915
+               },
+               "southwest" : {
+                  "lat" : 31.1996520197085,
+                  "lng" : 121.4314920197085
+               }
+            }
+         },
+         "place_id" : "ChIJM2MiazhlsjURxx2KHXj1pTk",
+         "plus_code" : {
+            "compound_code" : "6C2M+C4 Xuhui, Shanghai, China",
+            "global_code" : "8Q336C2M+C4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "125",
+               "short_name" : "125",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huaihai West Road",
+               "short_name" : "Huaihai W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "JiaoTong DaXue",
+               "short_name" : "JiaoTong DaXue",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Xuhui Qu",
+               "short_name" : "Xuhui Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200000",
+               "short_name" : "200000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "125 Huaihai W Rd, JiaoTong DaXue, Xuhui Qu, Shanghai Shi, China, 200000",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.201031,
+               "lng" : 121.432581
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2023799802915,
+                  "lng" : 121.4339299802915
+               },
+               "southwest" : {
+                  "lat" : 31.1996820197085,
+                  "lng" : 121.4312320197085
+               }
+            }
+         },
+         "place_id" : "ChIJuxuoazhlsjURVMKYXHedZ7Q",
+         "plus_code" : {
+            "compound_code" : "6C2M+C2 Xuhui, Shanghai, China",
+            "global_code" : "8Q336C2M+C2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "113号",
+               "short_name" : "113号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huaihai West Road",
+               "short_name" : "Huaihai W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "JiaoTong DaXue",
+               "short_name" : "JiaoTong DaXue",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Xuhui Qu",
+               "short_name" : "Xuhui Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "113 Huaihai W Rd, JiaoTong DaXue, Xuhui Qu, Shanghai Shi, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.2011521,
+               "lng" : 121.432768
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2025010802915,
+                  "lng" : 121.4341169802915
+               },
+               "southwest" : {
+                  "lat" : 31.1998031197085,
+                  "lng" : 121.4314190197085
+               }
+            }
+         },
+         "place_id" : "EjbkuK3lm73kuIrmtbfluILlvpDmsYfljLrkuqTpgJrlpKflrabmt67mtbfopb_ot68xMTPlj7ciGhIYChQKEglrYQMTOGWyNRFrGo8koaKtxxBx",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiaotong University",
+               "short_name" : "Jiaotong University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200000",
+               "short_name" : "200000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jiaotong University, China, 200000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.20290069999999,
+                  "lng" : 121.4375361
+               },
+               "southwest" : {
+                  "lat" : 31.1919219,
+                  "lng" : 121.4274159
+               }
+            },
+            "location" : {
+               "lat" : 31.19884,
+               "lng" : 121.432567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.20290069999999,
+                  "lng" : 121.4375361
+               },
+               "southwest" : {
+                  "lat" : 31.1919219,
+                  "lng" : 121.4274159
+               }
+            }
+         },
+         "place_id" : "ChIJO2A-jDllsjURHD4wJbOisv4",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "200030",
+               "short_name" : "200030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Xuhui",
+               "short_name" : "Xuhui",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xuhui, Shanghai, China, 200030",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.20477959999999,
+                  "lng" : 121.4499032
+               },
+               "southwest" : {
+                  "lat" : 31.1706539,
+                  "lng" : 121.4227611
+               }
+            },
+            "location" : {
+               "lat" : 31.1962451,
+               "lng" : 121.4405537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.20477959999999,
+                  "lng" : 121.4499032
+               },
+               "southwest" : {
+                  "lat" : 31.1706539,
+                  "lng" : 121.4227611
+               }
+            }
+         },
+         "place_id" : "ChIJhTfZIjRlsjURvT74e4puBSk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xuhui",
+               "short_name" : "Xuhui",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xuhui, Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.2201885,
+                  "lng" : 121.4759853
+               },
+               "southwest" : {
+                  "lat" : 31.1007561,
+                  "lng" : 121.3915068
+               }
+            },
+            "location" : {
+               "lat" : 31.188637,
+               "lng" : 121.436539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2201885,
+                  "lng" : 121.4759853
+               },
+               "southwest" : {
+                  "lat" : 31.1007561,
+                  "lng" : 121.3915068
+               }
+            }
+         },
+         "place_id" : "ChIJh3OCu8hksjURUMeBLA0qCwo",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            },
+            "location" : {
+               "lat" : 31.2303904,
+               "lng" : 121.4737021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            }
+         },
+         "place_id" : "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            },
+            "location" : {
+               "lat" : 31.2191829,
+               "lng" : 121.4456179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            }
+         },
+         "place_id" : "ChIJBftfxTICsjUR_z-KXanY9fI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

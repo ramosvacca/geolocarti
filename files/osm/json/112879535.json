@@ -1,0 +1,386 @@
+{
+   "plus_code" : {
+      "compound_code" : "P773+39 Palaiseau, France",
+      "global_code" : "8FW4P773+39"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Léon Blum",
+               "short_name" : "Rue Léon Blum",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palaiseau",
+               "short_name" : "Palaiseau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91120",
+               "short_name" : "91120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3 Rue Léon Blum, 91120 Palaiseau, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.7124092,
+               "lng" : 2.2534881
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.71375818029149,
+                  "lng" : 2.254837080291502
+               },
+               "southwest" : {
+                  "lat" : 48.7110602197085,
+                  "lng" : 2.252139119708498
+               }
+            }
+         },
+         "place_id" : "ChIJwRNRTBd45kcRfuz_VRg41j0",
+         "plus_code" : {
+            "compound_code" : "P763+X9 Palaiseau, France",
+            "global_code" : "8FW4P763+X9"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue Léon Blum",
+               "short_name" : "Rue Léon Blum",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palaiseau",
+               "short_name" : "Palaiseau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91120",
+               "short_name" : "91120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue Léon Blum, 91120 Palaiseau, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7133321,
+                  "lng" : 2.2535832
+               },
+               "southwest" : {
+                  "lat" : 48.7115649,
+                  "lng" : 2.2530348
+               }
+            },
+            "location" : {
+               "lat" : 48.7124485,
+               "lng" : 2.253309
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7137974802915,
+                  "lng" : 2.254657980291502
+               },
+               "southwest" : {
+                  "lat" : 48.7110995197085,
+                  "lng" : 2.251960019708498
+               }
+            }
+         },
+         "place_id" : "ChIJ_8SNSxd45kcRtP-5x5Iyl18",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palaiseau",
+               "short_name" : "Palaiseau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91120",
+               "short_name" : "91120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "91120 Palaiseau, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.730115,
+                  "lng" : 2.2668631
+               },
+               "southwest" : {
+                  "lat" : 48.700821,
+                  "lng" : 2.191919
+               }
+            },
+            "location" : {
+               "lat" : 48.714509,
+               "lng" : 2.245748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.730115,
+                  "lng" : 2.2668631
+               },
+               "southwest" : {
+                  "lat" : 48.700821,
+                  "lng" : 2.191919
+               }
+            }
+         },
+         "place_id" : "ChIJ64K8yBV45kcRpjSMYtCNzw8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "91120",
+               "short_name" : "91120",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Palaiseau",
+               "short_name" : "Palaiseau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "91120 Palaiseau, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.73006789999999,
+                  "lng" : 2.266929
+               },
+               "southwest" : {
+                  "lat" : 48.7007959,
+                  "lng" : 2.1917991
+               }
+            },
+            "location" : {
+               "lat" : 48.7127494,
+               "lng" : 2.2265114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.73006789999999,
+                  "lng" : 2.266929
+               },
+               "southwest" : {
+                  "lat" : 48.7007959,
+                  "lng" : 2.1917991
+               }
+            }
+         },
+         "place_id" : "ChIJHz3nAGd45kcRQHvY4caCCxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essonne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7761319,
+                  "lng" : 2.5856331
+               },
+               "southwest" : {
+                  "lat" : 48.28455599999999,
+                  "lng" : 1.9145131
+               }
+            },
+            "location" : {
+               "lat" : 48.4585698,
+               "lng" : 2.1569416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7761319,
+                  "lng" : 2.5856331
+               },
+               "southwest" : {
+                  "lat" : 48.28455599999999,
+                  "lng" : 1.9145131
+               }
+            }
+         },
+         "place_id" : "ChIJH3mvlvjP5UcRMCuLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Île-de-France, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            },
+            "location" : {
+               "lat" : 48.8499198,
+               "lng" : 2.6370411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            }
+         },
+         "place_id" : "ChIJF4ymA8Th5UcRcCWLaMOCCwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

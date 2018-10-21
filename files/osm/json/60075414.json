@@ -1,0 +1,593 @@
+{
+   "plus_code" : {
+      "compound_code" : "JJX8+G7 Toronto, ON, Canada",
+      "global_code" : "87M2JJX8+G7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "141",
+               "short_name" : "141",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Adelaide Street West",
+               "short_name" : "Adelaide St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5H 3L5",
+               "short_name" : "M5H 3L5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "141 Adelaide St W, Toronto, ON M5H 3L5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.64877269999999,
+               "lng" : -79.3842715
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6501216802915,
+                  "lng" : -79.38292251970849
+               },
+               "southwest" : {
+                  "lat" : 43.6474237197085,
+                  "lng" : -79.38562048029149
+               }
+            }
+         },
+         "place_id" : "ChIJ28mSdtI0K4gRKuzVWv2vZgs",
+         "plus_code" : {
+            "compound_code" : "JJX8+G7 Toronto, Ontario, Canada",
+            "global_code" : "87M2JJX8+G7"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "141",
+               "short_name" : "141",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Adelaide Street West",
+               "short_name" : "Adelaide St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5H 3L5",
+               "short_name" : "M5H 3L5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "141 Adelaide St W, Toronto, ON M5H 3L5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6490433,
+                  "lng" : -79.3839674
+               },
+               "southwest" : {
+                  "lat" : 43.6485022,
+                  "lng" : -79.3845757
+               }
+            },
+            "location" : {
+               "lat" : 43.6486763,
+               "lng" : -79.38412760000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6501217302915,
+                  "lng" : -79.3829225697085
+               },
+               "southwest" : {
+                  "lat" : 43.6474237697085,
+                  "lng" : -79.3856205302915
+               }
+            }
+         },
+         "place_id" : "ChIJ-UxtbtI0K4gRWugi538AJ0k",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Financial District",
+               "short_name" : "Financial District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Financial District, Toronto, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.652426,
+                  "lng" : -79.376909
+               },
+               "southwest" : {
+                  "lat" : 43.6451291,
+                  "lng" : -79.38677299999999
+               }
+            },
+            "location" : {
+               "lat" : 43.64793479999999,
+               "lng" : -79.3817523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.652426,
+                  "lng" : -79.376909
+               },
+               "southwest" : {
+                  "lat" : 43.6451291,
+                  "lng" : -79.38677299999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2VTHmNI0K4gRWk_0M79PnEI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M5H 3L5",
+               "short_name" : "M5H 3L5",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toronto, ON M5H 3L5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.649182,
+                  "lng" : -79.3838208
+               },
+               "southwest" : {
+                  "lat" : 43.64851820000001,
+                  "lng" : -79.38460860000001
+               }
+            },
+            "location" : {
+               "lat" : 43.6488246,
+               "lng" : -79.38412760000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6501990802915,
+                  "lng" : -79.38286571970851
+               },
+               "southwest" : {
+                  "lat" : 43.6475011197085,
+                  "lng" : -79.38556368029151
+               }
+            }
+         },
+         "place_id" : "ChIJAR31cdI0K4gRvarXymH4mGY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M5H",
+               "short_name" : "M5H",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toronto, ON M5H, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.653275,
+                  "lng" : -79.37783689999999
+               },
+               "southwest" : {
+                  "lat" : 43.6466119,
+                  "lng" : -79.390249
+               }
+            },
+            "location" : {
+               "lat" : 43.65057119999999,
+               "lng" : -79.3845675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.653275,
+                  "lng" : -79.37783689999999
+               },
+               "southwest" : {
+                  "lat" : 43.6466119,
+                  "lng" : -79.390249
+               }
+            }
+         },
+         "place_id" : "ChIJ87jUkc00K4gRdVifBE23S9s",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Old Toronto, Toronto, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.75373099999999,
+                  "lng" : -79.27971699999999
+               },
+               "southwest" : {
+                  "lat" : 43.6118399,
+                  "lng" : -79.491969
+               }
+            },
+            "location" : {
+               "lat" : 43.6486795,
+               "lng" : -79.3803231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75373099999999,
+                  "lng" : -79.27971699999999
+               },
+               "southwest" : {
+                  "lat" : 43.6118399,
+                  "lng" : -79.491969
+               }
+            }
+         },
+         "place_id" : "ChIJ2YVS1Po0K4gR8_c5_bvmDW4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toronto, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8554579,
+                  "lng" : -79.00248100000002
+               },
+               "southwest" : {
+                  "lat" : 43.45829699999999,
+                  "lng" : -79.639219
+               }
+            },
+            "location" : {
+               "lat" : 43.653226,
+               "lng" : -79.3831843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8554579,
+                  "lng" : -79.00248100000002
+               },
+               "southwest" : {
+                  "lat" : 43.45829699999999,
+                  "lng" : -79.639219
+               }
+            }
+         },
+         "place_id" : "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toronto Division, Toronto, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8554579,
+                  "lng" : -79.00248100000002
+               },
+               "southwest" : {
+                  "lat" : 43.45829699999999,
+                  "lng" : -79.639219
+               }
+            },
+            "location" : {
+               "lat" : 43.6689775,
+               "lng" : -79.29021329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8554579,
+                  "lng" : -79.00248100000002
+               },
+               "southwest" : {
+                  "lat" : 43.45829699999999,
+                  "lng" : -79.639219
+               }
+            }
+         },
+         "place_id" : "ChIJ5b2RG4_L1IkRDtQ2gFEjLv4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ontario",
+               "short_name" : "Ontario",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            },
+            "location" : {
+               "lat" : 51.253775,
+               "lng" : -85.32321399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwRCR5iKVZC-HA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

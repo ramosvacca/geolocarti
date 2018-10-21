@@ -1,0 +1,435 @@
+{
+   "plus_code" : {
+      "compound_code" : "M25W+WW Boutiliers Point, NS, Canada",
+      "global_code" : "87PRM25W+WW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3510",
+               "short_name" : "3510",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saint Margaret's Bay Trail",
+               "short_name" : "St. Margaret's Bay Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boutiliers Point",
+               "short_name" : "Boutiliers Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B3Z 1R7",
+               "short_name" : "B3Z 1R7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3510 St. Margaret's Bay Trail, Boutiliers Point, NS B3Z 1R7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.6600691,
+               "lng" : -63.95264779999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6614180802915,
+                  "lng" : -63.95129881970849
+               },
+               "southwest" : {
+                  "lat" : 44.6587201197085,
+                  "lng" : -63.9539967802915
+               }
+            }
+         },
+         "place_id" : "ChIJ87XEH37yWUsRqY5SLksPMzs",
+         "plus_code" : {
+            "compound_code" : "M26W+2W Boutiliers Point, Halifax, NS, Canada",
+            "global_code" : "87PRM26W+2W"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7212",
+               "short_name" : "7212",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nova Scotia 3 Trunk",
+               "short_name" : "NS-3 Trunk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boutiliers Point",
+               "short_name" : "Boutiliers Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "7212 NS-3 Trunk, Boutiliers Point, NS, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.659713,
+               "lng" : -63.9527823
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6610619802915,
+                  "lng" : -63.95143331970849
+               },
+               "southwest" : {
+                  "lat" : 44.6583640197085,
+                  "lng" : -63.9541312802915
+               }
+            }
+         },
+         "place_id" : "Ei03MjEyIE5TLTMgVHJ1bmssIEJvdXRpbGllcnMgUG9pbnQsIE5TLCBDYW5hZGEiGxIZChQKEgkLM0EffvJZSxGjjg5KvDdJpBCsOA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boutiliers Point",
+               "short_name" : "Boutiliers Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B3Z",
+               "short_name" : "B3Z",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Boutiliers Point, NS B3Z, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6743184,
+                  "lng" : -63.9338227
+               },
+               "southwest" : {
+                  "lat" : 44.653672,
+                  "lng" : -63.964211
+               }
+            },
+            "location" : {
+               "lat" : 44.6597991,
+               "lng" : -63.9527166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6743184,
+                  "lng" : -63.9338227
+               },
+               "southwest" : {
+                  "lat" : 44.653672,
+                  "lng" : -63.964211
+               }
+            }
+         },
+         "place_id" : "ChIJ5R7tn5_yWUsRZRfec52ed38",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "B3Z",
+               "short_name" : "B3Z",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, NS B3Z, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7387639,
+                  "lng" : -63.7446799
+               },
+               "southwest" : {
+                  "lat" : 44.477543,
+                  "lng" : -63.96876810000001
+               }
+            },
+            "location" : {
+               "lat" : 44.6143681,
+               "lng" : -63.8467277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7387639,
+                  "lng" : -63.7446799
+               },
+               "southwest" : {
+                  "lat" : 44.477543,
+                  "lng" : -63.96876810000001
+               }
+            }
+         },
+         "place_id" : "ChIJhdj-nxf0WUsRweJDqJyOn18",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2761,
+                  "lng" : -58.227553
+               },
+               "southwest" : {
+                  "lat" : 42.1770179,
+                  "lng" : -64.2371771
+               }
+            },
+            "location" : {
+               "lat" : 44.648901,
+               "lng" : -63.57533539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2761,
+                  "lng" : -58.227553
+               },
+               "southwest" : {
+                  "lat" : 42.1770179,
+                  "lng" : -64.2371771
+               }
+            }
+         },
+         "place_id" : "ChIJxesm0LsTRUsRILJDPNmXBBs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "locality", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax Regional Municipality, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2761,
+                  "lng" : -58.227553
+               },
+               "southwest" : {
+                  "lat" : 42.1770179,
+                  "lng" : -64.2371771
+               }
+            },
+            "location" : {
+               "lat" : 44.64876350000001,
+               "lng" : -63.5752387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2761,
+                  "lng" : -58.227553
+               },
+               "southwest" : {
+                  "lat" : 42.1770179,
+                  "lng" : -64.2371771
+               }
+            }
+         },
+         "place_id" : "ChIJxesm0LsTRUsRW2dKWg1nkM0",
+         "types" : [ "administrative_area_level_2", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "Nova Scotia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nova Scotia, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.69405,
+                  "lng" : -57.9999979
+               },
+               "southwest" : {
+                  "lat" : 40.451472,
+                  "lng" : -67.7425278
+               }
+            },
+            "location" : {
+               "lat" : 44.68198659999999,
+               "lng" : -63.744311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.69405,
+                  "lng" : -57.9999979
+               },
+               "southwest" : {
+                  "lat" : 40.451472,
+                  "lng" : -67.7425278
+               }
+            }
+         },
+         "place_id" : "ChIJRc8Y3pgSWUsRQAnP-B5YAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

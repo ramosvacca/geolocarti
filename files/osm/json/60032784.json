@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "5W49+8C Grove City, PA, USA",
+      "global_code" : "86HX5W49+8C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campus Drive",
+               "short_name" : "Campus Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grove City",
+               "short_name" : "Grove City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mercer County",
+               "short_name" : "Mercer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16127",
+               "short_name" : "16127",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2101",
+               "short_name" : "2101",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "100 Campus Dr, Grove City, PA 16127, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.1557572,
+               "lng" : -80.08141669999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.15710618029149,
+                  "lng" : -80.08006771970848
+               },
+               "southwest" : {
+                  "lat" : 41.1544082197085,
+                  "lng" : -80.0827656802915
+               }
+            }
+         },
+         "place_id" : "ChIJNQAWmkF1M4gR7VQv63fj1-I",
+         "plus_code" : {
+            "compound_code" : "5W49+8C Grove City, Pennsylvania, United States",
+            "global_code" : "86HX5W49+8C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campus Drive",
+               "short_name" : "Campus Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grove City",
+               "short_name" : "Grove City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mercer County",
+               "short_name" : "Mercer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16127",
+               "short_name" : "16127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 Campus Dr, Grove City, PA 16127, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1559747,
+                  "lng" : -80.08102079999999
+               },
+               "southwest" : {
+                  "lat" : 41.155503,
+                  "lng" : -80.08175059999999
+               }
+            },
+            "location" : {
+               "lat" : 41.15571569999999,
+               "lng" : -80.0813855
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.15708783029149,
+                  "lng" : -80.08003671970849
+               },
+               "southwest" : {
+                  "lat" : 41.1543898697085,
+                  "lng" : -80.08273468029151
+               }
+            }
+         },
+         "place_id" : "ChIJH3WwKkJ1M4gRXwWlQT74lyM",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campus Drive",
+               "short_name" : "Campus Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grove City",
+               "short_name" : "Grove City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mercer County",
+               "short_name" : "Mercer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16127",
+               "short_name" : "16127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Campus Dr, Grove City, PA 16127, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1556219,
+                  "lng" : -80.0801422
+               },
+               "southwest" : {
+                  "lat" : 41.1549385,
+                  "lng" : -80.0820827
+               }
+            },
+            "location" : {
+               "lat" : 41.1552802,
+               "lng" : -80.0811125
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1566291802915,
+                  "lng" : -80.0797634697085
+               },
+               "southwest" : {
+                  "lat" : 41.1539312197085,
+                  "lng" : -80.0824614302915
+               }
+            }
+         },
+         "place_id" : "ChIJyYmGhkF1M4gRWNWDJU_1BiQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grove City",
+               "short_name" : "Grove City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mercer County",
+               "short_name" : "Mercer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16127",
+               "short_name" : "16127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grove City, PA 16127, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.172279,
+                  "lng" : -80.066355
+               },
+               "southwest" : {
+                  "lat" : 41.13595309999999,
+                  "lng" : -80.115971
+               }
+            },
+            "location" : {
+               "lat" : 41.15783769999999,
+               "lng" : -80.08867029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.172279,
+                  "lng" : -80.066355
+               },
+               "southwest" : {
+                  "lat" : 41.13595309999999,
+                  "lng" : -80.115971
+               }
+            }
+         },
+         "place_id" : "ChIJhS4Vljd_M4gRDIn4WvahVq4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "16127",
+               "short_name" : "16127",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Grove City",
+               "short_name" : "Grove City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grove City, PA 16127, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.262274,
+                  "lng" : -79.963728
+               },
+               "southwest" : {
+                  "lat" : 41.069804,
+                  "lng" : -80.181738
+               }
+            },
+            "location" : {
+               "lat" : 41.1926318,
+               "lng" : -80.07584249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.262274,
+                  "lng" : -79.963728
+               },
+               "southwest" : {
+                  "lat" : 41.069804,
+                  "lng" : -80.181738
+               }
+            }
+         },
+         "place_id" : "ChIJLX5COMwKM4gRI1LqZW5dIBs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mercer County",
+               "short_name" : "Mercer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mercer County, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.492336,
+                  "lng" : -79.999776
+               },
+               "southwest" : {
+                  "lat" : 41.069804,
+                  "lng" : -80.519345
+               }
+            },
+            "location" : {
+               "lat" : 41.2619821,
+               "lng" : -80.1875065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.492336,
+                  "lng" : -79.999776
+               },
+               "southwest" : {
+                  "lat" : 41.069804,
+                  "lng" : -80.519345
+               }
+            }
+         },
+         "place_id" : "ChIJWR-U5keaM4gRN4aNuwmCPOw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "Pennsylvania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pennsylvania, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.516072,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 39.7197989,
+                  "lng" : -80.51989499999999
+               }
+            },
+            "location" : {
+               "lat" : 41.2033216,
+               "lng" : -77.1945247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.516072,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 39.7197989,
+                  "lng" : -80.51989499999999
+               }
+            }
+         },
+         "place_id" : "ChIJieUyHiaALYgRPbQiUEchRsI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

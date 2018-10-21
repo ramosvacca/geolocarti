@@ -1,0 +1,435 @@
+{
+   "plus_code" : {
+      "compound_code" : "MH8X+V2 Spokane, WA, USA",
+      "global_code" : "85V4MH8X+V2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "502",
+               "short_name" : "502",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Boone Avenue",
+               "short_name" : "E Boone Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan",
+               "short_name" : "Logan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Spokane",
+               "short_name" : "Spokane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99202",
+               "short_name" : "99202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "502 E Boone Ave, Spokane, WA 99202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.667189,
+               "lng" : -117.4023849
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6685379802915,
+                  "lng" : -117.4010359197085
+               },
+               "southwest" : {
+                  "lat" : 47.6658400197085,
+                  "lng" : -117.4037338802915
+               }
+            }
+         },
+         "place_id" : "ChIJ--96u-sYnlQR5we5eRYNFts",
+         "plus_code" : {
+            "compound_code" : "MH8X+V2 Spokane, Washington, United States",
+            "global_code" : "85V4MH8X+V2"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Astor Street",
+               "short_name" : "N Astor St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spokane",
+               "short_name" : "Spokane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99258",
+               "short_name" : "99258",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1000 N Astor St, Spokane, WA 99258, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.6664878,
+               "lng" : -117.4024403
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.66783678029149,
+                  "lng" : -117.4010913197085
+               },
+               "southwest" : {
+                  "lat" : 47.6651388197085,
+                  "lng" : -117.4037892802915
+               }
+            }
+         },
+         "place_id" : "EicxMDAwIE4gQXN0b3IgU3QsIFNwb2thbmUsIFdBIDk5MjU4LCBVU0EiGxIZChQKEgm1l0Tm7BieVBEPxTk_-zryOhDoBw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "99258",
+               "short_name" : "99258",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Spokane",
+               "short_name" : "Spokane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spokane, WA 99258, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.66952389999999,
+                  "lng" : -117.3979219
+               },
+               "southwest" : {
+                  "lat" : 47.6618738,
+                  "lng" : -117.411236
+               }
+            },
+            "location" : {
+               "lat" : 47.66684009999999,
+               "lng" : -117.4041584
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.66952389999999,
+                  "lng" : -117.3979219
+               },
+               "southwest" : {
+                  "lat" : 47.6618738,
+                  "lng" : -117.411236
+               }
+            }
+         },
+         "place_id" : "ChIJK8O0qGAYnlQRMn_rGT0hOg0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Logan",
+               "short_name" : "Logan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Spokane",
+               "short_name" : "Spokane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Logan, Spokane, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.686791,
+                  "lng" : -117.378922
+               },
+               "southwest" : {
+                  "lat" : 47.6617149,
+                  "lng" : -117.4112472
+               }
+            },
+            "location" : {
+               "lat" : 47.6748364,
+               "lng" : -117.3950211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.686791,
+                  "lng" : -117.378922
+               },
+               "southwest" : {
+                  "lat" : 47.6617149,
+                  "lng" : -117.4112472
+               }
+            }
+         },
+         "place_id" : "ChIJW5GVUcIYnlQRXgJXaWiap0E",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spokane",
+               "short_name" : "Spokane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spokane, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.758489,
+                  "lng" : -117.3038439
+               },
+               "southwest" : {
+                  "lat" : 47.5871919,
+                  "lng" : -117.520456
+               }
+            },
+            "location" : {
+               "lat" : 47.6587802,
+               "lng" : -117.4260465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.758489,
+                  "lng" : -117.3038439
+               },
+               "southwest" : {
+                  "lat" : 47.5871919,
+                  "lng" : -117.520456
+               }
+            }
+         },
+         "place_id" : "ChIJ5ee7MFwYnlQRsdmEC9bJ_N0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spokane County, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0478649,
+                  "lng" : -117.0397911
+               },
+               "southwest" : {
+                  "lat" : 47.25927189999999,
+                  "lng" : -117.823695
+               }
+            },
+            "location" : {
+               "lat" : 47.65869300000001,
+               "lng" : -117.4225481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0478649,
+                  "lng" : -117.0397911
+               },
+               "southwest" : {
+                  "lat" : 47.25927189999999,
+                  "lng" : -117.823695
+               }
+            }
+         },
+         "place_id" : "ChIJ0VeFKvoWnlQRJTO2Z6ANhkI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0024305,
+                  "lng" : -116.91558
+               },
+               "southwest" : {
+                  "lat" : 45.543541,
+                  "lng" : -124.8489739
+               }
+            },
+            "location" : {
+               "lat" : 47.7510741,
+               "lng" : -120.7401385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0024305,
+                  "lng" : -116.91558
+               },
+               "southwest" : {
+                  "lat" : 45.543541,
+                  "lng" : -124.8489739
+               }
+            }
+         },
+         "place_id" : "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,560 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Avenue",
+               "short_name" : "Central Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME4",
+               "short_name" : "ME4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Central Ave, Gillingham, Chatham ME4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3977086,
+                  "lng" : 0.5381104
+               },
+               "southwest" : {
+                  "lat" : 51.3977034,
+                  "lng" : 0.5368204999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.397706,
+               "lng" : 0.5374654999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.39905498029151,
+                  "lng" : 0.538814430291502
+               },
+               "southwest" : {
+                  "lat" : 51.39635701970851,
+                  "lng" : 0.5361164697084979
+               }
+            }
+         },
+         "place_id" : "ChIJU7mw16LN2EcRkDp6wBX8ya0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Avenue",
+               "short_name" : "Central Avenue",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME4 4JB",
+               "short_name" : "ME4 4JB",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "ME4",
+               "short_name" : "ME4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Central Avenue, Gillingham, Chatham ME4 4JB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.397804,
+               "lng" : 0.537436
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3991529802915,
+                  "lng" : 0.5387849802915021
+               },
+               "southwest" : {
+                  "lat" : 51.3964550197085,
+                  "lng" : 0.536087019708498
+               }
+            }
+         },
+         "place_id" : "ChIJAbwk1qLN2EcR6KLkRAy3PbY",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hoo St. Werburgh",
+               "short_name" : "Hoo St. Werburgh",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gillingham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4041039,
+                  "lng" : 0.6121721
+               },
+               "southwest" : {
+                  "lat" : 51.33674500000001,
+                  "lng" : 0.5270112
+               }
+            },
+            "location" : {
+               "lat" : 51.386322,
+               "lng" : 0.551438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4041039,
+                  "lng" : 0.6121721
+               },
+               "southwest" : {
+                  "lat" : 51.33674500000001,
+                  "lng" : 0.5270112
+               }
+            }
+         },
+         "place_id" : "ChIJ3bi5FwjN2EcRK5lNPlLyOeQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ME4 4JB",
+               "short_name" : "ME4 4JB",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gillingham, Chatham ME4 4JB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.39864069999999,
+                  "lng" : 0.538272
+               },
+               "southwest" : {
+                  "lat" : 51.3970923,
+                  "lng" : 0.5366652
+               }
+            },
+            "location" : {
+               "lat" : 51.3981578,
+               "lng" : 0.5369516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3992154802915,
+                  "lng" : 0.5388175802915021
+               },
+               "southwest" : {
+                  "lat" : 51.3965175197085,
+                  "lng" : 0.536119619708498
+               }
+            }
+         },
+         "place_id" : "ChIJ1VuPLKPN2EcRvDSgheXXe88",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ME4",
+               "short_name" : "ME4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatham ME4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.41063390000001,
+                  "lng" : 0.5529178
+               },
+               "southwest" : {
+                  "lat" : 51.3551137,
+                  "lng" : 0.509019
+               }
+            },
+            "location" : {
+               "lat" : 51.3799304,
+               "lng" : 0.5252476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41063390000001,
+                  "lng" : 0.5529178
+               },
+               "southwest" : {
+                  "lat" : 51.3551137,
+                  "lng" : 0.509019
+               }
+            }
+         },
+         "place_id" : "ChIJY6jWW9jM2EcRRwriaYwhm2Y",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.41063390000001,
+                  "lng" : 0.5621782
+               },
+               "southwest" : {
+                  "lat" : 51.3195355,
+                  "lng" : 0.4801784
+               }
+            },
+            "location" : {
+               "lat" : 51.3511004,
+               "lng" : 0.5217587
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41063390000001,
+                  "lng" : 0.5621782
+               },
+               "southwest" : {
+                  "lat" : 51.3195355,
+                  "lng" : 0.4801784
+               }
+            }
+         },
+         "place_id" : "ChIJdwG5kSHN2EcRUcMrFYllKjE",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medway, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5040156,
+                  "lng" : 0.7389454999999999
+               },
+               "southwest" : {
+                  "lat" : 51.32789649999999,
+                  "lng" : 0.3973173
+               }
+            },
+            "location" : {
+               "lat" : 51.4047432,
+               "lng" : 0.5417860999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5040156,
+                  "lng" : 0.7389454999999999
+               },
+               "southwest" : {
+                  "lat" : 51.32789649999999,
+                  "lng" : 0.3973173
+               }
+            }
+         },
+         "place_id" : "ChIJU_bgGgnS2EcRQJ_toi2uDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South East",
+               "short_name" : "South East",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South East, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.196285,
+                  "lng" : 1.4518184
+               },
+               "southwest" : {
+                  "lat" : 50.5746064,
+                  "lng" : -1.9572961
+               }
+            },
+            "location" : {
+               "lat" : 51.17812,
+               "lng" : -0.5595644000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.196285,
+                  "lng" : 1.4518184
+               },
+               "southwest" : {
+                  "lat" : 50.5746064,
+                  "lng" : -1.9572961
+               }
+            }
+         },
+         "place_id" : "ChIJ17zNL3Q5dEgRHp0A3s84zfo",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

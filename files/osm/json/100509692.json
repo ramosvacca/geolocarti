@@ -1,0 +1,509 @@
+{
+   "plus_code" : {
+      "compound_code" : "8V8M+P3 Vancouver, BC, Canada",
+      "global_code" : "84XR8V8M+P3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "102",
+               "short_name" : "102",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 1st Street",
+               "short_name" : "W 1st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V7P 3H2",
+               "short_name" : "V7P 3H2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "102 W 1st St, North Vancouver, BC V7P 3H2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.31682379999999,
+               "lng" : -123.1173713
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.31817278029149,
+                  "lng" : -123.1160223197085
+               },
+               "southwest" : {
+                  "lat" : 49.3154748197085,
+                  "lng" : -123.1187202802915
+               }
+            }
+         },
+         "place_id" : "ChIJvcEI68RxhlQRKrHbUPa4R3w",
+         "plus_code" : {
+            "compound_code" : "8V8M+P3 Vancouver, British Columbia, Canada",
+            "global_code" : "84XR8V8M+P3"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Garden Avenue",
+               "short_name" : "Garden Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V7P 3H2",
+               "short_name" : "V7P 3H2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104 Garden Ave, North Vancouver, BC V7P 3H2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.3168534,
+               "lng" : -123.1175245
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3182023802915,
+                  "lng" : -123.1161755197085
+               },
+               "southwest" : {
+                  "lat" : 49.3155044197085,
+                  "lng" : -123.1188734802915
+               }
+            }
+         },
+         "place_id" : "ChIJ95Aen1dxhlQR9csocN0H_Y8",
+         "plus_code" : {
+            "compound_code" : "8V8J+PX Vancouver, British Columbia, Canada",
+            "global_code" : "84XR8V8J+PX"
+         },
+         "types" : [ "car_repair", "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "102",
+               "short_name" : "102",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 1st Street",
+               "short_name" : "W 1st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V7P 3H2",
+               "short_name" : "V7P 3H2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "102 W 1st St, North Vancouver, BC V7P 3H2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.3166982,
+               "lng" : -123.1173749
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.31804718029149,
+                  "lng" : -123.1160259197085
+               },
+               "southwest" : {
+                  "lat" : 49.3153492197085,
+                  "lng" : -123.1187238802915
+               }
+            }
+         },
+         "place_id" : "EjExMDIgVyAxc3QgU3QsIE5vcnRoIFZhbmNvdXZlciwgQkMgVjdQIDNIMiwgQ2FuYWRhIhoSGAoUChIJ72Md-8RxhlQR3RS-keGUUtkQZg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "V7P 3H2",
+               "short_name" : "V7P 3H2",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Vancouver, BC V7P 3H2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.317608,
+                  "lng" : -123.1171659
+               },
+               "southwest" : {
+                  "lat" : 49.316677,
+                  "lng" : -123.1183361
+               }
+            },
+            "location" : {
+               "lat" : 49.317018,
+               "lng" : -123.1177544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3184914802915,
+                  "lng" : -123.1164020197085
+               },
+               "southwest" : {
+                  "lat" : 49.3157935197085,
+                  "lng" : -123.1190999802915
+               }
+            }
+         },
+         "place_id" : "ChIJtyAdwcRxhlQRgl8c8oKZJZY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "V7P",
+               "short_name" : "V7P",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "West Vancouver",
+               "short_name" : "West Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Vancouver, BC V7P, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.332623,
+                  "lng" : -123.090571
+               },
+               "southwest" : {
+                  "lat" : 49.308528,
+                  "lng" : -123.1418421
+               }
+            },
+            "location" : {
+               "lat" : 49.32589,
+               "lng" : -123.1120264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.332623,
+                  "lng" : -123.090571
+               },
+               "southwest" : {
+                  "lat" : 49.308528,
+                  "lng" : -123.1418421
+               }
+            }
+         },
+         "place_id" : "ChIJK3numdpxhlQR3l3-cWeakN8",
+         "postcode_localities" : [ "North Vancouver", "West Vancouver" ],
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Vancouver",
+               "short_name" : "North Vancouver",
+               "types" : [ "administrative_area_level_3", "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Vancouver, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4139579,
+                  "lng" : -122.8626941
+               },
+               "southwest" : {
+                  "lat" : 49.2938091,
+                  "lng" : -123.1340952
+               }
+            },
+            "location" : {
+               "lat" : 49.3434079,
+               "lng" : -123.0045119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4139579,
+                  "lng" : -122.8626941
+               },
+               "southwest" : {
+                  "lat" : 49.2938091,
+                  "lng" : -123.1340952
+               }
+            }
+         },
+         "place_id" : "ChIJOW_EMmVkhlQRVIkBwnh4I4I",
+         "types" : [ "administrative_area_level_3", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater Vancouver, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5745549,
+                  "lng" : -122.408262
+               },
+               "southwest" : {
+                  "lat" : 49.00205589999999,
+                  "lng" : -123.6224361
+               }
+            },
+            "location" : {
+               "lat" : 49.2501243,
+               "lng" : -123.0824217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5745549,
+                  "lng" : -122.408262
+               },
+               "southwest" : {
+                  "lat" : 49.00205589999999,
+                  "lng" : -123.6224361
+               }
+            }
+         },
+         "place_id" : "ChIJpd_5BZDOYlQRpvz0npdsnM4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "British Columbia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "British Columbia, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.0001489,
+                  "lng" : -114.054221
+               },
+               "southwest" : {
+                  "lat" : 48.224556,
+                  "lng" : -139.0570702
+               }
+            },
+            "location" : {
+               "lat" : 53.7266683,
+               "lng" : -127.6476205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.0001489,
+                  "lng" : -114.054221
+               },
+               "southwest" : {
+                  "lat" : 48.224556,
+                  "lng" : -139.0570702
+               }
+            }
+         },
+         "place_id" : "ChIJr2prqsdmelMR-fHnN-lBG4g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

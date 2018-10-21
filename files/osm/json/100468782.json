@@ -1,0 +1,592 @@
+{
+   "plus_code" : {
+      "compound_code" : "937M+QW San Jose, CA, USA",
+      "global_code" : "849W937M+QW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Technology Drive",
+               "short_name" : "Technology Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North San Jose",
+               "short_name" : "North San Jose",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95110",
+               "short_name" : "95110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1382",
+               "short_name" : "1382",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1600 Technology Dr, San Jose, CA 95110, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3646775,
+                  "lng" : -121.9148426
+               },
+               "southwest" : {
+                  "lat" : 37.3641513,
+                  "lng" : -121.9155775
+               }
+            },
+            "location" : {
+               "lat" : 37.3643974,
+               "lng" : -121.9151765
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3657633802915,
+                  "lng" : -121.9138610697085
+               },
+               "southwest" : {
+                  "lat" : 37.3630654197085,
+                  "lng" : -121.9165590302915
+               }
+            }
+         },
+         "place_id" : "ChIJW6s1l5HLj4ARiqnijC_fgxM",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5th floor",
+               "short_name" : "5th floor",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Technology Drive",
+               "short_name" : "Technology Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North San Jose",
+               "short_name" : "North San Jose",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95110",
+               "short_name" : "95110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Technology Dr 5th floor, San Jose, CA 95110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.364397,
+               "lng" : -121.915177
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3657459802915,
+                  "lng" : -121.9138280197085
+               },
+               "southwest" : {
+                  "lat" : 37.3630480197085,
+                  "lng" : -121.9165259802915
+               }
+            }
+         },
+         "place_id" : "ChIJjV_AB1DJj4ARfDEbvy2QpKU",
+         "plus_code" : {
+            "compound_code" : "937M+QW San Jose, California, United States",
+            "global_code" : "849W937M+QW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1602",
+               "short_name" : "1602",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Technology Drive",
+               "short_name" : "Technology Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North San Jose",
+               "short_name" : "North San Jose",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95110",
+               "short_name" : "95110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1383",
+               "short_name" : "1383",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1602 Technology Dr, San Jose, CA 95110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3639917,
+               "lng" : -121.9152193
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3653406802915,
+                  "lng" : -121.9138703197085
+               },
+               "southwest" : {
+                  "lat" : 37.3626427197085,
+                  "lng" : -121.9165682802915
+               }
+            }
+         },
+         "place_id" : "ChIJxa4YvZHLj4ARwfzDAP9RkjQ",
+         "plus_code" : {
+            "compound_code" : "937M+HW San Jose, California, United States",
+            "global_code" : "849W937M+HW"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1641",
+               "short_name" : "1641",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Technology Drive",
+               "short_name" : "Technology Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95110",
+               "short_name" : "95110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1641 Technology Dr, San Jose, CA 95110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3641082,
+               "lng" : -121.9155867
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.36545718029149,
+                  "lng" : -121.9142377197085
+               },
+               "southwest" : {
+                  "lat" : 37.3627592197085,
+                  "lng" : -121.9169356802915
+               }
+            }
+         },
+         "place_id" : "EisxNjQxIFRlY2hub2xvZ3kgRHIsIFNhbiBKb3NlLCBDQSA5NTExMCwgVVNBIhsSGQoUChIJEyUco5HLj4AR4PsHMvjgg60Q6Qw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "95110",
+               "short_name" : "95110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Jose, CA 95110, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3749269,
+                  "lng" : -121.870558
+               },
+               "southwest" : {
+                  "lat" : 37.307479,
+                  "lng" : -121.9368571
+               }
+            },
+            "location" : {
+               "lat" : 37.354611,
+               "lng" : -121.918866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3749269,
+                  "lng" : -121.870558
+               },
+               "southwest" : {
+                  "lat" : 37.307479,
+                  "lng" : -121.9368571
+               }
+            }
+         },
+         "place_id" : "ChIJ31SYUmLLj4AR4o5iJ_upyvk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North San Jose",
+               "short_name" : "North San Jose",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North San Jose, San Jose, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4315981,
+                  "lng" : -121.7897717
+               },
+               "southwest" : {
+                  "lat" : 37.345566,
+                  "lng" : -121.9689101
+               }
+            },
+            "location" : {
+               "lat" : 37.3896512,
+               "lng" : -121.9302449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4315981,
+                  "lng" : -121.7897717
+               },
+               "southwest" : {
+                  "lat" : 37.345566,
+                  "lng" : -121.9689101
+               }
+            }
+         },
+         "place_id" : "ChIJ55xYwWLJj4ARbgpFCEUFEJQ",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Jose, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4695381,
+                  "lng" : -121.589154
+               },
+               "southwest" : {
+                  "lat" : 37.124493,
+                  "lng" : -122.0456719
+               }
+            },
+            "location" : {
+               "lat" : 37.3382082,
+               "lng" : -121.8863286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4695381,
+                  "lng" : -121.589154
+               },
+               "southwest" : {
+                  "lat" : 37.124493,
+                  "lng" : -122.0456719
+               }
+            }
+         },
+         "place_id" : "ChIJ9T_5iuTKj4ARe3GfygqMnbk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Clara County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            },
+            "location" : {
+               "lat" : 37.3336581,
+               "lng" : -121.8907041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            }
+         },
+         "place_id" : "ChIJd_Y0eVIvkIARuQyDN0F1LBA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,376 @@
+{
+   "plus_code" : {
+      "compound_code" : "9FGH+34 White Pine Lodge, VA, USA",
+      "global_code" : "869X9FGH+34"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "240",
+               "short_name" : "240",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Salt Pond Road",
+               "short_name" : "Salt Pond Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pembroke",
+               "short_name" : "Pembroke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eastern",
+               "short_name" : "Eastern",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Giles County",
+               "short_name" : "Giles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24136",
+               "short_name" : "24136",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3092",
+               "short_name" : "3092",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "240 Salt Pond Rd, Pembroke, VA 24136, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.375136,
+               "lng" : -80.522747
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3764849802915,
+                  "lng" : -80.5213980197085
+               },
+               "southwest" : {
+                  "lat" : 37.3737870197085,
+                  "lng" : -80.52409598029151
+               }
+            }
+         },
+         "place_id" : "ChIJFcYmMpXGTYgR0H-mhDx-fRU",
+         "plus_code" : {
+            "compound_code" : "9FGG+3W White Pine Lodge, Eastern, VA, United States",
+            "global_code" : "869X9FGG+3W"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "240",
+               "short_name" : "240",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Salt Pond Road",
+               "short_name" : "Salt Pond Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24128",
+               "short_name" : "24128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "240 Salt Pond Rd, Newport, VA 24128, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3752034,
+               "lng" : -80.52217589999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.37655238029149,
+                  "lng" : -80.5208269197085
+               },
+               "southwest" : {
+                  "lat" : 37.37385441970849,
+                  "lng" : -80.5235248802915
+               }
+            }
+         },
+         "place_id" : "EigyNDAgU2FsdCBQb25kIFJkLCBOZXdwb3J0LCBWQSAyNDEyOCwgVVNBIhsSGQoUChIJHesvp5LGTYgRx-Qanig-hskQ8AE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "24128",
+               "short_name" : "24128",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newport, VA 24128, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4462149,
+                  "lng" : -80.291445
+               },
+               "southwest" : {
+                  "lat" : 37.2444309,
+                  "lng" : -80.6164819
+               }
+            },
+            "location" : {
+               "lat" : 37.3493733,
+               "lng" : -80.46602559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4462149,
+                  "lng" : -80.291445
+               },
+               "southwest" : {
+                  "lat" : 37.2444309,
+                  "lng" : -80.6164819
+               }
+            }
+         },
+         "place_id" : "ChIJ-3jDT6rATYgRfXrMgdm13xM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern",
+               "short_name" : "Eastern",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Giles County",
+               "short_name" : "Giles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.48167189999999,
+                  "lng" : -80.4333608
+               },
+               "southwest" : {
+                  "lat" : 37.19804999999999,
+                  "lng" : -80.7384419
+               }
+            },
+            "location" : {
+               "lat" : 37.3256477,
+               "lng" : -80.5660657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.48167189999999,
+                  "lng" : -80.4333608
+               },
+               "southwest" : {
+                  "lat" : 37.19804999999999,
+                  "lng" : -80.7384419
+               }
+            }
+         },
+         "place_id" : "ChIJS2JF-4LDTYgRl73ypIatz28",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giles County",
+               "short_name" : "Giles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Giles County, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.48167189999999,
+                  "lng" : -80.4333608
+               },
+               "southwest" : {
+                  "lat" : 37.1474819,
+                  "lng" : -81.014489
+               }
+            },
+            "location" : {
+               "lat" : 37.3132885,
+               "lng" : -80.6770787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.48167189999999,
+                  "lng" : -80.4333608
+               },
+               "southwest" : {
+                  "lat" : 37.1474819,
+                  "lng" : -81.014489
+               }
+            }
+         },
+         "place_id" : "ChIJdbC1W8TdTYgR8ld6LUDlsi0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virginia",
+               "short_name" : "Virginia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Virginia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.466012,
+                  "lng" : -75.1664349
+               },
+               "southwest" : {
+                  "lat" : 36.5407589,
+                  "lng" : -83.675415
+               }
+            },
+            "location" : {
+               "lat" : 37.4315734,
+               "lng" : -78.6568942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.466012,
+                  "lng" : -75.1664349
+               },
+               "southwest" : {
+                  "lat" : 36.5407589,
+                  "lng" : -83.675415
+               }
+            }
+         },
+         "place_id" : "ChIJzbK8vXDWTIgRlaZGt0lBTsA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

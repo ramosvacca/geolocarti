@@ -1,0 +1,233 @@
+{
+   "plus_code" : {
+      "compound_code" : "7JRC+P2 La Marquesa, Méx., Mexico",
+      "global_code" : "76F27JRC+P2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carretera México - Toluca",
+               "short_name" : "Carretera México - Toluca",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ciudad de Mexico",
+               "short_name" : "Cdad. de Mexico",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S/N, de, Carretera México - Toluca, Cdad. de Mexico, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2918545,
+               "lng" : -99.37999669999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2932034802915,
+                  "lng" : -99.3786477197085
+               },
+               "southwest" : {
+                  "lat" : 19.2905055197085,
+                  "lng" : -99.3813456802915
+               }
+            }
+         },
+         "place_id" : "ChIJ58pbcpD3zYURunv1y8G334I",
+         "plus_code" : {
+            "compound_code" : "7JRC+P2 La Marquesa, Estado de México, Mexico",
+            "global_code" : "76F27JRC+P2"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Estado de México",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Estado de México, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2919813,
+                  "lng" : -99.3801381
+               },
+               "southwest" : {
+                  "lat" : 19.2911044,
+                  "lng" : -99.3808384
+               }
+            },
+            "location" : {
+               "lat" : 19.2915428,
+               "lng" : -99.3804882
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2928918302915,
+                  "lng" : -99.37913926970849
+               },
+               "southwest" : {
+                  "lat" : 19.2901938697085,
+                  "lng" : -99.3818372302915
+               }
+            }
+         },
+         "place_id" : "ChIJJfpXd5D3zYUR_g1nIZFYQbI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ocoyoacac",
+               "short_name" : "Ocoyoacac",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Estado de México",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ocoyoacac, Méx., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3129257,
+                  "lng" : -99.31336569999999
+               },
+               "southwest" : {
+                  "lat" : 19.2039658,
+                  "lng" : -99.4975213
+               }
+            },
+            "location" : {
+               "lat" : 19.272447,
+               "lng" : -99.46155999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3129257,
+                  "lng" : -99.31336569999999
+               },
+               "southwest" : {
+                  "lat" : 19.2039658,
+                  "lng" : -99.4975213
+               }
+            }
+         },
+         "place_id" : "ChIJDVsj6Sb0zYURBpv7BSTsN_8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Mexico",
+               "short_name" : "State of Mexico",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Mexico, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.2858665,
+                  "lng" : -98.5968666
+               },
+               "southwest" : {
+                  "lat" : 18.3669428,
+                  "lng" : -100.6130911
+               }
+            },
+            "location" : {
+               "lat" : 19.4968732,
+               "lng" : -99.72326729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.2858665,
+                  "lng" : -98.5968666
+               },
+               "southwest" : {
+                  "lat" : 18.3669428,
+                  "lng" : -100.6130911
+               }
+            }
+         },
+         "place_id" : "ChIJOwrrwJKJzYURV6jFn775_sI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

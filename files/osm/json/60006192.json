@@ -1,0 +1,372 @@
+{
+   "plus_code" : {
+      "compound_code" : "634J+3W Sewanee, TN, USA",
+      "global_code" : "867P634J+3W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "735",
+               "short_name" : "735",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sewanee",
+               "short_name" : "Sewanee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37383",
+               "short_name" : "37383",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "735 University Ave, Sewanee, TN 37383, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.20518,
+               "lng" : -85.9176605
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.20652898029149,
+                  "lng" : -85.91631151970849
+               },
+               "southwest" : {
+                  "lat" : 35.2038310197085,
+                  "lng" : -85.91900948029151
+               }
+            }
+         },
+         "place_id" : "ChIJwaCAnjoLYYgRq1a5i7_P8AE",
+         "plus_code" : {
+            "compound_code" : "634J+3W Sewanee, Tennessee, United States",
+            "global_code" : "867P634J+3W"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "216",
+               "short_name" : "216",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Georgia Avenue",
+               "short_name" : "Georgia Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sewanee",
+               "short_name" : "Sewanee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37375",
+               "short_name" : "37375",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "216 Georgia Ave, Sewanee, TN 37375, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.2049122,
+               "lng" : -85.9176882
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.20626118029149,
+                  "lng" : -85.91633921970849
+               },
+               "southwest" : {
+                  "lat" : 35.2035632197085,
+                  "lng" : -85.91903718029151
+               }
+            }
+         },
+         "place_id" : "EicyMTYgR2VvcmdpYSBBdmUsIFNld2FuZWUsIFROIDM3Mzc1LCBVU0EiGxIZChQKEgmJ3qJMOgthiBEpiqdfp9GpkhDYAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sewanee",
+               "short_name" : "Sewanee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sewanee, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.228635,
+                  "lng" : -85.898797
+               },
+               "southwest" : {
+                  "lat" : 35.172412,
+                  "lng" : -85.9473249
+               }
+            },
+            "location" : {
+               "lat" : 35.2031373,
+               "lng" : -85.9210899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.228635,
+                  "lng" : -85.898797
+               },
+               "southwest" : {
+                  "lat" : 35.172412,
+                  "lng" : -85.9473249
+               }
+            }
+         },
+         "place_id" : "ChIJbXWYbjALYYgROPGKHIsEZC4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "37375",
+               "short_name" : "37375",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Saint Andrews",
+               "short_name" : "St Andrews",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Andrews, TN 37375, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.264828,
+                  "lng" : -85.851883
+               },
+               "southwest" : {
+                  "lat" : 35.08462,
+                  "lng" : -85.9651739
+               }
+            },
+            "location" : {
+               "lat" : 35.1680035,
+               "lng" : -85.91000889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.264828,
+                  "lng" : -85.851883
+               },
+               "southwest" : {
+                  "lat" : 35.08462,
+                  "lng" : -85.9651739
+               }
+            }
+         },
+         "place_id" : "ChIJnddduTcKYYgRP-1s6fy8sHY",
+         "postcode_localities" : [ "Saint Andrews", "Sewanee" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Franklin County, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.362791,
+                  "lng" : -85.86324499999999
+               },
+               "southwest" : {
+                  "lat" : 34.9882529,
+                  "lng" : -86.3334308
+               }
+            },
+            "location" : {
+               "lat" : 35.1946865,
+               "lng" : -86.05296039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.362791,
+                  "lng" : -85.86324499999999
+               },
+               "southwest" : {
+                  "lat" : 34.9882529,
+                  "lng" : -86.3334308
+               }
+            }
+         },
+         "place_id" : "ChIJnz9aHfEmYYgRvXNLR288q1U",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "Tennessee",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tennessee, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.678118,
+                  "lng" : -81.6469
+               },
+               "southwest" : {
+                  "lat" : 34.9829239,
+                  "lng" : -90.3102978
+               }
+            },
+            "location" : {
+               "lat" : 35.5174913,
+               "lng" : -86.5804473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.678118,
+                  "lng" : -81.6469
+               },
+               "southwest" : {
+                  "lat" : 34.9829239,
+                  "lng" : -90.3102978
+               }
+            }
+         },
+         "place_id" : "ChIJA8-XniNLYYgRVpGBpcEgPgM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

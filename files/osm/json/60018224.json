@@ -1,0 +1,386 @@
+{
+   "plus_code" : {
+      "compound_code" : "5CR7+X8 Rochester, NY, USA",
+      "global_code" : "87M45CR7+X8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1425",
+               "short_name" : "1425",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Portland Avenue",
+               "short_name" : "Portland Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Group 14621",
+               "short_name" : "Group 14621",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14621",
+               "short_name" : "14621",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1425 Portland Ave, Rochester, NY 14621, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1923961,
+               "lng" : -77.5866508
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1937450802915,
+                  "lng" : -77.58530181970849
+               },
+               "southwest" : {
+                  "lat" : 43.1910471197085,
+                  "lng" : -77.58799978029151
+               }
+            }
+         },
+         "place_id" : "ChIJKxhgG3W21okRxs8v2ySpyZc",
+         "plus_code" : {
+            "compound_code" : "5CR7+X8 Rochester, New York, United States",
+            "global_code" : "87M45CR7+X8"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Group 14621",
+               "short_name" : "Group 14621",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Irondequoit",
+               "short_name" : "Irondequoit",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Group 14621, Rochester, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2574621,
+                  "lng" : -77.5760231
+               },
+               "southwest" : {
+                  "lat" : 43.173474,
+                  "lng" : -77.627825
+               }
+            },
+            "location" : {
+               "lat" : 43.1874752,
+               "lng" : -77.60205690000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2574621,
+                  "lng" : -77.5760231
+               },
+               "southwest" : {
+                  "lat" : 43.173474,
+                  "lng" : -77.627825
+               }
+            }
+         },
+         "place_id" : "ChIJAXQyHVy21okRsFe_d5xz9co",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14621",
+               "short_name" : "14621",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rochester, NY 14621, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2053699,
+                  "lng" : -77.57337389999999
+               },
+               "southwest" : {
+                  "lat" : 43.1698279,
+                  "lng" : -77.62894989999999
+               }
+            },
+            "location" : {
+               "lat" : 43.1874752,
+               "lng" : -77.60205690000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2053699,
+                  "lng" : -77.57337389999999
+               },
+               "southwest" : {
+                  "lat" : 43.1698279,
+                  "lng" : -77.62894989999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5f233NO11okRyDMcoBtA9-U",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rochester, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.269045,
+                  "lng" : -77.531166
+               },
+               "southwest" : {
+                  "lat" : 43.103318,
+                  "lng" : -77.701632
+               }
+            },
+            "location" : {
+               "lat" : 43.15657789999999,
+               "lng" : -77.6088465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.269045,
+                  "lng" : -77.531166
+               },
+               "southwest" : {
+                  "lat" : 43.103318,
+                  "lng" : -77.701632
+               }
+            }
+         },
+         "place_id" : "ChIJU7MUlgWz1okRHuYlQfwfAFo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monroe County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.632084,
+                  "lng" : -77.371364
+               },
+               "southwest" : {
+                  "lat" : 42.9399638,
+                  "lng" : -77.99728999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2841246,
+               "lng" : -77.7452081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.632084,
+                  "lng" : -77.371364
+               },
+               "southwest" : {
+                  "lat" : 42.9399638,
+                  "lng" : -77.99728999999999
+               }
+            }
+         },
+         "place_id" : "ChIJXXYP0I-w1okRe6s6YQ1JZnw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

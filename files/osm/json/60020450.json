@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "G54J+CR Reno, NV, USA",
+      "global_code" : "85F2G54J+CR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1885",
+               "short_name" : "1885",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Arlington Avenue",
+               "short_name" : "S Arlington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89509",
+               "short_name" : "89509",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1885 S Arlington Ave, Reno, NV 89509, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5063133,
+                  "lng" : -119.8177444
+               },
+               "southwest" : {
+                  "lat" : 39.5057052,
+                  "lng" : -119.8180604
+               }
+            },
+            "location" : {
+               "lat" : 39.5062125,
+               "lng" : -119.817958
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5073582302915,
+                  "lng" : -119.8165534197085
+               },
+               "southwest" : {
+                  "lat" : 39.5046602697085,
+                  "lng" : -119.8192513802915
+               }
+            }
+         },
+         "place_id" : "ChIJv7OI-OlAmYARjnUsdNZ0MRA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "# 105",
+               "short_name" : "# 105",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1885",
+               "short_name" : "1885",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Arlington Avenue",
+               "short_name" : "S Arlington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89509",
+               "short_name" : "89509",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3370",
+               "short_name" : "3370",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1885 S Arlington Ave # 105, Reno, NV 89509, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.506119,
+               "lng" : -119.8179294
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5074679802915,
+                  "lng" : -119.8165804197085
+               },
+               "southwest" : {
+                  "lat" : 39.5047700197085,
+                  "lng" : -119.8192783802915
+               }
+            }
+         },
+         "place_id" : "ChIJq3_5AupAmYARCPgDX04I6hE",
+         "plus_code" : {
+            "compound_code" : "G54J+CR Reno, Nevada, United States",
+            "global_code" : "85F2G54J+CR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "805",
+               "short_name" : "805",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dartmouth Drive",
+               "short_name" : "Dartmouth Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89509",
+               "short_name" : "89509",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "805 Dartmouth Dr, Reno, NV 89509, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.50642819999999,
+               "lng" : -119.8180697
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5077771802915,
+                  "lng" : -119.8167207197085
+               },
+               "southwest" : {
+                  "lat" : 39.5050792197085,
+                  "lng" : -119.8194186802915
+               }
+            }
+         },
+         "place_id" : "EiU4MDUgRGFydG1vdXRoIERyLCBSZW5vLCBOViA4OTUwOSwgVVNBIhsSGQoUChIJQxLmAOpAmYAR8kVlPC8mOO0QpQY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "89509",
+               "short_name" : "89509",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reno, NV 89509, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5233729,
+                  "lng" : -119.789202
+               },
+               "southwest" : {
+                  "lat" : 39.4663398,
+                  "lng" : -119.8646859
+               }
+            },
+            "location" : {
+               "lat" : 39.4953787,
+               "lng" : -119.8236554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5233729,
+                  "lng" : -119.789202
+               },
+               "southwest" : {
+                  "lat" : 39.4663398,
+                  "lng" : -119.8646859
+               }
+            }
+         },
+         "place_id" : "ChIJg37MaQJBmYARbWUrg6ZdYPA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reno, NV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.723436,
+                  "lng" : -119.6993449
+               },
+               "southwest" : {
+                  "lat" : 39.3924261,
+                  "lng" : -120.0023379
+               }
+            },
+            "location" : {
+               "lat" : 39.5296329,
+               "lng" : -119.8138027
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.723436,
+                  "lng" : -119.6993449
+               },
+               "southwest" : {
+                  "lat" : 39.3924261,
+                  "lng" : -120.0023379
+               }
+            }
+         },
+         "place_id" : "ChIJnaCSkq5AmYARh_c4dM7FxUA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washoe County, NV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9975418,
+                  "lng" : -119.1705441
+               },
+               "southwest" : {
+                  "lat" : 39.165509,
+                  "lng" : -120.0064729
+               }
+            },
+            "location" : {
+               "lat" : 40.5608387,
+               "lng" : -119.6035495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9975418,
+                  "lng" : -119.1705441
+               },
+               "southwest" : {
+                  "lat" : 39.165509,
+                  "lng" : -120.0064729
+               }
+            }
+         },
+         "place_id" : "ChIJ4fdsvIAuo4ARgBhifeuEby4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nevada",
+               "short_name" : "Nevada",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nevada, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.002207,
+                  "lng" : -114.0396479
+               },
+               "southwest" : {
+                  "lat" : 35.001857,
+                  "lng" : -120.0064729
+               }
+            },
+            "location" : {
+               "lat" : 38.8026097,
+               "lng" : -116.419389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.002207,
+                  "lng" : -114.0396479
+               },
+               "southwest" : {
+                  "lat" : 35.001857,
+                  "lng" : -120.0064729
+               }
+            }
+         },
+         "place_id" : "ChIJcbTe-KEKmYARs5X8qooDR88",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

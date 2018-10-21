@@ -1,0 +1,388 @@
+{
+   "plus_code" : {
+      "compound_code" : "2FMR+CR Charlottesville, VA, USA",
+      "global_code" : "87C32FMR+CR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clark Hall",
+               "short_name" : "Clark Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "291",
+               "short_name" : "291",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "McCormick Road",
+               "short_name" : "McCormick Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charlottesville",
+               "short_name" : "Charlottesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jack Jouett",
+               "short_name" : "Jack Jouett",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Albemarle County",
+               "short_name" : "Albemarle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22903",
+               "short_name" : "22903",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4123",
+               "short_name" : "4123",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Clark Hall, 291 McCormick Rd, Charlottesville, VA 22903, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0334687,
+                  "lng" : -78.50726089999999
+               },
+               "southwest" : {
+                  "lat" : 38.032598,
+                  "lng" : -78.5083265
+               }
+            },
+            "location" : {
+               "lat" : 38.0330428,
+               "lng" : -78.5078494
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0343823302915,
+                  "lng" : -78.50644471970848
+               },
+               "southwest" : {
+                  "lat" : 38.0316843697085,
+                  "lng" : -78.50914268029149
+               }
+            }
+         },
+         "place_id" : "ChIJ-xZs50SGs4kRYbm9EGJ-DIw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "292",
+               "short_name" : "292",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "McCormick Road",
+               "short_name" : "McCormick Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charlottesville",
+               "short_name" : "Charlottesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22903",
+               "short_name" : "22903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "292 McCormick Rd, Charlottesville, VA 22903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0336857,
+               "lng" : -78.5080595
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0350346802915,
+                  "lng" : -78.50671051970849
+               },
+               "southwest" : {
+                  "lat" : 38.0323367197085,
+                  "lng" : -78.50940848029151
+               }
+            }
+         },
+         "place_id" : "EjAyOTIgTWNDb3JtaWNrIFJkLCBDaGFybG90dGVzdmlsbGUsIFZBIDIyOTAzLCBVU0EiGxIZChQKEglLxKQhRYaziRGbmIQrbjc2ehCkAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jack Jouett",
+               "short_name" : "Jack Jouett",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Albemarle County",
+               "short_name" : "Albemarle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jack Jouett, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1434039,
+                  "lng" : -78.48451709999999
+               },
+               "southwest" : {
+                  "lat" : 38.028576,
+                  "lng" : -78.5933259
+               }
+            },
+            "location" : {
+               "lat" : 38.0988698,
+               "lng" : -78.509288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1434039,
+                  "lng" : -78.48451709999999
+               },
+               "southwest" : {
+                  "lat" : 38.028576,
+                  "lng" : -78.5933259
+               }
+            }
+         },
+         "place_id" : "ChIJr3v5tGaHs4kRc10je7dCV0k",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22903",
+               "short_name" : "22903",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "UNIVERSITY",
+               "short_name" : "UNIVERSITY",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "UNIVERSITY, VA 22903, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0741259,
+                  "lng" : -78.4761328
+               },
+               "southwest" : {
+                  "lat" : 37.898584,
+                  "lng" : -78.7369219
+               }
+            },
+            "location" : {
+               "lat" : 38.0335948,
+               "lng" : -78.5887951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0741259,
+                  "lng" : -78.4761328
+               },
+               "southwest" : {
+                  "lat" : 37.898584,
+                  "lng" : -78.7369219
+               }
+            }
+         },
+         "place_id" : "ChIJCVYJMLSDs4kRGWkYAiHqnco",
+         "postcode_localities" : [ "Charlottesville", "UNIVERSITY" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albemarle County",
+               "short_name" : "Albemarle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albemarle County, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.277923,
+                  "lng" : -78.20809199999999
+               },
+               "southwest" : {
+                  "lat" : 37.722657,
+                  "lng" : -78.8392109
+               }
+            },
+            "location" : {
+               "lat" : 38.0567092,
+               "lng" : -78.6114999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.277923,
+                  "lng" : -78.20809199999999
+               },
+               "southwest" : {
+                  "lat" : 37.722657,
+                  "lng" : -78.8392109
+               }
+            }
+         },
+         "place_id" : "ChIJ2yurpXqMs4kR_ssh-2fPDwY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virginia",
+               "short_name" : "Virginia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Virginia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.466012,
+                  "lng" : -75.1664349
+               },
+               "southwest" : {
+                  "lat" : 36.5407589,
+                  "lng" : -83.675415
+               }
+            },
+            "location" : {
+               "lat" : 37.4315734,
+               "lng" : -78.6568942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.466012,
+                  "lng" : -75.1664349
+               },
+               "southwest" : {
+                  "lat" : 36.5407589,
+                  "lng" : -83.675415
+               }
+            }
+         },
+         "place_id" : "ChIJzbK8vXDWTIgRlaZGt0lBTsA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

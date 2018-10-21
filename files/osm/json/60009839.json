@@ -1,0 +1,519 @@
+{
+   "plus_code" : {
+      "compound_code" : "F92H+58 Gloucester, Ottawa, ON, Canada",
+      "global_code" : "87Q6F92H+58"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1200 Montreal Road",
+               "short_name" : "1200 Montreal Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1K 2E1",
+               "short_name" : "K1K 2E1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1200 Montreal Road, Ottawa, ON K1K 2E1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4503935,
+               "lng" : -75.62172459999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.45174248029149,
+                  "lng" : -75.62037561970848
+               },
+               "southwest" : {
+                  "lat" : 45.44904451970849,
+                  "lng" : -75.62307358029149
+               }
+            }
+         },
+         "place_id" : "ChIJJU7-k_0PzkwR9n6K30q2wk0",
+         "plus_code" : {
+            "compound_code" : "F92H+58 Gloucester, Ottawa, ON, Canada",
+            "global_code" : "87Q6F92H+58"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Legget Avenue",
+               "short_name" : "Legget Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1K 2E1",
+               "short_name" : "K1K 2E1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Legget Ave, Ottawa, ON K1K 2E1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4500253,
+                  "lng" : -75.62027189999999
+               },
+               "southwest" : {
+                  "lat" : 45.4485289,
+                  "lng" : -75.621269
+               }
+            },
+            "location" : {
+               "lat" : 45.4492771,
+               "lng" : -75.6207704
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4506260802915,
+                  "lng" : -75.61942146970848
+               },
+               "southwest" : {
+                  "lat" : 45.4479281197085,
+                  "lng" : -75.62211943029149
+               }
+            }
+         },
+         "place_id" : "ChIJr_FqBv0PzkwR7gp3_TAUv2k",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1K 2E1",
+               "short_name" : "K1K 2E1",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON K1K 2E1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.458116,
+                  "lng" : -75.6153679
+               },
+               "southwest" : {
+                  "lat" : 45.4465521,
+                  "lng" : -75.6274889
+               }
+            },
+            "location" : {
+               "lat" : 45.4519358,
+               "lng" : -75.6221316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.458116,
+                  "lng" : -75.6153679
+               },
+               "southwest" : {
+                  "lat" : 45.4465521,
+                  "lng" : -75.6274889
+               }
+            }
+         },
+         "place_id" : "ChIJ-Y7C4aoazkwRssAYySVtrTg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K1K",
+               "short_name" : "K1K",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Vanier",
+               "short_name" : "Vanier",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vanier, ON K1K, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.463884,
+                  "lng" : -75.6127161
+               },
+               "southwest" : {
+                  "lat" : 45.41711799999999,
+                  "lng" : -75.67020289999999
+               }
+            },
+            "location" : {
+               "lat" : 45.43949509999999,
+               "lng" : -75.64218169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.463884,
+                  "lng" : -75.6127161
+               },
+               "southwest" : {
+                  "lat" : 45.41711799999999,
+                  "lng" : -75.67020289999999
+               }
+            }
+         },
+         "place_id" : "ChIJaQsY5lsFzkwRuSEbEFSOc3E",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gloucester, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4924519,
+                  "lng" : -75.4515413
+               },
+               "southwest" : {
+                  "lat" : 45.266064,
+                  "lng" : -75.705646
+               }
+            },
+            "location" : {
+               "lat" : 45.4473421,
+               "lng" : -75.5942867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4924519,
+                  "lng" : -75.4515413
+               },
+               "southwest" : {
+                  "lat" : 45.266064,
+                  "lng" : -75.705646
+               }
+            }
+         },
+         "place_id" : "ChIJC5E1v6gOzkwRIv_zAwWb8IE",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4215296,
+               "lng" : -75.69719309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwR7RXdMeFRaoo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa Division, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            },
+            "location" : {
+               "lat" : 45.2484615,
+               "lng" : -75.83537059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5375801,
+                  "lng" : -75.2465979
+               },
+               "southwest" : {
+                  "lat" : 44.962733,
+                  "lng" : -76.35391589999999
+               }
+            }
+         },
+         "place_id" : "ChIJmcB2guBn0UwRr0RW_iic0LY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ontario",
+               "short_name" : "Ontario",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            },
+            "location" : {
+               "lat" : 51.253775,
+               "lng" : -85.32321399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwRCR5iKVZC-HA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

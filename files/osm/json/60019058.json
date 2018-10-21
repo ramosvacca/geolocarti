@@ -1,0 +1,440 @@
+{
+   "plus_code" : {
+      "compound_code" : "G426+FC Badia del Vallès, Spain",
+      "global_code" : "8FH4G426+FC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campus UAB",
+               "short_name" : "Campus UAB",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Zona 2",
+               "short_name" : "Zona 2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carrer de Can Planas",
+               "short_name" : "Carrer de Can Planas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bellaterra",
+               "short_name" : "Bellaterra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08193",
+               "short_name" : "08193",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Campus UAB, Carrer de Can Planas, Zona 2, 08193 Bellaterra, Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5012275,
+               "lng" : 2.1110068
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5025764802915,
+                  "lng" : 2.112355780291502
+               },
+               "southwest" : {
+                  "lat" : 41.4998785197085,
+                  "lng" : 2.109657819708498
+               }
+            }
+         },
+         "place_id" : "ChIJq2TfsHiWpBIRQFIWYxN_sxQ",
+         "plus_code" : {
+            "compound_code" : "G426+FC Badia del Vallès, Spain",
+            "global_code" : "8FH4G426+FC"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrer de Can Magrans",
+               "short_name" : "Carrer de Can Magrans",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cerdanyola del Vallès",
+               "short_name" : "Cerdanyola del Vallès",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08193",
+               "short_name" : "08193",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carrer de Can Magrans, 08193 Cerdanyola del Vallès, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5014819,
+                  "lng" : 2.110929
+               },
+               "southwest" : {
+                  "lat" : 41.50117350000001,
+                  "lng" : 2.1105822
+               }
+            },
+            "location" : {
+               "lat" : 41.5013277,
+               "lng" : 2.1107556
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5026766802915,
+                  "lng" : 2.112104580291502
+               },
+               "southwest" : {
+                  "lat" : 41.49997871970851,
+                  "lng" : 2.109406619708498
+               }
+            }
+         },
+         "place_id" : "ChIJT1CZsniWpBIRTnsxdi37-gQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "08193",
+               "short_name" : "08193",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cerdanyola del Vallès",
+               "short_name" : "Cerdanyola del Vallès",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "08193 Cerdanyola del Vallès, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.51109630000001,
+                  "lng" : 2.1294347
+               },
+               "southwest" : {
+                  "lat" : 41.4882268,
+                  "lng" : 2.0747153
+               }
+            },
+            "location" : {
+               "lat" : 41.49733519999999,
+               "lng" : 2.0910377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.51109630000001,
+                  "lng" : 2.1294347
+               },
+               "southwest" : {
+                  "lat" : 41.4882268,
+                  "lng" : 2.0747153
+               }
+            }
+         },
+         "place_id" : "ChIJyXoxyIKWpBIRkPFHeuP6ABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cerdanyola del Vallès",
+               "short_name" : "Cerdanyola del Vallès",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cerdanyola del Vallès, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5111083,
+                  "lng" : 2.1600469
+               },
+               "southwest" : {
+                  "lat" : 41.4431169,
+                  "lng" : 2.074362
+               }
+            },
+            "location" : {
+               "lat" : 41.490047,
+               "lng" : 2.1397612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5111083,
+                  "lng" : 2.1600469
+               },
+               "southwest" : {
+                  "lat" : 41.4431169,
+                  "lng" : 2.074362
+               }
+            }
+         },
+         "place_id" : "ChIJy1TEqAOWpBIRDZ5Ug70q4fA",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Vallès Occidental",
+               "short_name" : "El Vallès Occidental",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Vallès Occidental, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7172243,
+                  "lng" : 2.2252151
+               },
+               "southwest" : {
+                  "lat" : 41.4150323,
+                  "lng" : 1.8612334
+               }
+            },
+            "location" : {
+               "lat" : 41.5434349,
+               "lng" : 2.027319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7172243,
+                  "lng" : 2.2252151
+               },
+               "southwest" : {
+                  "lat" : 41.4150323,
+                  "lng" : 1.8612334
+               }
+            }
+         },
+         "place_id" : "ChIJ9fYtjT6TpBIR5K-qiSf1ijM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.32330109999999,
+                  "lng" : 2.7777843
+               },
+               "southwest" : {
+                  "lat" : 41.1927452,
+                  "lng" : 1.3596215
+               }
+            },
+            "location" : {
+               "lat" : 41.3850477,
+               "lng" : 2.1733131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.32330109999999,
+                  "lng" : 2.7777843
+               },
+               "southwest" : {
+                  "lat" : 41.1927452,
+                  "lng" : 1.3596215
+               }
+            }
+         },
+         "place_id" : "ChIJZb1_yQvmpBIRsMmjIeD6AAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "Catalonia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Catalonia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            },
+            "location" : {
+               "lat" : 41.5911589,
+               "lng" : 1.5208624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            }
+         },
+         "place_id" : "ChIJ8_UwhdxbpBIRUMijIeD6AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

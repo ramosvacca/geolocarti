@@ -1,0 +1,422 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "132",
+               "short_name" : "132",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle 47",
+               "short_name" : "Cl. 47",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marly",
+               "short_name" : "Marly",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chapinero",
+               "short_name" : "Chapinero",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110311",
+               "short_name" : "110311",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cl. 47 #13-2, Bogotá, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.634247600000001,
+               "lng" : -74.06609879999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.635596580291503,
+                  "lng" : -74.0647498197085
+               },
+               "southwest" : {
+                  "lat" : 4.632898619708499,
+                  "lng" : -74.0674477802915
+               }
+            }
+         },
+         "place_id" : "Eh9DbC4gNDcgIzEzLTIsIEJvZ290w6EsIENvbG9tYmlhIhoSGAoUChIJC1JCny-aP44RUjR5rsJUP_oQAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marly",
+               "short_name" : "Marly",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marly, Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.6404534,
+                  "lng" : -74.06290609999999
+               },
+               "southwest" : {
+                  "lat" : 4.6256518,
+                  "lng" : -74.06860309999999
+               }
+            },
+            "location" : {
+               "lat" : 4.6334388,
+               "lng" : -74.06599589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.6404534,
+                  "lng" : -74.06290609999999
+               },
+               "southwest" : {
+                  "lat" : 4.6256518,
+                  "lng" : -74.06860309999999
+               }
+            }
+         },
+         "place_id" : "ChIJvwGTZi-aP44RSXfp2rzP0po",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapinero",
+               "short_name" : "Chapinero",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Calera",
+               "short_name" : "La Calera",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapinero, Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.686946100000001,
+                  "lng" : -73.99197699999999
+               },
+               "southwest" : {
+                  "lat" : 4.61045,
+                  "lng" : -74.06841899999999
+               }
+            },
+            "location" : {
+               "lat" : 4.649656,
+               "lng" : -74.063097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.686946100000001,
+                  "lng" : -73.99197699999999
+               },
+               "southwest" : {
+                  "lat" : 4.61045,
+                  "lng" : -74.06841899999999
+               }
+            }
+         },
+         "place_id" : "ChIJgwW_iJ6QP44Rc7wFsOAC5M4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.8371311,
+                  "lng" : -73.99197699999999
+               },
+               "southwest" : {
+                  "lat" : 4.459464,
+                  "lng" : -74.223637
+               }
+            },
+            "location" : {
+               "lat" : 4.710988599999999,
+               "lng" : -74.072092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.8371311,
+                  "lng" : -73.99197699999999
+               },
+               "southwest" : {
+                  "lat" : 4.459464,
+                  "lng" : -74.223637
+               }
+            }
+         },
+         "place_id" : "ChIJKcumLf2bP44RFDmjIFVjnSM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "110311",
+               "short_name" : "110311",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.6403969,
+                  "lng" : -73.9936661
+               },
+               "southwest" : {
+                  "lat" : 4.5741741,
+                  "lng" : -74.076274
+               }
+            },
+            "location" : {
+               "lat" : 4.600976,
+               "lng" : -74.0358876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.6403969,
+                  "lng" : -73.9936661
+               },
+               "southwest" : {
+                  "lat" : 4.5741741,
+                  "lng" : -74.076274
+               }
+            }
+         },
+         "place_id" : "ChIJR2Cnx-CZP44RPRzYxPBmZOc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.8372401,
+                  "lng" : -73.991733
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            },
+            "location" : {
+               "lat" : 4.648594,
+               "lng" : -74.104466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.8372401,
+                  "lng" : -73.991733
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ0-SYJsAP44RBHEcWTjKX1U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogota Metropolitan Area",
+               "short_name" : "Bogota Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogota Metropolitan Area, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.15845,
+                  "lng" : -73.791026
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            },
+            "location" : {
+               "lat" : 4.6279127,
+               "lng" : -74.12399599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.15845,
+                  "lng" : -73.791026
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            }
+         },
+         "place_id" : "ChIJi7h3Jfp4P44RcrwqNBE3Psg",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            },
+            "location" : {
+               "lat" : 4.570868,
+               "lng" : -74.29733299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            }
+         },
+         "place_id" : "ChIJo5QVrjqkFY4RQKPy7wSaDZo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

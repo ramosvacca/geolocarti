@@ -1,0 +1,260 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue de l'Universite",
+               "short_name" : "Rue de l'Universite",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fann",
+               "short_name" : "Fann",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dakar",
+               "short_name" : "Dakar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dakar",
+               "short_name" : "Dakar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "13 Rue de l'Universite, Dakar, Senegal",
+         "geometry" : {
+            "location" : {
+               "lat" : 14.6888271,
+               "lng" : -17.4624516
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.6901760802915,
+                  "lng" : -17.46110261970849
+               },
+               "southwest" : {
+                  "lat" : 14.6874781197085,
+                  "lng" : -17.4638005802915
+               }
+            }
+         },
+         "place_id" : "ChIJNfyOUolywQ4Rt7O9MqPyOn8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fann",
+               "short_name" : "Fann",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dakar",
+               "short_name" : "Dakar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guediawaye",
+               "short_name" : "Guediawaye",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dakar Region",
+               "short_name" : "Dakar Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fann, Dakar, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.7003155,
+                  "lng" : -17.4584859
+               },
+               "southwest" : {
+                  "lat" : 14.6777293,
+                  "lng" : -17.4790119
+               }
+            },
+            "location" : {
+               "lat" : 14.69115,
+               "lng" : -17.4706438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.7003155,
+                  "lng" : -17.4584859
+               },
+               "southwest" : {
+                  "lat" : 14.6777293,
+                  "lng" : -17.4790119
+               }
+            }
+         },
+         "place_id" : "ChIJU3yW5oVywQ4RwpMijy9dd2o",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakar",
+               "short_name" : "Dakar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guediawaye",
+               "short_name" : "Guediawaye",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dakar Region",
+               "short_name" : "Dakar Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dakar, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.7801142,
+                  "lng" : -17.395069
+               },
+               "southwest" : {
+                  "lat" : 14.6419347,
+                  "lng" : -17.536581
+               }
+            },
+            "location" : {
+               "lat" : 14.716677,
+               "lng" : -17.4676861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.7801142,
+                  "lng" : -17.395069
+               },
+               "southwest" : {
+                  "lat" : 14.6419347,
+                  "lng" : -17.536581
+               }
+            }
+         },
+         "place_id" : "ChIJcbvFs_VywQ4RH7JdLdkXfLE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakar Region",
+               "short_name" : "Dakar Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dakar",
+               "short_name" : "Dakar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dakar Region, Dakar, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.89581,
+                  "lng" : -17.121583
+               },
+               "southwest" : {
+                  "lat" : 14.566921,
+                  "lng" : -17.5352361
+               }
+            },
+            "location" : {
+               "lat" : 14.7902349,
+               "lng" : -17.2429976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.89581,
+                  "lng" : -17.121583
+               },
+               "southwest" : {
+                  "lat" : 14.566921,
+                  "lng" : -17.5352361
+               }
+            }
+         },
+         "place_id" : "ChIJabTX_BoLwQ4Rj8NrhMs3i8Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.6929572,
+                  "lng" : -11.3457683
+               },
+               "southwest" : {
+                  "lat" : 12.2649001,
+                  "lng" : -17.6879999
+               }
+            },
+            "location" : {
+               "lat" : 14.497401,
+               "lng" : -14.452362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.6929572,
+                  "lng" : -11.3457683
+               },
+               "southwest" : {
+                  "lat" : 12.2649001,
+                  "lng" : -17.6879999
+               }
+            }
+         },
+         "place_id" : "ChIJcbvFs_VywQ4RQFlhmVClRlo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

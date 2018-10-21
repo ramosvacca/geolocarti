@@ -1,0 +1,191 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida 14",
+               "short_name" : "Av 14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cartago",
+               "short_name" : "Cartago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Provincia de Cartago",
+               "short_name" : "Provincia de Cartago",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av 14, Provincia de Cartago, Cartago, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.858131,
+                  "lng" : -83.91245549999999
+               },
+               "southwest" : {
+                  "lat" : 9.857482599999999,
+                  "lng" : -83.91325549999999
+               }
+            },
+            "location" : {
+               "lat" : 9.857851,
+               "lng" : -83.912823
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.859155780291504,
+                  "lng" : -83.9115065197085
+               },
+               "southwest" : {
+                  "lat" : 9.856457819708499,
+                  "lng" : -83.9142044802915
+               }
+            }
+         },
+         "place_id" : "ChIJbcdRm_LfoI8RwuIrftqTQ3g",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cartago",
+               "short_name" : "Cartago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartago Province",
+               "short_name" : "Cartago Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cartago Province, Cartago, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.8936004,
+                  "lng" : -83.8872032
+               },
+               "southwest" : {
+                  "lat" : 9.8148143,
+                  "lng" : -83.9631756
+               }
+            },
+            "location" : {
+               "lat" : 9.863809099999999,
+               "lng" : -83.91619349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.8936004,
+                  "lng" : -83.8872032
+               },
+               "southwest" : {
+                  "lat" : 9.8148143,
+                  "lng" : -83.9631756
+               }
+            }
+         },
+         "place_id" : "ChIJISmvIRDfoI8RUpyjWIVU5bU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cartago Province",
+               "short_name" : "Cartago Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cartago Province, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.1429971,
+                  "lng" : -83.30180799999999
+               },
+               "southwest" : {
+                  "lat" : 9.505219100000001,
+                  "lng" : -84.0711091
+               }
+            },
+            "location" : {
+               "lat" : 9.862231099999999,
+               "lng" : -83.92141869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.1429971,
+                  "lng" : -83.30180799999999
+               },
+               "southwest" : {
+                  "lat" : 9.505219100000001,
+                  "lng" : -84.0711091
+               }
+            }
+         },
+         "place_id" : "ChIJDXVNCJvWoI8RkBmaG8EaWxE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2196806,
+                  "lng" : -82.51830009999999
+               },
+               "southwest" : {
+                  "lat" : 5.496099999999999,
+                  "lng" : -87.09899999999999
+               }
+            },
+            "location" : {
+               "lat" : 9.748916999999999,
+               "lng" : -83.753428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2196806,
+                  "lng" : -82.51830009999999
+               },
+               "southwest" : {
+                  "lat" : 5.496099999999999,
+                  "lng" : -87.09899999999999
+               }
+            }
+         },
+         "place_id" : "ChIJJcmsIWLlko8RK5qBNSX3VGI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

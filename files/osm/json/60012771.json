@@ -1,0 +1,503 @@
+{
+   "plus_code" : {
+      "compound_code" : "WXFJ+36 Washington, DC, USA",
+      "global_code" : "87C4WXFJ+36"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2400",
+               "short_name" : "2400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sixth St NW",
+               "short_name" : "Sixth St NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howard University",
+               "short_name" : "Howard University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20059",
+               "short_name" : "20059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2400 Sixth St NW, Washington, DC 20059, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9226843,
+               "lng" : -77.0194377
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9240332802915,
+                  "lng" : -77.0180887197085
+               },
+               "southwest" : {
+                  "lat" : 38.9213353197085,
+                  "lng" : -77.02078668029151
+               }
+            }
+         },
+         "place_id" : "ChIJ-c60Vvy3t4kRwnfbyB_H3DI",
+         "plus_code" : {
+            "compound_code" : "WXFJ+36 Washington, District of Columbia, United States",
+            "global_code" : "87C4WXFJ+36"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Howard Place Northwest",
+               "short_name" : "Howard Pl NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howard University",
+               "short_name" : "Howard University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20059",
+               "short_name" : "20059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "500 Howard Pl NW, Washington, DC 20059, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9224978,
+                  "lng" : -77.01927069999999
+               },
+               "southwest" : {
+                  "lat" : 38.9221189,
+                  "lng" : -77.0200945
+               }
+            },
+            "location" : {
+               "lat" : 38.9223114,
+               "lng" : -77.0197172
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.92365733029149,
+                  "lng" : -77.01833361970849
+               },
+               "southwest" : {
+                  "lat" : 38.92095936970849,
+                  "lng" : -77.02103158029151
+               }
+            }
+         },
+         "place_id" : "ChIJl1k5_fy3t4kRWd-Tf4cO6-A",
+         "types" : [ "establishment", "library", "point_of_interest", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Howard Place Northwest",
+               "short_name" : "Howard Pl NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howard University",
+               "short_name" : "Howard University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20059",
+               "short_name" : "20059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "29 Howard Pl NW, Washington, DC 20059, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9224895,
+               "lng" : -77.0196811
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9238384802915,
+                  "lng" : -77.01833211970849
+               },
+               "southwest" : {
+                  "lat" : 38.9211405197085,
+                  "lng" : -77.02103008029151
+               }
+            }
+         },
+         "place_id" : "ChIJa5a4Av23t4kRZ47zYqLSBVw",
+         "plus_code" : {
+            "compound_code" : "WXCJ+X4 Washington, District of Columbia, United States",
+            "global_code" : "87C4WXCJ+X4"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "477",
+               "short_name" : "477",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Howard Place Northwest",
+               "short_name" : "Howard Pl NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20059",
+               "short_name" : "20059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "477 Howard Pl NW, Washington, DC 20059, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9226207,
+               "lng" : -77.0194425
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9239696802915,
+                  "lng" : -77.0180935197085
+               },
+               "southwest" : {
+                  "lat" : 38.9212717197085,
+                  "lng" : -77.02079148029151
+               }
+            }
+         },
+         "place_id" : "Eis0NzcgSG93YXJkIFBsIE5XLCBXYXNoaW5ndG9uLCBEQyAyMDA1OSwgVVNBIhsSGQoUChIJCQqLqf23t4kR9lBOgAYMInEQ3QM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Howard University",
+               "short_name" : "Howard University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Howard University, Washington, DC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.927311,
+                  "lng" : -77.0149981
+               },
+               "southwest" : {
+                  "lat" : 38.918911,
+                  "lng" : -77.02319799999999
+               }
+            },
+            "location" : {
+               "lat" : 38.92121710000001,
+               "lng" : -77.0204624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.927311,
+                  "lng" : -77.0149981
+               },
+               "southwest" : {
+                  "lat" : 38.918911,
+                  "lng" : -77.02319799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ92Q3CP23t4kRTg4G_KuqI6M",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20001",
+               "short_name" : "20001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, DC 20001, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.929279,
+                  "lng" : -77.00676609999999
+               },
+               "southwest" : {
+                  "lat" : 38.890596,
+                  "lng" : -77.02808399999999
+               }
+            },
+            "location" : {
+               "lat" : 38.912068,
+               "lng" : -77.0190228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.929279,
+                  "lng" : -77.00676609999999
+               },
+               "southwest" : {
+                  "lat" : 38.890596,
+                  "lng" : -77.02808399999999
+               }
+            }
+         },
+         "place_id" : "ChIJPY_CiAK4t4kR4upU_9CKH4U",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "District of Columbia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, DC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            },
+            "location" : {
+               "lat" : 38.9071923,
+               "lng" : -77.03687069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            }
+         },
+         "place_id" : "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "District of Columbia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "District of Columbia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            },
+            "location" : {
+               "lat" : 38.9059849,
+               "lng" : -77.03341790000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            }
+         },
+         "place_id" : "ChIJW-T2Wt7Gt4kRmKFUAsCO4tY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

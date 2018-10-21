@@ -1,0 +1,513 @@
+{
+   "plus_code" : {
+      "compound_code" : "968G+27 Arcavacata, Province of Cosenza, Italy",
+      "global_code" : "8FFR968G+27"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Pietro Bucci",
+               "short_name" : "Via Pietro Bucci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arcavacata, Rende",
+               "short_name" : "Arcavacata, Rende",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rende",
+               "short_name" : "Rende",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Cosenza",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87036",
+               "short_name" : "87036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Pietro Bucci, 87036 Arcavacata, Rende CS, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3650216,
+               "lng" : 16.2257177
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3663705802915,
+                  "lng" : 16.2270666802915
+               },
+               "southwest" : {
+                  "lat" : 39.3636726197085,
+                  "lng" : 16.2243687197085
+               }
+            }
+         },
+         "place_id" : "ChIJGa-GqpqZPxMRulmFwtcMBeY",
+         "plus_code" : {
+            "compound_code" : "968G+27 Arcavacata, Rende, Province of Cosenza, Italy",
+            "global_code" : "8FFR968G+27"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ponte Pietro Bucci",
+               "short_name" : "Ponte Pietro Bucci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Quattromiglia",
+               "short_name" : "Quattromiglia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rende",
+               "short_name" : "Rende",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Cosenza",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87036",
+               "short_name" : "87036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ponte Pietro Bucci, 4, 87036 Quattromiglia CS, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3646911,
+               "lng" : 16.2255874
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3660400802915,
+                  "lng" : 16.2269363802915
+               },
+               "southwest" : {
+                  "lat" : 39.36334211970851,
+                  "lng" : 16.2242384197085
+               }
+            }
+         },
+         "place_id" : "ChIJI6Sj96CZPxMRCmH1WUvnYlQ",
+         "plus_code" : {
+            "compound_code" : "967G+V6 Arcavacata, Rende, Province of Cosenza, Italy",
+            "global_code" : "8FFR967G+V6"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ponte Pietro Bucci",
+               "short_name" : "Ponte Pietro Bucci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Quattromiglia",
+               "short_name" : "Quattromiglia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rende",
+               "short_name" : "Rende",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Cosenza",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87036",
+               "short_name" : "87036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ponte Pietro Bucci, 4, 87036 Quattromiglia CS, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3646996,
+               "lng" : 16.225682
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3660485802915,
+                  "lng" : 16.2270309802915
+               },
+               "southwest" : {
+                  "lat" : 39.3633506197085,
+                  "lng" : 16.2243330197085
+               }
+            }
+         },
+         "place_id" : "EjVQb250ZSBQaWV0cm8gQnVjY2ksIDQsIDg3MDM2IFF1YXR0cm9taWdsaWEgQ1MsIEl0YWxpYSIaEhgKFAoSCbmTFfagmT8TEcRjREnDOdr_EAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arcavacata",
+               "short_name" : "Arcavacata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rende",
+               "short_name" : "Rende",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Cosenza",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87036",
+               "short_name" : "87036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "87036 Arcavacata, Province of Cosenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3704831,
+                  "lng" : 16.2334455
+               },
+               "southwest" : {
+                  "lat" : 39.3534484,
+                  "lng" : 16.2048835
+               }
+            },
+            "location" : {
+               "lat" : 39.357673,
+               "lng" : 16.2114696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3704831,
+                  "lng" : 16.2334455
+               },
+               "southwest" : {
+                  "lat" : 39.3534484,
+                  "lng" : 16.2048835
+               }
+            }
+         },
+         "place_id" : "ChIJYys5966ZPxMRLsLKhYAtOps",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "87036",
+               "short_name" : "87036",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Rende",
+               "short_name" : "Rende",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Cosenza",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "87036 Rende, Province of Cosenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4012461,
+                  "lng" : 16.2636568
+               },
+               "southwest" : {
+                  "lat" : 39.298695,
+                  "lng" : 16.1311957
+               }
+            },
+            "location" : {
+               "lat" : 39.3576272,
+               "lng" : 16.2169139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4012461,
+                  "lng" : 16.2636568
+               },
+               "southwest" : {
+                  "lat" : 39.298695,
+                  "lng" : 16.1311957
+               }
+            }
+         },
+         "place_id" : "ChIJ8QIxITaYPxMRsOCMwLGVCxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rende",
+               "short_name" : "Rende",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Cosenza",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87036",
+               "short_name" : "87036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "87036 Rende, Province of Cosenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4012446,
+                  "lng" : 16.2636568
+               },
+               "southwest" : {
+                  "lat" : 39.298696,
+                  "lng" : 16.1311927
+               }
+            },
+            "location" : {
+               "lat" : 39.3576272,
+               "lng" : 16.2169139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4012446,
+                  "lng" : 16.2636568
+               },
+               "southwest" : {
+                  "lat" : 39.298696,
+                  "lng" : 16.1311927
+               }
+            }
+         },
+         "place_id" : "ChIJj7jTIouXPxMR5yqlk7QwYJo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Province of Cosenza",
+               "short_name" : "Province of Cosenza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Province of Cosenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1439289,
+                  "lng" : 17.024898
+               },
+               "southwest" : {
+                  "lat" : 39.0487031,
+                  "lng" : 15.7548235
+               }
+            },
+            "location" : {
+               "lat" : 39.5644105,
+               "lng" : 16.2522143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1439289,
+                  "lng" : 17.024898
+               },
+               "southwest" : {
+                  "lat" : 39.0487031,
+                  "lng" : 15.7548235
+               }
+            }
+         },
+         "place_id" : "ChIJ_eee0fx6PxMRQILgTq6VCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calabria, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1439289,
+                  "lng" : 17.2065266
+               },
+               "southwest" : {
+                  "lat" : 37.9157558,
+                  "lng" : 15.6296871
+               }
+            },
+            "location" : {
+               "lat" : 39.3087714,
+               "lng" : 16.3463791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1439289,
+                  "lng" : 17.2065266
+               },
+               "southwest" : {
+                  "lat" : 37.9157558,
+                  "lng" : 15.6296871
+               }
+            }
+         },
+         "place_id" : "ChIJCxVihNKQPxMRcSMmPSQdpJE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            },
+            "location" : {
+               "lat" : 41.87194,
+               "lng" : 12.56738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            }
+         },
+         "place_id" : "ChIJA9KNRIL-1BIRb15jJFz1LOI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

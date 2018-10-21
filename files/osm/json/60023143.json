@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "CV4J+X9 Medford, MA, USA",
+      "global_code" : "87JCCV4J+X9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "419",
+               "short_name" : "419",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boston Avenue",
+               "short_name" : "Boston Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medford",
+               "short_name" : "Medford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medford",
+               "short_name" : "Medford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02155‎",
+               "short_name" : "02155‎",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "419 Boston Ave, Medford, MA 02155‎, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4074843,
+               "lng" : -71.1190232
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4088332802915,
+                  "lng" : -71.1176742197085
+               },
+               "southwest" : {
+                  "lat" : 42.4061353197085,
+                  "lng" : -71.12037218029151
+               }
+            }
+         },
+         "place_id" : "ChIJHwvY2t1244kR5TyD-KE1c64",
+         "plus_code" : {
+            "compound_code" : "CV4J+X9 Medford, Massachusetts, United States",
+            "global_code" : "87JCCV4J+X9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Hall",
+               "short_name" : "East Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Green",
+               "short_name" : "The Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medford",
+               "short_name" : "Medford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02155",
+               "short_name" : "02155",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Hall, 6 The Green, Medford, MA 02155, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4077664,
+                  "lng" : -71.11853099999999
+               },
+               "southwest" : {
+                  "lat" : 42.4075262,
+                  "lng" : -71.11894719999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4076509,
+               "lng" : -71.1187314
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4089952802915,
+                  "lng" : -71.1173901197085
+               },
+               "southwest" : {
+                  "lat" : 42.4062973197085,
+                  "lng" : -71.12008808029151
+               }
+            }
+         },
+         "place_id" : "ChIJUZZbqN1244kRRWOeYInWCQ0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Green",
+               "short_name" : "The Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medford",
+               "short_name" : "Medford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02155",
+               "short_name" : "02155",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 The Green, Medford, MA 02155, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4071892,
+               "lng" : -71.1189679
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.40853818029149,
+                  "lng" : -71.11761891970849
+               },
+               "southwest" : {
+                  "lat" : 42.40584021970849,
+                  "lng" : -71.1203168802915
+               }
+            }
+         },
+         "place_id" : "EiM0IFRoZSBHcmVlbiwgTWVkZm9yZCwgTUEgMDIxNTUsIFVTQSIaEhgKFAoSCSXo6q_dduOJEYSrTj4APOWJEAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medford",
+               "short_name" : "Medford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medford, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.453395,
+                  "lng" : -71.07183209999999
+               },
+               "southwest" : {
+                  "lat" : 42.3961028,
+                  "lng" : -71.1497979
+               }
+            },
+            "location" : {
+               "lat" : 42.4184296,
+               "lng" : -71.1061639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.453395,
+                  "lng" : -71.07183209999999
+               },
+               "southwest" : {
+                  "lat" : 42.3961028,
+                  "lng" : -71.1497979
+               }
+            }
+         },
+         "place_id" : "ChIJVbTqU7d244kR7GVVJqg3NSo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "02155",
+               "short_name" : "02155",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Medford",
+               "short_name" : "Medford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medford, MA 02155, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.457724,
+                  "lng" : -71.07153389999999
+               },
+               "southwest" : {
+                  "lat" : 42.395837,
+                  "lng" : -71.1497979
+               }
+            },
+            "location" : {
+               "lat" : 42.4274971,
+               "lng" : -71.10920120000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.457724,
+                  "lng" : -71.07153389999999
+               },
+               "southwest" : {
+                  "lat" : 42.395837,
+                  "lng" : -71.1497979
+               }
+            }
+         },
+         "place_id" : "ChIJ4cXgpbB244kRVrLFJcEASlo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middlesex County, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.736102,
+                  "lng" : -71.020095
+               },
+               "southwest" : {
+                  "lat" : 42.15669,
+                  "lng" : -71.8987159
+               }
+            },
+            "location" : {
+               "lat" : 42.467206,
+               "lng" : -71.2874209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.736102,
+                  "lng" : -71.020095
+               },
+               "southwest" : {
+                  "lat" : 42.15669,
+                  "lng" : -71.8987159
+               }
+            }
+         },
+         "place_id" : "ChIJmQwtQe4L5IkRCLDyk1MVcOI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "Massachusetts",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            },
+            "location" : {
+               "lat" : 42.4072107,
+               "lng" : -71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            }
+         },
+         "place_id" : "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

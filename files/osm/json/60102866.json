@@ -1,0 +1,528 @@
+{
+   "plus_code" : {
+      "compound_code" : "2WMG+25 Kensington, MD, USA",
+      "global_code" : "87F42WMG+25"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10801",
+               "short_name" : "10801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Connecticut Avenue",
+               "short_name" : "Connecticut Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20895",
+               "short_name" : "20895",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10801 Connecticut Ave, Kensington, MD 20895, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0325116,
+               "lng" : -77.0745989
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0338605802915,
+                  "lng" : -77.07324991970849
+               },
+               "southwest" : {
+                  "lat" : 39.0311626197085,
+                  "lng" : -77.07594788029151
+               }
+            }
+         },
+         "place_id" : "ChIJR3ixksHOt4kRAzKh9WdgzFg",
+         "plus_code" : {
+            "compound_code" : "2WMG+25 Kensington, 13, MD, United States",
+            "global_code" : "87F42WMG+25"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10801",
+               "short_name" : "10801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Connecticut Avenue",
+               "short_name" : "Connecticut Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20895",
+               "short_name" : "20895",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2134",
+               "short_name" : "2134",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "10801 Connecticut Ave, Kensington, MD 20895, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0325543,
+                  "lng" : -77.07451499999999
+               },
+               "southwest" : {
+                  "lat" : 39.0324436,
+                  "lng" : -77.0746589
+               }
+            },
+            "location" : {
+               "lat" : 39.0324684,
+               "lng" : -77.0745917
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0338479302915,
+                  "lng" : -77.07323796970849
+               },
+               "southwest" : {
+                  "lat" : 39.0311499697085,
+                  "lng" : -77.07593593029151
+               }
+            }
+         },
+         "place_id" : "ChIJIeAs7cHOt4kRJ7og4p7Be58",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10801",
+               "short_name" : "10801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Connecticut Avenue",
+               "short_name" : "Connecticut Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20895",
+               "short_name" : "20895",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2134",
+               "short_name" : "2134",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "10801 Connecticut Ave, Kensington, MD 20895, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0325166,
+               "lng" : -77.0745835
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0338655802915,
+                  "lng" : -77.07323451970851
+               },
+               "southwest" : {
+                  "lat" : 39.0311676197085,
+                  "lng" : -77.07593248029151
+               }
+            }
+         },
+         "place_id" : "ChIJw1qvksHOt4kRYAcMzpiZI9k",
+         "plus_code" : {
+            "compound_code" : "2WMG+25 Kensington, 13, MD, United States",
+            "global_code" : "87F42WMG+25"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10803",
+               "short_name" : "10803",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Connecticut Avenue",
+               "short_name" : "Connecticut Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20895",
+               "short_name" : "20895",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2134",
+               "short_name" : "2134",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "10803 Connecticut Ave, Kensington, MD 20895, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0325499,
+               "lng" : -77.074825
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0338988802915,
+                  "lng" : -77.07347601970851
+               },
+               "southwest" : {
+                  "lat" : 39.0312009197085,
+                  "lng" : -77.07617398029151
+               }
+            }
+         },
+         "place_id" : "EjAxMDgwMyBDb25uZWN0aWN1dCBBdmUsIEtlbnNpbmd0b24sIE1EIDIwODk1LCBVU0EiGxIZChQKEgll9FDrwc63iRHZTyCyJEEjbRCzVA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20895",
+               "short_name" : "20895",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kensington, MD 20895, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.033073,
+                  "lng" : -77.065849
+               },
+               "southwest" : {
+                  "lat" : 39.018833,
+                  "lng" : -77.081329
+               }
+            },
+            "location" : {
+               "lat" : 39.0256651,
+               "lng" : -77.0763669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.033073,
+                  "lng" : -77.065849
+               },
+               "southwest" : {
+                  "lat" : 39.018833,
+                  "lng" : -77.081329
+               }
+            }
+         },
+         "place_id" : "ChIJB0HXerXOt4kR7v-0EySKqFU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20895",
+               "short_name" : "20895",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kensington, MD 20895, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0469549,
+                  "lng" : -77.05074979999999
+               },
+               "southwest" : {
+                  "lat" : 39.0060189,
+                  "lng" : -77.121528
+               }
+            },
+            "location" : {
+               "lat" : 39.0182897,
+               "lng" : -77.0737149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0469549,
+                  "lng" : -77.05074979999999
+               },
+               "southwest" : {
+                  "lat" : 39.0060189,
+                  "lng" : -77.121528
+               }
+            }
+         },
+         "place_id" : "ChIJfzwqJLjOt4kR7EQ1pwHU8qs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montgomery County, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3535021,
+                  "lng" : -76.8885051
+               },
+               "southwest" : {
+                  "lat" : 38.934343,
+                  "lng" : -77.52768499999999
+               }
+            },
+            "location" : {
+               "lat" : 39.1547426,
+               "lng" : -77.2405153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3535021,
+                  "lng" : -76.8885051
+               },
+               "southwest" : {
+                  "lat" : 38.934343,
+                  "lng" : -77.52768499999999
+               }
+            }
+         },
+         "place_id" : "ChIJh6O4gzUytokRc2ipdwYZC3g",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maryland",
+               "short_name" : "Maryland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maryland, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.723037,
+                  "lng" : -74.98628189999999
+               },
+               "southwest" : {
+                  "lat" : 37.8866049,
+                  "lng" : -79.48765109999999
+               }
+            },
+            "location" : {
+               "lat" : 39.0457549,
+               "lng" : -76.64127119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.723037,
+                  "lng" : -74.98628189999999
+               },
+               "southwest" : {
+                  "lat" : 37.8866049,
+                  "lng" : -79.48765109999999
+               }
+            }
+         },
+         "place_id" : "ChIJ35Dx6etNtokRsfZVdmU3r_I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

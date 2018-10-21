@@ -1,0 +1,631 @@
+{
+   "plus_code" : {
+      "compound_code" : "C7V8+4R Gatineau, QC, Canada",
+      "global_code" : "87Q6C7V8+4R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "351 Bd St Joseph",
+               "short_name" : "351 Bd St Joseph",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "J8Y 3Z5",
+               "short_name" : "J8Y 3Z5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "351 Bd St Joseph, Gatineau, QC J8Y 3Z5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4427951,
+               "lng" : -75.7329321
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.44414408029149,
+                  "lng" : -75.73158311970849
+               },
+               "southwest" : {
+                  "lat" : 45.4414461197085,
+                  "lng" : -75.73428108029151
+               }
+            }
+         },
+         "place_id" : "ChIJr7Ul7p4EzkwRD_loeKMXUAg",
+         "plus_code" : {
+            "compound_code" : "C7V8+4R Gatineau, Quebec, Canada",
+            "global_code" : "87Q6C7V8+4R"
+         },
+         "types" : [ "establishment", "general_contractor", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "357",
+               "short_name" : "357",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boulevard Saint-Joseph",
+               "short_name" : "Boulevard Saint-Joseph",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "J8Y 3Z5",
+               "short_name" : "J8Y 3Z5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "357 Boulevard Saint-Joseph, Gatineau, QC J8Y 3Z5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4428239,
+               "lng" : -75.7329098
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4441728802915,
+                  "lng" : -75.73156081970851
+               },
+               "southwest" : {
+                  "lat" : 45.4414749197085,
+                  "lng" : -75.73425878029151
+               }
+            }
+         },
+         "place_id" : "ChIJo31-8p4EzkwRZ1-gakmPRFg",
+         "plus_code" : {
+            "compound_code" : "C7V8+4R Gatineau, Quebec, Canada",
+            "global_code" : "87Q6C7V8+4R"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "374",
+               "short_name" : "374",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boulevard Saint-Joseph",
+               "short_name" : "Boulevard Saint-Joseph",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "374 Boulevard Saint-Joseph, Gatineau, QC, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4426978,
+               "lng" : -75.732787
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.44404678029149,
+                  "lng" : -75.73143801970849
+               },
+               "southwest" : {
+                  "lat" : 45.44134881970849,
+                  "lng" : -75.7341359802915
+               }
+            }
+         },
+         "place_id" : "EjAzNzQgQm91bGV2YXJkIFNhaW50LUpvc2VwaCwgR2F0aW5lYXUsIFFDLCBDYW5hZGEiGxIZChQKEgnhfOztngTOTBGpto6GoE6O2RD2Ag",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "J8Y 3Z5",
+               "short_name" : "J8Y 3Z5",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gatineau, QC J8Y 3Z5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.44307999999999,
+                  "lng" : -75.7327828
+               },
+               "southwest" : {
+                  "lat" : 45.4427405,
+                  "lng" : -75.73371329999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4429431,
+               "lng" : -75.73332809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4442592302915,
+                  "lng" : -75.73189906970849
+               },
+               "southwest" : {
+                  "lat" : 45.4415612697085,
+                  "lng" : -75.7345970302915
+               }
+            }
+         },
+         "place_id" : "ChIJjx5I8p4EzkwRLpjtING_C3M",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District Saint - Raymond - Vanier",
+               "short_name" : "District Saint - Raymond - Vanier",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "District Saint - Raymond - Vanier, Gatineau, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4729931,
+                  "lng" : -75.7157309
+               },
+               "southwest" : {
+                  "lat" : 45.440468,
+                  "lng" : -75.75451199999999
+               }
+            },
+            "location" : {
+               "lat" : 45.450276,
+               "lng" : -75.7266867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4729931,
+                  "lng" : -75.7157309
+               },
+               "southwest" : {
+                  "lat" : 45.440468,
+                  "lng" : -75.75451199999999
+               }
+            }
+         },
+         "place_id" : "ChIJA69OW1cDzkwRNhYEgjQH9Cg",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "J8Y",
+               "short_name" : "J8Y",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gatineau, QC J8Y, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4639491,
+                  "lng" : -75.71424999999999
+               },
+               "southwest" : {
+                  "lat" : 45.418557,
+                  "lng" : -75.7856829
+               }
+            },
+            "location" : {
+               "lat" : 45.4518103,
+               "lng" : -75.738755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4639491,
+                  "lng" : -75.71424999999999
+               },
+               "southwest" : {
+                  "lat" : 45.418557,
+                  "lng" : -75.7856829
+               }
+            }
+         },
+         "place_id" : "ChIJG_d7gmUDzkwRYHKB2EN5DkU",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelsea",
+               "short_name" : "Chelsea",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hull, Gatineau, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.49036,
+                  "lng" : -75.692753
+               },
+               "southwest" : {
+                  "lat" : 45.412039,
+                  "lng" : -75.80021289999999
+               }
+            },
+            "location" : {
+               "lat" : 45.428731,
+               "lng" : -75.71336579999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.49036,
+                  "lng" : -75.692753
+               },
+               "southwest" : {
+                  "lat" : 45.412039,
+                  "lng" : -75.80021289999999
+               }
+            }
+         },
+         "place_id" : "ChIJcdbFKUcDzkwRwC1S-W3s2W4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gatineau",
+               "short_name" : "Gatineau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gatineau, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5991241,
+                  "lng" : -75.345091
+               },
+               "southwest" : {
+                  "lat" : 45.371874,
+                  "lng" : -75.9087617
+               }
+            },
+            "location" : {
+               "lat" : 45.4765446,
+               "lng" : -75.7012723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5991241,
+                  "lng" : -75.345091
+               },
+               "southwest" : {
+                  "lat" : 45.371874,
+                  "lng" : -75.9087617
+               }
+            }
+         },
+         "place_id" : "ChIJU-6rC34azkwRVgkUGnD17Xw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "short_name" : "Communauté-Urbaine-de-l'Outaouais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Communauté-Urbaine-de-l'Outaouais, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5991241,
+                  "lng" : -75.345091
+               },
+               "southwest" : {
+                  "lat" : 45.371874,
+                  "lng" : -75.9087619
+               }
+            },
+            "location" : {
+               "lat" : 45.5156528,
+               "lng" : -75.6740523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5991241,
+                  "lng" : -75.345091
+               },
+               "southwest" : {
+                  "lat" : 45.371874,
+                  "lng" : -75.9087619
+               }
+            }
+         },
+         "place_id" : "ChIJT-HvEowQzkwREBTG8Em0Yro",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quebec",
+               "short_name" : "Quebec",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            },
+            "location" : {
+               "lat" : 52.9399159,
+               "lng" : -73.5491361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            }
+         },
+         "place_id" : "ChIJoajRnzS1WEwRIABNrq0MBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

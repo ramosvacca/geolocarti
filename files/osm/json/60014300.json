@@ -1,0 +1,582 @@
+{
+   "plus_code" : {
+      "compound_code" : "CGG5+MC San Antonio, TX, USA",
+      "global_code" : "76X3CGG5+MC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suite 300",
+               "short_name" : "Suite 300",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soledad Street",
+               "short_name" : "Soledad St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78205",
+               "short_name" : "78205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "111 Soledad St Suite 300, San Antonio, TX 78205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.42673569999999,
+               "lng" : -98.49149240000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.42808468029149,
+                  "lng" : -98.49014341970852
+               },
+               "southwest" : {
+                  "lat" : 29.4253867197085,
+                  "lng" : -98.49284138029152
+               }
+            }
+         },
+         "place_id" : "ChIJneQKzVJfXIYRnG5MTjgkHRQ",
+         "plus_code" : {
+            "compound_code" : "CGG5+MC San Antonio, Texas, United States",
+            "global_code" : "76X3CGG5+MC"
+         },
+         "types" : [ "establishment", "lawyer", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "175",
+               "short_name" : "175",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Houston Street",
+               "short_name" : "E Houston St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78205",
+               "short_name" : "78205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "175 E Houston St, San Antonio, TX 78205, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.427002,
+                  "lng" : -98.4914283
+               },
+               "southwest" : {
+                  "lat" : 29.4265228,
+                  "lng" : -98.4921018
+               }
+            },
+            "location" : {
+               "lat" : 29.42673569999999,
+               "lng" : -98.49149240000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4281113802915,
+                  "lng" : -98.49041606970849
+               },
+               "southwest" : {
+                  "lat" : 29.4254134197085,
+                  "lng" : -98.49311403029151
+               }
+            }
+         },
+         "place_id" : "ChIJHbryF1NfXIYR82i2nrSZjuE",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "311",
+               "short_name" : "311",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Saint Mary's Street",
+               "short_name" : "N St Mary's St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78205",
+               "short_name" : "78205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "311 N St Mary's St, San Antonio, TX 78205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.4267652,
+               "lng" : -98.4914888
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4281141802915,
+                  "lng" : -98.49013981970849
+               },
+               "southwest" : {
+                  "lat" : 29.4254162197085,
+                  "lng" : -98.4928377802915
+               }
+            }
+         },
+         "place_id" : "ChIJ68hoFVNfXIYRzd_6rCK8zpA",
+         "plus_code" : {
+            "compound_code" : "CGG5+PC San Antonio, Texas, United States",
+            "global_code" : "76X3CGG5+PC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "322",
+               "short_name" : "322",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Saint Mary's Street",
+               "short_name" : "N St Mary's St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78205",
+               "short_name" : "78205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "322 N St Mary's St, San Antonio, TX 78205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.4267368,
+               "lng" : -98.49133719999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4280857802915,
+                  "lng" : -98.48998821970849
+               },
+               "southwest" : {
+                  "lat" : 29.4253878197085,
+                  "lng" : -98.4926861802915
+               }
+            }
+         },
+         "place_id" : "Ei4zMjIgTiBTdCBNYXJ5J3MgU3QsIFNhbiBBbnRvbmlvLCBUWCA3ODIwNSwgVVNBIhsSGQoUChIJDeiRFVNfXIYRGNID0pJHzBwQwgI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "78205",
+               "short_name" : "78205",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Antonio, TX 78205, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.436588,
+                  "lng" : -98.468075
+               },
+               "southwest" : {
+                  "lat" : 29.4128519,
+                  "lng" : -98.497957
+               }
+            },
+            "location" : {
+               "lat" : 29.422658,
+               "lng" : -98.48699049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.436588,
+                  "lng" : -98.468075
+               },
+               "southwest" : {
+                  "lat" : 29.4128519,
+                  "lng" : -98.497957
+               }
+            }
+         },
+         "place_id" : "ChIJGfaPt6pYXIYRjGJaIKQdkeQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown, San Antonio, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4403841,
+                  "lng" : -98.47323009999999
+               },
+               "southwest" : {
+                  "lat" : 29.396064,
+                  "lng" : -98.512002
+               }
+            },
+            "location" : {
+               "lat" : 29.4284183,
+               "lng" : -98.48699049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4403841,
+                  "lng" : -98.47323009999999
+               },
+               "southwest" : {
+                  "lat" : 29.396064,
+                  "lng" : -98.512002
+               }
+            }
+         },
+         "place_id" : "ChIJJWzCh1RfXIYRTkryFr9syK4",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Antonio, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.73872,
+                  "lng" : -98.22295799999999
+               },
+               "southwest" : {
+                  "lat" : 29.2241411,
+                  "lng" : -98.8058509
+               }
+            },
+            "location" : {
+               "lat" : 29.4241219,
+               "lng" : -98.49362819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.73872,
+                  "lng" : -98.22295799999999
+               },
+               "southwest" : {
+                  "lat" : 29.2241411,
+                  "lng" : -98.8058509
+               }
+            }
+         },
+         "place_id" : "ChIJrw7QBK9YXIYRvBagEDvhVgg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bexar County, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7607131,
+                  "lng" : -98.11690209999999
+               },
+               "southwest" : {
+                  "lat" : 29.114435,
+                  "lng" : -98.806552
+               }
+            },
+            "location" : {
+               "lat" : 29.4200763,
+               "lng" : -98.5721016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7607131,
+                  "lng" : -98.11690209999999
+               },
+               "southwest" : {
+                  "lat" : 29.114435,
+                  "lng" : -98.806552
+               }
+            }
+         },
+         "place_id" : "ChIJycWfxDz1XIYRgQasSE1FyTI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texas",
+               "short_name" : "Texas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            },
+            "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            }
+         },
+         "place_id" : "ChIJSTKCCzZwQIYRPN4IGI8c6xY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "3H5R+P8 Tampa, FL, USA",
+      "global_code" : "76WV3H5R+P8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Business Administration Building",
+               "short_name" : "Business Administration Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "12212",
+               "short_name" : "12212",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "USF Maple Drive",
+               "short_name" : "USF Maple Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tampa",
+               "short_name" : "Tampa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33620",
+               "short_name" : "33620",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Business Administration Building, 12212 USF Maple Drive, Tampa, FL 33620, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0586084,
+                  "lng" : -82.4090873
+               },
+               "southwest" : {
+                  "lat" : 28.0578817,
+                  "lng" : -82.4102673
+               }
+            },
+            "location" : {
+               "lat" : 28.0583524,
+               "lng" : -82.4098796
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0595940302915,
+                  "lng" : -82.4083283197085
+               },
+               "southwest" : {
+                  "lat" : 28.05689606970849,
+                  "lng" : -82.41102628029151
+               }
+            }
+         },
+         "place_id" : "ChIJwevkZMfHwogRRXVOtpXExe0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12212",
+               "short_name" : "12212",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "USF Maple Drive",
+               "short_name" : "USF Maple Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tampa",
+               "short_name" : "Tampa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33620",
+               "short_name" : "33620",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12212 USF Maple Drive, Tampa, FL 33620, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.0585599,
+               "lng" : -82.40877859999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0599088802915,
+                  "lng" : -82.40742961970848
+               },
+               "southwest" : {
+                  "lat" : 28.0572109197085,
+                  "lng" : -82.4101275802915
+               }
+            }
+         },
+         "place_id" : "EisxMjIxMiBVU0YgTWFwbGUgRHJpdmUsIFRhbXBhLCBGTCAzMzYyMCwgVVNBIhsSGQoUChIJ9ykcOcfHwogRsBQ6Mf6VxEIQtF8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4202",
+               "short_name" : "4202",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Fowler Avenue",
+               "short_name" : "E Fowler Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tampa",
+               "short_name" : "Tampa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tampa",
+               "short_name" : "Tampa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33620",
+               "short_name" : "33620",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4202 E Fowler Ave, Tampa, FL 33620, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.0587031,
+               "lng" : -82.41385389999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0600520802915,
+                  "lng" : -82.41250491970848
+               },
+               "southwest" : {
+                  "lat" : 28.0573541197085,
+                  "lng" : -82.41520288029149
+               }
+            }
+         },
+         "place_id" : "ChIJ0__Gw77HwogRapBRXB509LE",
+         "plus_code" : {
+            "compound_code" : "3H5P+FF Tampa, Florida, United States",
+            "global_code" : "76WV3H5P+FF"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33620",
+               "short_name" : "33620",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tampa",
+               "short_name" : "Tampa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampa, FL 33620, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.069129,
+                  "lng" : -82.4046439
+               },
+               "southwest" : {
+                  "lat" : 28.0544389,
+                  "lng" : -82.42300010000001
+               }
+            },
+            "location" : {
+               "lat" : 28.0634666,
+               "lng" : -82.4129729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.069129,
+                  "lng" : -82.4046439
+               },
+               "southwest" : {
+                  "lat" : 28.0544389,
+                  "lng" : -82.42300010000001
+               }
+            }
+         },
+         "place_id" : "ChIJERNFsb7HwogRH9hQo7C7aQg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tampa",
+               "short_name" : "Tampa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampa, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1714781,
+                  "lng" : -82.2597409
+               },
+               "southwest" : {
+                  "lat" : 27.817487,
+                  "lng" : -82.64882
+               }
+            },
+            "location" : {
+               "lat" : 27.950575,
+               "lng" : -82.45717759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1714781,
+                  "lng" : -82.2597409
+               },
+               "southwest" : {
+                  "lat" : 27.817487,
+                  "lng" : -82.64882
+               }
+            }
+         },
+         "place_id" : "ChIJ4dG5s4K3wogRY7SWr4kTX6c",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hillsborough County, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1733791,
+                  "lng" : -82.054012
+               },
+               "southwest" : {
+                  "lat" : 27.57055,
+                  "lng" : -82.823669
+               }
+            },
+            "location" : {
+               "lat" : 27.9903597,
+               "lng" : -82.30177279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1733791,
+                  "lng" : -82.054012
+               },
+               "southwest" : {
+                  "lat" : 27.57055,
+                  "lng" : -82.823669
+               }
+            }
+         },
+         "place_id" : "ChIJlY4KVxI13YgRDPMa3yohOts",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florida",
+               "short_name" : "Florida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florida, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.000968,
+                  "lng" : -79.974306
+               },
+               "southwest" : {
+                  "lat" : 24.396308,
+                  "lng" : -87.634896
+               }
+            },
+            "location" : {
+               "lat" : 27.6648274,
+               "lng" : -81.5157535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.000968,
+                  "lng" : -79.974306
+               },
+               "southwest" : {
+                  "lat" : 24.396308,
+                  "lng" : -87.634896
+               }
+            }
+         },
+         "place_id" : "ChIJvypWkWV2wYgR0E7HW9MTLvc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

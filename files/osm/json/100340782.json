@@ -1,0 +1,680 @@
+{
+   "plus_code" : {
+      "compound_code" : "7XFQ+HW Longstanton, UK",
+      "global_code" : "9C4X7XFQ+HW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anderson Road",
+               "short_name" : "Anderson Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Swavesey",
+               "short_name" : "Swavesey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB24 4UG",
+               "short_name" : "CB24 4UG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buckingway Business Park, Rowles Way, Swavesey, Anderson Rd, Swavesey, Cambridge CB24 4UG, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.273995,
+               "lng" : -0.0101561
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2753439802915,
+                  "lng" : -0.008807119708497969
+               },
+               "southwest" : {
+                  "lat" : 52.2726460197085,
+                  "lng" : -0.01150508029150203
+               }
+            }
+         },
+         "place_id" : "ChIJ2QeGFK3Yd0gRHIR0cAXruas",
+         "plus_code" : {
+            "compound_code" : "7XFQ+HW Longstanton, United Kingdom",
+            "global_code" : "9C4X7XFQ+HW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rowles Way",
+               "short_name" : "Rowles Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Swavesey",
+               "short_name" : "Swavesey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB24 4UG",
+               "short_name" : "CB24 4UG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 Rowles Way, Swavesey, Cambridge CB24 4UG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2746096,
+               "lng" : -0.0103837
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.27595858029149,
+                  "lng" : -0.009034719708497969
+               },
+               "southwest" : {
+                  "lat" : 52.2732606197085,
+                  "lng" : -0.01173268029150203
+               }
+            }
+         },
+         "place_id" : "ChIJ2weGFK3Yd0gRxiPmumtPTpU",
+         "plus_code" : {
+            "compound_code" : "7XFQ+RR Longstanton, United Kingdom",
+            "global_code" : "9C4X7XFQ+RR"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anderson Road",
+               "short_name" : "Anderson Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Swavesey",
+               "short_name" : "Swavesey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB24",
+               "short_name" : "CB24",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Anderson Rd, Swavesey, Cambridge CB24, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.27397,
+                  "lng" : -0.0085859
+               },
+               "southwest" : {
+                  "lat" : 52.2733359,
+                  "lng" : -0.0097351
+               }
+            },
+            "location" : {
+               "lat" : 52.273653,
+               "lng" : -0.0091605
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2750019302915,
+                  "lng" : -0.00781151970849797
+               },
+               "southwest" : {
+                  "lat" : 52.2723039697085,
+                  "lng" : -0.01050948029150203
+               }
+            }
+         },
+         "place_id" : "ChIJG_RpAK3Yd0gRjpFB-NNnEp4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CB24 4AE",
+               "short_name" : "CB24 4AE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Swavesey",
+               "short_name" : "Swavesey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swavesey, Cambridge CB24 4AE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2772246,
+                  "lng" : -0.0067026
+               },
+               "southwest" : {
+                  "lat" : 52.2696183,
+                  "lng" : -0.0218689
+               }
+            },
+            "location" : {
+               "lat" : 52.2726017,
+               "lng" : -0.0102245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2772246,
+                  "lng" : -0.0067026
+               },
+               "southwest" : {
+                  "lat" : 52.2696183,
+                  "lng" : -0.0218689
+               }
+            }
+         },
+         "place_id" : "ChIJ5UMsWLLYd0gRA_JJS6bPOg0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swavesey",
+               "short_name" : "Swavesey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swavesey, Cambridge, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3217394,
+                  "lng" : 0.0310168
+               },
+               "southwest" : {
+                  "lat" : 52.2606713,
+                  "lng" : -0.0322547
+               }
+            },
+            "location" : {
+               "lat" : 52.3010639,
+               "lng" : -0.004534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3217394,
+                  "lng" : 0.0310168
+               },
+               "southwest" : {
+                  "lat" : 52.2606713,
+                  "lng" : -0.0322547
+               }
+            }
+         },
+         "place_id" : "ChIJiV9nIFzfd0gRGnyUo-ergdA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swavesey",
+               "short_name" : "Swavesey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Swavesey",
+               "short_name" : "Swavesey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swavesey, Cambridge, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3217394,
+                  "lng" : 0.0310168
+               },
+               "southwest" : {
+                  "lat" : 52.2606713,
+                  "lng" : -0.0322547
+               }
+            },
+            "location" : {
+               "lat" : 52.2921814,
+               "lng" : -0.0060316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3217394,
+                  "lng" : 0.0310168
+               },
+               "southwest" : {
+                  "lat" : 52.2606713,
+                  "lng" : -0.0322547
+               }
+            }
+         },
+         "place_id" : "ChIJXXLeHIh12EcRLtiL6dMaaOQ",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CB24",
+               "short_name" : "CB24",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridge CB24, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3444616,
+                  "lng" : 0.2235652
+               },
+               "southwest" : {
+                  "lat" : 52.2087654,
+                  "lng" : -0.0579667
+               }
+            },
+            "location" : {
+               "lat" : 52.2974767,
+               "lng" : 0.07244109999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3444616,
+                  "lng" : 0.2235652
+               },
+               "southwest" : {
+                  "lat" : 52.2087654,
+                  "lng" : -0.0579667
+               }
+            }
+         },
+         "place_id" : "ChIJRzodKoZt2EcR6gBun-pPeZI",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3444616,
+                  "lng" : 0.4020126
+               },
+               "southwest" : {
+                  "lat" : 52.0382356,
+                  "lng" : -0.1549663
+               }
+            },
+            "location" : {
+               "lat" : 52.23363,
+               "lng" : 0.1446548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3444616,
+                  "lng" : 0.4020126
+               },
+               "southwest" : {
+                  "lat" : 52.0382356,
+                  "lng" : -0.1549663
+               }
+            }
+         },
+         "place_id" : "ChIJOdwAK55w2EcRXlkikQCugFI",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Cambridgeshire District",
+               "short_name" : "South Cambridgeshire District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Cambridgeshire District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3534939,
+                  "lng" : 0.420856
+               },
+               "southwest" : {
+                  "lat" : 52.0057843,
+                  "lng" : -0.2348269
+               }
+            },
+            "location" : {
+               "lat" : 52.1487594,
+               "lng" : 0.0480241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3534939,
+                  "lng" : 0.420856
+               },
+               "southwest" : {
+                  "lat" : 52.0057843,
+                  "lng" : -0.2348269
+               }
+            }
+         },
+         "place_id" : "ChIJ3T9odvd52EcRgOPBu6gcDgQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7399809,
+                  "lng" : 0.5144548
+               },
+               "southwest" : {
+                  "lat" : 52.005779,
+                  "lng" : -0.4999075
+               }
+            },
+            "location" : {
+               "lat" : 52.2052973,
+               "lng" : 0.1218195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7399809,
+                  "lng" : 0.5144548
+               },
+               "southwest" : {
+                  "lat" : 52.005779,
+                  "lng" : -0.4999075
+               }
+            }
+         },
+         "place_id" : "ChIJofUImRD210cR-iJr8SWphk4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

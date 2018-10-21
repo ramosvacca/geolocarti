@@ -1,0 +1,436 @@
+{
+   "plus_code" : {
+      "compound_code" : "M95P+69 Toledo, OH, USA",
+      "global_code" : "86HRM95P+69"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3028-3042",
+               "short_name" : "3028-3042",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Glass Bowl Drive",
+               "short_name" : "North Glass Bowl Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucas County",
+               "short_name" : "Lucas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43606",
+               "short_name" : "43606",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3028-3042 North Glass Bowl Drive, Toledo, OH 43606, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6580307,
+               "lng" : -83.61407010000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6593796802915,
+                  "lng" : -83.61272111970851
+               },
+               "southwest" : {
+                  "lat" : 41.6566817197085,
+                  "lng" : -83.61541908029152
+               }
+            }
+         },
+         "place_id" : "ChIJwQlj-Ml4PIgRI38nkXIUMUI",
+         "plus_code" : {
+            "compound_code" : "M95P+69 Toledo, Ohio, United States",
+            "global_code" : "86HRM95P+69"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3030",
+               "short_name" : "3030",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Glass Bowl Drive",
+               "short_name" : "North Glass Bowl Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43606",
+               "short_name" : "43606",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3030 North Glass Bowl Drive, Toledo, OH 43606, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6581919,
+               "lng" : -83.61410870000002
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6595408802915,
+                  "lng" : -83.61275971970852
+               },
+               "southwest" : {
+                  "lat" : 41.6568429197085,
+                  "lng" : -83.61545768029153
+               }
+            }
+         },
+         "place_id" : "EjIzMDMwIE5vcnRoIEdsYXNzIEJvd2wgRHJpdmUsIFRvbGVkbywgT0ggNDM2MDYsIFVTQSIbEhkKFAoSCaEytAPKeDyIEWNB_Ny4WOC7ENYX",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucas County",
+               "short_name" : "Lucas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, Toledo, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6828491,
+                  "lng" : -83.565634
+               },
+               "southwest" : {
+                  "lat" : 41.652549,
+                  "lng" : -83.6224351
+               }
+            },
+            "location" : {
+               "lat" : 41.6670921,
+               "lng" : -83.59758819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6828491,
+                  "lng" : -83.565634
+               },
+               "southwest" : {
+                  "lat" : 41.652549,
+                  "lng" : -83.6224351
+               }
+            }
+         },
+         "place_id" : "ChIJrYLxblZ_PIgR3N2yZToZrXo",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "43606",
+               "short_name" : "43606",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucas County",
+               "short_name" : "Lucas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toledo, OH 43606, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.691284,
+                  "lng" : -83.561995
+               },
+               "southwest" : {
+                  "lat" : 41.6528591,
+                  "lng" : -83.64559509999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6735366,
+               "lng" : -83.624201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.691284,
+                  "lng" : -83.561995
+               },
+               "southwest" : {
+                  "lat" : 41.6528591,
+                  "lng" : -83.64559509999999
+               }
+            }
+         },
+         "place_id" : "ChIJBabOAkZ_PIgRbUdBAHNdtDQ",
+         "postcode_localities" : [ "Ottawa Hills", "Toledo" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucas County",
+               "short_name" : "Lucas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toledo, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.732844,
+                  "lng" : -83.454229
+               },
+               "southwest" : {
+                  "lat" : 41.580266,
+                  "lng" : -83.69423700000002
+               }
+            },
+            "location" : {
+               "lat" : 41.6528052,
+               "lng" : -83.5378674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.732844,
+                  "lng" : -83.454229
+               },
+               "southwest" : {
+                  "lat" : 41.580266,
+                  "lng" : -83.69423700000002
+               }
+            }
+         },
+         "place_id" : "ChIJeU4e_C2HO4gRRcM6RZ_IPHw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lucas County",
+               "short_name" : "Lucas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lucas County, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9594101,
+                  "lng" : -82.995572
+               },
+               "southwest" : {
+                  "lat" : 41.41413490000001,
+                  "lng" : -83.8832341
+               }
+            },
+            "location" : {
+               "lat" : 41.6894388,
+               "lng" : -83.37893889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9594101,
+                  "lng" : -82.995572
+               },
+               "southwest" : {
+                  "lat" : 41.41413490000001,
+                  "lng" : -83.8832341
+               }
+            }
+         },
+         "place_id" : "ChIJS5kUC-SAO4gRIxIketBtTLY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ohio",
+               "short_name" : "Ohio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ohio, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.327132,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            },
+            "location" : {
+               "lat" : 40.4172871,
+               "lng" : -82.90712300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.327132,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            }
+         },
+         "place_id" : "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

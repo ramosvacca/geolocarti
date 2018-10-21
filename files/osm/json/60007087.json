@@ -1,0 +1,424 @@
+{
+   "plus_code" : {
+      "compound_code" : "XC73+W7 Valparaíso, Chile",
+      "global_code" : "47RCXC73+W7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1680",
+               "short_name" : "1680",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida España",
+               "short_name" : "Av. España",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de Valparaíso",
+               "short_name" : "Región de Valparaíso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. España 1680, Valparaíso, Región de Valparaíso, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -33.0352386,
+               "lng" : -71.5967794
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0338896197085,
+                  "lng" : -71.59543041970849
+               },
+               "southwest" : {
+                  "lat" : -33.0365875802915,
+                  "lng" : -71.59812838029151
+               }
+            }
+         },
+         "place_id" : "ChIJZSWoQcrgiZYRJwnNefxn1S8",
+         "plus_code" : {
+            "compound_code" : "XC73+W7 Valparaíso, Chile",
+            "global_code" : "47RCXC73+W7"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida España",
+               "short_name" : "Av. España",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Región de Valparaíso",
+               "short_name" : "Región de Valparaíso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1680 - Av. España, Valparaíso, Región de Valparaíso, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -33.0352386,
+               "lng" : -71.5967794
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0338896197085,
+                  "lng" : -71.59543041970849
+               },
+               "southwest" : {
+                  "lat" : -33.0365875802915,
+                  "lng" : -71.59812838029151
+               }
+            }
+         },
+         "place_id" : "ChIJL_ec1Y_giZYRKTlu6li17dQ",
+         "plus_code" : {
+            "compound_code" : "XC73+W7 Valparaíso, Chile",
+            "global_code" : "47RCXC73+W7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "160",
+               "short_name" : "160",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Subida San Luis",
+               "short_name" : "Subida San Luis",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Región de Valparaíso",
+               "short_name" : "Región de Valparaíso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Subida San Luis 160, Valparaíso, Región de Valparaíso, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -33.0355017,
+               "lng" : -71.59746659999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0341527197085,
+                  "lng" : -71.59611761970848
+               },
+               "southwest" : {
+                  "lat" : -33.0368506802915,
+                  "lng" : -71.5988155802915
+               }
+            }
+         },
+         "place_id" : "Ej9TdWJpZGEgU2FuIEx1aXMgMTYwLCBWYWxwYXJhw61zbywgUmVnacOzbiBkZSBWYWxwYXJhw61zbywgQ2hpbGUiGxIZChQKEgl38j4OyuCJlhHrXsYSoZeFZhCgAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso Province",
+               "short_name" : "Valparaíso Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso Region",
+               "short_name" : "Valparaiso Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valparaíso, Valparaiso Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.0178165,
+                  "lng" : -71.5597684
+               },
+               "southwest" : {
+                  "lat" : -33.0835991,
+                  "lng" : -71.6623287
+               }
+            },
+            "location" : {
+               "lat" : -33.047238,
+               "lng" : -71.61268849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0178165,
+                  "lng" : -71.5597684
+               },
+               "southwest" : {
+                  "lat" : -33.0835991,
+                  "lng" : -71.6623287
+               }
+            }
+         },
+         "place_id" : "ChIJx84g3uPdiZYRdpvhv4w6Cus",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de Valparaíso",
+               "short_name" : "Región de Valparaíso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valparaíso, Región de Valparaíso, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.2861847,
+                  "lng" : -71.38561109999999
+               },
+               "southwest" : {
+                  "lat" : -33.2149744,
+                  "lng" : -80.1146169
+               }
+            },
+            "location" : {
+               "lat" : -33.0456463,
+               "lng" : -71.62036069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.2861847,
+                  "lng" : -71.38561109999999
+               },
+               "southwest" : {
+                  "lat" : -33.2149744,
+                  "lng" : -80.1146169
+               }
+            }
+         },
+         "place_id" : "ChIJ7Yfim1d1YpYRvvQL2BTQHts",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valparaíso Province",
+               "short_name" : "Valparaíso Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso Region",
+               "short_name" : "Valparaiso Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valparaíso Province, Valparaiso Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.2861847,
+                  "lng" : -71.2028074
+               },
+               "southwest" : {
+                  "lat" : -33.8163822,
+                  "lng" : -80.8373874
+               }
+            },
+            "location" : {
+               "lat" : -33.0456463,
+               "lng" : -71.62036069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.2861847,
+                  "lng" : -71.2028074
+               },
+               "southwest" : {
+                  "lat" : -33.8163822,
+                  "lng" : -80.8373874
+               }
+            }
+         },
+         "place_id" : "ChIJ_8SDfJJuYpYRt810yECat60",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valparaiso Region",
+               "short_name" : "Valparaiso Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valparaiso Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.2861847,
+                  "lng" : -69.99141539999999
+               },
+               "southwest" : {
+                  "lat" : -33.9556781,
+                  "lng" : -109.4499342
+               }
+            },
+            "location" : {
+               "lat" : -32.5040172,
+               "lng" : -71.0022311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.2861847,
+                  "lng" : -69.99141539999999
+               },
+               "southwest" : {
+                  "lat" : -33.9556781,
+                  "lng" : -109.4499342
+               }
+            }
+         },
+         "place_id" : "ChIJgQQv5TIRiJYRXsgoZ5nfWBE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.4983291,
+                  "lng" : -66.3327
+               },
+               "southwest" : {
+                  "lat" : -56.1455,
+                  "lng" : -110.0281
+               }
+            },
+            "location" : {
+               "lat" : -35.675147,
+               "lng" : -71.542969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.4983291,
+                  "lng" : -66.3327
+               },
+               "southwest" : {
+                  "lat" : -56.1455,
+                  "lng" : -110.0281
+               }
+            }
+         },
+         "place_id" : "ChIJL68lBEHFYpYRHbkCERPhBQU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

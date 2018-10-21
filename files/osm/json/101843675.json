@@ -1,0 +1,513 @@
+{
+   "plus_code" : {
+      "compound_code" : "5J2C+48 Munich, Germany",
+      "global_code" : "8FWH5J2C+48"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Arabellastraße",
+               "short_name" : "Arabellastraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bogenhausen",
+               "short_name" : "Bogenhausen",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "München",
+               "short_name" : "München",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81925",
+               "short_name" : "81925",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arabellastraße 17, 81925 München, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.15027250000001,
+               "lng" : 11.6208388
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.15162148029151,
+                  "lng" : 11.6221877802915
+               },
+               "southwest" : {
+                  "lat" : 48.14892351970851,
+                  "lng" : 11.6194898197085
+               }
+            }
+         },
+         "place_id" : "ChIJScNkrRJ1nkcRkVc5PpT_SiY",
+         "plus_code" : {
+            "compound_code" : "5J2C+48 Munich, Germany",
+            "global_code" : "8FWH5J2C+48"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Arabellastraße",
+               "short_name" : "Arabellastraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bogenhausen",
+               "short_name" : "Bogenhausen",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "München",
+               "short_name" : "München",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81925",
+               "short_name" : "81925",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arabellastraße 17, 81925 München, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.15027250000001,
+               "lng" : 11.6208388
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.15162148029151,
+                  "lng" : 11.6221877802915
+               },
+               "southwest" : {
+                  "lat" : 48.14892351970851,
+                  "lng" : 11.6194898197085
+               }
+            }
+         },
+         "place_id" : "ChIJScNkrRJ1nkcR4o9rokKtm0I",
+         "plus_code" : {
+            "compound_code" : "5J2C+48 Munich, Germany",
+            "global_code" : "8FWH5J2C+48"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Arabellastraße",
+               "short_name" : "Arabellastraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bogenhausen",
+               "short_name" : "Bogenhausen",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "München",
+               "short_name" : "München",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81925",
+               "short_name" : "81925",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arabellastraße 30, 81925 München, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.1499633,
+               "lng" : 11.6208808
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.15131228029149,
+                  "lng" : 11.62222978029151
+               },
+               "southwest" : {
+                  "lat" : 48.14861431970849,
+                  "lng" : 11.6195318197085
+               }
+            }
+         },
+         "place_id" : "Ei9BcmFiZWxsYXN0cmHDn2UgMzAsIDgxOTI1IE3DvG5jaGVuLCBEZXV0c2NobGFuZCIaEhgKFAoSCZ3LNUxtdZ5HEeupQ1Nb1uESEB4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "81925",
+               "short_name" : "81925",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bogenhausen",
+               "short_name" : "Bogenhausen",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "Munich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "81925 Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.18260799999999,
+                  "lng" : 11.6367641
+               },
+               "southwest" : {
+                  "lat" : 48.144959,
+                  "lng" : 11.6060021
+               }
+            },
+            "location" : {
+               "lat" : 48.1626868,
+               "lng" : 11.6217484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.18260799999999,
+                  "lng" : 11.6367641
+               },
+               "southwest" : {
+                  "lat" : 48.144959,
+                  "lng" : 11.6060021
+               }
+            }
+         },
+         "place_id" : "ChIJC23UXQR1nkcRgJh2O6clHRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogenhausen",
+               "short_name" : "Bogenhausen",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "Munich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "Munich",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogenhausen, Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1828617,
+                  "lng" : 11.6961096
+               },
+               "southwest" : {
+                  "lat" : 48.1344429,
+                  "lng" : 11.5944968
+               }
+            },
+            "location" : {
+               "lat" : 48.1573553,
+               "lng" : 11.6492477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1828617,
+                  "lng" : 11.6961096
+               },
+               "southwest" : {
+                  "lat" : 48.1344429,
+                  "lng" : 11.5944968
+               }
+            }
+         },
+         "place_id" : "ChIJX1uexiR1nkcRoKg5CaQlHQU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Munich",
+               "short_name" : "Munich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2482197,
+                  "lng" : 11.7228755
+               },
+               "southwest" : {
+                  "lat" : 48.0616018,
+                  "lng" : 11.360796
+               }
+            },
+            "location" : {
+               "lat" : 48.1351253,
+               "lng" : 11.5819805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2482197,
+                  "lng" : 11.7228755
+               },
+               "southwest" : {
+                  "lat" : 48.0616018,
+                  "lng" : 11.360796
+               }
+            }
+         },
+         "place_id" : "ChIJ2V-Mo_l1nkcRfZixfUq4DAE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Bavaria, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0876959,
+                  "lng" : 13.0989291
+               },
+               "southwest" : {
+                  "lat" : 47.3933482,
+                  "lng" : 10.7156838
+               }
+            },
+            "location" : {
+               "lat" : 47.9520866,
+               "lng" : 11.7877295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0876959,
+                  "lng" : 13.0989291
+               },
+               "southwest" : {
+                  "lat" : 47.3933482,
+                  "lng" : 10.7156838
+               }
+            }
+         },
+         "place_id" : "ChIJOxnyw4oPnkcRxA8bO3kOAUA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "Bavaria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bavaria, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            },
+            "location" : {
+               "lat" : 48.7904472,
+               "lng" : 11.4978895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            }
+         },
+         "place_id" : "ChIJqVPfD0wEn0cRYHk4CaQlHQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

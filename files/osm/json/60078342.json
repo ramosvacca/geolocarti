@@ -1,0 +1,501 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fritz-Vomfelde-Straße",
+               "short_name" : "Fritz-Vomfelde-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stadtbezirk 4",
+               "short_name" : "Stadtbezirk 4",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40547",
+               "short_name" : "40547",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fritz-Vomfelde-Straße 16, 40547 Düsseldorf, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.239825,
+               "lng" : 6.7355079
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.24117398029149,
+                  "lng" : 6.736856880291502
+               },
+               "southwest" : {
+                  "lat" : 51.23847601970849,
+                  "lng" : 6.734158919708498
+               }
+            }
+         },
+         "place_id" : "ChIJY14Lnwm2uEcRosXcLuGDCVM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Düsseldorf-Lörick",
+               "short_name" : "Düsseldorf-Lörick",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "District 4",
+               "short_name" : "District 4",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhein-Kreis Neuss",
+               "short_name" : "Rhein-Kreis Neuss",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Düsseldorf-Lörick, Düsseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.25856590000001,
+                  "lng" : 6.745877
+               },
+               "southwest" : {
+                  "lat" : 51.237747,
+                  "lng" : 6.716178299999999
+               }
+            },
+            "location" : {
+               "lat" : 51.2454683,
+               "lng" : 6.7320147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.25856590000001,
+                  "lng" : 6.745877
+               },
+               "southwest" : {
+                  "lat" : 51.237747,
+                  "lng" : 6.716178299999999
+               }
+            }
+         },
+         "place_id" : "ChIJb6-hxAq2uEcRIF8mM1o7kh4",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District 4",
+               "short_name" : "District 4",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhein-Kreis Neuss",
+               "short_name" : "Rhein-Kreis Neuss",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "District 4, Düsseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.25856590000001,
+                  "lng" : 6.7686328
+               },
+               "southwest" : {
+                  "lat" : 51.22002980000001,
+                  "lng" : 6.6887617
+               }
+            },
+            "location" : {
+               "lat" : 51.242687,
+               "lng" : 6.7346537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.25856590000001,
+                  "lng" : 6.7686328
+               },
+               "southwest" : {
+                  "lat" : 51.22002980000001,
+                  "lng" : 6.6887617
+               }
+            }
+         },
+         "place_id" : "ChIJCfIGcHW2uEcR9x2hzHR_ccw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Düsseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.35253429999999,
+                  "lng" : 6.9399387
+               },
+               "southwest" : {
+                  "lat" : 51.1243752,
+                  "lng" : 6.6887617
+               }
+            },
+            "location" : {
+               "lat" : 51.2277411,
+               "lng" : 6.7734556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.35253429999999,
+                  "lng" : 6.9399387
+               },
+               "southwest" : {
+                  "lat" : 51.1243752,
+                  "lng" : 6.6887617
+               }
+            }
+         },
+         "place_id" : "ChIJB1lG8XvJuEcRsHMqSvxgJwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40547",
+               "short_name" : "40547",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "District 4",
+               "short_name" : "District 4",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "40547 Düsseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.256755,
+                  "lng" : 6.766772
+               },
+               "southwest" : {
+                  "lat" : 51.2321471,
+                  "lng" : 6.716234
+               }
+            },
+            "location" : {
+               "lat" : 51.2419331,
+               "lng" : 6.747718799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.256755,
+                  "lng" : 6.766772
+               },
+               "southwest" : {
+                  "lat" : 51.2321471,
+                  "lng" : 6.716234
+               }
+            }
+         },
+         "place_id" : "ChIJSzAafQ-2uEcRMH4lq_9gJxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne Metropolitan Region",
+               "short_name" : "Cologne Metropolitan Region",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cologne Metropolitan Region, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.35253429999999,
+                  "lng" : 7.791868999999999
+               },
+               "southwest" : {
+                  "lat" : 50.5559041,
+                  "lng" : 6.4346254
+               }
+            },
+            "location" : {
+               "lat" : 50.87450159999999,
+               "lng" : 7.191484000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.35253429999999,
+                  "lng" : 7.791868999999999
+               },
+               "southwest" : {
+                  "lat" : 50.5559041,
+                  "lng" : 6.4346254
+               }
+            }
+         },
+         "place_id" : "ChIJf2k6fr-0uEcRBeAU70tTbIA",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Düsseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9052111,
+                  "lng" : 7.3134358
+               },
+               "southwest" : {
+                  "lat" : 51.0150091,
+                  "lng" : 5.945045299999999
+               }
+            },
+            "location" : {
+               "lat" : 51.3313247,
+               "lng" : 6.563787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9052111,
+                  "lng" : 7.3134358
+               },
+               "southwest" : {
+                  "lat" : 51.0150091,
+                  "lng" : 5.945045299999999
+               }
+            }
+         },
+         "place_id" : "ChIJWxG4khu9uEcRhe5D5OWJCts",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Rhine-Westphalia, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.43323669999999,
+               "lng" : 7.661593799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJoUhCjnwWuUcRX4_XT34yTC8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

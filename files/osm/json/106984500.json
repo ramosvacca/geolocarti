@@ -1,0 +1,494 @@
+{
+   "plus_code" : {
+      "compound_code" : "J9HM+84 Tirupati, Andhra Pradesh, India",
+      "global_code" : "7J5XJ9HM+84"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tirupati",
+               "short_name" : "Tirupati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "517502",
+               "short_name" : "517502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sri Venkateswara Veterinary University, Tirupati, Andhra Pradesh 517502, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.6283073,
+               "lng" : 79.38276549999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.6296562802915,
+                  "lng" : 79.3841144802915
+               },
+               "southwest" : {
+                  "lat" : 13.6269583197085,
+                  "lng" : 79.38141651970848
+               }
+            }
+         },
+         "place_id" : "ChIJQUwQkzJLTToRfeZUaBn1dg8",
+         "plus_code" : {
+            "compound_code" : "J9HM+84 Tirupati, Andhra Pradesh, India",
+            "global_code" : "7J5XJ9HM+84"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chennai-Anantapur Highway",
+               "short_name" : "SH 61",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prakasam Nagar Colony",
+               "short_name" : "Prakasam Nagar Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Sri Padmavati Mahila Visvavidyalayam",
+               "short_name" : "Sri Padmavati Mahila Visvavidyalayam",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tirupati",
+               "short_name" : "Tirupati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittoor",
+               "short_name" : "Chittoor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "517507",
+               "short_name" : "517507",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SH 61, Prakasam Nagar Colony, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh 517507, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.6306047,
+                  "lng" : 79.3827125
+               },
+               "southwest" : {
+                  "lat" : 13.6282502,
+                  "lng" : 79.37575889999999
+               }
+            },
+            "location" : {
+               "lat" : 13.6294274,
+               "lng" : 79.3792357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.6307764302915,
+                  "lng" : 79.3827125
+               },
+               "southwest" : {
+                  "lat" : 13.6280784697085,
+                  "lng" : 79.37575889999999
+               }
+            }
+         },
+         "place_id" : "ChIJM3XrwNK0sjsRkmWoXMy9P-Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prakasam Nagar Colony",
+               "short_name" : "Prakasam Nagar Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Sri Padmavati Mahila Visvavidyalayam",
+               "short_name" : "Sri Padmavati Mahila Visvavidyalayam",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tirupati",
+               "short_name" : "Tirupati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittoor",
+               "short_name" : "Chittoor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prakasam Nagar Colony, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.63218,
+                  "lng" : 79.3966161
+               },
+               "southwest" : {
+                  "lat" : 13.6181621,
+                  "lng" : 79.3717379
+               }
+            },
+            "location" : {
+               "lat" : 13.6252675,
+               "lng" : 79.3831599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.63218,
+                  "lng" : 79.3966161
+               },
+               "southwest" : {
+                  "lat" : 13.6181621,
+                  "lng" : 79.3717379
+               }
+            }
+         },
+         "place_id" : "ChIJEeMxzzpLTToR0UnanbTVh2w",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sri Padmavati Mahila Visvavidyalayam",
+               "short_name" : "Sri Padmavati Mahila Visvavidyalayam",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tirupati",
+               "short_name" : "Tirupati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittoor",
+               "short_name" : "Chittoor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.6464389,
+                  "lng" : 79.41044699999999
+               },
+               "southwest" : {
+                  "lat" : 13.6139681,
+                  "lng" : 79.3717379
+               }
+            },
+            "location" : {
+               "lat" : 13.6314604,
+               "lng" : 79.3944199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.6464389,
+                  "lng" : 79.41044699999999
+               },
+               "southwest" : {
+                  "lat" : 13.6139681,
+                  "lng" : 79.3717379
+               }
+            }
+         },
+         "place_id" : "ChIJ6YstjC9LTToRZjiIuYCHt6Q",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "517502",
+               "short_name" : "517502",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Chittoor",
+               "short_name" : "Chittoor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andhra Pradesh 517502, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.638962,
+                  "lng" : 79.40953290000002
+               },
+               "southwest" : {
+                  "lat" : 13.6013781,
+                  "lng" : 79.3629801
+               }
+            },
+            "location" : {
+               "lat" : 13.6225336,
+               "lng" : 79.385975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.638962,
+                  "lng" : 79.40953290000002
+               },
+               "southwest" : {
+                  "lat" : 13.6013781,
+                  "lng" : 79.3629801
+               }
+            }
+         },
+         "place_id" : "ChIJU9mWgzZLTToRGXPArKz1wro",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tirupati",
+               "short_name" : "Tirupati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittoor",
+               "short_name" : "Chittoor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tirupati, Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.6910719,
+                  "lng" : 79.5379258
+               },
+               "southwest" : {
+                  "lat" : 13.564233,
+                  "lng" : 79.3116759
+               }
+            },
+            "location" : {
+               "lat" : 13.6287557,
+               "lng" : 79.4191795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.6910719,
+                  "lng" : 79.5379258
+               },
+               "southwest" : {
+                  "lat" : 13.564233,
+                  "lng" : 79.3116759
+               }
+            }
+         },
+         "place_id" : "ChIJJwRiiA9LTToRrAzK2tFSQc8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chittoor",
+               "short_name" : "Chittoor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chittoor, Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.99419,
+                  "lng" : 80.0520401
+               },
+               "southwest" : {
+                  "lat" : 12.6230899,
+                  "lng" : 78.06635990000001
+               }
+            },
+            "location" : {
+               "lat" : 13.2218054,
+               "lng" : 79.10104419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.99419,
+                  "lng" : 80.0520401
+               },
+               "southwest" : {
+                  "lat" : 12.6230899,
+                  "lng" : 78.06635990000001
+               }
+            }
+         },
+         "place_id" : "ChIJWcp9dxxcrTsRCqBG4peLZeI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "Andhra Pradesh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1565479,
+                  "lng" : 84.804131
+               },
+               "southwest" : {
+                  "lat" : 12.596836,
+                  "lng" : 76.749786
+               }
+            },
+            "location" : {
+               "lat" : 15.9128998,
+               "lng" : 79.7399875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1565479,
+                  "lng" : 84.804131
+               },
+               "southwest" : {
+                  "lat" : 12.596836,
+                  "lng" : 76.749786
+               }
+            }
+         },
+         "place_id" : "ChIJf9STrvhGNToRg82tlb670TM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

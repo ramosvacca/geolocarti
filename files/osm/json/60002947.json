@@ -1,0 +1,498 @@
+{
+   "plus_code" : {
+      "compound_code" : "XPQJ+3P Athens, Greece",
+      "global_code" : "8G95XPQJ+3P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "28is Oktovriou",
+               "short_name" : "28is Oktovriou",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Athina",
+               "short_name" : "Athina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kentrikos Tomeas Athinon",
+               "short_name" : "Kentrikos Tomeas Athinon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106 82",
+               "short_name" : "106 82",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "28is Oktovriou 42, Athina 106 82, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9878902,
+               "lng" : 23.7316487
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.98923918029149,
+                  "lng" : 23.7329976802915
+               },
+               "southwest" : {
+                  "lat" : 37.9865412197085,
+                  "lng" : 23.73029971970849
+               }
+            }
+         },
+         "place_id" : "ChIJtT6NfzG9oRQRKl5XgmiFblQ",
+         "plus_code" : {
+            "compound_code" : "XPQJ+5M Athens, Athina, Greece",
+            "global_code" : "8G95XPQJ+5M"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stournari",
+               "short_name" : "Stournari",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Athina",
+               "short_name" : "Athina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106 82",
+               "short_name" : "106 82",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stournari 35, Athina 106 82, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9872951,
+               "lng" : 23.7318383
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9886440802915,
+                  "lng" : 23.7331872802915
+               },
+               "southwest" : {
+                  "lat" : 37.9859461197085,
+                  "lng" : 23.7304893197085
+               }
+            }
+         },
+         "place_id" : "EiNTdG91cm5hcmkgMzUsIEF0aGluYSAxMDYgODIsIEhlbGxhcyIaEhgKFAoSCU97m2UxvaEUEQXvNLvMknX7ECM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106 82",
+               "short_name" : "106 82",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Athens",
+               "short_name" : "Central Athens",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens 106 82, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9917591,
+                  "lng" : 23.7347445
+               },
+               "southwest" : {
+                  "lat" : 37.9856462,
+                  "lng" : 23.7299639
+               }
+            },
+            "location" : {
+               "lat" : 37.9880229,
+               "lng" : 23.7323025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9917591,
+                  "lng" : 23.7347445
+               },
+               "southwest" : {
+                  "lat" : 37.9856462,
+                  "lng" : 23.7299639
+               }
+            }
+         },
+         "place_id" : "ChIJmcdg6TO9oRQREAttIDC9ABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Athens",
+               "short_name" : "Central Athens",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            },
+            "location" : {
+               "lat" : 37.9837818,
+               "lng" : 23.7275817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            }
+         },
+         "place_id" : "ChIJeWY3_wCYoRQRUIC54iy9AAM",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Athens",
+               "short_name" : "Central Athens",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            },
+            "location" : {
+               "lat" : 37.9838096,
+               "lng" : 23.7275388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            }
+         },
+         "place_id" : "ChIJ8UNwBh-9oRQR3Y1mdkU1Nic",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athina",
+               "short_name" : "Athina",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Athina",
+               "short_name" : "Athina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kentrikos Tomeas Athinon",
+               "short_name" : "Kentrikos Tomeas Athinon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athina, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            },
+            "location" : {
+               "lat" : 37.9837818,
+               "lng" : 23.7275817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            }
+         },
+         "place_id" : "ChIJd8aoaTS9oRQRUvQUS_4e1z8",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Athens",
+               "short_name" : "Central Athens",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Athens, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0593084,
+                  "lng" : 23.8211561
+               },
+               "southwest" : {
+                  "lat" : 37.9167671,
+                  "lng" : 23.6869862
+               }
+            },
+            "location" : {
+               "lat" : 37.9787044,
+               "lng" : 23.7513827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0593084,
+                  "lng" : 23.8211561
+               },
+               "southwest" : {
+                  "lat" : 37.9167671,
+                  "lng" : 23.6869862
+               }
+            }
+         },
+         "place_id" : "ChIJjz7bzVu9oRQRMy9xn5_Ob5E",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Attica, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3409795,
+                  "lng" : 24.1161499
+               },
+               "southwest" : {
+                  "lat" : 35.822384,
+                  "lng" : 22.8909853
+               }
+            },
+            "location" : {
+               "lat" : 38.0457568,
+               "lng" : 23.8584737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3409795,
+                  "lng" : 24.1161499
+               },
+               "southwest" : {
+                  "lat" : 35.822384,
+                  "lng" : 22.8909853
+               }
+            }
+         },
+         "place_id" : "ChIJUwsYu2cPnxQRkIC54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Decentralized Administration of Attica",
+               "short_name" : "Decentralized Administration of Attica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Decentralized Administration of Attica, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3409795,
+                  "lng" : 24.1161499
+               },
+               "southwest" : {
+                  "lat" : 35.822384,
+                  "lng" : 22.8909853
+               }
+            },
+            "location" : {
+               "lat" : 38.0457568,
+               "lng" : 23.8584737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3409795,
+                  "lng" : 24.1161499
+               },
+               "southwest" : {
+                  "lat" : 35.822384,
+                  "lng" : 22.8909853
+               }
+            }
+         },
+         "place_id" : "ChIJ46OMPb_HoRQROW96xvEHbos",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7488784,
+                  "lng" : 29.6527999
+               },
+               "southwest" : {
+                  "lat" : 34.5428,
+                  "lng" : 19.3098
+               }
+            },
+            "location" : {
+               "lat" : 39.074208,
+               "lng" : 21.824312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7488784,
+                  "lng" : 29.6527999
+               },
+               "southwest" : {
+                  "lat" : 34.5428,
+                  "lng" : 19.3098
+               }
+            }
+         },
+         "place_id" : "ChIJY2xxEcdKWxMRHS2a3HUXOjY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

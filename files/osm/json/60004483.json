@@ -1,0 +1,630 @@
+{
+   "plus_code" : {
+      "compound_code" : "QJV3+38 South of Market, San Francisco, CA, USA",
+      "global_code" : "849VQJV3+38"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "245",
+               "short_name" : "245",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Market Street",
+               "short_name" : "Market St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South of Market",
+               "short_name" : "South of Market",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94105",
+               "short_name" : "94105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "245 Market St, San Francisco, CA 94105, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.79264420000001,
+               "lng" : -122.3967283
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79399318029151,
+                  "lng" : -122.3953793197085
+               },
+               "southwest" : {
+                  "lat" : 37.79129521970851,
+                  "lng" : -122.3980772802915
+               }
+            }
+         },
+         "place_id" : "ChIJP6pu5mOAhYARkL7tK0OebVU",
+         "plus_code" : {
+            "compound_code" : "QJV3+38 South of Market, San Francisco, CA, United States",
+            "global_code" : "849VQJV3+38"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "South of Market",
+               "short_name" : "South of Market",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "94105",
+               "short_name" : "94105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA 94105, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7926143,
+               "lng" : -122.3969732
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79396328029149,
+                  "lng" : -122.3956242197085
+               },
+               "southwest" : {
+                  "lat" : 37.79126531970849,
+                  "lng" : -122.3983221802915
+               }
+            }
+         },
+         "place_id" : "ChIJ01JX6GOAhYARxczuMICmq1Q",
+         "plus_code" : {
+            "compound_code" : "QJV3+26 South of Market, San Francisco, CA, United States",
+            "global_code" : "849VQJV3+26"
+         },
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Market Street",
+               "short_name" : "Market St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South of Market",
+               "short_name" : "South of Market",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94114",
+               "short_name" : "94114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "201 Market St, San Francisco, CA 94114, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7927468,
+               "lng" : -122.3965314
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7940957802915,
+                  "lng" : -122.3951824197085
+               },
+               "southwest" : {
+                  "lat" : 37.7913978197085,
+                  "lng" : -122.3978803802915
+               }
+            }
+         },
+         "place_id" : "ChIJlz6IMh1-j4AR7E1TwknMkoQ",
+         "plus_code" : {
+            "compound_code" : "QJV3+39 South of Market, San Francisco, CA, United States",
+            "global_code" : "849VQJV3+39"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "253",
+               "short_name" : "253",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Market Street",
+               "short_name" : "Market St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94111",
+               "short_name" : "94111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "253 Market St, San Francisco, CA 94111, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7928237,
+               "lng" : -122.3969273
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7941726802915,
+                  "lng" : -122.3955783197085
+               },
+               "southwest" : {
+                  "lat" : 37.7914747197085,
+                  "lng" : -122.3982762802915
+               }
+            }
+         },
+         "place_id" : "EisyNTMgTWFya2V0IFN0LCBTYW4gRnJhbmNpc2NvLCBDQSA5NDExMSwgVVNBIhsSGQoUChIJhbxM5mOAhYARWEIXpJGrrFMQ_QE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Beach",
+               "short_name" : "South Beach",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Beach, San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7957,
+                  "lng" : -122.3874644
+               },
+               "southwest" : {
+                  "lat" : 37.7771567,
+                  "lng" : -122.4034819
+               }
+            },
+            "location" : {
+               "lat" : 37.7835826,
+               "lng" : -122.3899066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7957,
+                  "lng" : -122.3874644
+               },
+               "southwest" : {
+                  "lat" : 37.7771567,
+                  "lng" : -122.4034819
+               }
+            }
+         },
+         "place_id" : "ChIJ3wg-dHqAhYARDUzKg4bRZDE",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94105",
+               "short_name" : "94105",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA 94105, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.80018200000001,
+                  "lng" : -122.381681
+               },
+               "southwest" : {
+                  "lat" : 37.7824491,
+                  "lng" : -122.4035291
+               }
+            },
+            "location" : {
+               "lat" : 37.7890183,
+               "lng" : -122.3915063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.80018200000001,
+                  "lng" : -122.381681
+               },
+               "southwest" : {
+                  "lat" : 37.7824491,
+                  "lng" : -122.4035291
+               }
+            }
+         },
+         "place_id" : "ChIJDXK6UmKAhYARfzuOY6DDgeM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South of Market",
+               "short_name" : "South of Market",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South of Market, San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7957,
+                  "lng" : -122.3814559
+               },
+               "southwest" : {
+                  "lat" : 37.7659314,
+                  "lng" : -122.4233804
+               }
+            },
+            "location" : {
+               "lat" : 37.7785189,
+               "lng" : -122.4056395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7957,
+                  "lng" : -122.3814559
+               },
+               "southwest" : {
+                  "lat" : 37.7659314,
+                  "lng" : -122.4233804
+               }
+            }
+         },
+         "place_id" : "ChIJezBipoOAhYARUPnBLQwBmf0",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco County, San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            },
+            "location" : {
+               "lat" : 37.7749073,
+               "lng" : -122.4193878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            }
+         },
+         "place_id" : "ChIJIQBpAG2ahYARUksNqd0_1h8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "San Francisco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            },
+            "location" : {
+               "lat" : 37.7749295,
+               "lng" : -122.4194155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9298239,
+                  "lng" : -122.28178
+               },
+               "southwest" : {
+                  "lat" : 37.6398299,
+                  "lng" : -123.173825
+               }
+            }
+         },
+         "place_id" : "ChIJIQBpAG2ahYAR_6128GcTUEo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

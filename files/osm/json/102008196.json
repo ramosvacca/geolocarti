@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chemin de Montfort",
+               "short_name" : "Chemin de Montfort",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gien",
+               "short_name" : "Gien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loiret",
+               "short_name" : "Loiret",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3 Chemin de Montfort, 45500 Gien, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.6981128,
+               "lng" : 2.6248044
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.69946178029149,
+                  "lng" : 2.626153380291502
+               },
+               "southwest" : {
+                  "lat" : 47.69676381970849,
+                  "lng" : 2.623455419708498
+               }
+            }
+         },
+         "place_id" : "ChIJRSSjmH5e5UcRt6sKW7pvIPc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gien",
+               "short_name" : "Gien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loiret",
+               "short_name" : "Loiret",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "45500 Gien, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7691328,
+                  "lng" : 2.7475709
+               },
+               "southwest" : {
+                  "lat" : 47.665816,
+                  "lng" : 2.5897429
+               }
+            },
+            "location" : {
+               "lat" : 47.698059,
+               "lng" : 2.624758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7691328,
+                  "lng" : 2.7475709
+               },
+               "southwest" : {
+                  "lat" : 47.665816,
+                  "lng" : 2.5897429
+               }
+            }
+         },
+         "place_id" : "ChIJtVXaFpJe5UcRBb-oaRQwODM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Saint-Brisson-sur-Loire",
+               "short_name" : "Saint-Brisson-sur-Loire",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loiret",
+               "short_name" : "Loiret",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "45500 Saint-Brisson-sur-Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.770603,
+                  "lng" : 2.7477429
+               },
+               "southwest" : {
+                  "lat" : 47.5489909,
+                  "lng" : 2.4937478
+               }
+            },
+            "location" : {
+               "lat" : 47.6743416,
+               "lng" : 2.6388926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.770603,
+                  "lng" : 2.7477429
+               },
+               "southwest" : {
+                  "lat" : 47.5489909,
+                  "lng" : 2.4937478
+               }
+            }
+         },
+         "place_id" : "ChIJ6fdW_Kte5UcRUEZIRdrIDRw",
+         "postcode_localities" : [
+            "Autry-le-Châtel",
+            "Gien",
+            "Nevoy",
+            "Poilly-lez-Gien",
+            "Saint-Brisson-sur-Loire",
+            "Saint-Gondon",
+            "Saint-Martin-sur-Ocre"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loiret",
+               "short_name" : "Loiret",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loiret, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.344954,
+                  "lng" : 3.1284099
+               },
+               "southwest" : {
+                  "lat" : 47.483027,
+                  "lng" : 1.51145
+               }
+            },
+            "location" : {
+               "lat" : 47.900771,
+               "lng" : 2.2018172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.344954,
+                  "lng" : 3.1284099
+               },
+               "southwest" : {
+                  "lat" : 47.483027,
+                  "lng" : 1.51145
+               }
+            }
+         },
+         "place_id" : "ChIJBQbIKJcN5UcRUCgzBdfIDQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centre-Val de Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.941029,
+                  "lng" : 3.1284099
+               },
+               "southwest" : {
+                  "lat" : 46.3469059,
+                  "lng" : 0.0527369
+               }
+            },
+            "location" : {
+               "lat" : 47.7515686,
+               "lng" : 1.6750631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.941029,
+                  "lng" : 3.1284099
+               },
+               "southwest" : {
+                  "lat" : 46.3469059,
+                  "lng" : 0.0527369
+               }
+            }
+         },
+         "place_id" : "ChIJiV0INnu55EcRMCUzBdfIDQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

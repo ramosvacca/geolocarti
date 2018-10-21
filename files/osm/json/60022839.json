@@ -1,0 +1,547 @@
+{
+   "plus_code" : {
+      "compound_code" : "95QG+V6 Oviedo, Spain",
+      "global_code" : "8CMP95QG+V6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle Doctor Ingeniero Francisco Pintado",
+               "short_name" : "Calle Dr. Ingeniero Francisco Pintado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Principado de Asturias",
+               "short_name" : "Principado de Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33011",
+               "short_name" : "33011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle Dr. Ingeniero Francisco Pintado, 26, 33011 Oviedo, Asturias, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3897222,
+               "lng" : -5.824423200000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3910711802915,
+                  "lng" : -5.823074219708499
+               },
+               "southwest" : {
+                  "lat" : 43.38837321970851,
+                  "lng" : -5.825772180291503
+               }
+            }
+         },
+         "place_id" : "ChIJE3AI_G2MNg0REyEjAFzFSMA",
+         "plus_code" : {
+            "compound_code" : "95QG+V6 Oviedo, Spain",
+            "global_code" : "8CMP95QG+V6"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lugar la Corredoria",
+               "short_name" : "Lugar la Corredoria",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Principado de Asturias",
+               "short_name" : "Principado de Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33011",
+               "short_name" : "33011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lugar la Corredoria, 22, 33011 Oviedo, Asturias, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.39028,
+               "lng" : -5.824059999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3916289802915,
+                  "lng" : -5.822711019708497
+               },
+               "southwest" : {
+                  "lat" : 43.3889310197085,
+                  "lng" : -5.825408980291502
+               }
+            }
+         },
+         "place_id" : "ChIJ00eyb3KMNg0Rvzgoi4rOWOc",
+         "plus_code" : {
+            "compound_code" : "95RG+49 Oviedo, Spain",
+            "global_code" : "8CMP95RG+49"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle José Remís Ovalle",
+               "short_name" : "Calle José Remís Ovalle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33011",
+               "short_name" : "33011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle José Remís Ovalle, 1, 33011 Oviedo, Asturias, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3889077,
+               "lng" : -5.8242768
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3902566802915,
+                  "lng" : -5.822927819708497
+               },
+               "southwest" : {
+                  "lat" : 43.3875587197085,
+                  "lng" : -5.825625780291502
+               }
+            }
+         },
+         "place_id" : "Ej1DYWxsZSBKb3PDqSBSZW3DrXMgT3ZhbGxlLCAxLCAzMzAxMSBPdmllZG8sIEFzdHVyaWFzLCBFc3Bhw7FhIhoSGAoUChIJtyHkAHKMNg0RGTa5AiOBOWAQAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33011",
+               "short_name" : "33011",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "33011 Oviedo, Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4024698,
+                  "lng" : -5.8089153
+               },
+               "southwest" : {
+                  "lat" : 43.3663483,
+                  "lng" : -5.8544348
+               }
+            },
+            "location" : {
+               "lat" : 43.3883059,
+               "lng" : -5.8301092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4024698,
+                  "lng" : -5.8089153
+               },
+               "southwest" : {
+                  "lat" : 43.3663483,
+                  "lng" : -5.8544348
+               }
+            }
+         },
+         "place_id" : "ChIJP9Vrtm6MNg0RcLEfvoX1BBw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oviedo, Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.39203860000001,
+                  "lng" : -5.8121272
+               },
+               "southwest" : {
+                  "lat" : 43.3469351,
+                  "lng" : -5.8851884
+               }
+            },
+            "location" : {
+               "lat" : 43.3619145,
+               "lng" : -5.8493887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.39203860000001,
+                  "lng" : -5.8121272
+               },
+               "southwest" : {
+                  "lat" : 43.3469351,
+                  "lng" : -5.8851884
+               }
+            }
+         },
+         "place_id" : "ChIJZxysYJqMNg0RJGJezA5ENDE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oviedo, Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4273245,
+                  "lng" : -5.7423939
+               },
+               "southwest" : {
+                  "lat" : 43.2791499,
+                  "lng" : -6.0169358
+               }
+            },
+            "location" : {
+               "lat" : 43.3618623,
+               "lng" : -5.849448499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4273245,
+                  "lng" : -5.7423939
+               },
+               "southwest" : {
+                  "lat" : 43.2791499,
+                  "lng" : -6.0169358
+               }
+            }
+         },
+         "place_id" : "ChIJnbCeYPqMNg0Rphj7yjmL2Rc",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oviedo, Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4273244,
+                  "lng" : -5.7423939
+               },
+               "southwest" : {
+                  "lat" : 43.2791492,
+                  "lng" : -6.016934699999999
+               }
+            },
+            "location" : {
+               "lat" : 43.3522149,
+               "lng" : -5.8775964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4273244,
+                  "lng" : -5.7423939
+               },
+               "southwest" : {
+                  "lat" : 43.2791492,
+                  "lng" : -6.016934699999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8d4_jWqNNg0RPn2fWGArhzA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6665323,
+                  "lng" : -4.5105944
+               },
+               "southwest" : {
+                  "lat" : 42.8825428,
+                  "lng" : -7.1824889
+               }
+            },
+            "location" : {
+               "lat" : 43.3619457,
+               "lng" : -5.8492926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6665323,
+                  "lng" : -4.5105944
+               },
+               "southwest" : {
+                  "lat" : 42.8825428,
+                  "lng" : -7.1824889
+               }
+            }
+         },
+         "place_id" : "ChIJH-N_b8_zNg0RQMvJc4L1BAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6665323,
+                  "lng" : -4.5105944
+               },
+               "southwest" : {
+                  "lat" : 42.8825428,
+                  "lng" : -7.1824889
+               }
+            },
+            "location" : {
+               "lat" : 43.3613953,
+               "lng" : -5.8593267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6665323,
+                  "lng" : -4.5105944
+               },
+               "southwest" : {
+                  "lat" : 42.8825428,
+                  "lng" : -7.1824889
+               }
+            }
+         },
+         "place_id" : "ChIJnbCeYPqMNg0ROp7GfSvztfg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

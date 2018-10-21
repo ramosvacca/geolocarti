@@ -1,0 +1,358 @@
+{
+   "plus_code" : {
+      "compound_code" : "P4C9+WC Canberra ACT, Australia",
+      "global_code" : "4RPFP4C9+WC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biology Place",
+               "short_name" : "Biology Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Acton",
+               "short_name" : "Acton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Australian Capital Territory",
+               "short_name" : "ACT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2601",
+               "short_name" : "2601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biology Pl, Acton ACT 2601, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.27746,
+                  "lng" : 149.1185966
+               },
+               "southwest" : {
+                  "lat" : -35.2777302,
+                  "lng" : 149.1181665
+               }
+            },
+            "location" : {
+               "lat" : -35.2775951,
+               "lng" : 149.1183816
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.2762461197085,
+                  "lng" : 149.1197305302915
+               },
+               "southwest" : {
+                  "lat" : -35.2789440802915,
+                  "lng" : 149.1170325697085
+               }
+            }
+         },
+         "place_id" : "ChIJe-lmAEVNFmsRsJHqExf4wDg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acton",
+               "short_name" : "Acton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Australian Capital Territory",
+               "short_name" : "ACT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2601",
+               "short_name" : "2601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Acton ACT 2601, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.2653714,
+                  "lng" : 149.1280317
+               },
+               "southwest" : {
+                  "lat" : -35.2968579,
+                  "lng" : 149.0975111
+               }
+            },
+            "location" : {
+               "lat" : -35.279444,
+               "lng" : 149.119444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.2653714,
+                  "lng" : 149.1280317
+               },
+               "southwest" : {
+                  "lat" : -35.2968579,
+                  "lng" : 149.0975111
+               }
+            }
+         },
+         "place_id" : "ChIJuYHaMrKyF2sRUFZpp27qAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2601",
+               "short_name" : "2601",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "City",
+               "short_name" : "City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Australian Capital Territory",
+               "short_name" : "ACT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "City ACT 2601, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.2653714,
+                  "lng" : 149.1376675
+               },
+               "southwest" : {
+                  "lat" : -35.2968579,
+                  "lng" : 149.0975111
+               }
+            },
+            "location" : {
+               "lat" : -35.28099419999999,
+               "lng" : 149.1213974
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.2653714,
+                  "lng" : 149.1376675
+               },
+               "southwest" : {
+                  "lat" : -35.2968579,
+                  "lng" : 149.0975111
+               }
+            }
+         },
+         "place_id" : "ChIJ4VcGtbKyF2sRMPeLx3HqABw",
+         "postcode_localities" : [ "Acton", "City" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canberra Central",
+               "short_name" : "Canberra Central",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Australian Capital Territory",
+               "short_name" : "ACT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canberra Central, ACT, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.2255627,
+                  "lng" : 149.1927164
+               },
+               "southwest" : {
+                  "lat" : -35.3479185,
+                  "lng" : 149.0702403
+               }
+            },
+            "location" : {
+               "lat" : -35.2822,
+               "lng" : 149.1287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.2255627,
+                  "lng" : 149.1927164
+               },
+               "southwest" : {
+                  "lat" : -35.3479185,
+                  "lng" : 149.0702403
+               }
+            }
+         },
+         "place_id" : "ChIJq2rIrGxNFmsR12fakQaL3tQ",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canberra",
+               "short_name" : "Canberra",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Australian Capital Territory",
+               "short_name" : "ACT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canberra ACT, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.1476991,
+                  "lng" : 149.2636434
+               },
+               "southwest" : {
+                  "lat" : -35.4802604,
+                  "lng" : 148.9959216
+               }
+            },
+            "location" : {
+               "lat" : -35.3075,
+               "lng" : 149.124417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.1476991,
+                  "lng" : 149.2636434
+               },
+               "southwest" : {
+                  "lat" : -35.4802604,
+                  "lng" : 148.9959216
+               }
+            }
+         },
+         "place_id" : "ChIJuzQLsqNMFmsRcFlpp27qAAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Australian Capital Territory",
+               "short_name" : "Australian Capital Territory",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Australian Capital Territory, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.124517,
+                  "lng" : 149.3992845
+               },
+               "southwest" : {
+                  "lat" : -35.9207621,
+                  "lng" : 148.7626752
+               }
+            },
+            "location" : {
+               "lat" : -35.4734679,
+               "lng" : 149.0123679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.124517,
+                  "lng" : 149.3992845
+               },
+               "southwest" : {
+                  "lat" : -35.9207621,
+                  "lng" : 148.7626752
+               }
+            }
+         },
+         "place_id" : "ChIJSxCboN9MFmsRA3huXDhEWOc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.187026399999999,
+                  "lng" : 159.2872223
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            },
+            "location" : {
+               "lat" : -25.274398,
+               "lng" : 133.775136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.187026399999999,
+                  "lng" : 159.2872223
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            }
+         },
+         "place_id" : "ChIJ38WHZwf9KysRUhNblaFnglM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

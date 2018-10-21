@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "FFP9+CM South Kingstown, RI, USA",
+      "global_code" : "87HCFFP9+CM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Upper College Road",
+               "short_name" : "Upper College Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kingston",
+               "short_name" : "Kingston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "South Kingstown",
+               "short_name" : "South Kingstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02881",
+               "short_name" : "02881",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "45 Upper College Rd, Kingston, RI 02881, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4860647,
+               "lng" : -71.53085369999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4874136802915,
+                  "lng" : -71.52950471970848
+               },
+               "southwest" : {
+                  "lat" : 41.4847157197085,
+                  "lng" : -71.53220268029149
+               }
+            }
+         },
+         "place_id" : "ChIJ0Z8qo0645YkRbxrKvxasv-A",
+         "plus_code" : {
+            "compound_code" : "FFP9+CM South Kingstown, Rhode Island, United States",
+            "global_code" : "87HCFFP9+CM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kingston",
+               "short_name" : "Kingston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "South Kingstown",
+               "short_name" : "South Kingstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02881",
+               "short_name" : "02881",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Kingston, RI 02881, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4861465,
+                  "lng" : -71.53104209999999
+               },
+               "southwest" : {
+                  "lat" : 41.4858745,
+                  "lng" : -71.53118549999999
+               }
+            },
+            "location" : {
+               "lat" : 41.48601050000001,
+               "lng" : -71.5311138
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4873594802915,
+                  "lng" : -71.52976481970849
+               },
+               "southwest" : {
+                  "lat" : 41.4846615197085,
+                  "lng" : -71.53246278029151
+               }
+            }
+         },
+         "place_id" : "ChIJ17ojnE645YkRpsH5-blA9Kw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingston",
+               "short_name" : "Kingston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "South Kingstown",
+               "short_name" : "South Kingstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingston, South Kingstown, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4917299,
+                  "lng" : -71.50942209999999
+               },
+               "southwest" : {
+                  "lat" : 41.454025,
+                  "lng" : -71.5368799
+               }
+            },
+            "location" : {
+               "lat" : 41.48037910000001,
+               "lng" : -71.52255980000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4917299,
+                  "lng" : -71.50942209999999
+               },
+               "southwest" : {
+                  "lat" : 41.454025,
+                  "lng" : -71.5368799
+               }
+            }
+         },
+         "place_id" : "ChIJU5W4VVK45YkRBl3AE2o4nC4",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "02881",
+               "short_name" : "02881",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kingston",
+               "short_name" : "Kingston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "South Kingstown",
+               "short_name" : "South Kingstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingston, RI 02881, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.49832809999999,
+                  "lng" : -71.4946439
+               },
+               "southwest" : {
+                  "lat" : 41.463318,
+                  "lng" : -71.55009489999999
+               }
+            },
+            "location" : {
+               "lat" : 41.4787737,
+               "lng" : -71.5219477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.49832809999999,
+                  "lng" : -71.4946439
+               },
+               "southwest" : {
+                  "lat" : 41.463318,
+                  "lng" : -71.55009489999999
+               }
+            }
+         },
+         "place_id" : "ChIJbxPr3k245YkRQka0CxjTlBo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Kingstown",
+               "short_name" : "South Kingstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Kingstown, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5252878,
+                  "lng" : -71.446657
+               },
+               "southwest" : {
+                  "lat" : 41.2983621,
+                  "lng" : -71.651523
+               }
+            },
+            "location" : {
+               "lat" : 41.4475686,
+               "lng" : -71.52466699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5252878,
+                  "lng" : -71.446657
+               },
+               "southwest" : {
+                  "lat" : 41.2983621,
+                  "lng" : -71.651523
+               }
+            }
+         },
+         "place_id" : "ChIJKTzsyWy_5YkR0_tJ1B-3Twg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington County, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6549521,
+                  "lng" : -71.3805419
+               },
+               "southwest" : {
+                  "lat" : 41.095834,
+                  "lng" : -71.90725809999999
+               }
+            },
+            "location" : {
+               "lat" : 41.45681130000001,
+               "lng" : -71.6673352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6549521,
+                  "lng" : -71.3805419
+               },
+               "southwest" : {
+                  "lat" : 41.095834,
+                  "lng" : -71.90725809999999
+               }
+            }
+         },
+         "place_id" : "ChIJxbKLtNTB5YkR5UzSIqFkN_8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "Rhode Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhode Island, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.08857089999999
+               },
+               "southwest" : {
+                  "lat" : 41.095834,
+                  "lng" : -71.90725809999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5800945,
+               "lng" : -71.47742909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.08857089999999
+               },
+               "southwest" : {
+                  "lat" : 41.095834,
+                  "lng" : -71.90725809999999
+               }
+            }
+         },
+         "place_id" : "ChIJD9cOYhQ15IkR5wbB57wYTh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

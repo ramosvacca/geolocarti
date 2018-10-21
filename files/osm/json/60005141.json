@@ -1,0 +1,401 @@
+{
+   "plus_code" : {
+      "compound_code" : "8Q3H+V9 Dublin, County Dublin, Ireland",
+      "global_code" : "9C5M8Q3H+V9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University College Dublin",
+               "short_name" : "University College Dublin",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Stillorgan Road",
+               "short_name" : "Stillorgan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belfield",
+               "short_name" : "Belfield",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dublin 4",
+               "short_name" : "Dublin 4",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University College Dublin, Stillorgan Rd, Belfield, Dublin 4, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3047647,
+               "lng" : -6.2215517
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3061136802915,
+                  "lng" : -6.220202719708498
+               },
+               "southwest" : {
+                  "lat" : 53.3034157197085,
+                  "lng" : -6.222900680291502
+               }
+            }
+         },
+         "place_id" : "ChIJSXFbmjAJZ0gRdv3dUfhdv3A",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roebuck",
+               "short_name" : "Roebuck",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Roebuck, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3049224,
+                  "lng" : -6.221432399999999
+               },
+               "southwest" : {
+                  "lat" : 53.3046867,
+                  "lng" : -6.221988899999999
+               }
+            },
+            "location" : {
+               "lat" : 53.3048045,
+               "lng" : -6.2217106
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3061535302915,
+                  "lng" : -6.220361669708497
+               },
+               "southwest" : {
+                  "lat" : 53.3034555697085,
+                  "lng" : -6.223059630291502
+               }
+            }
+         },
+         "place_id" : "ChIJRQYcmjAJZ0gRENTH6mmu77Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belfield",
+               "short_name" : "Belfield",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belfield, Dublin, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3046659,
+               "lng" : -6.2215599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3113329,
+                  "lng" : -6.2055525
+               },
+               "southwest" : {
+                  "lat" : 53.2979978,
+                  "lng" : -6.237567299999999
+               }
+            }
+         },
+         "place_id" : "ChIJsx9cIDEJZ0gR8FXqN6nHABg",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roebuck",
+               "short_name" : "Roebuck",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roebuck, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3145386,
+                  "lng" : -6.217726799999999
+               },
+               "southwest" : {
+                  "lat" : 53.29772579999999,
+                  "lng" : -6.2351838
+               }
+            },
+            "location" : {
+               "lat" : 53.3034694,
+               "lng" : -6.226548699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3145386,
+                  "lng" : -6.217726799999999
+               },
+               "southwest" : {
+                  "lat" : 53.29772579999999,
+                  "lng" : -6.2351838
+               }
+            }
+         },
+         "place_id" : "ChIJVRMwoTcJZ0gRpdjhXylaUwY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dun Laoghaire-Rathdown",
+               "short_name" : "Dun Laoghaire-Rathdown",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dun Laoghaire-Rathdown, Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3149629,
+                  "lng" : -6.091126099999999
+               },
+               "southwest" : {
+                  "lat" : 53.1986268,
+                  "lng" : -6.2992387
+               }
+            },
+            "location" : {
+               "lat" : 53.2602149,
+               "lng" : -6.2047205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3149629,
+                  "lng" : -6.091126099999999
+               },
+               "southwest" : {
+                  "lat" : 53.1986268,
+                  "lng" : -6.2992387
+               }
+            }
+         },
+         "place_id" : "ChIJJUxINSQGZ0gRh0GSpBtgnrc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            },
+            "location" : {
+               "lat" : 53.3498053,
+               "lng" : -6.2603097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            }
+         },
+         "place_id" : "ChIJL6wn6oAOZ0gRoHExl6nHAAo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            },
+            "location" : {
+               "lat" : 53.3302033,
+               "lng" : -6.3105655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            }
+         },
+         "place_id" : "ChIJv2RI7foRZ0gRwAKA8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

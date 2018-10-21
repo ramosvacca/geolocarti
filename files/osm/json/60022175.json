@@ -1,0 +1,494 @@
+{
+   "plus_code" : {
+      "compound_code" : "QC7C+XP Durham, UK",
+      "global_code" : "9C6WQC7C+XP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durham University",
+               "short_name" : "Durham University",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Elvet Hill Road",
+               "short_name" : "Elvet Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "County Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DH1 3LN",
+               "short_name" : "DH1 3LN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Durham University, Elvet Hill Rd, Durham DH1 3LN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.76442309999999,
+               "lng" : -1.5798558
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7657720802915,
+                  "lng" : -1.578506819708498
+               },
+               "southwest" : {
+                  "lat" : 54.7630741197085,
+                  "lng" : -1.581204780291502
+               }
+            }
+         },
+         "place_id" : "ChIJV37C62eHfkgR0mrcRfry-FE",
+         "plus_code" : {
+            "compound_code" : "QC7C+Q3 Durham, United Kingdom",
+            "global_code" : "9C6WQC7C+Q3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Road",
+               "short_name" : "A177",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "County Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DH1",
+               "short_name" : "DH1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "South Rd, Durham DH1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.76578019999999,
+                  "lng" : -1.5762093
+               },
+               "southwest" : {
+                  "lat" : 54.7639709,
+                  "lng" : -1.5777957
+               }
+            },
+            "location" : {
+               "lat" : 54.7648755,
+               "lng" : -1.5770025
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7662245302915,
+                  "lng" : -1.575653519708498
+               },
+               "southwest" : {
+                  "lat" : 54.7635265697085,
+                  "lng" : -1.578351480291502
+               }
+            }
+         },
+         "place_id" : "ChIJD4MNM2aHfkgRYAaqMCY3ZCI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DH1 3TP",
+               "short_name" : "DH1 3TP",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "County Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham DH1 3TP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7651476,
+                  "lng" : -1.5767265
+               },
+               "southwest" : {
+                  "lat" : 54.7636793,
+                  "lng" : -1.5789442
+               }
+            },
+            "location" : {
+               "lat" : 54.7646469,
+               "lng" : -1.578034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7657624302915,
+                  "lng" : -1.576486369708498
+               },
+               "southwest" : {
+                  "lat" : 54.7630644697085,
+                  "lng" : -1.579184330291502
+               }
+            }
+         },
+         "place_id" : "ChIJ8xxbxWeHfkgRVDK421B-r9Q",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "County Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.827611,
+                  "lng" : -1.4974256
+               },
+               "southwest" : {
+                  "lat" : 54.7358989,
+                  "lng" : -1.6070484
+               }
+            },
+            "location" : {
+               "lat" : 54.77525,
+               "lng" : -1.584852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.827611,
+                  "lng" : -1.4974256
+               },
+               "southwest" : {
+                  "lat" : 54.7358989,
+                  "lng" : -1.6070484
+               }
+            }
+         },
+         "place_id" : "ChIJwbHYJaUqfEgRK0Ui9dVGimc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DH1",
+               "short_name" : "DH1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "County Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham DH1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8215625,
+                  "lng" : -1.4761963
+               },
+               "southwest" : {
+                  "lat" : 54.7351344,
+                  "lng" : -1.6303121
+               }
+            },
+            "location" : {
+               "lat" : 54.7860332,
+               "lng" : -1.5681816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8215625,
+                  "lng" : -1.4761963
+               },
+               "southwest" : {
+                  "lat" : 54.7351344,
+                  "lng" : -1.6303121
+               }
+            }
+         },
+         "place_id" : "ChIJlUZokwh9fkgRw-h5UuptflI",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "County Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.852368,
+                  "lng" : -1.3682536
+               },
+               "southwest" : {
+                  "lat" : 54.703153,
+                  "lng" : -1.8190499
+               }
+            },
+            "location" : {
+               "lat" : 54.7529094,
+               "lng" : -1.5798386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.852368,
+                  "lng" : -1.3682536
+               },
+               "southwest" : {
+                  "lat" : 54.703153,
+                  "lng" : -1.8190499
+               }
+            }
+         },
+         "place_id" : "ChIJtXqvdvd9fkgRflAxHfvziOc",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Durham",
+               "short_name" : "County Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9186924,
+                  "lng" : -1.239692
+               },
+               "southwest" : {
+                  "lat" : 54.4514666,
+                  "lng" : -2.3557424
+               }
+            },
+            "location" : {
+               "lat" : 54.7294099,
+               "lng" : -1.8811598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9186924,
+                  "lng" : -1.239692
+               },
+               "southwest" : {
+                  "lat" : 54.4514666,
+                  "lng" : -2.3557424
+               }
+            }
+         },
+         "place_id" : "ChIJreC1xuErfEgRwLZs7Z75DAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

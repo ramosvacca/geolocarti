@@ -1,0 +1,456 @@
+{
+   "plus_code" : {
+      "compound_code" : "9C5R+MF Plouzané, France",
+      "global_code" : "8CWQ9C5R+MF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1625",
+               "short_name" : "1625",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Route de Sainte-Anne",
+               "short_name" : "Route de Sainte-Anne",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plouzané",
+               "short_name" : "Plouzané",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finistère",
+               "short_name" : "Finistère",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bretagne",
+               "short_name" : "Bretagne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29280",
+               "short_name" : "29280",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1625 Route de Sainte-Anne, 29280 Plouzané, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.3591631,
+               "lng" : -4.558795
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.36051208029149,
+                  "lng" : -4.557446019708498
+               },
+               "southwest" : {
+                  "lat" : 48.3578141197085,
+                  "lng" : -4.560143980291502
+               }
+            }
+         },
+         "place_id" : "ChIJWean9kW-FkgRExCe6M2eMjQ",
+         "plus_code" : {
+            "compound_code" : "9C5R+MF Plouzané, France",
+            "global_code" : "8CWQ9C5R+MF"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1625",
+               "short_name" : "1625",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Route de Sainte-Anne",
+               "short_name" : "Route de Sainte-Anne",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plouzané",
+               "short_name" : "Plouzané",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finistère",
+               "short_name" : "Finistère",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bretagne",
+               "short_name" : "Bretagne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29280",
+               "short_name" : "29280",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1625 Route de Sainte-Anne, 29280 Plouzané, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3593797,
+                  "lng" : -4.5582208
+               },
+               "southwest" : {
+                  "lat" : 48.3588444,
+                  "lng" : -4.5592769
+               }
+            },
+            "location" : {
+               "lat" : 48.3591558,
+               "lng" : -4.558813499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.36046103029149,
+                  "lng" : -4.557399869708498
+               },
+               "southwest" : {
+                  "lat" : 48.3577630697085,
+                  "lng" : -4.560097830291503
+               }
+            }
+         },
+         "place_id" : "ChIJC7JRjkW-FkgRSsrKFgHG9FQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plouzané",
+               "short_name" : "Plouzané",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finistère",
+               "short_name" : "Finistère",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bretagne",
+               "short_name" : "Bretagne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29280",
+               "short_name" : "29280",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 29280 Plouzané, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.358974,
+                  "lng" : -4.5591549
+               },
+               "southwest" : {
+                  "lat" : 48.3586003,
+                  "lng" : -4.5596762
+               }
+            },
+            "location" : {
+               "lat" : 48.35878719999999,
+               "lng" : -4.559415599999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.36013613029149,
+                  "lng" : -4.558066569708498
+               },
+               "southwest" : {
+                  "lat" : 48.3574381697085,
+                  "lng" : -4.560764530291503
+               }
+            }
+         },
+         "place_id" : "ChIJ8Tha9EW-FkgR1pipu1qKk-Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plouzané",
+               "short_name" : "Plouzané",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finistere",
+               "short_name" : "Finistere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29280",
+               "short_name" : "29280",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "29280 Plouzané, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.413315,
+                  "lng" : -4.5503339
+               },
+               "southwest" : {
+                  "lat" : 48.33617710000001,
+                  "lng" : -4.644883099999999
+               }
+            },
+            "location" : {
+               "lat" : 48.381438,
+               "lng" : -4.620404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.413315,
+                  "lng" : -4.5503339
+               },
+               "southwest" : {
+                  "lat" : 48.33617710000001,
+                  "lng" : -4.644883099999999
+               }
+            }
+         },
+         "place_id" : "ChIJnf7kqN-VFkgRGzbW2bjvZZU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "29280",
+               "short_name" : "29280",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Locmaria-Plouzané",
+               "short_name" : "Locmaria-Plouzané",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finistere",
+               "short_name" : "Finistere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "29280 Locmaria-Plouzané, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.41316310000001,
+                  "lng" : -4.550306099999999
+               },
+               "southwest" : {
+                  "lat" : 48.3361706,
+                  "lng" : -4.689822899999999
+               }
+            },
+            "location" : {
+               "lat" : 48.36640389999999,
+               "lng" : -4.6140477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.41316310000001,
+                  "lng" : -4.550306099999999
+               },
+               "southwest" : {
+                  "lat" : 48.3361706,
+                  "lng" : -4.689822899999999
+               }
+            }
+         },
+         "place_id" : "ChIJK8rna8OVFkgRUBT0dtClDBw",
+         "postcode_localities" : [ "Locmaria-Plouzané", "Plouzané" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Finistere",
+               "short_name" : "Finistere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Finistere, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7535,
+                  "lng" : -3.3866189
+               },
+               "southwest" : {
+                  "lat" : 47.701242,
+                  "lng" : -5.141292099999999
+               }
+            },
+            "location" : {
+               "lat" : 48.2520249,
+               "lng" : -3.9300525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7535,
+                  "lng" : -3.3866189
+               },
+               "southwest" : {
+                  "lat" : 47.701242,
+                  "lng" : -5.141292099999999
+               }
+            }
+         },
+         "place_id" : "ChIJR380f3HMFkgRMCffNs2lDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brittany, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.90094209999999,
+                  "lng" : -1.015621
+               },
+               "southwest" : {
+                  "lat" : 47.27785290000001,
+                  "lng" : -5.141292099999999
+               }
+            },
+            "location" : {
+               "lat" : 48.2020471,
+               "lng" : -2.9326435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.90094209999999,
+                  "lng" : -1.015621
+               },
+               "southwest" : {
+                  "lat" : 47.27785290000001,
+                  "lng" : -5.141292099999999
+               }
+            }
+         },
+         "place_id" : "ChIJr45-rmHKEUgRsCTfNs2lDAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

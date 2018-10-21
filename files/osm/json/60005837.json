@@ -1,0 +1,460 @@
+{
+   "plus_code" : {
+      "compound_code" : "PM95+X4 Southeast Houston, Houston, TX, USA",
+      "global_code" : "76X6PM95+X4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4800",
+               "short_name" : "4800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calhoun Road",
+               "short_name" : "Calhoun Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77004",
+               "short_name" : "77004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4800 Calhoun Rd, Houston, TX 77004, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.7199489,
+               "lng" : -95.3422334
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7212978802915,
+                  "lng" : -95.3408844197085
+               },
+               "southwest" : {
+                  "lat" : 29.7185999197085,
+                  "lng" : -95.34358238029151
+               }
+            }
+         },
+         "place_id" : "ChIJmaG-jlq-QIYR50eCyn44nww",
+         "plus_code" : {
+            "compound_code" : "PM95+X4 Southeast Houston, Houston, TX, United States",
+            "global_code" : "76X6PM95+X4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Drive",
+               "short_name" : "University Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater Third Ward",
+               "short_name" : "Greater Third Ward",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77004",
+               "short_name" : "77004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Dr, Houston, TX 77004, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7196898,
+                  "lng" : -95.34144599999999
+               },
+               "southwest" : {
+                  "lat" : 29.7195956,
+                  "lng" : -95.34178969999999
+               }
+            },
+            "location" : {
+               "lat" : 29.7196427,
+               "lng" : -95.34161779999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7209916802915,
+                  "lng" : -95.34026886970848
+               },
+               "southwest" : {
+                  "lat" : 29.7182937197085,
+                  "lng" : -95.34296683029149
+               }
+            }
+         },
+         "place_id" : "ChIJw_t4eFq-QIYR6rn2SA57w4w",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater Third Ward",
+               "short_name" : "Greater Third Ward",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gridiron",
+               "short_name" : "Gridiron",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater Third Ward, Houston, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7445279,
+                  "lng" : -95.33301519999999
+               },
+               "southwest" : {
+                  "lat" : 29.713429,
+                  "lng" : -95.3747662
+               }
+            },
+            "location" : {
+               "lat" : 29.7300936,
+               "lng" : -95.35470339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7445279,
+                  "lng" : -95.33301519999999
+               },
+               "southwest" : {
+                  "lat" : 29.713429,
+                  "lng" : -95.3747662
+               }
+            }
+         },
+         "place_id" : "ChIJKXdxQwC_QIYRXOoUC6KaLlw",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "77004",
+               "short_name" : "77004",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Houston, TX 77004, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.745696,
+                  "lng" : -95.33349899999999
+               },
+               "southwest" : {
+                  "lat" : 29.70824,
+                  "lng" : -95.3921038
+               }
+            },
+            "location" : {
+               "lat" : 29.7209034,
+               "lng" : -95.36778439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.745696,
+                  "lng" : -95.33349899999999
+               },
+               "southwest" : {
+                  "lat" : 29.70824,
+                  "lng" : -95.3921038
+               }
+            }
+         },
+         "place_id" : "ChIJI78UaAa_QIYRRrKSAX2HkHQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Houston, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1107319,
+                  "lng" : -95.01449599999999
+               },
+               "southwest" : {
+                  "lat" : 29.523624,
+                  "lng" : -95.78808690000001
+               }
+            },
+            "location" : {
+               "lat" : 29.7604267,
+               "lng" : -95.3698028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1107319,
+                  "lng" : -95.01449599999999
+               },
+               "southwest" : {
+                  "lat" : 29.523624,
+                  "lng" : -95.78808690000001
+               }
+            }
+         },
+         "place_id" : "ChIJAYWNSLS4QIYROwVl894CDco",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harris County, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1706059,
+                  "lng" : -94.90849209999999
+               },
+               "southwest" : {
+                  "lat" : 29.497339,
+                  "lng" : -95.96076509999999
+               }
+            },
+            "location" : {
+               "lat" : 29.7751825,
+               "lng" : -95.3102505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1706059,
+                  "lng" : -94.90849209999999
+               },
+               "southwest" : {
+                  "lat" : 29.497339,
+                  "lng" : -95.96076509999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9TB__YrMQIYR2tK7sndSry4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texas",
+               "short_name" : "Texas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            },
+            "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            }
+         },
+         "place_id" : "ChIJSTKCCzZwQIYRPN4IGI8c6xY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

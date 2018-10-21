@@ -1,0 +1,411 @@
+{
+   "plus_code" : {
+      "compound_code" : "PC5M+6Q Tehran, Tehran Province, Iran",
+      "global_code" : "8H7HPC5M+6Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "خیابان شریعتی،تهران،",
+               "short_name" : "خیابان شریعتی،تهران،",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "تهران",
+               "short_name" : "تهران",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "تهران",
+               "short_name" : "تهران",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "تهران، خیابان شریعتی،تهران،، Iran",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.708033,
+               "lng" : 51.4346269
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7093819802915,
+                  "lng" : 51.43597588029149
+               },
+               "southwest" : {
+                  "lat" : 35.7066840197085,
+                  "lng" : 51.43327791970849
+               }
+            }
+         },
+         "place_id" : "ChIJmUlRM3kDjj8Rkk8Eb4GrA4Q",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "184",
+               "short_name" : "184",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shariati Street",
+               "short_name" : "Shariati St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "District 7",
+               "short_name" : "District 7",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran Province, Tehran, District 7, Shariati St, No. 184, Iran",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.70855299999999,
+               "lng" : 51.43491239999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7099019802915,
+                  "lng" : 51.43626138029149
+               },
+               "southwest" : {
+                  "lat" : 35.7072040197085,
+                  "lng" : 51.43356341970849
+               }
+            }
+         },
+         "place_id" : "ChIJhfazjNQDjj8Rz-tNvsN9w4o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karegar",
+               "short_name" : "Karegar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Karegar, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7090096,
+                  "lng" : 51.4346094
+               },
+               "southwest" : {
+                  "lat" : 35.7080302,
+                  "lng" : 51.4325809
+               }
+            },
+            "location" : {
+               "lat" : 35.7085199,
+               "lng" : 51.4335951
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7098688802915,
+                  "lng" : 51.43494413029149
+               },
+               "southwest" : {
+                  "lat" : 35.7071709197085,
+                  "lng" : 51.4322461697085
+               }
+            }
+         },
+         "place_id" : "ChIJz7QnVdQDjj8RZuf2yBBUCUI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District 7",
+               "short_name" : "District 7",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "District 7, Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7426983,
+                  "lng" : 51.472342
+               },
+               "southwest" : {
+                  "lat" : 35.7016902,
+                  "lng" : 51.42035019999999
+               }
+            },
+            "location" : {
+               "lat" : 35.7183611,
+               "lng" : 51.4414585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7426983,
+                  "lng" : 51.472342
+               },
+               "southwest" : {
+                  "lat" : 35.7016902,
+                  "lng" : 51.42035019999999
+               }
+            }
+         },
+         "place_id" : "ChIJiW_B-cQDjj8RcqDXiTautko",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8345498,
+                  "lng" : 51.6062163
+               },
+               "southwest" : {
+                  "lat" : 35.5590784,
+                  "lng" : 51.0934209
+               }
+            },
+            "location" : {
+               "lat" : 35.6891975,
+               "lng" : 51.3889736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8345498,
+                  "lng" : 51.6062163
+               },
+               "southwest" : {
+                  "lat" : 35.5590784,
+                  "lng" : 51.0934209
+               }
+            }
+         },
+         "place_id" : "ChIJ2dzzH0kAjj8RvCRwVnxps_A",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.895169,
+                  "lng" : 51.884308
+               },
+               "southwest" : {
+                  "lat" : 35.5392108,
+                  "lng" : 51.1176682
+               }
+            },
+            "location" : {
+               "lat" : 35.7209396,
+               "lng" : 51.4729695
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.895169,
+                  "lng" : 51.884308
+               },
+               "southwest" : {
+                  "lat" : 35.5392108,
+                  "lng" : 51.1176682
+               }
+            }
+         },
+         "place_id" : "ChIJOZCRm8YCjj8RKFksd3lkwhc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tehran Province",
+               "short_name" : "Tehran Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.07789210000001,
+                  "lng" : 53.216228
+               },
+               "southwest" : {
+                  "lat" : 34.909543,
+                  "lng" : 50.3186971
+               }
+            },
+            "location" : {
+               "lat" : 35.7248416,
+               "lng" : 51.381653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.07789210000001,
+                  "lng" : 53.216228
+               },
+               "southwest" : {
+                  "lat" : 34.909543,
+                  "lng" : 50.3186971
+               }
+            }
+         },
+         "place_id" : "ChIJf5Us9YQBjj8R0OohvHQms1U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            },
+            "location" : {
+               "lat" : 32.427908,
+               "lng" : 53.688046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            }
+         },
+         "place_id" : "ChIJ8R1rwS7s9z4RzvpRntOVsEA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,578 @@
+{
+   "plus_code" : {
+      "compound_code" : "4RQ9+Q7 Calgary, AB, Canada",
+      "global_code" : "95374RQ9+Q7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "232",
+               "short_name" : "232",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hawkland Circle Northwest",
+               "short_name" : "Hawkland Cir NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hawkwood",
+               "short_name" : "Hawkwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T3G 3R6",
+               "short_name" : "T3G 3R6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "232 Hawkland Cir NW, Calgary, AB T3G 3R6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1395309,
+                  "lng" : -114.1816974
+               },
+               "southwest" : {
+                  "lat" : 51.13938599999999,
+                  "lng" : -114.1818746
+               }
+            },
+            "location" : {
+               "lat" : 51.1394558,
+               "lng" : -114.1817606
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1408074302915,
+                  "lng" : -114.1804370197085
+               },
+               "southwest" : {
+                  "lat" : 51.1381094697085,
+                  "lng" : -114.1831349802915
+               }
+            }
+         },
+         "place_id" : "ChIJt6MD7u1ocVMRxFOguMBXNf4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "240",
+               "short_name" : "240",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hawkland Circle Northwest",
+               "short_name" : "Hawkland Cir NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hawkwood",
+               "short_name" : "Hawkwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T3G 3R6",
+               "short_name" : "T3G 3R6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "240 Hawkland Cir NW, Calgary, AB T3G 3R6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1393844,
+               "lng" : -114.1821828
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1407333802915,
+                  "lng" : -114.1808338197085
+               },
+               "southwest" : {
+                  "lat" : 51.1380354197085,
+                  "lng" : -114.1835317802915
+               }
+            }
+         },
+         "place_id" : "ChIJF__97-1ocVMR8_Obw_Ex2bg",
+         "plus_code" : {
+            "compound_code" : "4RQ9+Q4 Calgary, Alberta, Canada",
+            "global_code" : "95374RQ9+Q4"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "232",
+               "short_name" : "232",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hawkland Circle Northwest",
+               "short_name" : "Hawkland Cir NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "232 Hawkland Cir NW, Calgary, AB, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.13928139999999,
+               "lng" : -114.1817641
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1406303802915,
+                  "lng" : -114.1804151197085
+               },
+               "southwest" : {
+                  "lat" : 51.1379324197085,
+                  "lng" : -114.1831130802915
+               }
+            }
+         },
+         "place_id" : "EigyMzIgSGF3a2xhbmQgQ2lyIE5XLCBDYWxnYXJ5LCBBQiwgQ2FuYWRhIhsSGQoUChIJAcSR7u1ocVMRdrmp6YczO-oQ6AE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "T3G 3R6",
+               "short_name" : "T3G 3R6",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hawkwood",
+               "short_name" : "Hawkwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calgary, AB T3G 3R6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1404844,
+                  "lng" : -114.1815958
+               },
+               "southwest" : {
+                  "lat" : 51.1380504,
+                  "lng" : -114.1837775
+               }
+            },
+            "location" : {
+               "lat" : 51.1391828,
+               "lng" : -114.1823135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.14061638029149,
+                  "lng" : -114.1813376697085
+               },
+               "southwest" : {
+                  "lat" : 51.13791841970849,
+                  "lng" : -114.1840356302915
+               }
+            }
+         },
+         "place_id" : "ChIJpd4s--1ocVMRubohy55NoWM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawkwood",
+               "short_name" : "Hawkwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T3G",
+               "short_name" : "T3G",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Hawkwood, Calgary, AB T3G, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1411636,
+                  "lng" : -114.160396
+               },
+               "southwest" : {
+                  "lat" : 51.1208137,
+                  "lng" : -114.1945257
+               }
+            },
+            "location" : {
+               "lat" : 51.1323255,
+               "lng" : -114.1775422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1411636,
+                  "lng" : -114.160396
+               },
+               "southwest" : {
+                  "lat" : 51.1208137,
+                  "lng" : -114.1945257
+               }
+            }
+         },
+         "place_id" : "ChIJ-6YUBOpocVMRiyHV8E6Pxww",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "T3G",
+               "short_name" : "T3G",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Northwest Calgary",
+               "short_name" : "Northwest Calgary",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calgary, AB T3G, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1670609,
+                  "lng" : -114.160216
+               },
+               "southwest" : {
+                  "lat" : 51.110675,
+                  "lng" : -114.257506
+               }
+            },
+            "location" : {
+               "lat" : 51.1381168,
+               "lng" : -114.1911222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1670609,
+                  "lng" : -114.160216
+               },
+               "southwest" : {
+                  "lat" : 51.110675,
+                  "lng" : -114.257506
+               }
+            }
+         },
+         "place_id" : "ChIJe1mo8f1ocVMRYW-H3Sxr7W0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calgary, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.18383,
+                  "lng" : -113.8769511
+               },
+               "southwest" : {
+                  "lat" : 50.84240399999999,
+                  "lng" : -114.2713599
+               }
+            },
+            "location" : {
+               "lat" : 51.0486151,
+               "lng" : -114.0708459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.18383,
+                  "lng" : -113.8769511
+               },
+               "southwest" : {
+                  "lat" : 50.84240399999999,
+                  "lng" : -114.2713599
+               }
+            }
+         },
+         "place_id" : "ChIJ1T-EnwNwcVMROrZStrE7bSY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Division No. 6, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.94076099999999,
+                  "lng" : -113.3769491
+               },
+               "southwest" : {
+                  "lat" : 50.3094899,
+                  "lng" : -114.9944548
+               }
+            },
+            "location" : {
+               "lat" : 51.0463129,
+               "lng" : -114.0534407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.94076099999999,
+                  "lng" : -113.3769491
+               },
+               "southwest" : {
+                  "lat" : 50.3094899,
+                  "lng" : -114.9944548
+               }
+            }
+         },
+         "place_id" : "ChIJS4TgXkDGoVMRdaqkTmCDZ84",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alberta",
+               "short_name" : "Alberta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alberta, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.00006209999999,
+                  "lng" : -109.9998551
+               },
+               "southwest" : {
+                  "lat" : 48.9966671,
+                  "lng" : -120.0005219
+               }
+            },
+            "location" : {
+               "lat" : 53.9332706,
+               "lng" : -116.5765035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.00006209999999,
+                  "lng" : -109.9998551
+               },
+               "southwest" : {
+                  "lat" : 48.9966671,
+                  "lng" : -120.0005219
+               }
+            }
+         },
+         "place_id" : "ChIJtRkkqIKyCVMRno6bQJpHqbA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,438 @@
+{
+   "plus_code" : {
+      "compound_code" : "FQVH+FG Tampere, Finland",
+      "global_code" : "9GH5FQVH+FG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kalevantie",
+               "short_name" : "Kalevantie",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33100",
+               "short_name" : "33100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalevantie 4, 33100 Tampere, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.4936494,
+               "lng" : 23.7788528
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.49499838029151,
+                  "lng" : 23.78020178029151
+               },
+               "southwest" : {
+                  "lat" : 61.49230041970849,
+                  "lng" : 23.7775038197085
+               }
+            }
+         },
+         "place_id" : "ChIJe2Ls31PfjkYRYFzhESN2v7c",
+         "plus_code" : {
+            "compound_code" : "FQVH+FG Tampere, Finland",
+            "global_code" : "9GH5FQVH+FG"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kanslerinrinne",
+               "short_name" : "Kanslerinrinne",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33100",
+               "short_name" : "33100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kanslerinrinne 1, 33100 Tampere, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.49346079999999,
+               "lng" : 23.7779331
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.4948097802915,
+                  "lng" : 23.7792820802915
+               },
+               "southwest" : {
+                  "lat" : 61.49211181970848,
+                  "lng" : 23.7765841197085
+               }
+            }
+         },
+         "place_id" : "ChIJZTwzyFPfjkYRgwbrfHKBBWk",
+         "plus_code" : {
+            "compound_code" : "FQVH+95 Tampere, Finland",
+            "global_code" : "9GH5FQVH+95"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanslerinrinne",
+               "short_name" : "Kanslerinrinne",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33100",
+               "short_name" : "33100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kanslerinrinne, 33100 Tampere, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.4947841,
+                  "lng" : 23.7767124
+               },
+               "southwest" : {
+                  "lat" : 61.4936102,
+                  "lng" : 23.7766124
+               }
+            },
+            "location" : {
+               "lat" : 61.49419709999999,
+               "lng" : 23.7766624
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.4955461302915,
+                  "lng" : 23.7780113802915
+               },
+               "southwest" : {
+                  "lat" : 61.49284816970849,
+                  "lng" : 23.7753134197085
+               }
+            }
+         },
+         "place_id" : "ChIJS0CLuFPfjkYRRNNkDq45jFQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33100",
+               "short_name" : "33100",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "33100 Tampere, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.5083758,
+                  "lng" : 23.8190414
+               },
+               "southwest" : {
+                  "lat" : 61.4826655,
+                  "lng" : 23.7532641
+               }
+            },
+            "location" : {
+               "lat" : 61.491623,
+               "lng" : 23.783517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.5083758,
+                  "lng" : 23.8190414
+               },
+               "southwest" : {
+                  "lat" : 61.4826655,
+                  "lng" : 23.7532641
+               }
+            }
+         },
+         "place_id" : "ChIJKePL3FbfjkYRYOtXeFS1ABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampere, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.83657359999999,
+                  "lng" : 24.1183841
+               },
+               "southwest" : {
+                  "lat" : 61.42728169999999,
+                  "lng" : 23.5422013
+               }
+            },
+            "location" : {
+               "lat" : 61.49820260000001,
+               "lng" : 23.7610877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.83657359999999,
+                  "lng" : 24.1183841
+               },
+               "southwest" : {
+                  "lat" : 61.42728169999999,
+                  "lng" : 23.5422013
+               }
+            }
+         },
+         "place_id" : "ChIJVVwAnVEkj0YRhhoEA3s-vUQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampere, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.83657359999999,
+                  "lng" : 24.1183841
+               },
+               "southwest" : {
+                  "lat" : 61.42728169999999,
+                  "lng" : 23.5422013
+               }
+            },
+            "location" : {
+               "lat" : 61.4977524,
+               "lng" : 23.7609535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.83657359999999,
+                  "lng" : 24.1183841
+               },
+               "southwest" : {
+                  "lat" : 61.42728169999999,
+                  "lng" : 23.5422013
+               }
+            }
+         },
+         "place_id" : "ChIJXdqTRVXfjkYRwCILHr3j32o",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampere, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.1653001,
+                  "lng" : 24.9698322
+               },
+               "southwest" : {
+                  "lat" : 61.19957520000001,
+                  "lng" : 22.8242633
+               }
+            },
+            "location" : {
+               "lat" : 61.49820330000001,
+               "lng" : 23.7610457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.1653001,
+                  "lng" : 24.9698322
+               },
+               "southwest" : {
+                  "lat" : 61.19957520000001,
+                  "lng" : 22.8242633
+               }
+            }
+         },
+         "place_id" : "ChIJ9-xeZzI7j0YRFcDuTpZgYtw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pirkanmaa",
+               "short_name" : "Pirkanmaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pirkanmaa, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.4943907,
+                  "lng" : 24.9698322
+               },
+               "southwest" : {
+                  "lat" : 60.93970079999999,
+                  "lng" : 22.5325327
+               }
+            },
+            "location" : {
+               "lat" : 61.6986918,
+               "lng" : 23.7895598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.4943907,
+                  "lng" : 24.9698322
+               },
+               "southwest" : {
+                  "lat" : 60.93970079999999,
+                  "lng" : 22.5325327
+               }
+            }
+         },
+         "place_id" : "ChIJ1Z2pOCMwj0YRY2eDwYLF91I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            },
+            "location" : {
+               "lat" : 61.92410999999999,
+               "lng" : 25.7481511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            }
+         },
+         "place_id" : "ChIJ3fYyS9_KgUYREKh1PNZGAQA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

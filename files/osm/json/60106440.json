@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "5HPM+HH Coimbra, Portugal",
+      "global_code" : "8CGH5HPM+HH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3030-290",
+               "short_name" : "3030-290",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidade de Coimbra, Pólo II - Pinhal de Marrocos, 3030-290 Coimbra, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.1863787,
+               "lng" : -8.4161032
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1877276802915,
+                  "lng" : -8.414754219708499
+               },
+               "southwest" : {
+                  "lat" : 40.1850297197085,
+                  "lng" : -8.417452180291503
+               }
+            }
+         },
+         "place_id" : "ChIJF2WvKpX5Ig0RUutZ08EugtM",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rua Silvio Lima",
+               "short_name" : "R. Silvio Lima",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3030-790",
+               "short_name" : "3030-790",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Silvio Lima, 3030-790 Coimbra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1862043,
+                  "lng" : -8.4155564
+               },
+               "southwest" : {
+                  "lat" : 40.1862003,
+                  "lng" : -8.4163554
+               }
+            },
+            "location" : {
+               "lat" : 40.1862023,
+               "lng" : -8.4159559
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.18755128029151,
+                  "lng" : -8.414606919708499
+               },
+               "southwest" : {
+                  "lat" : 40.18485331970851,
+                  "lng" : -8.417304880291503
+               }
+            }
+         },
+         "place_id" : "ChIJAzGU1Or5Ig0RgkR9ckkdAUg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3030-290",
+               "short_name" : "3030-290",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coimbra District",
+               "short_name" : "Coimbra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3030-290 Coimbra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1923922,
+                  "lng" : -8.4019754
+               },
+               "southwest" : {
+                  "lat" : 40.18621359999999,
+                  "lng" : -8.417051599999999
+               }
+            },
+            "location" : {
+               "lat" : 40.1918784,
+               "lng" : -8.4032789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1923922,
+                  "lng" : -8.4019754
+               },
+               "southwest" : {
+                  "lat" : 40.18621359999999,
+                  "lng" : -8.417051599999999
+               }
+            }
+         },
+         "place_id" : "ChIJp_qTGIz5Ig0R_JMputhzcPA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santo António dos Olivais",
+               "short_name" : "Santo António dos Olivais",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coimbra District",
+               "short_name" : "Coimbra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3030",
+               "short_name" : "3030",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Santo António dos Olivais, 3030 Coimbra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2381855,
+                  "lng" : -8.3734255
+               },
+               "southwest" : {
+                  "lat" : 40.1782455,
+                  "lng" : -8.4285611
+               }
+            },
+            "location" : {
+               "lat" : 40.2172968,
+               "lng" : -8.4023333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2381855,
+                  "lng" : -8.3734255
+               },
+               "southwest" : {
+                  "lat" : 40.1782455,
+                  "lng" : -8.4285611
+               }
+            }
+         },
+         "place_id" : "ChIJK_Q2X3_5Ig0R4FSQ5L3rAAU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3030",
+               "short_name" : "3030",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coimbra District",
+               "short_name" : "Coimbra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3030 Coimbra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2387822,
+                  "lng" : -8.3229106
+               },
+               "southwest" : {
+                  "lat" : 40.1782462,
+                  "lng" : -8.428564399999999
+               }
+            },
+            "location" : {
+               "lat" : 40.2143029,
+               "lng" : -8.3800516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2387822,
+                  "lng" : -8.3229106
+               },
+               "southwest" : {
+                  "lat" : 40.1782462,
+                  "lng" : -8.428564399999999
+               }
+            }
+         },
+         "place_id" : "ChIJTf1BsuP5Ig0RQKU7DsHrABw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coimbra District",
+               "short_name" : "Coimbra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coimbra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2861477,
+                  "lng" : -8.322907599999999
+               },
+               "southwest" : {
+                  "lat" : 40.1713722,
+                  "lng" : -8.5096411
+               }
+            },
+            "location" : {
+               "lat" : 40.2033145,
+               "lng" : -8.4102573
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2861477,
+                  "lng" : -8.322907599999999
+               },
+               "southwest" : {
+                  "lat" : 40.1713722,
+                  "lng" : -8.5096411
+               }
+            }
+         },
+         "place_id" : "ChIJbdGsShT5Ig0RuaZCe0dkRWM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coimbra",
+               "short_name" : "Coimbra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Coimbra District",
+               "short_name" : "Coimbra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coimbra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3520144,
+                  "lng" : -8.312903499999999
+               },
+               "southwest" : {
+                  "lat" : 40.0989228,
+                  "lng" : -8.5916759
+               }
+            },
+            "location" : {
+               "lat" : 40.2048286,
+               "lng" : -8.440357299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3520144,
+                  "lng" : -8.312903499999999
+               },
+               "southwest" : {
+                  "lat" : 40.0989228,
+                  "lng" : -8.5916759
+               }
+            }
+         },
+         "place_id" : "ChIJt-7Lx8L4Ig0R0DGQ5L3rAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coimbra District",
+               "short_name" : "Coimbra District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coimbra District, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.52036469999999,
+                  "lng" : -7.731755499999999
+               },
+               "southwest" : {
+                  "lat" : 39.9237866,
+                  "lng" : -8.909243699999999
+               }
+            },
+            "location" : {
+               "lat" : 40.2057994,
+               "lng" : -8.413689999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.52036469999999,
+                  "lng" : -7.731755499999999
+               },
+               "southwest" : {
+                  "lat" : 39.9237866,
+                  "lng" : -8.909243699999999
+               }
+            }
+         },
+         "place_id" : "ChIJFUjiC3P5Ig0R7rw4Vqbg9Dk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            },
+            "location" : {
+               "lat" : 39.39987199999999,
+               "lng" : -8.224454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            }
+         },
+         "place_id" : "ChIJ1SZCvy0kMgsRQfBOHAlLuCo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

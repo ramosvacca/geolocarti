@@ -1,0 +1,470 @@
+{
+   "plus_code" : {
+      "compound_code" : "C9WH+R5 Bristol, UK",
+      "global_code" : "9C3VC9WH+R5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Smeaton Road",
+               "short_name" : "Smeaton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1 Smeaton Rd, Bristol, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4473801,
+               "lng" : -2.6222068
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4487290802915,
+                  "lng" : -2.620857819708498
+               },
+               "southwest" : {
+                  "lat" : 51.4460311197085,
+                  "lng" : -2.623555780291502
+               }
+            }
+         },
+         "place_id" : "EhkxIFNtZWF0b24gUmQsIEJyaXN0b2wsIFVLIhoSGAoUChIJEaEIurWNcUgRPW0-Az6KCRUQAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spike Island",
+               "short_name" : "Spike Island",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS1",
+               "short_name" : "BS1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Spike Island, Bristol BS1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.44954070000001,
+                  "lng" : -2.5943613
+               },
+               "southwest" : {
+                  "lat" : 51.4457629,
+                  "lng" : -2.6244771
+               }
+            },
+            "location" : {
+               "lat" : 51.4472783,
+               "lng" : -2.6097279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.44954070000001,
+                  "lng" : -2.5943613
+               },
+               "southwest" : {
+                  "lat" : 51.4457629,
+                  "lng" : -2.6244771
+               }
+            }
+         },
+         "place_id" : "ChIJe35Uls2NcUgRHNLj1Pxo-EE",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS1 6EE",
+               "short_name" : "BS1 6EE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol BS1 6EE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4482197,
+                  "lng" : -2.6208607
+               },
+               "southwest" : {
+                  "lat" : 51.4459382,
+                  "lng" : -2.6235841
+               }
+            },
+            "location" : {
+               "lat" : 51.4470617,
+               "lng" : -2.6222561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.44842793029149,
+                  "lng" : -2.6208607
+               },
+               "southwest" : {
+                  "lat" : 51.44572996970849,
+                  "lng" : -2.6235841
+               }
+            }
+         },
+         "place_id" : "ChIJBcfZsbWNcUgR-tnUxrHOeYA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS1",
+               "short_name" : "BS1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol BS1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4646158,
+                  "lng" : -2.5735548
+               },
+               "southwest" : {
+                  "lat" : 51.4451473,
+                  "lng" : -2.6248803
+               }
+            },
+            "location" : {
+               "lat" : 51.4521226,
+               "lng" : -2.5986163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4646158,
+                  "lng" : -2.5735548
+               },
+               "southwest" : {
+                  "lat" : 51.4451473,
+                  "lng" : -2.6248803
+               }
+            }
+         },
+         "place_id" : "ChIJbakxNrSNcUgRAld0eWn-eVw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.4509024
+               },
+               "southwest" : {
+                  "lat" : 51.39254529999999,
+                  "lng" : -2.7305326
+               }
+            },
+            "location" : {
+               "lat" : 51.454513,
+               "lng" : -2.58791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.4509024
+               },
+               "southwest" : {
+                  "lat" : 51.39254529999999,
+                  "lng" : -2.7305326
+               }
+            }
+         },
+         "place_id" : "ChIJYdizgWaDcUgRH9eaSy6y5I4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "City of Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.5104192
+               },
+               "southwest" : {
+                  "lat" : 51.3416254,
+                  "lng" : -3.1178159
+               }
+            },
+            "location" : {
+               "lat" : 51.4658439,
+               "lng" : -2.5721363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.5104192
+               },
+               "southwest" : {
+                  "lat" : 51.3416254,
+                  "lng" : -3.1178159
+               }
+            }
+         },
+         "place_id" : "ChIJXWE9EuyNcUgRYKOZ1COLDQQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.67400019999999,
+                  "lng" : -2.3177872
+               },
+               "southwest" : {
+                  "lat" : 51.2728984,
+                  "lng" : -2.8650492
+               }
+            },
+            "location" : {
+               "lat" : 51.4454012,
+               "lng" : -2.5456095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.67400019999999,
+                  "lng" : -2.3177872
+               },
+               "southwest" : {
+                  "lat" : 51.2728984,
+                  "lng" : -2.8650492
+               }
+            }
+         },
+         "place_id" : "ChIJEasm1QiOcUgRvbNxy-tXeTM",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

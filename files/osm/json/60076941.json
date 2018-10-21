@@ -1,0 +1,573 @@
+{
+   "plus_code" : {
+      "compound_code" : "WWX5+8W Saint Paul, MN, USA",
+      "global_code" : "86P8WWX5+8W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "375",
+               "short_name" : "375",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jackson Street",
+               "short_name" : "Jackson St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Core",
+               "short_name" : "Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55101",
+               "short_name" : "55101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "375 Jackson St #200, St Paul, MN 55101, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9482591,
+               "lng" : -93.0901739
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9496080802915,
+                  "lng" : -93.0888249197085
+               },
+               "southwest" : {
+                  "lat" : 44.9469101197085,
+                  "lng" : -93.09152288029151
+               }
+            }
+         },
+         "place_id" : "ChIJ9em1Mk7V94cR50zA2kbS0gc",
+         "plus_code" : {
+            "compound_code" : "WWX5+8W Saint Paul, Minnesota, United States",
+            "global_code" : "86P8WWX5+8W"
+         },
+         "types" : [ "dentist", "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "375",
+               "short_name" : "375",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jackson Street",
+               "short_name" : "Jackson St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Core",
+               "short_name" : "Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55101",
+               "short_name" : "55101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "375 Jackson St, St Paul, MN 55101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9485386,
+                  "lng" : -93.08980149999999
+               },
+               "southwest" : {
+                  "lat" : 44.94800430000001,
+                  "lng" : -93.0904972
+               }
+            },
+            "location" : {
+               "lat" : 44.9482958,
+               "lng" : -93.0901449
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9496204302915,
+                  "lng" : -93.08880036970849
+               },
+               "southwest" : {
+                  "lat" : 44.9469224697085,
+                  "lng" : -93.0914983302915
+               }
+            }
+         },
+         "place_id" : "ChIJj-8ozU_V94cRKsdVEcl3h2Q",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "373",
+               "short_name" : "373",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jackson Street",
+               "short_name" : "Jackson St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55101",
+               "short_name" : "55101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "373 Jackson St, St Paul, MN 55101, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9483635,
+               "lng" : -93.0898026
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9497124802915,
+                  "lng" : -93.0884536197085
+               },
+               "southwest" : {
+                  "lat" : 44.9470145197085,
+                  "lng" : -93.09115158029151
+               }
+            }
+         },
+         "place_id" : "EiYzNzMgSmFja3NvbiBTdCwgU3QgUGF1bCwgTU4gNTUxMDEsIFVTQSIbEhkKFAoSCWcyGtJP1feHEc0zNwNYrb4TEPUC",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Core",
+               "short_name" : "Core",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Core, St Paul, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9502601,
+                  "lng" : -93.0857429
+               },
+               "southwest" : {
+                  "lat" : 44.9422599,
+                  "lng" : -93.09801
+               }
+            },
+            "location" : {
+               "lat" : 44.9454552,
+               "lng" : -93.091437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9502601,
+                  "lng" : -93.0857429
+               },
+               "southwest" : {
+                  "lat" : 44.9422599,
+                  "lng" : -93.09801
+               }
+            }
+         },
+         "place_id" : "ChIJRYncjk7V94cRHlbCoozx0Ag",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "55101",
+               "short_name" : "55101",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Paul, MN 55101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9594349,
+                  "lng" : -93.07661189999999
+               },
+               "southwest" : {
+                  "lat" : 44.9422699,
+                  "lng" : -93.100132
+               }
+            },
+            "location" : {
+               "lat" : 44.9513188,
+               "lng" : -93.0901841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9594349,
+                  "lng" : -93.07661189999999
+               },
+               "southwest" : {
+                  "lat" : 44.9422699,
+                  "lng" : -93.100132
+               }
+            }
+         },
+         "place_id" : "ChIJ5TFxPk_VslIR52oheiF0mHg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown, St Paul, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.95757,
+                  "lng" : -93.07892009999999
+               },
+               "southwest" : {
+                  "lat" : 44.9411699,
+                  "lng" : -93.11802019999999
+               }
+            },
+            "location" : {
+               "lat" : 44.9511834,
+               "lng" : -93.09519589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.95757,
+                  "lng" : -93.07892009999999
+               },
+               "southwest" : {
+                  "lat" : 44.9411699,
+                  "lng" : -93.11802019999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3T0pRa0q9ocRIPFbyC_fMq4",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Paul, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.992016,
+                  "lng" : -93.00431979999999
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.207787
+               }
+            },
+            "location" : {
+               "lat" : 44.9537029,
+               "lng" : -93.08995779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.992016,
+                  "lng" : -93.00431979999999
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.207787
+               }
+            }
+         },
+         "place_id" : "ChIJnzfp5M7UslIRKS7aP9KRcsg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramsey County, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.124533,
+                  "lng" : -92.983301
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.22790300000001
+               }
+            },
+            "location" : {
+               "lat" : 44.9963986,
+               "lng" : -93.0615978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.124533,
+                  "lng" : -92.983301
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.22790300000001
+               }
+            }
+         },
+         "place_id" : "ChIJfyBkuQrV94cRJQ5Uv1531bM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "Minnesota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minnesota, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.384358,
+                  "lng" : -89.48338509999999
+               },
+               "southwest" : {
+                  "lat" : 43.499361,
+                  "lng" : -97.2391959
+               }
+            },
+            "location" : {
+               "lat" : 46.729553,
+               "lng" : -94.6858998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.384358,
+                  "lng" : -89.48338509999999
+               },
+               "southwest" : {
+                  "lat" : 43.499361,
+                  "lng" : -97.2391959
+               }
+            }
+         },
+         "place_id" : "ChIJmwt4YJpbWE0RD6L-EJvJogI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

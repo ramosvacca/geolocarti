@@ -1,0 +1,772 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Paulo Gama",
+               "short_name" : "Av. Paulo Gama",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Farroupilha",
+               "short_name" : "Farroupilha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90040-060",
+               "short_name" : "90040-060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Paulo Gama, 110 - Farroupilha, Porto Alegre - RS, 90040-060, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.0336151,
+                  "lng" : -51.2186046
+               },
+               "southwest" : {
+                  "lat" : -30.0342287,
+                  "lng" : -51.2192234
+               }
+            },
+            "location" : {
+               "lat" : -30.0338389,
+               "lng" : -51.2189074
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0325729197085,
+                  "lng" : -51.2175650197085
+               },
+               "southwest" : {
+                  "lat" : -30.0352708802915,
+                  "lng" : -51.2202629802915
+               }
+            }
+         },
+         "place_id" : "ChIJ6dTINap5GZURWjCP4V3AysE",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1875",
+               "short_name" : "1875",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Engenheiro Luiz Englert",
+               "short_name" : "Rua Engenheiro Luiz Englert",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Farroupilha",
+               "short_name" : "Farroupilha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90040-040",
+               "short_name" : "90040-040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Eng. Luiz Englert, 1875 - Farroupilha, Porto Alegre - RS, 90040-040, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -30.0337073,
+               "lng" : -51.2191348
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0323583197085,
+                  "lng" : -51.2177858197085
+               },
+               "southwest" : {
+                  "lat" : -30.0350562802915,
+                  "lng" : -51.2204837802915
+               }
+            }
+         },
+         "place_id" : "ChIJp_BVR6p5GZUR2-B3_dhD86Y",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farroupilha Paulo Gama",
+               "short_name" : "Farroupilha Paulo Gama",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Farroupilha",
+               "short_name" : "Farroupilha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90010-150",
+               "short_name" : "90010-150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Farroupilha Paulo Gama - Farroupilha, Porto Alegre - RS, 90010-150, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -30.033118,
+               "lng" : -51.218733
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0317690197085,
+                  "lng" : -51.2173840197085
+               },
+               "southwest" : {
+                  "lat" : -30.03446698029149,
+                  "lng" : -51.2200819802915
+               }
+            }
+         },
+         "place_id" : "ChIJx-3HLKp5GZURZ18ZB2ID-eE",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farroupilha",
+               "short_name" : "Farroupilha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Farroupilha, Porto Alegre - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.0322047,
+                  "lng" : -51.20972949999999
+               },
+               "southwest" : {
+                  "lat" : -30.0407677,
+                  "lng" : -51.2216325
+               }
+            },
+            "location" : {
+               "lat" : -30.035931,
+               "lng" : -51.2173798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0322047,
+                  "lng" : -51.20972949999999
+               },
+               "southwest" : {
+                  "lat" : -30.0407677,
+                  "lng" : -51.2216325
+               }
+            }
+         },
+         "place_id" : "ChIJC9LVTVN4GZURTpclMfaStqY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porto Alegre, RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.9565731,
+                  "lng" : -51.0869992
+               },
+               "southwest" : {
+                  "lat" : -30.261167,
+                  "lng" : -51.2672847
+               }
+            },
+            "location" : {
+               "lat" : -30.0346471,
+               "lng" : -51.2176584
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.9565731,
+                  "lng" : -51.0869992
+               },
+               "southwest" : {
+                  "lat" : -30.261167,
+                  "lng" : -51.2672847
+               }
+            }
+         },
+         "place_id" : "ChIJHctqVtKcGZURH-mHn6gRMWA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "90040-060",
+               "short_name" : "90040-060",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Farroupilha",
+               "short_name" : "Farroupilha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Farroupilha, Porto Alegre - RS, 90040-060, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.0314941,
+                  "lng" : -51.2160716
+               },
+               "southwest" : {
+                  "lat" : -30.0351634,
+                  "lng" : -51.2213043
+               }
+            },
+            "location" : {
+               "lat" : -30.0331136,
+               "lng" : -51.2189123
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0314941,
+                  "lng" : -51.2160716
+               },
+               "southwest" : {
+                  "lat" : -30.0351634,
+                  "lng" : -51.2213043
+               }
+            }
+         },
+         "place_id" : "ChIJRSLFzKt5GZURpzvYoP1q0uY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "90040-040",
+               "short_name" : "90040-040",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Farroupilha",
+               "short_name" : "Farroupilha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Farroupilha, Porto Alegre - RS, 90040-040, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.0327173,
+                  "lng" : -51.2173798
+               },
+               "southwest" : {
+                  "lat" : -30.035619,
+                  "lng" : -51.2226127
+               }
+            },
+            "location" : {
+               "lat" : -30.0340054,
+               "lng" : -51.2199252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0327173,
+                  "lng" : -51.2173798
+               },
+               "southwest" : {
+                  "lat" : -30.035619,
+                  "lng" : -51.2226127
+               }
+            }
+         },
+         "place_id" : "ChIJL22kCKp5GZURU-62wpPvKyc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "90035-191",
+               "short_name" : "90035-191",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bom Fim",
+               "short_name" : "Bom Fim",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bom Fim, Porto Alegre - RS, 90035-191, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.0174677,
+                  "lng" : -51.19122220000001
+               },
+               "southwest" : {
+                  "lat" : -30.0419483,
+                  "lng" : -51.2213043
+               }
+            },
+            "location" : {
+               "lat" : -30.0342466,
+               "lng" : -51.2132031
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0174677,
+                  "lng" : -51.19122220000001
+               },
+               "southwest" : {
+                  "lat" : -30.0419483,
+                  "lng" : -51.2213043
+               }
+            }
+         },
+         "place_id" : "ChIJafIPp014GZURYoC1aUuvpuI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "90035",
+               "short_name" : "90035",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porto Alegre - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.026139,
+                  "lng" : -51.2081638
+               },
+               "southwest" : {
+                  "lat" : -30.0352869,
+                  "lng" : -51.2254631
+               }
+            },
+            "location" : {
+               "lat" : -30.0310388,
+               "lng" : -51.2173798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.026139,
+                  "lng" : -51.2081638
+               },
+               "southwest" : {
+                  "lat" : -30.0352869,
+                  "lng" : -51.2254631
+               }
+            }
+         },
+         "place_id" : "ChIJRb5JOKl5GZURgb5zzL1sPjM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "90010-150",
+               "short_name" : "90010-150",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centro Histórico",
+               "short_name" : "Centro Histórico",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centro Histórico, Porto Alegre - RS, 90010-150, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.0276554,
+                  "lng" : -51.20822330000001
+               },
+               "southwest" : {
+                  "lat" : -30.0434124,
+                  "lng" : -51.2330796
+               }
+            },
+            "location" : {
+               "lat" : -30.028787,
+               "lng" : -51.2316102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.0276554,
+                  "lng" : -51.20822330000001
+               },
+               "southwest" : {
+                  "lat" : -30.0434124,
+                  "lng" : -51.2330796
+               }
+            }
+         },
+         "place_id" : "ChIJibp6Og55GZUR4cxBJHnnN5k",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porto Alegre - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.9323021,
+                  "lng" : -51.0119421
+               },
+               "southwest" : {
+                  "lat" : -30.2699259,
+                  "lng" : -51.3058334
+               }
+            },
+            "location" : {
+               "lat" : -30.0433298,
+               "lng" : -51.2046163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.9323021,
+                  "lng" : -51.0119421
+               },
+               "southwest" : {
+                  "lat" : -30.2699259,
+                  "lng" : -51.3058334
+               }
+            }
+         },
+         "place_id" : "ChIJfQDhiE54GZURvWBPQncXAcc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Rio Grande do Sul, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.0805987,
+                  "lng" : -49.6916345
+               },
+               "southwest" : {
+                  "lat" : -33.7509909,
+                  "lng" : -57.6480317
+               }
+            },
+            "location" : {
+               "lat" : -30.0346316,
+               "lng" : -51.2176986
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.0805987,
+                  "lng" : -49.6916345
+               },
+               "southwest" : {
+                  "lat" : -33.7509909,
+                  "lng" : -57.6480317
+               }
+            }
+         },
+         "place_id" : "ChIJA1i0QAxyBJUR3nOfr9uzn60",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

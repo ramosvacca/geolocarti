@@ -1,0 +1,646 @@
+{
+   "plus_code" : {
+      "compound_code" : "QJG3+94 Atlanta, GA, USA",
+      "global_code" : "865QQJG3+94"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "777",
+               "short_name" : "777",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Atlantic Drive Northwest",
+               "short_name" : "Atlantic Dr NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Georgia Tech",
+               "short_name" : "Georgia Tech",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30318",
+               "short_name" : "30318",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "777 Atlantic Dr NW, Atlanta, GA 30318, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7759997,
+               "lng" : -84.39713309999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7773486802915,
+                  "lng" : -84.39578411970848
+               },
+               "southwest" : {
+                  "lat" : 33.7746507197085,
+                  "lng" : -84.3984820802915
+               }
+            }
+         },
+         "place_id" : "ChIJQzIzHooE9YgRwTMXuqqHkNY",
+         "plus_code" : {
+            "compound_code" : "QJG3+94 Atlanta, Georgia, United States",
+            "global_code" : "865QQJG3+94"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Van Leer Building (Electrical and Computer Engineering)",
+               "short_name" : "Van Leer Bldg (Electrical and Computer Engineering)",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "777",
+               "short_name" : "777",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Atlantic Drive Northwest",
+               "short_name" : "Atlantic Dr NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Georgia Tech",
+               "short_name" : "Georgia Tech",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30313",
+               "short_name" : "30313",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Van Leer Bldg (Electrical and Computer Engineering), 777 Atlantic Dr NW, Atlanta, GA 30313, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7762739,
+                  "lng" : -84.39681849999999
+               },
+               "southwest" : {
+                  "lat" : 33.7757147,
+                  "lng" : -84.3974556
+               }
+            },
+            "location" : {
+               "lat" : 33.7759491,
+               "lng" : -84.39712709999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7773432802915,
+                  "lng" : -84.39578806970849
+               },
+               "southwest" : {
+                  "lat" : 33.7746453197085,
+                  "lng" : -84.39848603029149
+               }
+            }
+         },
+         "place_id" : "ChIJqfoxHIoE9YgReFZ8m-5WOB0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Georgia Tech",
+               "short_name" : "Georgia Tech",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30313",
+               "short_name" : "30313",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Atlanta, GA 30313, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7757241,
+                  "lng" : -84.3972127
+               },
+               "southwest" : {
+                  "lat" : 33.7753574,
+                  "lng" : -84.3972852
+               }
+            },
+            "location" : {
+               "lat" : 33.7755407,
+               "lng" : -84.397249
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.77688973029149,
+                  "lng" : -84.39589996970849
+               },
+               "southwest" : {
+                  "lat" : 33.77419176970849,
+                  "lng" : -84.39859793029152
+               }
+            }
+         },
+         "place_id" : "ChIJU9Pj9YkE9YgR9hpv_ytMyuk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Ave NW",
+               "short_name" : "North Ave NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30332",
+               "short_name" : "30332",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Ave NW, Atlanta, GA 30332, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7756178,
+               "lng" : -84.39628499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7769667802915,
+                  "lng" : -84.3949360197085
+               },
+               "southwest" : {
+                  "lat" : 33.7742688197085,
+                  "lng" : -84.3976339802915
+               }
+            }
+         },
+         "place_id" : "ChIJ40_D64oE9YgRD8XYOj7QKrU",
+         "plus_code" : {
+            "compound_code" : "QJG3+6F Atlanta, Georgia, United States",
+            "global_code" : "865QQJG3+6F"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Georgia Tech",
+               "short_name" : "Georgia Tech",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Georgia Tech, Atlanta, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7815729,
+                  "lng" : -84.39036369999999
+               },
+               "southwest" : {
+                  "lat" : 33.7712771,
+                  "lng" : -84.40759419999999
+               }
+            },
+            "location" : {
+               "lat" : 33.7784626,
+               "lng" : -84.3988806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7815729,
+                  "lng" : -84.39036369999999
+               },
+               "southwest" : {
+                  "lat" : 33.7712771,
+                  "lng" : -84.40759419999999
+               }
+            }
+         },
+         "place_id" : "ChIJbw3_E4oE9YgR9yiVCsbTgyY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "30313",
+               "short_name" : "30313",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, GA 30313, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7815329,
+                  "lng" : -84.38102889999999
+               },
+               "southwest" : {
+                  "lat" : 33.743081,
+                  "lng" : -84.40836689999999
+               }
+            },
+            "location" : {
+               "lat" : 33.7657549,
+               "lng" : -84.39493999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7815329,
+                  "lng" : -84.38102889999999
+               },
+               "southwest" : {
+                  "lat" : 33.743081,
+                  "lng" : -84.40836689999999
+               }
+            }
+         },
+         "place_id" : "ChIJJQJalYEE9YgR8QEwdW22NnU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midtown, Atlanta, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8065291,
+                  "lng" : -84.3646146
+               },
+               "southwest" : {
+                  "lat" : 33.7712281,
+                  "lng" : -84.41529749999999
+               }
+            },
+            "location" : {
+               "lat" : 33.7833019,
+               "lng" : -84.3828403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8065291,
+                  "lng" : -84.3646146
+               },
+               "southwest" : {
+                  "lat" : 33.7712281,
+                  "lng" : -84.41529749999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1fsiOmsE9YgRKGR8OxRmepQ",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8876179,
+                  "lng" : -84.289389
+               },
+               "southwest" : {
+                  "lat" : 33.6478079,
+                  "lng" : -84.5518189
+               }
+            },
+            "location" : {
+               "lat" : 33.7489954,
+               "lng" : -84.3879824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8876179,
+                  "lng" : -84.289389
+               },
+               "southwest" : {
+                  "lat" : 33.6478079,
+                  "lng" : -84.5518189
+               }
+            }
+         },
+         "place_id" : "ChIJjQmTaV0E9YgRC2MLmS_e_mY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fulton County, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1862889,
+                  "lng" : -84.097692
+               },
+               "southwest" : {
+                  "lat" : 33.502412,
+                  "lng" : -84.850713
+               }
+            },
+            "location" : {
+               "lat" : 33.8033965,
+               "lng" : -84.3962535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1862889,
+                  "lng" : -84.097692
+               },
+               "southwest" : {
+                  "lat" : 33.502412,
+                  "lng" : -84.850713
+               }
+            }
+         },
+         "place_id" : "ChIJ0dNnmHCr9YgRE8XXDotB0tc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Georgia",
+               "short_name" : "Georgia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Georgia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.0006589,
+                  "lng" : -80.751429
+               },
+               "southwest" : {
+                  "lat" : 30.3555908,
+                  "lng" : -85.60516490000001
+               }
+            },
+            "location" : {
+               "lat" : 32.1656221,
+               "lng" : -82.9000751
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0006589,
+                  "lng" : -80.751429
+               },
+               "southwest" : {
+                  "lat" : 30.3555908,
+                  "lng" : -85.60516490000001
+               }
+            }
+         },
+         "place_id" : "ChIJV4FfHcU28YgR5xBP7BC8hGY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

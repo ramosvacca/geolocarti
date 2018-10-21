@@ -1,0 +1,397 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2390",
+               "short_name" : "2390",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prolongación Primavera",
+               "short_name" : "Prolongación Primavera",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago de Surco",
+               "short_name" : "Santiago de Surco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Provincia de Lima",
+               "short_name" : "Provincia de Lima",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Municipalidad Metropolitana de Lima",
+               "short_name" : "Municipalidad Metropolitana de Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15023",
+               "short_name" : "15023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prolongación Primavera 2390, Santiago de Surco 15023, Peru",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1040542,
+               "lng" : -76.96290569999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.1027052197085,
+                  "lng" : -76.96155671970848
+               },
+               "southwest" : {
+                  "lat" : -12.10540318029151,
+                  "lng" : -76.9642546802915
+               }
+            }
+         },
+         "place_id" : "ChIJJTjmtwrHBZERwteErwQ1ucQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago de Surco",
+               "short_name" : "Santiago de Surco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lima Province",
+               "short_name" : "Lima Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan Municipality of Lima",
+               "short_name" : "Metropolitan Municipality of Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago de Surco, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.0754676,
+                  "lng" : -76.9473946
+               },
+               "southwest" : {
+                  "lat" : -12.1742055,
+                  "lng" : -77.0184089
+               }
+            },
+            "location" : {
+               "lat" : -12.1416088,
+               "lng" : -76.9918155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.0754676,
+                  "lng" : -76.9473946
+               },
+               "southwest" : {
+                  "lat" : -12.1742055,
+                  "lng" : -77.0184089
+               }
+            }
+         },
+         "place_id" : "ChIJIZ5POXW4BZERWSc9aTEU_AI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Callao Region",
+               "short_name" : "Callao Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lima, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.7999875,
+                  "lng" : -76.78833970000001
+               },
+               "southwest" : {
+                  "lat" : -12.2532891,
+                  "lng" : -77.18721859999999
+               }
+            },
+            "location" : {
+               "lat" : -12.0463731,
+               "lng" : -77.042754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.7999875,
+                  "lng" : -76.78833970000001
+               },
+               "southwest" : {
+                  "lat" : -12.2532891,
+                  "lng" : -77.18721859999999
+               }
+            }
+         },
+         "place_id" : "ChIJxz7uGfbFBZERSi5FzLlsIBQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15023",
+               "short_name" : "15023",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lima Province",
+               "short_name" : "Lima Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan Municipality of Lima",
+               "short_name" : "Metropolitan Municipality of Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "15023, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.054818,
+                  "lng" : -76.9510317
+               },
+               "southwest" : {
+                  "lat" : -12.1351976,
+                  "lng" : -76.9822204
+               }
+            },
+            "location" : {
+               "lat" : -12.0994239,
+               "lng" : -76.97006689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.054818,
+                  "lng" : -76.9510317
+               },
+               "southwest" : {
+                  "lat" : -12.1351976,
+                  "lng" : -76.9822204
+               }
+            }
+         },
+         "place_id" : "ChIJg9EzyKfHBZERrSwPr5FLfcY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lima Province",
+               "short_name" : "Lima Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lima Region",
+               "short_name" : "Lima Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lima Province, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.5701801,
+                  "lng" : -76.62068499999999
+               },
+               "southwest" : {
+                  "lat" : -12.517028,
+                  "lng" : -77.20607769999999
+               }
+            },
+            "location" : {
+               "lat" : -12.0463667,
+               "lng" : -77.04278909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.5701801,
+                  "lng" : -76.62068499999999
+               },
+               "southwest" : {
+                  "lat" : -12.517028,
+                  "lng" : -77.20607769999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3-EpLOzDBZERRBEzku1Ooak",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metropolitan Municipality of Lima",
+               "short_name" : "Metropolitan Municipality of Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metropolitan Municipality of Lima, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.572723,
+                  "lng" : -76.62058209999999
+               },
+               "southwest" : {
+                  "lat" : -12.526549,
+                  "lng" : -77.20096599999999
+               }
+            },
+            "location" : {
+               "lat" : -12.0463404,
+               "lng" : -77.04279389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.572723,
+                  "lng" : -76.62058209999999
+               },
+               "southwest" : {
+                  "lat" : -12.526549,
+                  "lng" : -77.20096599999999
+               }
+            }
+         },
+         "place_id" : "ChIJSRRF8k7BBZERGaqtInjbr-s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lima Metropolitan Area",
+               "short_name" : "Lima Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lima Metropolitan Area, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.5769488,
+                  "lng" : -76.6199398
+               },
+               "southwest" : {
+                  "lat" : -12.5212126,
+                  "lng" : -77.200396
+               }
+            },
+            "location" : {
+               "lat" : -12.0779798,
+               "lng" : -76.87209609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.5769488,
+                  "lng" : -76.6199398
+               },
+               "southwest" : {
+                  "lat" : -12.5212126,
+                  "lng" : -77.200396
+               }
+            }
+         },
+         "place_id" : "ChIJRSf-4q9-BpERSrLfZY4lsSw",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.0387769,
+                  "lng" : -68.65232879999999
+               },
+               "southwest" : {
+                  "lat" : -18.4483,
+                  "lng" : -81.3867001
+               }
+            },
+            "location" : {
+               "lat" : -9.189966999999999,
+               "lng" : -75.015152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.0387769,
+                  "lng" : -68.65232879999999
+               },
+               "southwest" : {
+                  "lat" : -18.4483,
+                  "lng" : -81.3867001
+               }
+            }
+         },
+         "place_id" : "ChIJ9RRZwFDIBZERSAYheRIBnvI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

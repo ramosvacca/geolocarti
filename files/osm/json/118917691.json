@@ -1,0 +1,418 @@
+{
+   "plus_code" : {
+      "compound_code" : "8P9C+G6 McHenry, IL, USA",
+      "global_code" : "86JH8P9C+G6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "McHenry",
+               "short_name" : "McHenry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60050",
+               "short_name" : "60050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4309 West Medical Center Drive B100, McHenry, IL 60050, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.318832,
+               "lng" : -88.279383
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3201809802915,
+                  "lng" : -88.27803401970849
+               },
+               "southwest" : {
+                  "lat" : 42.3174830197085,
+                  "lng" : -88.28073198029151
+               }
+            }
+         },
+         "place_id" : "ChIJY5VlmnNxD4gRusqRBateO6o",
+         "plus_code" : {
+            "compound_code" : "8P9C+G6 McHenry, McHenry Township, IL, United States",
+            "global_code" : "86JH8P9C+G6"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4309",
+               "short_name" : "4309",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Medical Center Drive",
+               "short_name" : "W Medical Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "McHenry",
+               "short_name" : "McHenry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60050",
+               "short_name" : "60050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4309 W Medical Center Dr, McHenry, IL 60050, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3189217,
+               "lng" : -88.2793729
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.32027068029151,
+                  "lng" : -88.27802391970849
+               },
+               "southwest" : {
+                  "lat" : 42.31757271970851,
+                  "lng" : -88.28072188029149
+               }
+            }
+         },
+         "place_id" : "EjA0MzA5IFcgTWVkaWNhbCBDZW50ZXIgRHIsIE1jSGVucnksIElMIDYwMDUwLCBVU0EiGxIZChQKEgm1yA6Gc3EPiBEmNHgRfOaCbBDVIQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "McHenry",
+               "short_name" : "McHenry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "McHenry Township",
+               "short_name" : "McHenry Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "McHenry County",
+               "short_name" : "McHenry County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "McHenry, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.372085,
+                  "lng" : -88.238196
+               },
+               "southwest" : {
+                  "lat" : 42.2993949,
+                  "lng" : -88.345601
+               }
+            },
+            "location" : {
+               "lat" : 42.333355,
+               "lng" : -88.2667534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.372085,
+                  "lng" : -88.238196
+               },
+               "southwest" : {
+                  "lat" : 42.2993949,
+                  "lng" : -88.345601
+               }
+            }
+         },
+         "place_id" : "ChIJH987kktxD4gRbPKk7dwgTiE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60050",
+               "short_name" : "60050",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bull Valley",
+               "short_name" : "Bull Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bull Valley, IL 60050, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4122709,
+                  "lng" : -88.18738399999999
+               },
+               "southwest" : {
+                  "lat" : 42.2779179,
+                  "lng" : -88.3552459
+               }
+            },
+            "location" : {
+               "lat" : 42.3223041,
+               "lng" : -88.3044908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4122709,
+                  "lng" : -88.18738399999999
+               },
+               "southwest" : {
+                  "lat" : 42.2779179,
+                  "lng" : -88.3552459
+               }
+            }
+         },
+         "place_id" : "ChIJPb1xXu5wD4gRr7kyD755tCk",
+         "postcode_localities" : [
+            "Bull Valley",
+            "Holiday Hills",
+            "Johnsburg",
+            "Lakemoor",
+            "McCullom Lake",
+            "McHenry"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nunda Township",
+               "short_name" : "Nunda Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "McHenry County",
+               "short_name" : "McHenry County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nunda Township, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3288211,
+                  "lng" : -88.1984289
+               },
+               "southwest" : {
+                  "lat" : 42.2404829,
+                  "lng" : -88.355295
+               }
+            },
+            "location" : {
+               "lat" : 42.2823274,
+               "lng" : -88.2655845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3288211,
+                  "lng" : -88.1984289
+               },
+               "southwest" : {
+                  "lat" : 42.2404829,
+                  "lng" : -88.355295
+               }
+            }
+         },
+         "place_id" : "ChIJPzwbAZ5xD4gR6VK1w9vjchg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "McHenry County",
+               "short_name" : "McHenry County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "McHenry County, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.495967,
+                  "lng" : -88.1984289
+               },
+               "southwest" : {
+                  "lat" : 42.15341,
+                  "lng" : -88.7073779
+               }
+            },
+            "location" : {
+               "lat" : 42.3039993,
+               "lng" : -88.4016041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.495967,
+                  "lng" : -88.1984289
+               },
+               "southwest" : {
+                  "lat" : 42.15341,
+                  "lng" : -88.7073779
+               }
+            }
+         },
+         "place_id" : "ChIJx34ElHw-D4gRBCCaMuI0H2o",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Illinois",
+               "short_name" : "Illinois",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Illinois, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            },
+            "location" : {
+               "lat" : 40.6331249,
+               "lng" : -89.3985283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            }
+         },
+         "place_id" : "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

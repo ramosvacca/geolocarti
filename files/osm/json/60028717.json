@@ -1,0 +1,435 @@
+{
+   "plus_code" : {
+      "compound_code" : "5H2J+85 Munich, Germany",
+      "global_code" : "8FWH5H2J+85"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Geschwister-Scholl-Platz",
+               "short_name" : "Geschwister-Scholl-Platz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maxvorstadt",
+               "short_name" : "Maxvorstadt",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "München",
+               "short_name" : "München",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80539",
+               "short_name" : "80539",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Geschwister-Scholl-Platz 1, 80539 München, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.150806,
+               "lng" : 11.58043
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.15215498029149,
+                  "lng" : 11.5817789802915
+               },
+               "southwest" : {
+                  "lat" : 48.14945701970849,
+                  "lng" : 11.5790810197085
+               }
+            }
+         },
+         "place_id" : "ChIJAVetl5NynkcRNL_VO8PwEro",
+         "plus_code" : {
+            "compound_code" : "5H2J+85 Munich, Germany",
+            "global_code" : "8FWH5H2J+85"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Geschwister-Scholl-Platz",
+               "short_name" : "Geschwister-Scholl-Platz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maxvorstadt",
+               "short_name" : "Maxvorstadt",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "München",
+               "short_name" : "München",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80539",
+               "short_name" : "80539",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Geschwister-Scholl-Platz 1, 80539 München, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.1507662,
+               "lng" : 11.5805984
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1521151802915,
+                  "lng" : 11.5819473802915
+               },
+               "southwest" : {
+                  "lat" : 48.1494172197085,
+                  "lng" : 11.5792494197085
+               }
+            }
+         },
+         "place_id" : "EjdHZXNjaHdpc3Rlci1TY2hvbGwtUGxhdHogMSwgODA1MzkgTcO8bmNoZW4sIERldXRzY2hsYW5kIhoSGAoUChIJi1ZAzJR1nkcR7mapohqktCcQAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80539",
+               "short_name" : "80539",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "Munich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "80539 Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.153937,
+                  "lng" : 11.589935
+               },
+               "southwest" : {
+                  "lat" : 48.134753,
+                  "lng" : 11.576434
+               }
+            },
+            "location" : {
+               "lat" : 48.1447027,
+               "lng" : 11.5821606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.153937,
+                  "lng" : 11.589935
+               },
+               "southwest" : {
+                  "lat" : 48.134753,
+                  "lng" : 11.576434
+               }
+            }
+         },
+         "place_id" : "ChIJ94lDDJJ1nkcRoJh2O6clHRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maxvorstadt",
+               "short_name" : "Maxvorstadt",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "Munich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maxvorstadt, Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.15808209999999,
+                  "lng" : 11.5876321
+               },
+               "southwest" : {
+                  "lat" : 48.139682,
+                  "lng" : 11.5384689
+               }
+            },
+            "location" : {
+               "lat" : 48.149976,
+               "lng" : 11.5736217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.15808209999999,
+                  "lng" : 11.5876321
+               },
+               "southwest" : {
+                  "lat" : 48.139682,
+                  "lng" : 11.5384689
+               }
+            }
+         },
+         "place_id" : "ChIJ20MiqeV1nkcREKU5CaQlHQU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Munich",
+               "short_name" : "Munich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2482197,
+                  "lng" : 11.7228755
+               },
+               "southwest" : {
+                  "lat" : 48.0616018,
+                  "lng" : 11.360796
+               }
+            },
+            "location" : {
+               "lat" : 48.1351253,
+               "lng" : 11.5819805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2482197,
+                  "lng" : 11.7228755
+               },
+               "southwest" : {
+                  "lat" : 48.0616018,
+                  "lng" : 11.360796
+               }
+            }
+         },
+         "place_id" : "ChIJ2V-Mo_l1nkcRfZixfUq4DAE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Bavaria, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0876959,
+                  "lng" : 13.0989291
+               },
+               "southwest" : {
+                  "lat" : 47.3933482,
+                  "lng" : 10.7156838
+               }
+            },
+            "location" : {
+               "lat" : 47.9520866,
+               "lng" : 11.7877295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0876959,
+                  "lng" : 13.0989291
+               },
+               "southwest" : {
+                  "lat" : 47.3933482,
+                  "lng" : 10.7156838
+               }
+            }
+         },
+         "place_id" : "ChIJOxnyw4oPnkcRxA8bO3kOAUA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "Bavaria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bavaria, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            },
+            "location" : {
+               "lat" : 48.7904472,
+               "lng" : 11.4978895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            }
+         },
+         "place_id" : "ChIJqVPfD0wEn0cRYHk4CaQlHQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

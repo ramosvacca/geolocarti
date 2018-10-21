@@ -1,0 +1,430 @@
+{
+   "plus_code" : {
+      "compound_code" : "X6X8+GV Tainan, East District, Tainan City, Taiwan",
+      "global_code" : "7QJ2X6X8+GV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1號",
+               "short_name" : "1號",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dasyue Road",
+               "short_name" : "Dasyue Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East District",
+               "short_name" : "East District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tainan City",
+               "short_name" : "Tainan City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9988083,
+               "lng" : 120.217172
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0001572802915,
+                  "lng" : 120.2185209802915
+               },
+               "southwest" : {
+                  "lat" : 22.9974593197085,
+                  "lng" : 120.2158230197085
+               }
+            }
+         },
+         "place_id" : "ChIJE4mBQBJ3bjQR38m2tdMbi5M",
+         "plus_code" : {
+            "compound_code" : "X6X8+GV Tainan, East District, Tainan City, Taiwan",
+            "global_code" : "7QJ2X6X8+GV"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East District",
+               "short_name" : "East District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tainan City",
+               "short_name" : "Tainan City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, East District, Tainan City, Taiwan 701",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.9986099,
+                  "lng" : 120.2178705
+               },
+               "southwest" : {
+                  "lat" : 22.9985017,
+                  "lng" : 120.2170547
+               }
+            },
+            "location" : {
+               "lat" : 22.9985558,
+               "lng" : 120.2174626
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.99990478029151,
+                  "lng" : 120.2188115802915
+               },
+               "southwest" : {
+                  "lat" : 22.9972068197085,
+                  "lng" : 120.2161136197085
+               }
+            }
+         },
+         "place_id" : "ChIJ0XRATe12bjQRukPQDFAVRm8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "成大里",
+               "short_name" : "成大里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "東區",
+               "short_name" : "東區",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "台南市",
+               "short_name" : "台南市",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "701, Taiwan, 台南市東區成大里",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.0016993,
+                  "lng" : 120.2185595
+               },
+               "southwest" : {
+                  "lat" : 22.9923722,
+                  "lng" : 120.211775
+               }
+            },
+            "location" : {
+               "lat" : 22.9976069,
+               "lng" : 120.2152092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0016993,
+                  "lng" : 120.2185595
+               },
+               "southwest" : {
+                  "lat" : 22.9923722,
+                  "lng" : 120.211775
+               }
+            }
+         },
+         "place_id" : "ChIJHae0Eo12bjQRFXkJMH24h8Y",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "East District",
+               "short_name" : "East District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tainan City",
+               "short_name" : "Tainan City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East District, Tainan City, Taiwan 701",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.0016995,
+                  "lng" : 120.249448
+               },
+               "southwest" : {
+                  "lat" : 22.959466,
+                  "lng" : 120.2111904
+               }
+            },
+            "location" : {
+               "lat" : 22.98133,
+               "lng" : 120.2224227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0016995,
+                  "lng" : 120.249448
+               },
+               "southwest" : {
+                  "lat" : 22.959466,
+                  "lng" : 120.2111904
+               }
+            }
+         },
+         "place_id" : "ChIJExuROqJ2bjQRjh4cU7Kt2TU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East District",
+               "short_name" : "East District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tainan City",
+               "short_name" : "Tainan City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East District, Tainan City, Taiwan 701",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.0016995,
+                  "lng" : 120.249448
+               },
+               "southwest" : {
+                  "lat" : 22.959466,
+                  "lng" : 120.2111904
+               }
+            },
+            "location" : {
+               "lat" : 22.98133,
+               "lng" : 120.2224227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0016995,
+                  "lng" : 120.249448
+               },
+               "southwest" : {
+                  "lat" : 22.959466,
+                  "lng" : 120.2111904
+               }
+            }
+         },
+         "place_id" : "ChIJLzlyOqJ2bjQRCoruH6qSblk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tainan",
+               "short_name" : "Tainan",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "East District",
+               "short_name" : "East District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tainan City",
+               "short_name" : "Tainan City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tainan, East District, Tainan City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.3324198,
+                  "lng" : 120.4100317
+               },
+               "southwest" : {
+                  "lat" : 22.913062,
+                  "lng" : 120.1327367
+               }
+            },
+            "location" : {
+               "lat" : 22.9997281,
+               "lng" : 120.2270277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.3324198,
+                  "lng" : 120.4100317
+               },
+               "southwest" : {
+                  "lat" : 22.913062,
+                  "lng" : 120.1327367
+               }
+            }
+         },
+         "place_id" : "ChIJK_I1UZN2bjQRnLZaGDT61Rw",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tainan City",
+               "short_name" : "Tainan City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tainan City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.4137568,
+                  "lng" : 120.6562596
+               },
+               "southwest" : {
+                  "lat" : 22.8874908,
+                  "lng" : 120.0277765
+               }
+            },
+            "location" : {
+               "lat" : 22.9998999,
+               "lng" : 120.2268758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.4137568,
+                  "lng" : 120.6562596
+               },
+               "southwest" : {
+                  "lat" : 22.8874908,
+                  "lng" : 120.0277765
+               }
+            }
+         },
+         "place_id" : "ChIJE_4_lcx8bjQRTnbcpapMf9Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            },
+            "location" : {
+               "lat" : 23.69781,
+               "lng" : 120.960515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            }
+         },
+         "place_id" : "ChIJL1cHXAbzbjQRaVScvwTwEec",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

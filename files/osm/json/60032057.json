@@ -1,0 +1,250 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "776",
+               "short_name" : "776",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida 7",
+               "short_name" : "Av. 7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "Buenos Aires",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1900",
+               "short_name" : "1900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. 7 776, 1900 La Plata, Buenos Aires, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.91288180000001,
+               "lng" : -57.9511217
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.91153281970851,
+                  "lng" : -57.94977271970849
+               },
+               "southwest" : {
+                  "lat" : -34.91423078029151,
+                  "lng" : -57.9524706802915
+               }
+            }
+         },
+         "place_id" : "ChIJi7GWaDfmopURmauFVAF0MQ0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Plata, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.8871802,
+                  "lng" : -57.9131127
+               },
+               "southwest" : {
+                  "lat" : -34.9538764,
+                  "lng" : -57.9932279
+               }
+            },
+            "location" : {
+               "lat" : -34.9204948,
+               "lng" : -57.95356570000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.8871802,
+                  "lng" : -57.9131127
+               },
+               "southwest" : {
+                  "lat" : -34.9538764,
+                  "lng" : -57.9932279
+               }
+            }
+         },
+         "place_id" : "ChIJoYUAHyvmopUR4xJzVPBE_Lw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "Buenos Aires",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Plata, Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.8336169,
+                  "lng" : -57.7585067
+               },
+               "southwest" : {
+                  "lat" : -35.2355309,
+                  "lng" : -58.29203039999999
+               }
+            },
+            "location" : {
+               "lat" : -34.9985848,
+               "lng" : -58.052689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.8336169,
+                  "lng" : -57.7585067
+               },
+               "southwest" : {
+                  "lat" : -35.2355309,
+                  "lng" : -58.29203039999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4y8KScLeopURniKCiwyf1mw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.263335,
+                  "lng" : -56.6647663
+               },
+               "southwest" : {
+                  "lat" : -41.0404548,
+                  "lng" : -63.3926469
+               }
+            },
+            "location" : {
+               "lat" : -37.2017285,
+               "lng" : -59.84106969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.263335,
+                  "lng" : -56.6647663
+               },
+               "southwest" : {
+                  "lat" : -41.0404548,
+                  "lng" : -63.3926469
+               }
+            }
+         },
+         "place_id" : "ChIJ2YFSWbe87ZURRKHw3PwJ00o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            },
+            "location" : {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

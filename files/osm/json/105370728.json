@@ -1,0 +1,518 @@
+{
+   "plus_code" : {
+      "compound_code" : "PRPJ+QJ Newark, NJ, USA",
+      "global_code" : "87G7PRPJ+QJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "80",
+               "short_name" : "80",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Park Place",
+               "short_name" : "Park Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07102",
+               "short_name" : "07102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "80 Park Pl, Newark, NJ 07102, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7369278,
+               "lng" : -74.16841169999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7382767802915,
+                  "lng" : -74.16706271970848
+               },
+               "southwest" : {
+                  "lat" : 40.7355788197085,
+                  "lng" : -74.1697606802915
+               }
+            }
+         },
+         "place_id" : "ChIJ5Tv7hIFTwokRnzzWWIJPhBo",
+         "plus_code" : {
+            "compound_code" : "PRPJ+QJ Newark, New Jersey, United States",
+            "global_code" : "87G7PRPJ+QJ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1136",
+               "short_name" : "1136",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Raymond Boulevard",
+               "short_name" : "Raymond Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07102",
+               "short_name" : "07102",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4204",
+               "short_name" : "4204",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1136 Raymond Blvd, Newark, NJ 07102, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7366673,
+               "lng" : -74.1685719
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7380162802915,
+                  "lng" : -74.16722291970851
+               },
+               "southwest" : {
+                  "lat" : 40.7353183197085,
+                  "lng" : -74.16992088029151
+               }
+            }
+         },
+         "place_id" : "ChIJaWSsKYJTwokR69q_BYf6P4k",
+         "plus_code" : {
+            "compound_code" : "PRPJ+MH Newark, New Jersey, United States",
+            "global_code" : "87G7PRPJ+MH"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1143",
+               "short_name" : "1143",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Raymond Boulevard",
+               "short_name" : "Raymond Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07102",
+               "short_name" : "07102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1143 Raymond Blvd, Newark, NJ 07102, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7367914,
+               "lng" : -74.16853739999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7381403802915,
+                  "lng" : -74.16718841970848
+               },
+               "southwest" : {
+                  "lat" : 40.73544241970851,
+                  "lng" : -74.16988638029149
+               }
+            }
+         },
+         "place_id" : "EigxMTQzIFJheW1vbmQgQmx2ZCwgTmV3YXJrLCBOSiAwNzEwMiwgVVNBIhsSGQoUChIJfbT6KYJTwokRS16ON8mJWg4Q9wg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Roseville",
+               "short_name" : "Roseville",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07102",
+               "short_name" : "07102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Business District, Newark, NJ 07102, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7480011,
+                  "lng" : -74.162488
+               },
+               "southwest" : {
+                  "lat" : 40.727401,
+                  "lng" : -74.1794889
+               }
+            },
+            "location" : {
+               "lat" : 40.7361052,
+               "lng" : -74.172438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7480011,
+                  "lng" : -74.162488
+               },
+               "southwest" : {
+                  "lat" : 40.727401,
+                  "lng" : -74.1794889
+               }
+            }
+         },
+         "place_id" : "ChIJw-jjV39TwokR2vcLs3D7IvY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "07102",
+               "short_name" : "07102",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newark, NJ 07102, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.74895,
+                  "lng" : -74.161958
+               },
+               "southwest" : {
+                  "lat" : 40.7230539,
+                  "lng" : -74.1843449
+               }
+            },
+            "location" : {
+               "lat" : 40.7350747,
+               "lng" : -74.17390569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74895,
+                  "lng" : -74.161958
+               },
+               "southwest" : {
+                  "lat" : 40.7230539,
+                  "lng" : -74.1843449
+               }
+            }
+         },
+         "place_id" : "ChIJ1xvK4nhTwokRiqt4oOxZ8VA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newark, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.788664,
+                  "lng" : -74.1127869
+               },
+               "southwest" : {
+                  "lat" : 40.6739029,
+                  "lng" : -74.2513239
+               }
+            },
+            "location" : {
+               "lat" : 40.735657,
+               "lng" : -74.1723667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.788664,
+                  "lng" : -74.1127869
+               },
+               "southwest" : {
+                  "lat" : 40.6739029,
+                  "lng" : -74.2513239
+               }
+            }
+         },
+         "place_id" : "ChIJHQ6aMnBTwokRc-T-3CrcvOE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essex County, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.90888990000001,
+                  "lng" : -74.1127869
+               },
+               "southwest" : {
+                  "lat" : 40.6739029,
+                  "lng" : -74.377517
+               }
+            },
+            "location" : {
+               "lat" : 40.7947466,
+               "lng" : -74.2648829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.90888990000001,
+                  "lng" : -74.1127869
+               },
+               "southwest" : {
+                  "lat" : 40.6739029,
+                  "lng" : -74.377517
+               }
+            }
+         },
+         "place_id" : "ChIJbeL7NKG8w4kRrh3vCNK0Vck",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "New Jersey",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Jersey, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.357423,
+                  "lng" : -73.88506
+               },
+               "southwest" : {
+                  "lat" : 38.788657,
+                  "lng" : -75.56358609999999
+               }
+            },
+            "location" : {
+               "lat" : 40.0583238,
+               "lng" : -74.4056612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.357423,
+                  "lng" : -73.88506
+               },
+               "southwest" : {
+                  "lat" : 38.788657,
+                  "lng" : -75.56358609999999
+               }
+            }
+         },
+         "place_id" : "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

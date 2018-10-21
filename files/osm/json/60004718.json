@@ -1,0 +1,504 @@
+{
+   "plus_code" : {
+      "compound_code" : "54XW+Q2 Geneva, Switzerland",
+      "global_code" : "8FR854XW+Q2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue De-Candolle",
+               "short_name" : "Rue De-Candolle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centre-Plainpalais-Acacias",
+               "short_name" : "Centre-Plainpalais-Acacias",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1205",
+               "short_name" : "1205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue De-Candolle 5, 1205 Genève, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.1989448,
+               "lng" : 6.1445476
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2002937802915,
+                  "lng" : 6.145896580291502
+               },
+               "southwest" : {
+                  "lat" : 46.1975958197085,
+                  "lng" : 6.143198619708498
+               }
+            }
+         },
+         "place_id" : "ChIJk_N5aStljEcRhham8Jb0qEI",
+         "plus_code" : {
+            "compound_code" : "54XV+HR Geneva, Switzerland",
+            "global_code" : "8FR854XV+HR"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Promenade des Bastions",
+               "short_name" : "Prom. des Bastions",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1204",
+               "short_name" : "1204",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prom. des Bastions 1, 1204 Genève, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.200047,
+               "lng" : 6.1448705
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.20139598029149,
+                  "lng" : 6.146219480291502
+               },
+               "southwest" : {
+                  "lat" : 46.19869801970849,
+                  "lng" : 6.143521519708497
+               }
+            }
+         },
+         "place_id" : "EipQcm9tLiBkZXMgQmFzdGlvbnMgMSwgMTIwNCBHZW7DqHZlLCBTdWlzc2UiGhIYChQKEgm96LydK2WMRxHxDjdj0KT6CxAB",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Les Bastions",
+               "short_name" : "Les Bastions",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Centre-Plainpalais-Acacias",
+               "short_name" : "Centre-Plainpalais-Acacias",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Les Bastions, Genève, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.201274,
+                  "lng" : 6.1477349
+               },
+               "southwest" : {
+                  "lat" : 46.196977,
+                  "lng" : 6.142889100000001
+               }
+            },
+            "location" : {
+               "lat" : 46.19935599999999,
+               "lng" : 6.1449466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.201274,
+                  "lng" : 6.1477349
+               },
+               "southwest" : {
+                  "lat" : 46.196977,
+                  "lng" : 6.142889100000001
+               }
+            }
+         },
+         "place_id" : "ChIJ41-KZCtljEcRdlxbgbf5uWY",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1205",
+               "short_name" : "1205",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Geneva",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1205 Geneva, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2036683,
+                  "lng" : 6.1520511
+               },
+               "southwest" : {
+                  "lat" : 46.1867506,
+                  "lng" : 6.1201968
+               }
+            },
+            "location" : {
+               "lat" : 46.1902742,
+               "lng" : 6.146484099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2036683,
+                  "lng" : 6.1520511
+               },
+               "southwest" : {
+                  "lat" : 46.1867506,
+                  "lng" : 6.1201968
+               }
+            }
+         },
+         "place_id" : "ChIJ-7T9GFpkjEcRbKHsq3tkHQ4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centre-Plainpalais-Acacias",
+               "short_name" : "Centre-Plainpalais-Acacias",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centre-Plainpalais-Acacias, Genève, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.20642000000001,
+                  "lng" : 6.156740999999999
+               },
+               "southwest" : {
+                  "lat" : 46.187179,
+                  "lng" : 6.128019
+               }
+            },
+            "location" : {
+               "lat" : 46.1950184,
+               "lng" : 6.1475069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.20642000000001,
+                  "lng" : 6.156740999999999
+               },
+               "southwest" : {
+                  "lat" : 46.187179,
+                  "lng" : 6.128019
+               }
+            }
+         },
+         "place_id" : "ChIJGeZKgjFljEcRX88B5F4q-Zc",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Geneva",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Geneva, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.232399,
+                  "lng" : 6.177856999999999
+               },
+               "southwest" : {
+                  "lat" : 46.17766,
+                  "lng" : 6.1103201
+               }
+            },
+            "location" : {
+               "lat" : 46.2043907,
+               "lng" : 6.1431577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.232399,
+                  "lng" : 6.177856999999999
+               },
+               "southwest" : {
+                  "lat" : 46.17766,
+                  "lng" : 6.1103201
+               }
+            }
+         },
+         "place_id" : "ChIJ6-LQkwZljEcRObwLezWVtqA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Geneva, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.36465,
+                  "lng" : 6.310219999999999
+               },
+               "southwest" : {
+                  "lat" : 46.1285219,
+                  "lng" : 5.9559845
+               }
+            },
+            "location" : {
+               "lat" : 46.2180073,
+               "lng" : 6.121692500000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.36465,
+                  "lng" : 6.310219999999999
+               },
+               "southwest" : {
+                  "lat" : 46.1285219,
+                  "lng" : 5.9559845
+               }
+            }
+         },
+         "place_id" : "ChIJ5c1jUUNkjEcRgNgYQIj_AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Genève, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.36465,
+                  "lng" : 6.310219999999999
+               },
+               "southwest" : {
+                  "lat" : 46.1285219,
+                  "lng" : 5.9559845
+               }
+            },
+            "location" : {
+               "lat" : 46.2180073,
+               "lng" : 6.121692500000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.36465,
+                  "lng" : 6.310219999999999
+               },
+               "southwest" : {
+                  "lat" : 46.1285219,
+                  "lng" : 5.9559845
+               }
+            }
+         },
+         "place_id" : "ChIJTUlPXENkjEcREYAhCxYV3zY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8084546,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 5.95608
+               }
+            },
+            "location" : {
+               "lat" : 46.818188,
+               "lng" : 8.227511999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8084546,
+                  "lng" : 10.4923401
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 5.95608
+               }
+            }
+         },
+         "place_id" : "ChIJYW1Zb-9kjEcRFXvLDxG1Vlw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

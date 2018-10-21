@@ -1,0 +1,796 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westvest",
+               "short_name" : "Westvest",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zuid-Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2611 AX",
+               "short_name" : "2611 AX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Westvest 7, 2611 AX Delft, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.0088671,
+               "lng" : 4.35673
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0102160802915,
+                  "lng" : 4.358078980291502
+               },
+               "southwest" : {
+                  "lat" : 52.0075181197085,
+                  "lng" : 4.355381019708497
+               }
+            }
+         },
+         "place_id" : "ChIJASW1QcG1xUcRmA7bl0t6qhM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Leidschenveen-Ypenburg",
+               "short_name" : "Leidschenveen-Ypenburg",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zuid-Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2611",
+               "short_name" : "2611",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Binnenstad, 2611 Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0225607,
+                  "lng" : 4.3693398
+               },
+               "southwest" : {
+                  "lat" : 52.0038488,
+                  "lng" : 4.3436773
+               }
+            },
+            "location" : {
+               "lat" : 52.0125913,
+               "lng" : 4.3590515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0225607,
+                  "lng" : 4.3693398
+               },
+               "southwest" : {
+                  "lat" : 52.0038488,
+                  "lng" : 4.3436773
+               }
+            }
+         },
+         "place_id" : "ChIJj1-2csO1xUcRaiCjgKsyEac",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.03256349999999,
+                  "lng" : 4.4078857
+               },
+               "southwest" : {
+                  "lat" : 51.9665063,
+                  "lng" : 4.3195098
+               }
+            },
+            "location" : {
+               "lat" : 52.01157689999999,
+               "lng" : 4.3570677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03256349999999,
+                  "lng" : 4.4078857
+               },
+               "southwest" : {
+                  "lat" : 51.9665063,
+                  "lng" : 4.3195098
+               }
+            }
+         },
+         "place_id" : "ChIJ_VhfUcO1xUcRPdRLxaNcsIk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611 BH",
+               "short_name" : "2611 BH",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 BH Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0100734,
+                  "lng" : 4.358637
+               },
+               "southwest" : {
+                  "lat" : 52.0086352,
+                  "lng" : 4.3551994
+               }
+            },
+            "location" : {
+               "lat" : 52.00943359999999,
+               "lng" : 4.3567461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0107032802915,
+                  "lng" : 4.358637
+               },
+               "southwest" : {
+                  "lat" : 52.0080053197085,
+                  "lng" : 4.3551994
+               }
+            }
+         },
+         "place_id" : "ChIJ14CbRMG1xUcRvoTXgJgwxFw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611 BL",
+               "short_name" : "2611 BL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 BL Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.01139209999999,
+                  "lng" : 4.3572289
+               },
+               "southwest" : {
+                  "lat" : 52.00869489999999,
+                  "lng" : 4.3551994
+               }
+            },
+            "location" : {
+               "lat" : 52.01011159999999,
+               "lng" : 4.3561624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0113924802915,
+                  "lng" : 4.357563130291503
+               },
+               "southwest" : {
+                  "lat" : 52.0086945197085,
+                  "lng" : 4.354865169708498
+               }
+            }
+         },
+         "place_id" : "ChIJH78-_cO1xUcRenncEesA0hw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611 BK",
+               "short_name" : "2611 BK",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 BK Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.01139209999999,
+                  "lng" : 4.3588442
+               },
+               "southwest" : {
+                  "lat" : 52.0086352,
+                  "lng" : 4.3551994
+               }
+            },
+            "location" : {
+               "lat" : 52.009862,
+               "lng" : 4.3564012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.01139209999999,
+                  "lng" : 4.3588442
+               },
+               "southwest" : {
+                  "lat" : 52.0086352,
+                  "lng" : 4.3551994
+               }
+            }
+         },
+         "place_id" : "ChIJTYYpX8G1xUcRwHyGRuH7zvg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611 BJ",
+               "short_name" : "2611 BJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 BJ Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.01139209999999,
+                  "lng" : 4.3588442
+               },
+               "southwest" : {
+                  "lat" : 52.0086352,
+                  "lng" : 4.3551994
+               }
+            },
+            "location" : {
+               "lat" : 52.0096393,
+               "lng" : 4.3566247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.01139209999999,
+                  "lng" : 4.3588442
+               },
+               "southwest" : {
+                  "lat" : 52.0086352,
+                  "lng" : 4.3551994
+               }
+            }
+         },
+         "place_id" : "ChIJ33SLWsG1xUcR23M5H7MhB2g",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611 AX",
+               "short_name" : "2611 AX",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 AX Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0100734,
+                  "lng" : 4.3598378
+               },
+               "southwest" : {
+                  "lat" : 52.0059384,
+                  "lng" : 4.3551994
+               }
+            },
+            "location" : {
+               "lat" : 52.0089279,
+               "lng" : 4.356481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0100734,
+                  "lng" : 4.3598378
+               },
+               "southwest" : {
+                  "lat" : 52.0059384,
+                  "lng" : 4.3551994
+               }
+            }
+         },
+         "place_id" : "ChIJ2YblFsG1xUcRQg8cKage4Gg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611 AL",
+               "short_name" : "2611 AL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 AL Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0128299,
+                  "lng" : 4.3572289
+               },
+               "southwest" : {
+                  "lat" : 52.00869489999999,
+                  "lng" : 4.3521763
+               }
+            },
+            "location" : {
+               "lat" : 52.0108977,
+               "lng" : 4.354571099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0128299,
+                  "lng" : 4.3572289
+               },
+               "southwest" : {
+                  "lat" : 52.00869489999999,
+                  "lng" : 4.3521763
+               }
+            }
+         },
+         "place_id" : "ChIJScaj-cO1xUcRI9-qjVveAB0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611 AZ",
+               "short_name" : "2611 AZ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 AZ Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0100734,
+                  "lng" : 4.3612457
+               },
+               "southwest" : {
+                  "lat" : 51.9968282,
+                  "lng" : 4.3533369
+               }
+            },
+            "location" : {
+               "lat" : 52.0069567,
+               "lng" : 4.3582304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0100734,
+                  "lng" : 4.3612457
+               },
+               "southwest" : {
+                  "lat" : 51.9968282,
+                  "lng" : 4.3533369
+               }
+            }
+         },
+         "place_id" : "ChIJFZsnXcC1xUcRvlM_BaCrlpU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2611",
+               "short_name" : "2611",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2611 Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0224888,
+                  "lng" : 4.369193
+               },
+               "southwest" : {
+                  "lat" : 52.003929,
+                  "lng" : 4.3436974
+               }
+            },
+            "location" : {
+               "lat" : 52.0125913,
+               "lng" : 4.3590515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0224888,
+                  "lng" : 4.369193
+               },
+               "southwest" : {
+                  "lat" : 52.003929,
+                  "lng" : 4.3436974
+               }
+            }
+         },
+         "place_id" : "ChIJnycPe8O1xUcRF_J5zxIy4b8",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delft",
+               "short_name" : "Delft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delft, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.03256349999999,
+                  "lng" : 4.4078857
+               },
+               "southwest" : {
+                  "lat" : 51.9665063,
+                  "lng" : 4.3195098
+               }
+            },
+            "location" : {
+               "lat" : 51.9990468,
+               "lng" : 4.366669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03256349999999,
+                  "lng" : 4.4078857
+               },
+               "southwest" : {
+                  "lat" : 51.9665063,
+                  "lng" : 4.3195098
+               }
+            }
+         },
+         "place_id" : "ChIJP1_CR-q1xUcRBPa9z4ZZLLo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "locality", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Holland, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3282742,
+                  "lng" : 5.1492625
+               },
+               "southwest" : {
+                  "lat" : 51.656067,
+                  "lng" : 3.838909399999999
+               }
+            },
+            "location" : {
+               "lat" : 52.0207975,
+               "lng" : 4.4937836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3282742,
+                  "lng" : 5.1492625
+               },
+               "southwest" : {
+                  "lat" : 51.656067,
+                  "lng" : 3.838909399999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3xx5hqRHxEcRqpVxnOHVK_w",
+         "types" : [ "administrative_area_level_1", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6316,
+                  "lng" : 7.227510199999999
+               },
+               "southwest" : {
+                  "lat" : 50.75038379999999,
+                  "lng" : 3.3316001
+               }
+            },
+            "location" : {
+               "lat" : 52.132633,
+               "lng" : 5.291265999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6756,
+                  "lng" : 7.227140500000001
+               },
+               "southwest" : {
+                  "lat" : 50.7503837,
+                  "lng" : 3.3316
+               }
+            }
+         },
+         "place_id" : "ChIJu-SH28MJxkcRnwq9_851obM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

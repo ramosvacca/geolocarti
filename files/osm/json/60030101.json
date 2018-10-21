@@ -1,0 +1,500 @@
+{
+   "plus_code" : {
+      "compound_code" : "CC86+5H Regina, SK, Canada",
+      "global_code" : "952QCC86+5H"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3737",
+               "short_name" : "3737",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wascana Parkway",
+               "short_name" : "Wascana Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Regina",
+               "short_name" : "Regina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S4S 0A2",
+               "short_name" : "S4S 0A2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3737 Wascana Pkwy, Regina, SK S4S 0A2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4154926,
+               "lng" : -104.5885128
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4168415802915,
+                  "lng" : -104.5871638197085
+               },
+               "southwest" : {
+                  "lat" : 50.4141436197085,
+                  "lng" : -104.5898617802915
+               }
+            }
+         },
+         "place_id" : "ChIJq6ePeZCgHlMRJAyHny_D4Uc",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3737",
+               "short_name" : "3737",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wascana Parkway",
+               "short_name" : "Wascana Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Regina",
+               "short_name" : "Regina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S4S",
+               "short_name" : "S4S",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "3737 Wascana Pkwy, Regina, SK S4S, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.41583259999999,
+               "lng" : -104.5878481
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.41718158029149,
+                  "lng" : -104.5864991197085
+               },
+               "southwest" : {
+                  "lat" : 50.4144836197085,
+                  "lng" : -104.5891970802915
+               }
+            }
+         },
+         "place_id" : "ChIJuRj6b4WgHlMRWOAgIVeVzW8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Drive South",
+               "short_name" : "University Dr S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Regina",
+               "short_name" : "Regina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S4S 7J7",
+               "short_name" : "S4S 7J7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Dr S, Regina, SK S4S 7J7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4156703,
+                  "lng" : -104.5880446
+               },
+               "southwest" : {
+                  "lat" : 50.4156635,
+                  "lng" : -104.5890988
+               }
+            },
+            "location" : {
+               "lat" : 50.4156669,
+               "lng" : -104.5885717
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4170158802915,
+                  "lng" : -104.5872227197085
+               },
+               "southwest" : {
+                  "lat" : 50.4143179197085,
+                  "lng" : -104.5899206802915
+               }
+            }
+         },
+         "place_id" : "ChIJ034eJ5CgHlMRcCIkVmmAcSk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S4S 7J7",
+               "short_name" : "S4S 7J7",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Regina",
+               "short_name" : "Regina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regina, SK S4S 7J7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.41569,
+                  "lng" : -104.587214
+               },
+               "southwest" : {
+                  "lat" : 50.4133749,
+                  "lng" : -104.5907675
+               }
+            },
+            "location" : {
+               "lat" : 50.41438669999999,
+               "lng" : -104.5890665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.41588143029151,
+                  "lng" : -104.587214
+               },
+               "southwest" : {
+                  "lat" : 50.41318346970851,
+                  "lng" : -104.5907675
+               }
+            }
+         },
+         "place_id" : "ChIJwSV8n5qgHlMR3Z3Y5DYJOqQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S4S",
+               "short_name" : "S4S",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Regina",
+               "short_name" : "Regina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regina, SK S4S, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.442055,
+                  "lng" : -104.572023
+               },
+               "southwest" : {
+                  "lat" : 50.39684810000001,
+                  "lng" : -104.6445639
+               }
+            },
+            "location" : {
+               "lat" : 50.4137727,
+               "lng" : -104.6170654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.442055,
+                  "lng" : -104.572023
+               },
+               "southwest" : {
+                  "lat" : 50.39684810000001,
+                  "lng" : -104.6445639
+               }
+            }
+         },
+         "place_id" : "ChIJAavIMaKgHlMRKBGfGsp43Kc",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Regina",
+               "short_name" : "Regina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sherwood No. 159",
+               "short_name" : "Sherwood No. 159",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regina, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5207396,
+                  "lng" : -104.4924259
+               },
+               "southwest" : {
+                  "lat" : 50.3964489,
+                  "lng" : -104.7783923
+               }
+            },
+            "location" : {
+               "lat" : 50.4452112,
+               "lng" : -104.6188943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5207396,
+                  "lng" : -104.4924259
+               },
+               "southwest" : {
+                  "lat" : 50.3964489,
+                  "lng" : -104.7783923
+               }
+            }
+         },
+         "place_id" : "ChIJ6z2l-0AeHFMRsVR7t5YySjU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Division No. 6, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1830939,
+                  "lng" : -103.2337439
+               },
+               "southwest" : {
+                  "lat" : 50.04628289999999,
+                  "lng" : -105.6359389
+               }
+            },
+            "location" : {
+               "lat" : 50.6228913,
+               "lng" : -104.3851074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1830939,
+                  "lng" : -103.2337439
+               },
+               "southwest" : {
+                  "lat" : 50.04628289999999,
+                  "lng" : -105.6359389
+               }
+            }
+         },
+         "place_id" : "ChIJGcWg4WwcHFMRZd-0XqyoJzo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "Saskatchewan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saskatchewan, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.0000631,
+                  "lng" : -101.362305
+               },
+               "southwest" : {
+                  "lat" : 48.9988059,
+                  "lng" : -110.007755
+               }
+            },
+            "location" : {
+               "lat" : 52.9399159,
+               "lng" : -106.4508639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.0000631,
+                  "lng" : -101.362305
+               },
+               "southwest" : {
+                  "lat" : 48.9988059,
+                  "lng" : -110.007755
+               }
+            }
+         },
+         "place_id" : "ChIJL3ZlI7Fx-FIRK-HCklcrNBU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

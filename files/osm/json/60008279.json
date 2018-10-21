@@ -1,0 +1,519 @@
+{
+   "plus_code" : {
+      "compound_code" : "W82M+F8 Orono, ME, USA",
+      "global_code" : "87PHW82M+F8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beddington Road",
+               "short_name" : "Beddington Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orono Town",
+               "short_name" : "Orono Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04469",
+               "short_name" : "04469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "28 Beddington Rd, Orono, ME 04469, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9007035,
+               "lng" : -68.6666872
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9020524802915,
+                  "lng" : -68.6653382197085
+               },
+               "southwest" : {
+                  "lat" : 44.8993545197085,
+                  "lng" : -68.66803618029151
+               }
+            }
+         },
+         "place_id" : "ChIJDQXzxC-xr0wRhsu_v28vOxw",
+         "plus_code" : {
+            "compound_code" : "W82M+78 Orono, Orono Town, ME, United States",
+            "global_code" : "87PHW82M+78"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "47",
+               "short_name" : "47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Flagstaff Road",
+               "short_name" : "Flagstaff Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04469",
+               "short_name" : "04469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "47 Flagstaff Rd, Orono, ME 04469, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9012116,
+               "lng" : -68.6662051
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9025605802915,
+                  "lng" : -68.66485611970849
+               },
+               "southwest" : {
+                  "lat" : 44.8998626197085,
+                  "lng" : -68.6675540802915
+               }
+            }
+         },
+         "place_id" : "EiU0NyBGbGFnc3RhZmYgUmQsIE9yb25vLCBNRSAwNDQ2OSwgVVNBIhoSGAoUChIJyz0ouS-xr0wReqDn0-T0rskQLw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "04469",
+               "short_name" : "04469",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orono Town",
+               "short_name" : "Orono Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orono, ME 04469, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9050939,
+                  "lng" : -68.661399
+               },
+               "southwest" : {
+                  "lat" : 44.899268,
+                  "lng" : -68.668075
+               }
+            },
+            "location" : {
+               "lat" : 44.9024546,
+               "lng" : -68.6638413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9050939,
+                  "lng" : -68.661399
+               },
+               "southwest" : {
+                  "lat" : 44.899268,
+                  "lng" : -68.668075
+               }
+            }
+         },
+         "place_id" : "ChIJh2YW3lyxr0wRO2iTT6F0YUQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orono Town",
+               "short_name" : "Orono Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orono, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9129061,
+                  "lng" : -68.6369749
+               },
+               "southwest" : {
+                  "lat" : 44.84467,
+                  "lng" : -68.71728299999999
+               }
+            },
+            "location" : {
+               "lat" : 44.8831249,
+               "lng" : -68.671977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9129061,
+                  "lng" : -68.6369749
+               },
+               "southwest" : {
+                  "lat" : 44.84467,
+                  "lng" : -68.71728299999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-ToM-B60r0wRehxGO6xqrIc",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orono Town",
+               "short_name" : "Orono Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orono, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9129061,
+                  "lng" : -68.6369749
+               },
+               "southwest" : {
+                  "lat" : 44.84467,
+                  "lng" : -68.802035
+               }
+            },
+            "location" : {
+               "lat" : 44.8831125,
+               "lng" : -68.6719411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9129061,
+                  "lng" : -68.6369749
+               },
+               "southwest" : {
+                  "lat" : 44.84467,
+                  "lng" : -68.802035
+               }
+            }
+         },
+         "place_id" : "ChIJ2_JwWB60r0wR14Nae7yomzI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orono Town",
+               "short_name" : "Orono Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orono",
+               "short_name" : "Orono",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orono Town, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9129061,
+                  "lng" : -68.6369749
+               },
+               "southwest" : {
+                  "lat" : 44.84467,
+                  "lng" : -68.802035
+               }
+            },
+            "location" : {
+               "lat" : 44.8876677,
+               "lng" : -68.7033484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9129061,
+                  "lng" : -68.6369749
+               },
+               "southwest" : {
+                  "lat" : 44.84467,
+                  "lng" : -68.802035
+               }
+            }
+         },
+         "place_id" : "ChIJjUnV0Km2r0wRQZl8HGfpD0Q",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Penobscot County, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3956809,
+                  "lng" : -67.939069
+               },
+               "southwest" : {
+                  "lat" : 44.644053,
+                  "lng" : -69.35576390000001
+               }
+            },
+            "location" : {
+               "lat" : 45.3230777,
+               "lng" : -68.58067269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3956809,
+                  "lng" : -67.939069
+               },
+               "southwest" : {
+                  "lat" : 44.644053,
+                  "lng" : -69.35576390000001
+               }
+            }
+         },
+         "place_id" : "ChIJh1l1O2RRpUwRnj2tZ3JEDnA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maine",
+               "short_name" : "Maine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maine, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.459686,
+                  "lng" : -66.88507509999999
+               },
+               "southwest" : {
+                  "lat" : 42.91712589999999,
+                  "lng" : -71.08433409999999
+               }
+            },
+            "location" : {
+               "lat" : 45.253783,
+               "lng" : -69.44546889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.459686,
+                  "lng" : -66.88507509999999
+               },
+               "southwest" : {
+                  "lat" : 42.91712589999999,
+                  "lng" : -71.08433409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1YpTHd4dsEwR0KggZ2_MedY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

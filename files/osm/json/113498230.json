@@ -1,0 +1,580 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2121",
+               "short_name" : "2121",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Santa Barbara Avenue",
+               "short_name" : "Santa Barbara Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railroad District",
+               "short_name" : "Railroad District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo",
+               "short_name" : "San Luis Obispo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93401",
+               "short_name" : "93401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5208",
+               "short_name" : "5208",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2121 Santa Barbara Ave, San Luis Obispo, CA 93401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2709783,
+                  "lng" : -120.6564356
+               },
+               "southwest" : {
+                  "lat" : 35.2708879,
+                  "lng" : -120.6567096
+               }
+            },
+            "location" : {
+               "lat" : 35.2709364,
+               "lng" : -120.6565916
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.27228208029149,
+                  "lng" : -120.6552236197085
+               },
+               "southwest" : {
+                  "lat" : 35.26958411970849,
+                  "lng" : -120.6579215802915
+               }
+            }
+         },
+         "place_id" : "ChIJK8zpTRjx7IARZ4shD3nwIuw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1110",
+               "short_name" : "1110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Roundhouse Street",
+               "short_name" : "Roundhouse St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railroad District",
+               "short_name" : "Railroad District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo",
+               "short_name" : "San Luis Obispo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93401",
+               "short_name" : "93401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1110 Roundhouse St, San Luis Obispo, CA 93401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.2707776,
+               "lng" : -120.6559226
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.27212658029149,
+                  "lng" : -120.6545736197085
+               },
+               "southwest" : {
+                  "lat" : 35.26942861970849,
+                  "lng" : -120.6572715802915
+               }
+            }
+         },
+         "place_id" : "ChIJk_73Rxjx7IARiG4ILiNNbG8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broad at Santa Barbara",
+               "short_name" : "Broad at Santa Barbara",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Railroad District",
+               "short_name" : "Railroad District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo",
+               "short_name" : "San Luis Obispo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93401",
+               "short_name" : "93401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broad at Santa Barbara, San Luis Obispo, CA 93401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.270226,
+               "lng" : -120.656746
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2715749802915,
+                  "lng" : -120.6553970197085
+               },
+               "southwest" : {
+                  "lat" : 35.2688770197085,
+                  "lng" : -120.6580949802915
+               }
+            }
+         },
+         "place_id" : "ChIJVTteWxjx7IARYKpXjoIx3Lo",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Railroad District",
+               "short_name" : "Railroad District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo",
+               "short_name" : "San Luis Obispo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93401",
+               "short_name" : "93401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Railroad District, San Luis Obispo, CA 93401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.280546,
+                  "lng" : -120.6440932
+               },
+               "southwest" : {
+                  "lat" : 35.2613629,
+                  "lng" : -120.6574131
+               }
+            },
+            "location" : {
+               "lat" : 35.2709499,
+               "lng" : -120.6552211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.280546,
+                  "lng" : -120.6440932
+               },
+               "southwest" : {
+                  "lat" : 35.2613629,
+                  "lng" : -120.6574131
+               }
+            }
+         },
+         "place_id" : "ChIJWeovkxfx7IAR5ZSHF58cxO0",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Luis Obispo",
+               "short_name" : "San Luis Obispo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Luis Obispo, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3119901,
+                  "lng" : -120.617795
+               },
+               "southwest" : {
+                  "lat" : 35.233002,
+                  "lng" : -120.7229771
+               }
+            },
+            "location" : {
+               "lat" : 35.2827524,
+               "lng" : -120.6596156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3119901,
+                  "lng" : -120.617795
+               },
+               "southwest" : {
+                  "lat" : 35.233002,
+                  "lng" : -120.7229771
+               }
+            }
+         },
+         "place_id" : "ChIJJ8Jse77m7IARRg_vzsKQArw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93401",
+               "short_name" : "93401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Luis Obispo",
+               "short_name" : "San Luis Obispo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Luis Obispo, CA 93401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.79839,
+                  "lng" : -120.524199
+               },
+               "southwest" : {
+                  "lat" : 35.1588069,
+                  "lng" : -120.769868
+               }
+            },
+            "location" : {
+               "lat" : 35.2454989,
+               "lng" : -120.5969758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.79839,
+                  "lng" : -120.524199
+               },
+               "southwest" : {
+                  "lat" : 35.1588069,
+                  "lng" : -120.769868
+               }
+            }
+         },
+         "place_id" : "ChIJhfoOK-z17IARP4Lkt3pVBK0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Luis Obispo-Paso Robles, CA",
+               "short_name" : "San Luis Obispo-Paso Robles, CA",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Luis Obispo-Paso Robles, CA, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.795184,
+                  "lng" : -119.472544
+               },
+               "southwest" : {
+                  "lat" : 34.897475,
+                  "lng" : -121.3463643
+               }
+            },
+            "location" : {
+               "lat" : 35.3102296,
+               "lng" : -120.4357631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.795184,
+                  "lng" : -119.472544
+               },
+               "southwest" : {
+                  "lat" : 34.897475,
+                  "lng" : -121.3463643
+               }
+            }
+         },
+         "place_id" : "ChIJ7d0a8zqO7IAR4MW1fHYB9wU",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Luis Obispo County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7966551,
+                  "lng" : -119.472515
+               },
+               "southwest" : {
+                  "lat" : 34.897475,
+                  "lng" : -121.4381759
+               }
+            },
+            "location" : {
+               "lat" : 35.3102296,
+               "lng" : -120.4357631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7966551,
+                  "lng" : -119.472515
+               },
+               "southwest" : {
+                  "lat" : 34.897475,
+                  "lng" : -121.4381759
+               }
+            }
+         },
+         "place_id" : "ChIJX3PwOP2E7IAR9ToVLk_oEGY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

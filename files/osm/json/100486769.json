@@ -1,0 +1,239 @@
+{
+   "plus_code" : {
+      "compound_code" : "5QC4+6Q Moorepark, County Cork, Ireland",
+      "global_code" : "9C4H5QC4+6Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorepark",
+               "short_name" : "Moorepark",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "County Cork",
+               "short_name" : "County Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moorepark, Co. Cork, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1738545,
+                  "lng" : -8.2418549
+               },
+               "southwest" : {
+                  "lat" : 52.1685678,
+                  "lng" : -8.243563
+               }
+            },
+            "location" : {
+               "lat" : 52.17121119999999,
+               "lng" : -8.2427089
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1738545,
+                  "lng" : -8.241359969708498
+               },
+               "southwest" : {
+                  "lat" : 52.1685678,
+                  "lng" : -8.244057930291502
+               }
+            }
+         },
+         "place_id" : "ChIJ7Z7IoTtZQ0gR2MoxoaXAZn0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorepark",
+               "short_name" : "Moorepark",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "County Cork",
+               "short_name" : "County Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moorepark, Co. Cork, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.172591,
+                  "lng" : -8.236928499999999
+               },
+               "southwest" : {
+                  "lat" : 52.1593676,
+                  "lng" : -8.256404099999999
+               }
+            },
+            "location" : {
+               "lat" : 52.1669951,
+               "lng" : -8.247043
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.172591,
+                  "lng" : -8.236928499999999
+               },
+               "southwest" : {
+                  "lat" : 52.1593676,
+                  "lng" : -8.256404099999999
+               }
+            }
+         },
+         "place_id" : "ChIJX2R8yC9ZQ0gRNU9ZXb96TJ4",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Cork",
+               "short_name" : "County Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cork, Co. Cork, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3879603,
+                  "lng" : -7.841127600000001
+               },
+               "southwest" : {
+                  "lat" : 51.41989659999999,
+                  "lng" : -10.2378995
+               }
+            },
+            "location" : {
+               "lat" : 51.994206,
+               "lng" : -8.728544599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3879603,
+                  "lng" : -7.841127600000001
+               },
+               "southwest" : {
+                  "lat" : 51.41989659999999,
+                  "lng" : -10.2378995
+               }
+            }
+         },
+         "place_id" : "ChIJSR2jCZLjREgRAHUqLqfHAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Cork",
+               "short_name" : "County Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Cork, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3879603,
+                  "lng" : -7.841127600000001
+               },
+               "southwest" : {
+                  "lat" : 51.41989659999999,
+                  "lng" : -10.2378995
+               }
+            },
+            "location" : {
+               "lat" : 51.9884699,
+               "lng" : -8.764363099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3879603,
+                  "lng" : -7.841127600000001
+               },
+               "southwest" : {
+                  "lat" : 51.41989659999999,
+                  "lng" : -10.2378995
+               }
+            }
+         },
+         "place_id" : "ChIJSR2jCZLjREgRoAKA8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

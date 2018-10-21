@@ -1,0 +1,380 @@
+{
+   "plus_code" : {
+      "compound_code" : "JPQP+32 St. Louis, MO, USA",
+      "global_code" : "86CFJPQP+32"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Kingshighway Boulevard",
+               "short_name" : "S Kingshighway Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1016",
+               "short_name" : "1016",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "500 S Kingshighway Blvd, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.637691,
+               "lng" : -90.264962
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6390399802915,
+                  "lng" : -90.26361301970849
+               },
+               "southwest" : {
+                  "lat" : 38.6363420197085,
+                  "lng" : -90.26631098029151
+               }
+            }
+         },
+         "place_id" : "ChIJRcNJzCa12IcRxwQ7ijtIsxg",
+         "plus_code" : {
+            "compound_code" : "JPQP+32 St. Louis, Missouri, United States",
+            "global_code" : "86CFJPQP+32"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Childrens Place",
+               "short_name" : "Childrens Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Childrens Pl, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6375765,
+               "lng" : -90.2648588
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6389254802915,
+                  "lng" : -90.2635098197085
+               },
+               "southwest" : {
+                  "lat" : 38.63622751970851,
+                  "lng" : -90.26620778029151
+               }
+            }
+         },
+         "place_id" : "ChIJHd4_sSa12IcR77aA9zAbpJo",
+         "plus_code" : {
+            "compound_code" : "JPQP+23 St. Louis, Missouri, United States",
+            "global_code" : "86CFJPQP+23"
+         },
+         "types" : [ "establishment", "hospital", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central West End, St. Louis, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.652451,
+                  "lng" : -90.23761189999999
+               },
+               "southwest" : {
+                  "lat" : 38.631051,
+                  "lng" : -90.274613
+               }
+            },
+            "location" : {
+               "lat" : 38.6395985,
+               "lng" : -90.2549631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.652451,
+                  "lng" : -90.23761189999999
+               },
+               "southwest" : {
+                  "lat" : 38.631051,
+                  "lng" : -90.274613
+               }
+            }
+         },
+         "place_id" : "ChIJD1Bqctq02IcRdFfFS_LfhWI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MO 63110, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6463509,
+                  "lng" : -90.234218
+               },
+               "southwest" : {
+                  "lat" : 38.6049859,
+                  "lng" : -90.3040719
+               }
+            },
+            "location" : {
+               "lat" : 38.6212468,
+               "lng" : -90.2526163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6463509,
+                  "lng" : -90.234218
+               },
+               "southwest" : {
+                  "lat" : 38.6049859,
+                  "lng" : -90.3040719
+               }
+            }
+         },
+         "place_id" : "ChIJGQdMVhq12IcRhVI5otX-VFM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.166409
+               },
+               "southwest" : {
+                  "lat" : 38.5318519,
+                  "lng" : -90.320515
+               }
+            },
+            "location" : {
+               "lat" : 38.6270025,
+               "lng" : -90.19940419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.166409
+               },
+               "southwest" : {
+                  "lat" : 38.5318519,
+                  "lng" : -90.320515
+               }
+            }
+         },
+         "place_id" : "ChIJ-Y7t-qm02IcRW-C7IsrqOb4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Missouri",
+               "short_name" : "Missouri",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Missouri, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.61364,
+                  "lng" : -89.09949399999999
+               },
+               "southwest" : {
+                  "lat" : 35.9956829,
+                  "lng" : -95.774704
+               }
+            },
+            "location" : {
+               "lat" : 37.9642529,
+               "lng" : -91.83183339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.61364,
+                  "lng" : -89.09949399999999
+               },
+               "southwest" : {
+                  "lat" : 35.9956829,
+                  "lng" : -95.774704
+               }
+            }
+         },
+         "place_id" : "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

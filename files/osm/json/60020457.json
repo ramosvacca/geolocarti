@@ -1,0 +1,649 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2853",
+               "short_name" : "2853",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida da Universidade",
+               "short_name" : "Av. da Universidade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Benfica",
+               "short_name" : "Benfica",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60020-181",
+               "short_name" : "60020-181",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. da Universidade, 2853 - Benfica, Fortaleza - CE, 60020-181, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7418722,
+               "lng" : -38.5387984
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.740523219708498,
+                  "lng" : -38.5374494197085
+               },
+               "southwest" : {
+                  "lat" : -3.743221180291502,
+                  "lng" : -38.54014738029149
+               }
+            }
+         },
+         "place_id" : "ChIJOQCJIBBJxwcRspNW02F3vSo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Condomínio Edifício Neuma Rezende",
+               "short_name" : "Condomínio Edifício Neuma Rezende",
+               "types" : [ "establishment", "point_of_interest", "premise" ]
+            },
+            {
+               "long_name" : "2400",
+               "short_name" : "2400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Treze de Maio",
+               "short_name" : "Av. Treze de Maio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Benfica",
+               "short_name" : "Benfica",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60040-530",
+               "short_name" : "60040-530",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Condomínio Edifício Neuma Rezende - Av. Treze de Maio, 2400 - Benfica, Fortaleza - CE, 60040-530, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7417519,
+               "lng" : -38.5379882
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.740402919708497,
+                  "lng" : -38.5366392197085
+               },
+               "southwest" : {
+                  "lat" : -3.743100880291502,
+                  "lng" : -38.5393371802915
+               }
+            }
+         },
+         "place_id" : "ChIJvYQM8g5JxwcRSCzQBch1kII",
+         "types" : [ "establishment", "point_of_interest", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida 13 de Maio, sn",
+               "short_name" : "Avenida 13 de Maio, sn",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Benfica",
+               "short_name" : "Benfica",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60020-181",
+               "short_name" : "60020-181",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "60020",
+               "short_name" : "60020",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Avenida 13 de Maio, sn - Benfica, Fortaleza - CE, 60020-181, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.741444,
+               "lng" : -38.538597
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.740095019708498,
+                  "lng" : -38.53724801970849
+               },
+               "southwest" : {
+                  "lat" : -3.742792980291502,
+                  "lng" : -38.53994598029149
+               }
+            }
+         },
+         "place_id" : "ChIJU6Bn5g9JxwcRp8FuPTdrJB4",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gentilândia",
+               "short_name" : "Gentilândia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gentilândia, Fortaleza - CE, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.7409769,
+                  "lng" : -38.5354679
+               },
+               "southwest" : {
+                  "lat" : -3.7505997,
+                  "lng" : -38.5434991
+               }
+            },
+            "location" : {
+               "lat" : -3.7448823,
+               "lng" : -38.5388489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.7409769,
+                  "lng" : -38.5354679
+               },
+               "southwest" : {
+                  "lat" : -3.7505997,
+                  "lng" : -38.5434991
+               }
+            }
+         },
+         "place_id" : "ChIJRTN_lhBJxwcRN11O69wh-TY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zone 1",
+               "short_name" : "Zone 1",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fortaleza - Zone 1, Fortaleza - State of Ceará, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.694526499999999,
+                  "lng" : -38.4018292
+               },
+               "southwest" : {
+                  "lat" : -3.8881764,
+                  "lng" : -38.6365725
+               }
+            },
+            "location" : {
+               "lat" : -3.7327177,
+               "lng" : -38.5269947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.694526499999999,
+                  "lng" : -38.4018292
+               },
+               "southwest" : {
+                  "lat" : -3.8881764,
+                  "lng" : -38.6365725
+               }
+            }
+         },
+         "place_id" : "ChIJL1zB9iFPxwcRqid5ywZnbf0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60020",
+               "short_name" : "60020",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fortaleza - State of Ceará, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.7340746,
+                  "lng" : -38.5317564
+               },
+               "southwest" : {
+                  "lat" : -3.7537053,
+                  "lng" : -38.543769
+               }
+            },
+            "location" : {
+               "lat" : -3.7450186,
+               "lng" : -38.5362227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.7340746,
+                  "lng" : -38.5317564
+               },
+               "southwest" : {
+                  "lat" : -3.7537053,
+                  "lng" : -38.543769
+               }
+            }
+         },
+         "place_id" : "ChIJm6bmqBBJxwcRloUOi2xp2L4",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60040-531",
+               "short_name" : "60040-531",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Fatima",
+               "short_name" : "Fatima",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fatima, Fortaleza - State of Ceará, 60040-531, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.7364872,
+                  "lng" : -38.5217772
+               },
+               "southwest" : {
+                  "lat" : -3.761795099999999,
+                  "lng" : -38.5703543
+               }
+            },
+            "location" : {
+               "lat" : -3.7471955,
+               "lng" : -38.5318748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.7364872,
+                  "lng" : -38.5217772
+               },
+               "southwest" : {
+                  "lat" : -3.761795099999999,
+                  "lng" : -38.5703543
+               }
+            }
+         },
+         "place_id" : "ChIJj6KbJtxIxwcRIheOx3sOP9s",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60020-181",
+               "short_name" : "60020-181",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gentilândia",
+               "short_name" : "Gentilândia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gentilândia, Fortaleza - CE, 60020-181, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.7316064,
+                  "lng" : -38.5349096
+               },
+               "southwest" : {
+                  "lat" : -3.764636,
+                  "lng" : -38.5900376
+               }
+            },
+            "location" : {
+               "lat" : -3.743783399999999,
+               "lng" : -38.5416836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.7316064,
+                  "lng" : -38.5349096
+               },
+               "southwest" : {
+                  "lat" : -3.764636,
+                  "lng" : -38.5900376
+               }
+            }
+         },
+         "place_id" : "ChIJv1i9dRFJxwcRhEDShyR-7Q8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fortaleza - State of Ceará, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.692025,
+                  "lng" : -38.4013209
+               },
+               "southwest" : {
+                  "lat" : -3.8881764,
+                  "lng" : -38.6365725
+               }
+            },
+            "location" : {
+               "lat" : -3.7327144,
+               "lng" : -38.5269981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.692025,
+                  "lng" : -38.4013209
+               },
+               "southwest" : {
+                  "lat" : -3.8881764,
+                  "lng" : -38.6365725
+               }
+            }
+         },
+         "place_id" : "ChIJP3hMRj9MxwcRyjdrDArGYUY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Ceará, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.7842472,
+                  "lng" : -37.2530223
+               },
+               "southwest" : {
+                  "lat" : -7.8581824,
+                  "lng" : -41.4235126
+               }
+            },
+            "location" : {
+               "lat" : -5.4983977,
+               "lng" : -39.3206241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.7842472,
+                  "lng" : -37.2530223
+               },
+               "southwest" : {
+                  "lat" : -7.8581824,
+                  "lng" : -41.4235126
+               }
+            }
+         },
+         "place_id" : "ChIJxYbmJxizvQcRQniVr-A1tDs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

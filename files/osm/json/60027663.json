@@ -1,0 +1,324 @@
+{
+   "plus_code" : {
+      "compound_code" : "8GH7+9R Aulnoy-lez-Valenciennes, France",
+      "global_code" : "9F258GH7+9R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "D958",
+               "short_name" : "D958",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aulnoy-Lez-Valenciennes",
+               "short_name" : "Aulnoy-Lez-Valenciennes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "Nord",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hauts-de-France",
+               "short_name" : "Hauts-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59300",
+               "short_name" : "59300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "D958, 59300 Aulnoy-Lez-Valenciennes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.329162,
+                  "lng" : 3.515288
+               },
+               "southwest" : {
+                  "lat" : 50.3291178,
+                  "lng" : 3.5146365
+               }
+            },
+            "location" : {
+               "lat" : 50.3291399,
+               "lng" : 3.5149623
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3304888802915,
+                  "lng" : 3.516311230291502
+               },
+               "southwest" : {
+                  "lat" : 50.3277909197085,
+                  "lng" : 3.513613269708499
+               }
+            }
+         },
+         "place_id" : "ChIJWeLB8A7twkcRStchK1Jqkhc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aulnoy-lez-Valenciennes",
+               "short_name" : "Aulnoy-lez-Valenciennes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "Nord",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hauts-de-France",
+               "short_name" : "Hauts-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59300",
+               "short_name" : "59300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59300 Aulnoy-lez-Valenciennes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.338722,
+                  "lng" : 3.5663231
+               },
+               "southwest" : {
+                  "lat" : 50.310403,
+                  "lng" : 3.506421
+               }
+            },
+            "location" : {
+               "lat" : 50.330922,
+               "lng" : 3.530884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.338722,
+                  "lng" : 3.5663231
+               },
+               "southwest" : {
+                  "lat" : 50.310403,
+                  "lng" : 3.506421
+               }
+            }
+         },
+         "place_id" : "ChIJSREDP2XtwkcR8HZkgT7xCgQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59300",
+               "short_name" : "59300",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Famars",
+               "short_name" : "Famars",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "Nord",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hauts-de-France",
+               "short_name" : "Hauts-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "59300 Famars, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3875249,
+                  "lng" : 3.5661298
+               },
+               "southwest" : {
+                  "lat" : 50.2911642,
+                  "lng" : 3.4762361
+               }
+            },
+            "location" : {
+               "lat" : 50.3518359,
+               "lng" : 3.5199558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3875249,
+                  "lng" : 3.5661298
+               },
+               "southwest" : {
+                  "lat" : 50.2911642,
+                  "lng" : 3.4762361
+               }
+            }
+         },
+         "place_id" : "ChIJoQP6BqHtwkcR4Bcl8UHxChw",
+         "postcode_localities" : [ "Aulnoy-lez-Valenciennes", "Famars", "Valenciennes" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nord",
+               "short_name" : "Nord",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hauts-de-France",
+               "short_name" : "Hauts-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nord, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.08899,
+                  "lng" : 4.2316779
+               },
+               "southwest" : {
+                  "lat" : 49.9690609,
+                  "lng" : 2.089297
+               }
+            },
+            "location" : {
+               "lat" : 50.3851246,
+               "lng" : 3.2642436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.08899,
+                  "lng" : 4.2316779
+               },
+               "southwest" : {
+                  "lat" : 49.9690609,
+                  "lng" : 2.089297
+               }
+            }
+         },
+         "place_id" : "ChIJrXIXuejQwkcRMClhgT7xCgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hauts-de-France",
+               "short_name" : "Hauts-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hauts-de-France, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.08899,
+                  "lng" : 4.2556787
+               },
+               "southwest" : {
+                  "lat" : 48.837212,
+                  "lng" : 1.379657
+               }
+            },
+            "location" : {
+               "lat" : 50.2871336,
+               "lng" : 2.7812246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.08899,
+                  "lng" : 4.2556787
+               },
+               "southwest" : {
+                  "lat" : 48.837212,
+                  "lng" : 1.379657
+               }
+            }
+         },
+         "place_id" : "ChIJub25mcD450cR4lI4Zc0AtJA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

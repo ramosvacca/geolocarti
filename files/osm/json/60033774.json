@@ -1,0 +1,357 @@
+{
+   "plus_code" : {
+      "compound_code" : "6383+2R Harare, Zimbabwe",
+      "global_code" : "5GJH6383+2R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "630 Churchill Avenue, Harare, Zimbabwe",
+         "geometry" : {
+            "location" : {
+               "lat" : -17.784983,
+               "lng" : 31.054561
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.7836340197085,
+                  "lng" : 31.0559099802915
+               },
+               "southwest" : {
+                  "lat" : -17.7863319802915,
+                  "lng" : 31.0532120197085
+               }
+            }
+         },
+         "place_id" : "ChIJDwcYMWelMRkRcebZ7od3ELk",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Road",
+               "short_name" : "University Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harare Central",
+               "short_name" : "Harare Central",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Harare Province",
+               "short_name" : "Harare Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University Rd, Harare, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.7846101,
+                  "lng" : 31.0523853
+               },
+               "southwest" : {
+                  "lat" : -17.7869143,
+                  "lng" : 31.0498788
+               }
+            },
+            "location" : {
+               "lat" : -17.7857622,
+               "lng" : 31.051132
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.7844132197085,
+                  "lng" : 31.0524810302915
+               },
+               "southwest" : {
+                  "lat" : -17.7871111802915,
+                  "lng" : 31.0497830697085
+               }
+            }
+         },
+         "place_id" : "ChIJ52pcr2alMRkRrFwe8zF5ovk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harare Central",
+               "short_name" : "Harare Central",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Harare Province",
+               "short_name" : "Harare Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harare Central, Harare, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.7750016,
+                  "lng" : 31.1027925
+               },
+               "southwest" : {
+                  "lat" : -17.859257,
+                  "lng" : 30.9867489
+               }
+            },
+            "location" : {
+               "lat" : -17.8125974,
+               "lng" : 31.0449768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.7750016,
+                  "lng" : 31.1027925
+               },
+               "southwest" : {
+                  "lat" : -17.859257,
+                  "lng" : 30.9867489
+               }
+            }
+         },
+         "place_id" : "ChIJRzZYsgSlMRkRWraowJycmrk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harare Province",
+               "short_name" : "Harare Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harare, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.6773905,
+                  "lng" : 31.22588159999999
+               },
+               "southwest" : {
+                  "lat" : -17.9545771,
+                  "lng" : 30.8901215
+               }
+            },
+            "location" : {
+               "lat" : -17.8251657,
+               "lng" : 31.03351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.6773905,
+                  "lng" : 31.22588159999999
+               },
+               "southwest" : {
+                  "lat" : -17.9545771,
+                  "lng" : 30.8901215
+               }
+            }
+         },
+         "place_id" : "ChIJpdTvOSalMRkRaQ_2tSJsnwg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harare",
+               "short_name" : "Harare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Harare Province",
+               "short_name" : "Harare Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harare, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.6775542,
+                  "lng" : 31.2246813
+               },
+               "southwest" : {
+                  "lat" : -17.955721,
+                  "lng" : 30.8890352
+               }
+            },
+            "location" : {
+               "lat" : -17.8251657,
+               "lng" : 31.03351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.6775542,
+                  "lng" : 31.2246813
+               },
+               "southwest" : {
+                  "lat" : -17.955721,
+                  "lng" : 30.8890352
+               }
+            }
+         },
+         "place_id" : "ChIJNdvdG-6kMRkRL08T5Zs7FKU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harare Province",
+               "short_name" : "Harare Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harare Province, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.6718549,
+                  "lng" : 31.2372101
+               },
+               "southwest" : {
+                  "lat" : -17.999363,
+                  "lng" : 30.8928451
+               }
+            },
+            "location" : {
+               "lat" : -17.8251657,
+               "lng" : 31.03351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.6718549,
+                  "lng" : 31.2372101
+               },
+               "southwest" : {
+                  "lat" : -17.999363,
+                  "lng" : 30.8928451
+               }
+            }
+         },
+         "place_id" : "ChIJfRomRiGlMRkRopbpfy-4H5w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.6093188,
+                  "lng" : 33.068236
+               },
+               "southwest" : {
+                  "lat" : -22.4219117,
+                  "lng" : 25.237368
+               }
+            },
+            "location" : {
+               "lat" : -19.015438,
+               "lng" : 29.154857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.6093188,
+                  "lng" : 33.068236
+               },
+               "southwest" : {
+                  "lat" : -22.4219117,
+                  "lng" : 25.237368
+               }
+            }
+         },
+         "place_id" : "ChIJYXGxBuekMRkR7r_LxV84wKE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

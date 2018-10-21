@@ -1,0 +1,602 @@
+{
+   "plus_code" : {
+      "compound_code" : "FCV7+34 Dortmund, Germany",
+      "global_code" : "9F39FCV7+34"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "70",
+               "short_name" : "70",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Emil-Figge-Straße",
+               "short_name" : "Emil-Figge-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hombruch",
+               "short_name" : "Hombruch",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "DO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44227",
+               "short_name" : "44227",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emil-Figge-Straße 70, 44227 Dortmund, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.49261,
+               "lng" : 7.412669999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4939589802915,
+                  "lng" : 7.414018980291502
+               },
+               "southwest" : {
+                  "lat" : 51.4912610197085,
+                  "lng" : 7.411321019708497
+               }
+            }
+         },
+         "place_id" : "ChIJPyCYQ6sZuUcRr9bRI6Ijpr8",
+         "plus_code" : {
+            "compound_code" : "FCV7+23 Dortmund, Germany",
+            "global_code" : "9F39FCV7+23"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Otto-Hahn-Straße",
+               "short_name" : "Otto-Hahn-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hombruch",
+               "short_name" : "Hombruch",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "DO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44227",
+               "short_name" : "44227",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Otto-Hahn-Straße 4, 44227 Dortmund, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4922726,
+                  "lng" : 7.413037099999999
+               },
+               "southwest" : {
+                  "lat" : 51.4921555,
+                  "lng" : 7.412219799999999
+               }
+            },
+            "location" : {
+               "lat" : 51.492214,
+               "lng" : 7.4126284
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4935630302915,
+                  "lng" : 7.413977430291503
+               },
+               "southwest" : {
+                  "lat" : 51.4908650697085,
+                  "lng" : 7.411279469708498
+               }
+            }
+         },
+         "place_id" : "ChIJ9b9eRasZuUcRIK6D_ZjhbUg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "August-Schmidt-Straße",
+               "short_name" : "August-Schmidt-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hombruch",
+               "short_name" : "Hombruch",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "DO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44227",
+               "short_name" : "44227",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "August-Schmidt-Straße 4, 44227 Dortmund, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4843595,
+               "lng" : 7.413883299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48570848029149,
+                  "lng" : 7.415232280291502
+               },
+               "southwest" : {
+                  "lat" : 51.4830105197085,
+                  "lng" : 7.412534319708497
+               }
+            }
+         },
+         "place_id" : "ChIJmdHen1MYuUcRjk_DqLSmm20",
+         "plus_code" : {
+            "compound_code" : "FCM7+PH Dortmund, Germany",
+            "global_code" : "9F39FCM7+PH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barop",
+               "short_name" : "Barop",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Hombruch",
+               "short_name" : "Hombruch",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "DO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ennepe-Ruhr-Kreis",
+               "short_name" : "Ennepe-Ruhr-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barop, Dortmund, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.49658119999999,
+                  "lng" : 7.432171299999998
+               },
+               "southwest" : {
+                  "lat" : 51.48661569999999,
+                  "lng" : 7.387616299999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4902974,
+               "lng" : 7.4114713
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49658119999999,
+                  "lng" : 7.432171299999998
+               },
+               "southwest" : {
+                  "lat" : 51.48661569999999,
+                  "lng" : 7.387616299999999
+               }
+            }
+         },
+         "place_id" : "ChIJCZ86OjQYuUcRoUV6ToLyJyY",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "44227",
+               "short_name" : "44227",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hombruch",
+               "short_name" : "Hombruch",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "DO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "44227 Dortmund, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.497892,
+                  "lng" : 7.47154
+               },
+               "southwest" : {
+                  "lat" : 51.431586,
+                  "lng" : 7.382861999999998
+               }
+            },
+            "location" : {
+               "lat" : 51.4646773,
+               "lng" : 7.419828499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.497892,
+                  "lng" : 7.47154
+               },
+               "southwest" : {
+                  "lat" : 51.431586,
+                  "lng" : 7.382861999999998
+               }
+            }
+         },
+         "place_id" : "ChIJhRioGBcYuUcRwOblmoTyJxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hombruch",
+               "short_name" : "Hombruch",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "DO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ennepe-Ruhr-Kreis",
+               "short_name" : "Ennepe-Ruhr-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hombruch, Dortmund, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.497831,
+                  "lng" : 7.486626999999999
+               },
+               "southwest" : {
+                  "lat" : 51.433059,
+                  "lng" : 7.383733899999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4777368,
+               "lng" : 7.438650300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.497831,
+                  "lng" : 7.486626999999999
+               },
+               "southwest" : {
+                  "lat" : 51.433059,
+                  "lng" : 7.383733899999999
+               }
+            }
+         },
+         "place_id" : "ChIJexEqIxcYuUcREJhXMYHyJwU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "Dortmund",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dortmund, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6000368,
+                  "lng" : 7.6381273
+               },
+               "southwest" : {
+                  "lat" : 51.4157322,
+                  "lng" : 7.302397699999999
+               }
+            },
+            "location" : {
+               "lat" : 51.5135872,
+               "lng" : 7.465298100000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6000368,
+                  "lng" : 7.6381273
+               },
+               "southwest" : {
+                  "lat" : 51.4157322,
+                  "lng" : 7.302397699999999
+               }
+            }
+         },
+         "place_id" : "ChIJEXrwv2AXuUcRUIdUMYHyJwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arnsberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7445973,
+                  "lng" : 8.970754299999999
+               },
+               "southwest" : {
+                  "lat" : 50.6852504,
+                  "lng" : 7.1021332
+               }
+            },
+            "location" : {
+               "lat" : 51.224084,
+               "lng" : 8.2535376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7445973,
+                  "lng" : 8.970754299999999
+               },
+               "southwest" : {
+                  "lat" : 50.6852504,
+                  "lng" : 7.1021332
+               }
+            }
+         },
+         "place_id" : "ChIJX6Zdr2H9u0cRw6v8j6830Vg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "North Rhine-Westphalia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Rhine-Westphalia, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.43323669999999,
+               "lng" : 7.661593799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJoUhCjnwWuUcRX4_XT34yTC8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

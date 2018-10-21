@@ -1,0 +1,372 @@
+{
+   "plus_code" : {
+      "compound_code" : "J3MG+HW Wuhou, Chengdu, Sichuan, China",
+      "global_code" : "8P26J3MG+HW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26号",
+               "short_name" : "26号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 1st Section, 1st Ring Road",
+               "short_name" : "S 1st Section, 1st Ring Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "XiaoTianZhu",
+               "short_name" : "XiaoTianZhu",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wuhou Qu",
+               "short_name" : "Wuhou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Chengdu Shi",
+               "short_name" : "Chengdu Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan Sheng",
+               "short_name" : "Sichuan Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "26 S 1st Section, 1st Ring Rd, XiaoTianZhu, Wuhou Qu, Chengdu Shi, Sichuan Sheng, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.63415969999999,
+               "lng" : 104.0773149
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.63550868029149,
+                  "lng" : 104.0786638802915
+               },
+               "southwest" : {
+                  "lat" : 30.6328107197085,
+                  "lng" : 104.0759659197085
+               }
+            }
+         },
+         "place_id" : "EkHkuK3lm73lm5vlt53nnIHmiJDpg73luILmrabkvq_ljLrlsI_lpKnnq7rkuIDnjq_ot6_ljZfkuIDmrrUyNuWPtyIaEhgKFAoSCSHD_FQLxe82EU7GryqcLkEQEBo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiuyan Bridge",
+               "short_name" : "Jiuyan Bridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wuhou",
+               "short_name" : "Wuhou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Chengdu",
+               "short_name" : "Chengdu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jiuyan Bridge, Wuhou, Chengdu, Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6457632,
+                  "lng" : 104.0929258
+               },
+               "southwest" : {
+                  "lat" : 30.6199629,
+                  "lng" : 104.0747365
+               }
+            },
+            "location" : {
+               "lat" : 30.636884,
+               "lng" : 104.082909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6457632,
+                  "lng" : 104.0929258
+               },
+               "southwest" : {
+                  "lat" : 30.6199629,
+                  "lng" : 104.0747365
+               }
+            }
+         },
+         "place_id" : "ChIJv97WtnbF7zYRFF5TxQNPNEU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "610014",
+               "short_name" : "610014",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Qingyang",
+               "short_name" : "Qingyang",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Chengdu",
+               "short_name" : "Chengdu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qingyang, Chengdu, Sichuan, China, 610014",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6761248,
+                  "lng" : 104.1001327
+               },
+               "southwest" : {
+                  "lat" : 30.6259455,
+                  "lng" : 104.0260998
+               }
+            },
+            "location" : {
+               "lat" : 30.6641409,
+               "lng" : 104.0537421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6761248,
+                  "lng" : 104.1001327
+               },
+               "southwest" : {
+                  "lat" : 30.6259455,
+                  "lng" : 104.0260998
+               }
+            }
+         },
+         "place_id" : "ChIJt1qaLBLF7zYRX9KIPnu0QGM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wuhou",
+               "short_name" : "Wuhou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Chengdu",
+               "short_name" : "Chengdu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wuhou, Chengdu, Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6642933,
+                  "lng" : 104.0942346
+               },
+               "southwest" : {
+                  "lat" : 30.526489,
+                  "lng" : 103.9478824
+               }
+            },
+            "location" : {
+               "lat" : 30.641981,
+               "lng" : 104.04339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6642933,
+                  "lng" : 104.0942346
+               },
+               "southwest" : {
+                  "lat" : 30.526489,
+                  "lng" : 103.9478824
+               }
+            }
+         },
+         "place_id" : "ChIJdzrZjhHE7zYRkJNoWapOqcY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chengdu",
+               "short_name" : "Chengdu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chengdu, Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4353345,
+                  "lng" : 104.8927951
+               },
+               "southwest" : {
+                  "lat" : 30.09429739999999,
+                  "lng" : 102.9928858
+               }
+            },
+            "location" : {
+               "lat" : 30.572815,
+               "lng" : 104.066801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4353345,
+                  "lng" : 104.8927951
+               },
+               "southwest" : {
+                  "lat" : 30.09429739999999,
+                  "lng" : 102.9928858
+               }
+            }
+         },
+         "place_id" : "ChIJIXdEACPF7zYRAg4kLs5Shrk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3129997,
+                  "lng" : 108.5467122
+               },
+               "southwest" : {
+                  "lat" : 26.0458652,
+                  "lng" : 97.3480814
+               }
+            },
+            "location" : {
+               "lat" : 30.26380319999999,
+               "lng" : 102.8054753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3129997,
+                  "lng" : 108.5467122
+               },
+               "southwest" : {
+                  "lat" : 26.0458652,
+                  "lng" : 97.3480814
+               }
+            }
+         },
+         "place_id" : "ChIJs829aDPn5DYRuf6Zj898j94",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,406 @@
+{
+   "plus_code" : {
+      "compound_code" : "2G7R+F7 Taipei, Taiwan",
+      "global_code" : "7QQ32G7R+F7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43號",
+               "short_name" : "43號",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Keelung Road",
+               "short_name" : "Section 4, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 43號, Section 4, Keelung Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0136906,
+               "lng" : 121.5406792
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0150395802915,
+                  "lng" : 121.5420281802915
+               },
+               "southwest" : {
+                  "lat" : 25.0123416197085,
+                  "lng" : 121.5393302197085
+               }
+            }
+         },
+         "place_id" : "ChIJrcDEdiGqQjQRVfQp7kRe25A",
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "58",
+               "short_name" : "58",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Keelung Road",
+               "short_name" : "Section 4, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 58, Section 4, Keelung Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0139716,
+               "lng" : 121.5403373
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0153205802915,
+                  "lng" : 121.5416862802915
+               },
+               "southwest" : {
+                  "lat" : 25.01262261970849,
+                  "lng" : 121.5389883197085
+               }
+            }
+         },
+         "place_id" : "Ei8xMDblj7DngaPlj7DljJfluILlpKflronljYDln7rpmobot6_lm5vmrrU1OOiZnyIaEhgKFAoSCZvbiRUhqkI0EYTsjF24HB1-EDo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "學府里",
+               "short_name" : "學府里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "大安區",
+               "short_name" : "大安區",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "台北市",
+               "short_name" : "台北市",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "106, Taiwan, 台北市大安區學府里",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0224512,
+                  "lng" : 121.5558798
+               },
+               "southwest" : {
+                  "lat" : 25.0078074,
+                  "lng" : 121.5326627
+               }
+            },
+            "location" : {
+               "lat" : 25.0135679,
+               "lng" : 121.5398548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0224512,
+                  "lng" : 121.5558798
+               },
+               "southwest" : {
+                  "lat" : 25.0078074,
+                  "lng" : 121.5326627
+               }
+            }
+         },
+         "place_id" : "ChIJYdKuiiOqQjQRVudUbsC7IzE",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0454177,
+                  "lng" : 121.5659696
+               },
+               "southwest" : {
+                  "lat" : 25.0071972,
+                  "lng" : 121.5217223
+               }
+            },
+            "location" : {
+               "lat" : 25.0261583,
+               "lng" : 121.5427093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0454177,
+                  "lng" : 121.5659696
+               },
+               "southwest" : {
+                  "lat" : 25.0071972,
+                  "lng" : 121.5217223
+               }
+            }
+         },
+         "place_id" : "ChIJzWZLGSyqQjQR-5joTmLlxj8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Da’an District, Taipei City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0454177,
+                  "lng" : 121.5659696
+               },
+               "southwest" : {
+                  "lat" : 25.0071972,
+                  "lng" : 121.5217223
+               }
+            },
+            "location" : {
+               "lat" : 25.0261583,
+               "lng" : 121.5427093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0454177,
+                  "lng" : 121.5659696
+               },
+               "southwest" : {
+                  "lat" : 25.0071972,
+                  "lng" : 121.5217223
+               }
+            }
+         },
+         "place_id" : "ChIJTfhpGSyqQjQRXZXZ8su1oG4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taipei City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.2103038,
+                  "lng" : 121.6659421
+               },
+               "southwest" : {
+                  "lat" : 24.9605084,
+                  "lng" : 121.4570603
+               }
+            },
+            "location" : {
+               "lat" : 25.0329636,
+               "lng" : 121.5654268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.2103038,
+                  "lng" : 121.6659421
+               },
+               "southwest" : {
+                  "lat" : 24.9605084,
+                  "lng" : 121.4570603
+               }
+            }
+         },
+         "place_id" : "ChIJi73bYWusQjQRgqQGXK260bw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taipei",
+               "short_name" : "Taipei",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taipei, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.2443731,
+                  "lng" : 121.7300824
+               },
+               "southwest" : {
+                  "lat" : 24.7900797,
+                  "lng" : 121.2826735
+               }
+            },
+            "location" : {
+               "lat" : 25.0329694,
+               "lng" : 121.5654177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.2443731,
+                  "lng" : 121.7300824
+               },
+               "southwest" : {
+                  "lat" : 24.7900797,
+                  "lng" : 121.2826735
+               }
+            }
+         },
+         "place_id" : "ChIJmQrivHKsQjQR4MIK3c41aj8",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            },
+            "location" : {
+               "lat" : 23.69781,
+               "lng" : 120.960515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            }
+         },
+         "place_id" : "ChIJL1cHXAbzbjQRaVScvwTwEec",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

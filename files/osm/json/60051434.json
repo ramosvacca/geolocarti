@@ -1,0 +1,368 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4-70",
+               "short_name" : "4-70",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle 5",
+               "short_name" : "Cl. 5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "190003",
+               "short_name" : "190003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cl. 5 #4-70, Popayán, Cauca, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.4410279,
+               "lng" : -76.6048656
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.442376880291502,
+                  "lng" : -76.60351661970849
+               },
+               "southwest" : {
+                  "lat" : 2.439678919708498,
+                  "lng" : -76.60621458029149
+               }
+            }
+         },
+         "place_id" : "ChIJWxy5aAUDMI4RUDTH8UCQ4EE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centro, Popayán, Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.4455332,
+                  "lng" : -76.6012092
+               },
+               "southwest" : {
+                  "lat" : 2.4369254,
+                  "lng" : -76.6116966
+               }
+            },
+            "location" : {
+               "lat" : 2.4405233,
+               "lng" : -76.6080554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.4455332,
+                  "lng" : -76.6012092
+               },
+               "southwest" : {
+                  "lat" : 2.4369254,
+                  "lng" : -76.6116966
+               }
+            }
+         },
+         "place_id" : "ChIJfXfuVAUDMI4RCLgKGN9NGdM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Popayán, Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.4971549,
+                  "lng" : -76.550932
+               },
+               "southwest" : {
+                  "lat" : 2.417615,
+                  "lng" : -76.64893599999999
+               }
+            },
+            "location" : {
+               "lat" : 2.4448143,
+               "lng" : -76.6147395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.4971549,
+                  "lng" : -76.550932
+               },
+               "southwest" : {
+                  "lat" : 2.417615,
+                  "lng" : -76.64893599999999
+               }
+            }
+         },
+         "place_id" : "ChIJfdQowBEDMI4RTqWHCX_WC4g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "190003",
+               "short_name" : "190003",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Popayán, Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.451716,
+                  "lng" : -76.59441199999999
+               },
+               "southwest" : {
+                  "lat" : 2.4176129,
+                  "lng" : -76.620099
+               }
+            },
+            "location" : {
+               "lat" : 2.4345182,
+               "lng" : -76.6094997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.451716,
+                  "lng" : -76.59441199999999
+               },
+               "southwest" : {
+                  "lat" : 2.4176129,
+                  "lng" : -76.620099
+               }
+            }
+         },
+         "place_id" : "ChIJMX901xwDMI4Rizh9A5lDhkQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Popayán",
+               "short_name" : "Popayán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Popayán, Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.573544,
+                  "lng" : -76.38342279999999
+               },
+               "southwest" : {
+                  "lat" : 2.311846,
+                  "lng" : -76.77338990000001
+               }
+            },
+            "location" : {
+               "lat" : 2.441304,
+               "lng" : -76.605721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.573544,
+                  "lng" : -76.38342279999999
+               },
+               "southwest" : {
+                  "lat" : 2.311846,
+                  "lng" : -76.77338990000001
+               }
+            }
+         },
+         "place_id" : "ChIJcSqzU_ACMI4RTyD_yAJ1PCc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cauca",
+               "short_name" : "Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.3287411,
+                  "lng" : -75.747925
+               },
+               "southwest" : {
+                  "lat" : 0.9609829999999999,
+                  "lng" : -78.21906319999999
+               }
+            },
+            "location" : {
+               "lat" : 2.7049813,
+               "lng" : -76.8259652
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.3287411,
+                  "lng" : -75.747925
+               },
+               "southwest" : {
+                  "lat" : 0.9609829999999999,
+                  "lng" : -78.21906319999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7bbI7I7IL44Rf_y3Js5Ch2I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            },
+            "location" : {
+               "lat" : 4.570868,
+               "lng" : -74.29733299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            }
+         },
+         "place_id" : "ChIJo5QVrjqkFY4RQKPy7wSaDZo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

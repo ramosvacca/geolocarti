@@ -1,0 +1,375 @@
+{
+   "plus_code" : {
+      "compound_code" : "CFRV+GW Villa Martelli, Buenos Aires Province, Argentina",
+      "global_code" : "48Q3CFRV+GW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4233",
+               "short_name" : "4233",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Juan Bautista de la Salle",
+               "short_name" : "Juan Bautista de la Salle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B1603",
+               "short_name" : "B1603",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "ALQ",
+               "short_name" : "ALQ",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "4355,B1603ALQ, Juan Bautista de la Salle 4233, B1603ALQ CABA, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.5587464,
+               "lng" : -58.5051905
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.55739741970849,
+                  "lng" : -58.50384151970849
+               },
+               "southwest" : {
+                  "lat" : -34.56009538029149,
+                  "lng" : -58.50653948029151
+               }
+            }
+         },
+         "place_id" : "ChIJJVBcxeO2vJURABgMgRjbV1I",
+         "plus_code" : {
+            "compound_code" : "CFRV+GW Villa Martelli, Buenos Aires Province, Argentina",
+            "global_code" : "48Q3CFRV+GW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4397",
+               "short_name" : "4397",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Juan Bautista de la Salle",
+               "short_name" : "Juan Bautista de la Salle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villa Martelli",
+               "short_name" : "Villa Martelli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vicente López",
+               "short_name" : "Vicente López",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Pcia de Buenos Aires",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B1603",
+               "short_name" : "B1603",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Juan Bautista de la Salle 4397, B1603 Villa Martelli, Pcia de Buenos Aires, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.5594417,
+               "lng" : -58.50530329999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5580927197085,
+                  "lng" : -58.50395431970849
+               },
+               "southwest" : {
+                  "lat" : -34.5607906802915,
+                  "lng" : -58.5066522802915
+               }
+            }
+         },
+         "place_id" : "ChIJrZgrtuO2vJURbYLHGFjoJqk",
+         "plus_code" : {
+            "compound_code" : "CFRV+6V Villa Martelli, Buenos Aires Province, Argentina",
+            "global_code" : "48Q3CFRV+6V"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4347",
+               "short_name" : "4347",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Juan Bautista de la Salle",
+               "short_name" : "Juan Bautista de la Salle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villa Martelli",
+               "short_name" : "Villa Martelli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B1603",
+               "short_name" : "B1603",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "ALQ",
+               "short_name" : "ALQ",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Juan Bautista de la Salle 4347, B1603ALQ Villa Martelli, Buenos Aires, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.5588279,
+               "lng" : -58.50494939999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5574789197085,
+                  "lng" : -58.50360041970849
+               },
+               "southwest" : {
+                  "lat" : -34.5601768802915,
+                  "lng" : -58.5062983802915
+               }
+            }
+         },
+         "place_id" : "ElBKdWFuIEJhdXRpc3RhIGRlIGxhIFNhbGxlIDQzNDcsIEIxNjAzQUxRIFZpbGxhIE1hcnRlbGxpLCBCdWVub3MgQWlyZXMsIEFyZ2VudGluYSIbEhkKFAoSCT-TINzjtryVEVcEjkfK4s8BEPsh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Villa Martelli",
+               "short_name" : "Villa Martelli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vicente López Partido",
+               "short_name" : "Vicente López Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Villa Martelli, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.5388583,
+                  "lng" : -58.4933672
+               },
+               "southwest" : {
+                  "lat" : -34.5691943,
+                  "lng" : -58.5246276
+               }
+            },
+            "location" : {
+               "lat" : -34.5510812,
+               "lng" : -58.5084053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5388583,
+                  "lng" : -58.4933672
+               },
+               "southwest" : {
+                  "lat" : -34.5691943,
+                  "lng" : -58.5246276
+               }
+            }
+         },
+         "place_id" : "ChIJHTtmASC3vJURZsgq5y-6_F4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vicente López Partido",
+               "short_name" : "Vicente López Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vicente López Partido, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.4896904,
+                  "lng" : -58.4594079
+               },
+               "southwest" : {
+                  "lat" : -34.5691943,
+                  "lng" : -58.5538596
+               }
+            },
+            "location" : {
+               "lat" : -34.5209468,
+               "lng" : -58.4972596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.4896904,
+                  "lng" : -58.4594079
+               },
+               "southwest" : {
+                  "lat" : -34.5691943,
+                  "lng" : -58.5538596
+               }
+            }
+         },
+         "place_id" : "ChIJO3vyXa22vJUR0voAU6R5GbM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.263335,
+                  "lng" : -56.6647663
+               },
+               "southwest" : {
+                  "lat" : -41.0404548,
+                  "lng" : -63.3926469
+               }
+            },
+            "location" : {
+               "lat" : -37.2017285,
+               "lng" : -59.84106969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.263335,
+                  "lng" : -56.6647663
+               },
+               "southwest" : {
+                  "lat" : -41.0404548,
+                  "lng" : -63.3926469
+               }
+            }
+         },
+         "place_id" : "ChIJ2YFSWbe87ZURRKHw3PwJ00o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            },
+            "location" : {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

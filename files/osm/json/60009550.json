@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "W6MP+99 DeKalb, IL, USA",
+      "global_code" : "86HHW6MP+99"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "DeKalb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb Township",
+               "short_name" : "Dekalb Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60115",
+               "short_name" : "60115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, DeKalb, IL 60115, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9334359,
+                  "lng" : -88.7640176
+               },
+               "southwest" : {
+                  "lat" : 41.93342,
+                  "lng" : -88.76406759999999
+               }
+            },
+            "location" : {
+               "lat" : 41.933428,
+               "lng" : -88.7640426
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9347769302915,
+                  "lng" : -88.76269361970849
+               },
+               "southwest" : {
+                  "lat" : 41.9320789697085,
+                  "lng" : -88.76539158029149
+               }
+            }
+         },
+         "place_id" : "ChIJbbxsV-sqD4gRcGzErkABUTg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1425",
+               "short_name" : "1425",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lincoln Highway",
+               "short_name" : "Lincoln Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "DeKalb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb Township",
+               "short_name" : "Dekalb Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60115",
+               "short_name" : "60115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1425 Lincoln Hwy, DeKalb, IL 60115, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.934233,
+               "lng" : -88.774069
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9355819802915,
+                  "lng" : -88.77272001970849
+               },
+               "southwest" : {
+                  "lat" : 41.9328840197085,
+                  "lng" : -88.77541798029151
+               }
+            }
+         },
+         "place_id" : "ChIJp3xwUMEqD4gRAHwPGX3v3zs",
+         "plus_code" : {
+            "compound_code" : "W6MG+M9 DeKalb, DeKalb Township, IL, United States",
+            "global_code" : "86HHW6MG+M9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "DeKalb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb Township",
+               "short_name" : "Dekalb Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DeKalb, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.971772,
+                  "lng" : -88.694661
+               },
+               "southwest" : {
+                  "lat" : 41.8845818,
+                  "lng" : -88.79795
+               }
+            },
+            "location" : {
+               "lat" : 41.9294736,
+               "lng" : -88.75036469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.971772,
+                  "lng" : -88.694661
+               },
+               "southwest" : {
+                  "lat" : 41.8845818,
+                  "lng" : -88.79795
+               }
+            }
+         },
+         "place_id" : "ChIJWyI0akMqD4gRMdOJ7g8sV2E",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DeKalb Township",
+               "short_name" : "Dekalb Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dekalb Township, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9802179,
+                  "lng" : -88.714658
+               },
+               "southwest" : {
+                  "lat" : 41.892392,
+                  "lng" : -88.82952490000001
+               }
+            },
+            "location" : {
+               "lat" : 41.9329106,
+               "lng" : -88.7686382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9802179,
+                  "lng" : -88.714658
+               },
+               "southwest" : {
+                  "lat" : 41.892392,
+                  "lng" : -88.82952490000001
+               }
+            }
+         },
+         "place_id" : "ChIJWTATxMYqD4gRXSGf9hNHjm4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60115",
+               "short_name" : "60115",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "DeKalb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DeKalb, IL 60115, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.987066,
+                  "lng" : -88.63980699999999
+               },
+               "southwest" : {
+                  "lat" : 41.80558389999999,
+                  "lng" : -88.8583
+               }
+            },
+            "location" : {
+               "lat" : 41.89322,
+               "lng" : -88.7686382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.987066,
+                  "lng" : -88.63980699999999
+               },
+               "southwest" : {
+                  "lat" : 41.80558389999999,
+                  "lng" : -88.8583
+               }
+            }
+         },
+         "place_id" : "ChIJCd2mwnXVDogRdBQPV4xPYv8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dekalb County, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1535961,
+                  "lng" : -88.588308
+               },
+               "southwest" : {
+                  "lat" : 41.6283191,
+                  "lng" : -88.942145
+               }
+            },
+            "location" : {
+               "lat" : 41.8329981,
+               "lng" : -88.7108964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1535961,
+                  "lng" : -88.588308
+               },
+               "southwest" : {
+                  "lat" : 41.6283191,
+                  "lng" : -88.942145
+               }
+            }
+         },
+         "place_id" : "ChIJu2p0rxfXDogRwoAC0THMpTc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Illinois",
+               "short_name" : "Illinois",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Illinois, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            },
+            "location" : {
+               "lat" : 40.6331249,
+               "lng" : -89.3985283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            }
+         },
+         "place_id" : "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

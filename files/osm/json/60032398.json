@@ -1,0 +1,370 @@
+{
+   "plus_code" : {
+      "compound_code" : "6PPJ+JM Mattilanniemi, Jyväskylä, Finland",
+      "global_code" : "9GJ76PPJ+JM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyväskylän yliopisto",
+               "short_name" : "Jyväskylän yliopisto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40014",
+               "short_name" : "40014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Seminaarinkatu 15, 40014 Jyväskylän yliopisto, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 62.23653170000001,
+               "lng" : 25.7316336
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.23788068029151,
+                  "lng" : 25.7329825802915
+               },
+               "southwest" : {
+                  "lat" : 62.2351827197085,
+                  "lng" : 25.7302846197085
+               }
+            }
+         },
+         "place_id" : "ChIJU3IRFR90hUYRiiGtGWah2Xk",
+         "plus_code" : {
+            "compound_code" : "6PPJ+JM Mattilanniemi, Jyväskylä, Finland",
+            "global_code" : "9GJ76PPJ+JM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jyväskylä",
+               "short_name" : "Jyväskylä",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Jyväskylä, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.2368202,
+                  "lng" : 25.7311894
+               },
+               "southwest" : {
+                  "lat" : 62.2363674,
+                  "lng" : 25.730011
+               }
+            },
+            "location" : {
+               "lat" : 62.23659379999999,
+               "lng" : 25.7306002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.2379427802915,
+                  "lng" : 25.7319491802915
+               },
+               "southwest" : {
+                  "lat" : 62.23524481970849,
+                  "lng" : 25.72925121970849
+               }
+            }
+         },
+         "place_id" : "ChIJ_w6sFiJ0hUYRQlEhCtEPJ7A",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40100",
+               "short_name" : "40100",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Jyväskylä",
+               "short_name" : "Jyväskylä",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "40100 Jyväskylä sub-region, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.25296960000001,
+                  "lng" : 25.7718839
+               },
+               "southwest" : {
+                  "lat" : 62.22753869999999,
+                  "lng" : 25.7242226
+               }
+            },
+            "location" : {
+               "lat" : 62.2398524,
+               "lng" : 25.7560014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.25296960000001,
+                  "lng" : 25.7718839
+               },
+               "southwest" : {
+                  "lat" : 62.22753869999999,
+                  "lng" : 25.7242226
+               }
+            }
+         },
+         "place_id" : "ChIJDdHKtRZ0hUYRUDVRYtlGARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyväskylä sub-region",
+               "short_name" : "Jyväskylä sub-region",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jyväskylä",
+               "short_name" : "Jyväskylä",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jyväskylä sub-region, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.4288682,
+                  "lng" : 26.0510265
+               },
+               "southwest" : {
+                  "lat" : 61.83994689999999,
+                  "lng" : 25.260686
+               }
+            },
+            "location" : {
+               "lat" : 62.2426313,
+               "lng" : 25.7473597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.4288682,
+                  "lng" : 26.0510265
+               },
+               "southwest" : {
+                  "lat" : 61.83994689999999,
+                  "lng" : 25.260686
+               }
+            }
+         },
+         "place_id" : "ChIJPZSLDfl5hUYRDKG5aUTrLh0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyväskylä",
+               "short_name" : "Jyväskylä",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jyväskylä, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.4288682,
+                  "lng" : 26.0510265
+               },
+               "southwest" : {
+                  "lat" : 61.83994689999999,
+                  "lng" : 25.260686
+               }
+            },
+            "location" : {
+               "lat" : 62.2426034,
+               "lng" : 25.7472567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.4288682,
+                  "lng" : 26.0510265
+               },
+               "southwest" : {
+                  "lat" : 61.83994689999999,
+                  "lng" : 25.260686
+               }
+            }
+         },
+         "place_id" : "ChIJGTGp0RV0hUYR16KQZ31pV7o",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyväskylä",
+               "short_name" : "Jyväskylä",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jyväskylä, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.58368719999999,
+                  "lng" : 26.7803294
+               },
+               "southwest" : {
+                  "lat" : 61.83994689999999,
+                  "lng" : 24.968912
+               }
+            },
+            "location" : {
+               "lat" : 62.22190769999999,
+               "lng" : 25.7669181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.58368719999999,
+                  "lng" : 26.7803294
+               },
+               "southwest" : {
+                  "lat" : 61.83994689999999,
+                  "lng" : 24.968912
+               }
+            }
+         },
+         "place_id" : "ChIJeaqNOS5yhUYRmiGh97b8dgA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Finland",
+               "short_name" : "Central Finland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Finland, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.6125492,
+                  "lng" : 26.7803294
+               },
+               "southwest" : {
+                  "lat" : 61.45098580000001,
+                  "lng" : 24.0129698
+               }
+            },
+            "location" : {
+               "lat" : 62.5666743,
+               "lng" : 25.5549445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.6125492,
+                  "lng" : 26.7803294
+               },
+               "southwest" : {
+                  "lat" : 61.45098580000001,
+                  "lng" : 24.0129698
+               }
+            }
+         },
+         "place_id" : "ChIJa8VfzqW7hUYRboaEzXNHJBM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            },
+            "location" : {
+               "lat" : 61.92410999999999,
+               "lng" : 25.7481511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            }
+         },
+         "place_id" : "ChIJ3fYyS9_KgUYREKh1PNZGAQA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

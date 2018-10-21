@@ -1,0 +1,440 @@
+{
+   "plus_code" : {
+      "compound_code" : "WQ25+H6 San Diego, CA, USA",
+      "global_code" : "8544WQ25+H6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10901",
+               "short_name" : "10901",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Torrey Pines Road",
+               "short_name" : "N Torrey Pines Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92037",
+               "short_name" : "92037",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1062",
+               "short_name" : "1062",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "10901 N Torrey Pines Rd, La Jolla, CA 92037, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9014195,
+               "lng" : -117.2419828
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9027684802915,
+                  "lng" : -117.2406338197085
+               },
+               "southwest" : {
+                  "lat" : 32.9000705197085,
+                  "lng" : -117.2433317802915
+               }
+            }
+         },
+         "place_id" : "ChIJT0Q8jPQG3IARe9935ha4zB4",
+         "plus_code" : {
+            "compound_code" : "WQ25+H6 San Diego, California, United States",
+            "global_code" : "8544WQ25+H6"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2975",
+               "short_name" : "2975",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Science Park Road",
+               "short_name" : "Science Park Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92037",
+               "short_name" : "92037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2975 Science Park Rd, La Jolla, CA 92037, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9017772,
+               "lng" : -117.2420699
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9031261802915,
+                  "lng" : -117.2407209197085
+               },
+               "southwest" : {
+                  "lat" : 32.9004282197085,
+                  "lng" : -117.2434188802915
+               }
+            }
+         },
+         "place_id" : "Ei0yOTc1IFNjaWVuY2UgUGFyayBSZCwgTGEgSm9sbGEsIENBIDkyMDM3LCBVU0EiGxIZChQKEglVKNHj9AbcgBEAvPpLuhqFxBCfFw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torrey Pines, San Diego, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.914775,
+                  "lng" : -117.2240488
+               },
+               "southwest" : {
+                  "lat" : 32.8700931,
+                  "lng" : -117.2559262
+               }
+            },
+            "location" : {
+               "lat" : 32.8917558,
+               "lng" : -117.241156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.914775,
+                  "lng" : -117.2240488
+               },
+               "southwest" : {
+                  "lat" : 32.8700931,
+                  "lng" : -117.2559262
+               }
+            }
+         },
+         "place_id" : "ChIJyYodIfUG3IARUNEMqBFX5ig",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "92121",
+               "short_name" : "92121",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Diego, CA 92121, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9384819,
+                  "lng" : -117.1363491
+               },
+               "southwest" : {
+                  "lat" : 32.8681929,
+                  "lng" : -117.261177
+               }
+            },
+            "location" : {
+               "lat" : 32.8981142,
+               "lng" : -117.2029363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9384819,
+                  "lng" : -117.1363491
+               },
+               "southwest" : {
+                  "lat" : 32.8681929,
+                  "lng" : -117.261177
+               }
+            }
+         },
+         "place_id" : "ChIJT2kpDA8H3IAR30QW50ZqENo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Diego, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.114249,
+                  "lng" : -116.90816
+               },
+               "southwest" : {
+                  "lat" : 32.534856,
+                  "lng" : -117.3097969
+               }
+            },
+            "location" : {
+               "lat" : 32.715738,
+               "lng" : -117.1610838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.114249,
+                  "lng" : -116.90816
+               },
+               "southwest" : {
+                  "lat" : 32.534856,
+                  "lng" : -117.3097969
+               }
+            }
+         },
+         "place_id" : "ChIJSx6SrQ9T2YARed8V_f0hOg0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Diego County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5050284,
+                  "lng" : -116.0809399
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -117.6110809
+               }
+            },
+            "location" : {
+               "lat" : 32.7157305,
+               "lng" : -117.1610966
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5050284,
+                  "lng" : -116.0809399
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -117.6110809
+               }
+            }
+         },
+         "place_id" : "ChIJHWD_IzDr24ARKAeA6yv9DTU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

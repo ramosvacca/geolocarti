@@ -1,0 +1,504 @@
+{
+   "plus_code" : {
+      "compound_code" : "VW86+RR Falmer, UK",
+      "global_code" : "9C2XVW86+RR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich House Road",
+               "short_name" : "Norwich House Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Falmer",
+               "short_name" : "Falmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN1 9QU",
+               "short_name" : "BN1 9QU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Norwich House Rd, Falmer, Brighton BN1 9QU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.86708950000001,
+               "lng" : -0.08791399999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.86843848029151,
+                  "lng" : -0.08656501970849796
+               },
+               "southwest" : {
+                  "lat" : 50.86574051970851,
+                  "lng" : -0.08926298029150202
+               }
+            }
+         },
+         "place_id" : "ChIJh32h78qIdUgR60TiXztzhVc",
+         "plus_code" : {
+            "compound_code" : "VW86+RR Falmer, United Kingdom",
+            "global_code" : "9C2XVW86+RR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Refectory Road",
+               "short_name" : "Refectory Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Falmer",
+               "short_name" : "Falmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN1",
+               "short_name" : "BN1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Refectory Rd, Falmer, Brighton BN1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8671488,
+                  "lng" : -0.08749749999999999
+               },
+               "southwest" : {
+                  "lat" : 50.866764,
+                  "lng" : -0.0876318
+               }
+            },
+            "location" : {
+               "lat" : 50.8669564,
+               "lng" : -0.08756459999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8683053802915,
+                  "lng" : -0.08621566970849796
+               },
+               "southwest" : {
+                  "lat" : 50.8656074197085,
+                  "lng" : -0.08891363029150202
+               }
+            }
+         },
+         "place_id" : "ChIJa7_tcsqIdUgRNu9rAtcOLrk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Falmer",
+               "short_name" : "Falmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Sussex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN1",
+               "short_name" : "BN1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Falmer, Brighton BN1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.873819,
+                  "lng" : -0.083285
+               },
+               "southwest" : {
+                  "lat" : 50.862011,
+                  "lng" : -0.09214069999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.8668892,
+               "lng" : -0.0875363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.873819,
+                  "lng" : -0.083285
+               },
+               "southwest" : {
+                  "lat" : 50.862011,
+                  "lng" : -0.09214069999999999
+               }
+            }
+         },
+         "place_id" : "ChIJk46TS8iIdUgRs5Fi_ZpVu14",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BN1 9QU",
+               "short_name" : "BN1 9QU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Falmer",
+               "short_name" : "Falmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Falmer, Brighton BN1 9QU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8682402,
+                  "lng" : -0.0870195
+               },
+               "southwest" : {
+                  "lat" : 50.8667769,
+                  "lng" : -0.0889484
+               }
+            },
+            "location" : {
+               "lat" : 50.8677064,
+               "lng" : -0.0881236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8688575302915,
+                  "lng" : -0.08663496970849796
+               },
+               "southwest" : {
+                  "lat" : 50.8661595697085,
+                  "lng" : -0.08933293029150202
+               }
+            }
+         },
+         "place_id" : "ChIJMXsVaMqIdUgRjqiBP8Y0D4I",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BN1",
+               "short_name" : "BN1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton BN1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9021252,
+                  "lng" : -0.06444459999999999
+               },
+               "southwest" : {
+                  "lat" : 50.81841720000001,
+                  "lng" : -0.244784
+               }
+            },
+            "location" : {
+               "lat" : 50.876786,
+               "lng" : -0.1262901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9021252,
+                  "lng" : -0.06444459999999999
+               },
+               "southwest" : {
+                  "lat" : 50.81841720000001,
+                  "lng" : -0.244784
+               }
+            }
+         },
+         "place_id" : "ChIJZ0Ep9gmFdUgR-WGTVVs0IGA",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "The City of Brighton and Hove, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.892374,
+                  "lng" : -0.0160306
+               },
+               "southwest" : {
+                  "lat" : 50.7985131,
+                  "lng" : -0.2450771
+               }
+            },
+            "location" : {
+               "lat" : 50.8226288,
+               "lng" : -0.137047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.892374,
+                  "lng" : -0.0160306
+               },
+               "southwest" : {
+                  "lat" : 50.7985131,
+                  "lng" : -0.2450771
+               }
+            }
+         },
+         "place_id" : "ChIJfRLCXYeFdUgRsJ7toi2uDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.915037,
+                  "lng" : -0.009908600000000002
+               },
+               "southwest" : {
+                  "lat" : 50.7952504,
+                  "lng" : -0.2470159
+               }
+            },
+            "location" : {
+               "lat" : 50.8663889,
+               "lng" : -0.1147526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.915037,
+                  "lng" : -0.009908600000000002
+               },
+               "southwest" : {
+                  "lat" : 50.7952504,
+                  "lng" : -0.2470159
+               }
+            }
+         },
+         "place_id" : "ChIJ_2JMjnqPdUgR5dlcLbSqgKk",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

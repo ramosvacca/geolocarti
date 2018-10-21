@@ -1,0 +1,506 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida Paseo Los Ilustres",
+               "short_name" : "Av. Paseo Los Ilustres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Caracas",
+               "short_name" : "CCS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Distrito Capital",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1053",
+               "short_name" : "1053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Paseo Los Ilustres, Caracas 1053, Distrito Capital, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4883888,
+                  "lng" : -66.8889956
+               },
+               "southwest" : {
+                  "lat" : 10.4883873,
+                  "lng" : -66.88922239999999
+               }
+            },
+            "location" : {
+               "lat" : 10.4883881,
+               "lng" : -66.88910899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4897370302915,
+                  "lng" : -66.88776001970849
+               },
+               "southwest" : {
+                  "lat" : 10.4870390697085,
+                  "lng" : -66.8904579802915
+               }
+            }
+         },
+         "place_id" : "ChIJLza4UdpYKowRvMtqqrbcoxs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Universitaria",
+               "short_name" : "Ciudad Universitaria",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Caracas",
+               "short_name" : "CCS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Distrito Capital",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1053",
+               "short_name" : "1053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ciudad Universitaria, Caracas 1053, Distrito Capital, Venezuela",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.4880756,
+               "lng" : -66.88916440000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4894245802915,
+                  "lng" : -66.88781541970852
+               },
+               "southwest" : {
+                  "lat" : 10.4867266197085,
+                  "lng" : -66.89051338029152
+               }
+            }
+         },
+         "place_id" : "ChIJNxAgV9pYKowRMk-jZpFx1bQ",
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Universitaria",
+               "short_name" : "Ciudad Universitaria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Caracas",
+               "short_name" : "CCS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Pedro",
+               "short_name" : "San Pedro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital District",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ciudad Universitaria, Caracas, Capital District, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4976124,
+                  "lng" : -66.8842561
+               },
+               "southwest" : {
+                  "lat" : 10.4849002,
+                  "lng" : -66.90119679999999
+               }
+            },
+            "location" : {
+               "lat" : 10.4905573,
+               "lng" : -66.8930345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4976124,
+                  "lng" : -66.8842561
+               },
+               "southwest" : {
+                  "lat" : 10.4849002,
+                  "lng" : -66.90119679999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0QKiUddYKowRWR9x9UlAM04",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caracas",
+               "short_name" : "CCS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital District",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caracas, Capital District, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.5401335,
+                  "lng" : -66.71795329999999
+               },
+               "southwest" : {
+                  "lat" : 10.39665,
+                  "lng" : -67.0627784
+               }
+            },
+            "location" : {
+               "lat" : 10.4805937,
+               "lng" : -66.90360629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.5401335,
+                  "lng" : -66.71795329999999
+               },
+               "southwest" : {
+                  "lat" : 10.39665,
+                  "lng" : -67.0627784
+               }
+            }
+         },
+         "place_id" : "ChIJB0iCza1YKowRg4SZCq4u3ZM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1053",
+               "short_name" : "1053",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Caracas",
+               "short_name" : "CCS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital District",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caracas 1053, Capital District, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.497657,
+                  "lng" : -66.884147
+               },
+               "southwest" : {
+                  "lat" : 10.4848751,
+                  "lng" : -66.90111209999999
+               }
+            },
+            "location" : {
+               "lat" : 10.4934899,
+               "lng" : -66.8945591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.497657,
+                  "lng" : -66.884147
+               },
+               "southwest" : {
+                  "lat" : 10.4848751,
+                  "lng" : -66.90111209999999
+               }
+            }
+         },
+         "place_id" : "ChIJe_M7T9dYKowR6Fid1W7xM4E",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Pedro",
+               "short_name" : "San Pedro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Caracas",
+               "short_name" : "CCS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Distrito Capital",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Pedro, Caracas, Distrito Capital, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.497657,
+                  "lng" : -66.880093
+               },
+               "southwest" : {
+                  "lat" : 10.4643519,
+                  "lng" : -66.911333
+               }
+            },
+            "location" : {
+               "lat" : 10.4829872,
+               "lng" : -66.8945591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.497657,
+                  "lng" : -66.880093
+               },
+               "southwest" : {
+                  "lat" : 10.4643519,
+                  "lng" : -66.911333
+               }
+            }
+         },
+         "place_id" : "ChIJTdLIyM5YKowRUZ7KKslwdt0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capital District",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Capital District, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.562794,
+                  "lng" : -66.8612799
+               },
+               "southwest" : {
+                  "lat" : 10.383136,
+                  "lng" : -67.16380599999999
+               }
+            },
+            "location" : {
+               "lat" : 10.5004352,
+               "lng" : -66.9511459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.562794,
+                  "lng" : -66.8612799
+               },
+               "southwest" : {
+                  "lat" : 10.383136,
+                  "lng" : -67.16380599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ88bP9r1YKowRr_Wj7uND9aQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital District",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Libertador, Capital District, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.562794,
+                  "lng" : -66.8612799
+               },
+               "southwest" : {
+                  "lat" : 10.3831539,
+                  "lng" : -67.16380599999999
+               }
+            },
+            "location" : {
+               "lat" : 10.5004352,
+               "lng" : -66.9511459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.562794,
+                  "lng" : -66.8612799
+               },
+               "southwest" : {
+                  "lat" : 10.3831539,
+                  "lng" : -67.16380599999999
+               }
+            }
+         },
+         "place_id" : "ChIJi0Of2z9fKowRtDObL_D-w38",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6886,
+                  "lng" : -59.805666
+               },
+               "southwest" : {
+                  "lat" : 0.6475291,
+                  "lng" : -73.36703899999999
+               }
+            },
+            "location" : {
+               "lat" : 6.42375,
+               "lng" : -66.58973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.770409,
+                  "lng" : -59.80378
+               },
+               "southwest" : {
+                  "lat" : 0.5438179,
+                  "lng" : -73.4255611
+               }
+            }
+         },
+         "place_id" : "ChIJAdjLNstTKIwR003VfFjyoNw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

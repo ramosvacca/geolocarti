@@ -1,0 +1,447 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rempartstraße",
+               "short_name" : "Rempartstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Freiburg im Breisgau",
+               "short_name" : "Freiburg im Breisgau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79098",
+               "short_name" : "79098",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rempartstraße 15, 79098 Freiburg im Breisgau, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.9933805,
+               "lng" : 7.846329099999998
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9947294802915,
+                  "lng" : 7.847678080291501
+               },
+               "southwest" : {
+                  "lat" : 47.9920315197085,
+                  "lng" : 7.844980119708496
+               }
+            }
+         },
+         "place_id" : "ChIJi9AkDJ8ckUcRNR6D32Jr--s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altstadt",
+               "short_name" : "Altstadt",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Breisgau-Hochschwarzwald",
+               "short_name" : "Breisgau-Hochschwarzwald",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altstadt, Freiburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.999931,
+                  "lng" : 7.860036099999999
+               },
+               "southwest" : {
+                  "lat" : 47.990395,
+                  "lng" : 7.836816100000001
+               }
+            },
+            "location" : {
+               "lat" : 47.9938544,
+               "lng" : 7.8467583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.999931,
+                  "lng" : 7.860036099999999
+               },
+               "southwest" : {
+                  "lat" : 47.990395,
+                  "lng" : 7.836816100000001
+               }
+            }
+         },
+         "place_id" : "ChIJMTBRlJ4ckUcRk2MLyuqb2Oc",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Breisgau-Hochschwarzwald",
+               "short_name" : "Breisgau-Hochschwarzwald",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mitte, Freiburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.005349,
+                  "lng" : 7.878121999999999
+               },
+               "southwest" : {
+                  "lat" : 47.990395,
+                  "lng" : 7.836816100000001
+               }
+            },
+            "location" : {
+               "lat" : 47.9983334,
+               "lng" : 7.854115799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.005349,
+                  "lng" : 7.878121999999999
+               },
+               "southwest" : {
+                  "lat" : 47.990395,
+                  "lng" : 7.836816100000001
+               }
+            }
+         },
+         "place_id" : "ChIJSSPIhpAckUcRgpvoe8HR1_M",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Freiburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0710448,
+                  "lng" : 7.930832299999999
+               },
+               "southwest" : {
+                  "lat" : 47.9035775,
+                  "lng" : 7.6620078
+               }
+            },
+            "location" : {
+               "lat" : 47.9990077,
+               "lng" : 7.842104299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0710448,
+                  "lng" : 7.930832299999999
+               },
+               "southwest" : {
+                  "lat" : 47.9035775,
+                  "lng" : 7.6620078
+               }
+            }
+         },
+         "place_id" : "ChIJZdYLViYbkUcRsFffpbdrHwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "79098",
+               "short_name" : "79098",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "79098 Freiburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.999996,
+                  "lng" : 7.8620539
+               },
+               "southwest" : {
+                  "lat" : 47.9893828,
+                  "lng" : 7.837078999999999
+               }
+            },
+            "location" : {
+               "lat" : 47.9938544,
+               "lng" : 7.8467583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.999996,
+                  "lng" : 7.8620539
+               },
+               "southwest" : {
+                  "lat" : 47.9893828,
+                  "lng" : 7.837078999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5SfryJ4ckUcR8E-SDLtrHxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Freiburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7183911,
+                  "lng" : 9.2180099
+               },
+               "southwest" : {
+                  "lat" : 47.5323664,
+                  "lng" : 7.511756799999999
+               }
+            },
+            "location" : {
+               "lat" : 47.998998,
+               "lng" : 7.842136999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7183911,
+                  "lng" : 9.2180099
+               },
+               "southwest" : {
+                  "lat" : 47.5323664,
+                  "lng" : 7.511756799999999
+               }
+            }
+         },
+         "place_id" : "ChIJZdYLViYbkUcRYPTdpbdrHwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baden-Württemberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7913278,
+                  "lng" : 10.495573
+               },
+               "southwest" : {
+                  "lat" : 47.5323664,
+                  "lng" : 7.511756799999999
+               }
+            },
+            "location" : {
+               "lat" : 48.6616037,
+               "lng" : 9.350133599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7913278,
+                  "lng" : 10.495573
+               },
+               "southwest" : {
+                  "lat" : 47.5323664,
+                  "lng" : 7.511756799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3wZkgmIbkUcRYEgkDb9IjMY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,430 @@
+{
+   "plus_code" : {
+      "compound_code" : "666R+WH Louisville, KY, USA",
+      "global_code" : "86CP666R+WH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2301",
+               "short_name" : "2301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 3rd Street",
+               "short_name" : "S 3rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Louisville",
+               "short_name" : "Louisville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40292",
+               "short_name" : "40292",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2301 S 3rd St, Louisville, KY 40292, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.2122761,
+               "lng" : -85.75850229999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2136250802915,
+                  "lng" : -85.75715331970849
+               },
+               "southwest" : {
+                  "lat" : 38.2109271197085,
+                  "lng" : -85.7598512802915
+               }
+            }
+         },
+         "place_id" : "ChIJpcReaGYNaYgRU4n5sTByKDY",
+         "plus_code" : {
+            "compound_code" : "666R+WH Louisville, Kentucky, United States",
+            "global_code" : "86CP666R+WH"
+         },
+         "types" : [ "establishment", "library", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2439",
+               "short_name" : "2439",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Brook Street",
+               "short_name" : "S Brook St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Louisville",
+               "short_name" : "Louisville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40208",
+               "short_name" : "40208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2439 S Brook St, Louisville, KY 40208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.2122223,
+               "lng" : -85.75772839999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2135712802915,
+                  "lng" : -85.75637941970848
+               },
+               "southwest" : {
+                  "lat" : 38.2108733197085,
+                  "lng" : -85.75907738029149
+               }
+            }
+         },
+         "place_id" : "EioyNDM5IFMgQnJvb2sgU3QsIExvdWlzdmlsbGUsIEtZIDQwMjA4LCBVU0EiGxIZChQKEglrn-zqZQ1piBE4cBtcVvevghCHEw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Louisville",
+               "short_name" : "Louisville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University, Louisville, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.22657,
+                  "lng" : -85.750861
+               },
+               "southwest" : {
+                  "lat" : 38.1942771,
+                  "lng" : -85.767062
+               }
+            },
+            "location" : {
+               "lat" : 38.2112014,
+               "lng" : -85.75897429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.22657,
+                  "lng" : -85.750861
+               },
+               "southwest" : {
+                  "lat" : 38.1942771,
+                  "lng" : -85.767062
+               }
+            }
+         },
+         "place_id" : "ChIJGT1jHWUNaYgR3NrttnavFgo",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40208",
+               "short_name" : "40208",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Louisville",
+               "short_name" : "Louisville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Louisville, KY 40208, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2334719,
+                  "lng" : -85.74201409999999
+               },
+               "southwest" : {
+                  "lat" : 38.2002978,
+                  "lng" : -85.78661900000002
+               }
+            },
+            "location" : {
+               "lat" : 38.2142969,
+               "lng" : -85.7717907
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2334719,
+                  "lng" : -85.74201409999999
+               },
+               "southwest" : {
+                  "lat" : 38.2002978,
+                  "lng" : -85.78661900000002
+               }
+            }
+         },
+         "place_id" : "ChIJ3cdJHF8NaYgRpoyzCcPgug4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Louisville",
+               "short_name" : "Louisville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Louisville, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.38051,
+                  "lng" : -85.40509999999999
+               },
+               "southwest" : {
+                  "lat" : 37.9971,
+                  "lng" : -85.948441
+               }
+            },
+            "location" : {
+               "lat" : 38.2526647,
+               "lng" : -85.7584557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.38051,
+                  "lng" : -85.40509999999999
+               },
+               "southwest" : {
+                  "lat" : 37.9971,
+                  "lng" : -85.948441
+               }
+            }
+         },
+         "place_id" : "ChIJEdVbsxoLaYgRMv1xICi009Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jefferson County, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.38051,
+                  "lng" : -85.40509999999999
+               },
+               "southwest" : {
+                  "lat" : 37.9971,
+                  "lng" : -85.948441
+               }
+            },
+            "location" : {
+               "lat" : 38.1938097,
+               "lng" : -85.64348700000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.38051,
+                  "lng" : -85.40509999999999
+               },
+               "southwest" : {
+                  "lat" : 37.9971,
+                  "lng" : -85.948441
+               }
+            }
+         },
+         "place_id" : "ChIJCROGK48KaYgR_WSJcx2vTro",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "Kentucky",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kentucky, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.147458,
+                  "lng" : -81.9649708
+               },
+               "southwest" : {
+                  "lat" : 36.4971289,
+                  "lng" : -89.5715089
+               }
+            },
+            "location" : {
+               "lat" : 37.8393332,
+               "lng" : -84.2700179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.147458,
+                  "lng" : -81.9649708
+               },
+               "southwest" : {
+                  "lat" : 36.4971289,
+                  "lng" : -89.5715089
+               }
+            }
+         },
+         "place_id" : "ChIJyVMZi0xzQogR_N_MxU5vH3c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

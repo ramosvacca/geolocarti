@@ -1,0 +1,244 @@
+{
+   "plus_code" : {
+      "compound_code" : "VHPP+G9 San Carlos de Bariloche, Río Negro, Argentina",
+      "global_code" : "47CCVHPP+G9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9819",
+               "short_name" : "9819",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Exequiel Bustillo",
+               "short_name" : "Av. Exequiel Bustillo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Carlos de Bariloche",
+               "short_name" : "San Carlos de Bariloche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Río Negro",
+               "short_name" : "Río Negro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. Exequiel Bustillo 9819, San Carlos de Bariloche, Río Negro, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -41.1135619,
+               "lng" : -71.41403649999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.1122129197085,
+                  "lng" : -71.41268751970848
+               },
+               "southwest" : {
+                  "lat" : -41.1149108802915,
+                  "lng" : -71.41538548029149
+               }
+            }
+         },
+         "place_id" : "EkpBdi4gRXhlcXVpZWwgQnVzdGlsbG8gOTgxOSwgU2FuIENhcmxvcyBkZSBCYXJpbG9jaGUsIFLDrW8gTmVncm8sIEFyZ2VudGluYSIbEhkKFAoSCUn6EHfPcBqWEZkSSKyTa3mwENtM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Carlos de Bariloche",
+               "short_name" : "San Carlos de Bariloche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bariloche",
+               "short_name" : "Bariloche",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Río Negro",
+               "short_name" : "Río Negro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Carlos de Bariloche, Río Negro, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.068724,
+                  "lng" : -71.18855289999999
+               },
+               "southwest" : {
+                  "lat" : -41.18798169999999,
+                  "lng" : -71.49127609999999
+               }
+            },
+            "location" : {
+               "lat" : -41.1334722,
+               "lng" : -71.31027779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.068724,
+                  "lng" : -71.18855289999999
+               },
+               "southwest" : {
+                  "lat" : -41.18798169999999,
+                  "lng" : -71.49127609999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5WDIIBV7GpYRZZp7y5euEII",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bariloche",
+               "short_name" : "Bariloche",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Río Negro",
+               "short_name" : "Río Negro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bariloche, Río Negro, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.0177183,
+                  "lng" : -71.1201516
+               },
+               "southwest" : {
+                  "lat" : -41.99491980000001,
+                  "lng" : -71.9029079
+               }
+            },
+            "location" : {
+               "lat" : -41.42541749999999,
+               "lng" : -71.47742909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.0177183,
+                  "lng" : -71.1201516
+               },
+               "southwest" : {
+                  "lat" : -41.99491980000001,
+                  "lng" : -71.9029079
+               }
+            }
+         },
+         "place_id" : "ChIJWzdkYSlGGpYRRUN89OMjSPY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Río Negro",
+               "short_name" : "Río Negro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Río Negro, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.5789663,
+                  "lng" : -62.78731459999999
+               },
+               "southwest" : {
+                  "lat" : -42.0024984,
+                  "lng" : -71.9029079
+               }
+            },
+            "location" : {
+               "lat" : -40.8261434,
+               "lng" : -63.0266339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.5789663,
+                  "lng" : -62.78731459999999
+               },
+               "southwest" : {
+                  "lat" : -42.0024984,
+                  "lng" : -71.9029079
+               }
+            }
+         },
+         "place_id" : "ChIJC1OmsMSC4pUR266wM__G38I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            },
+            "location" : {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

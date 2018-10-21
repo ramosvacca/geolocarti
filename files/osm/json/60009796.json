@@ -1,0 +1,519 @@
+{
+   "plus_code" : {
+      "compound_code" : "RH9R+GG Providence, RI, USA",
+      "global_code" : "87HCRH9R+GG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brown University Medical Education Building",
+               "short_name" : "Brown University Medical Education Bldg",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "222",
+               "short_name" : "222",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Richmond Street",
+               "short_name" : "Richmond St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jewelry District",
+               "short_name" : "Jewelry District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brown University Medical Education Bldg, 222 Richmond St, Providence, RI 02903, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8191822,
+                  "lng" : -71.407977
+               },
+               "southwest" : {
+                  "lat" : 41.8185655,
+                  "lng" : -71.40895309999999
+               }
+            },
+            "location" : {
+               "lat" : 41.8188907,
+               "lng" : -71.40852219999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8202228302915,
+                  "lng" : -71.40711606970849
+               },
+               "southwest" : {
+                  "lat" : 41.8175248697085,
+                  "lng" : -71.4098140302915
+               }
+            }
+         },
+         "place_id" : "ChIJM3WB0mpF5IkRCwwdxgiEL7w",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "221",
+               "short_name" : "221",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Richmond Street",
+               "short_name" : "Richmond St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jewelry District",
+               "short_name" : "Jewelry District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "221 Richmond St, Providence, RI 02903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8188371,
+               "lng" : -71.40925609999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8201860802915,
+                  "lng" : -71.40790711970848
+               },
+               "southwest" : {
+                  "lat" : 41.8174881197085,
+                  "lng" : -71.4106050802915
+               }
+            }
+         },
+         "place_id" : "ChIJRWGLKWtF5IkRHOtsW6jRj58",
+         "plus_code" : {
+            "compound_code" : "RH9R+G7 Providence, Rhode Island, United States",
+            "global_code" : "87HCRH9R+G7"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "226",
+               "short_name" : "226",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Richmond Street",
+               "short_name" : "Richmond St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "226 Richmond St, Providence, RI 02903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.81879,
+               "lng" : -71.4088369
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8201389802915,
+                  "lng" : -71.40748791970849
+               },
+               "southwest" : {
+                  "lat" : 41.8174410197085,
+                  "lng" : -71.41018588029149
+               }
+            }
+         },
+         "place_id" : "EioyMjYgUmljaG1vbmQgU3QsIFByb3ZpZGVuY2UsIFJJIDAyOTAzLCBVU0EiGxIZChQKEglHSzHRakXkiRH2VToCZ6mw5xDiAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jewelry District",
+               "short_name" : "Jewelry District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jewelry District, Providence, RI 02903, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.820391,
+                  "lng" : -71.4028931
+               },
+               "southwest" : {
+                  "lat" : 41.8142183,
+                  "lng" : -71.4131069
+               }
+            },
+            "location" : {
+               "lat" : 41.8176892,
+               "lng" : -71.40767199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.820391,
+                  "lng" : -71.4028931
+               },
+               "southwest" : {
+                  "lat" : 41.8142183,
+                  "lng" : -71.4131069
+               }
+            }
+         },
+         "place_id" : "ChIJ4Zot7GpF5IkRQAwk0FbP_Pg",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence, RI 02903, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.844753,
+                  "lng" : -71.3854449
+               },
+               "southwest" : {
+                  "lat" : 41.7991419,
+                  "lng" : -71.45164509999999
+               }
+            },
+            "location" : {
+               "lat" : 41.816736,
+               "lng" : -71.40915629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.844753,
+                  "lng" : -71.3854449
+               },
+               "southwest" : {
+                  "lat" : 41.7991419,
+                  "lng" : -71.45164509999999
+               }
+            }
+         },
+         "place_id" : "ChIJjxOfQRNF5IkRVd1GvodI1mQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.861571,
+                  "lng" : -71.3696939
+               },
+               "southwest" : {
+                  "lat" : 41.772414,
+                  "lng" : -71.472667
+               }
+            },
+            "location" : {
+               "lat" : 41.8239891,
+               "lng" : -71.4128343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.861571,
+                  "lng" : -71.3696939
+               },
+               "southwest" : {
+                  "lat" : 41.772414,
+                  "lng" : -71.472667
+               }
+            }
+         },
+         "place_id" : "ChIJXXN-Q-BE5IkRJ7azSE1832k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence County, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.31777
+               },
+               "southwest" : {
+                  "lat" : 41.7245628,
+                  "lng" : -71.79924199999999
+               }
+            },
+            "location" : {
+               "lat" : 41.8881582,
+               "lng" : -71.47742909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.31777
+               },
+               "southwest" : {
+                  "lat" : 41.7245628,
+                  "lng" : -71.79924199999999
+               }
+            }
+         },
+         "place_id" : "ChIJtUdvanpH5IkRYcTtx_6GVAo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "Rhode Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhode Island, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.08857089999999
+               },
+               "southwest" : {
+                  "lat" : 41.095834,
+                  "lng" : -71.90725809999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5800945,
+               "lng" : -71.47742909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.08857089999999
+               },
+               "southwest" : {
+                  "lat" : 41.095834,
+                  "lng" : -71.90725809999999
+               }
+            }
+         },
+         "place_id" : "ChIJD9cOYhQ15IkR5wbB57wYTh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

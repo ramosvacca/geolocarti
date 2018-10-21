@@ -1,0 +1,432 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carrer de Maria Aurèlia Capmany i Farnés",
+               "short_name" : "Carrer de Maria Aurèlia Capmany i Farnés",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17003",
+               "short_name" : "17003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carrer de Maria Aurèlia Capmany i Farnés, 67, 17003 Girona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9631103,
+               "lng" : 2.8297445
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9644592802915,
+                  "lng" : 2.831093480291502
+               },
+               "southwest" : {
+                  "lat" : 41.9617613197085,
+                  "lng" : 2.828395519708498
+               }
+            }
+         },
+         "place_id" : "ChIJi1Mf3TLhuhIR_x2iVN0dNvE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Gironès",
+               "short_name" : "Gironès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Girona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0142089,
+                  "lng" : 2.8389562
+               },
+               "southwest" : {
+                  "lat" : 41.9462966,
+                  "lng" : 2.7983782
+               }
+            },
+            "location" : {
+               "lat" : 41.9794005,
+               "lng" : 2.8214264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0142089,
+                  "lng" : 2.8389562
+               },
+               "southwest" : {
+                  "lat" : 41.9462966,
+                  "lng" : 2.7983782
+               }
+            }
+         },
+         "place_id" : "ChIJq_3ImCfnuhIRb2oppbZFOK8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17003",
+               "short_name" : "17003",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "17003 Girona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9758425,
+                  "lng" : 2.8388221
+               },
+               "southwest" : {
+                  "lat" : 41.93823039999999,
+                  "lng" : 2.8058666
+               }
+            },
+            "location" : {
+               "lat" : 41.9594288,
+               "lng" : 2.8228124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9758425,
+                  "lng" : 2.8388221
+               },
+               "southwest" : {
+                  "lat" : 41.93823039999999,
+                  "lng" : 2.8058666
+               }
+            }
+         },
+         "place_id" : "ChIJp8U-GdrmuhIRmsdAIeD6ABM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Gironès",
+               "short_name" : "Gironès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Girona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0297265,
+                  "lng" : 2.8982392
+               },
+               "southwest" : {
+                  "lat" : 41.9382469,
+                  "lng" : 2.7830715
+               }
+            },
+            "location" : {
+               "lat" : 41.9934816,
+               "lng" : 2.847737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0297265,
+                  "lng" : 2.8982392
+               },
+               "southwest" : {
+                  "lat" : 41.9382469,
+                  "lng" : 2.7830715
+               }
+            }
+         },
+         "place_id" : "ChIJTZcenZXmuhIRwGmkIeD6AAQ",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gironès",
+               "short_name" : "Gironès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gironès, Girona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1166406,
+                  "lng" : 2.9877391
+               },
+               "southwest" : {
+                  "lat" : 41.7575241,
+                  "lng" : 2.6304524
+               }
+            },
+            "location" : {
+               "lat" : 42.0021373,
+               "lng" : 2.8976254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1166406,
+                  "lng" : 2.9877391
+               },
+               "southwest" : {
+                  "lat" : 41.7575241,
+                  "lng" : 2.6304524
+               }
+            }
+         },
+         "place_id" : "ChIJt21Kc-XguhIRzq-MAmoNDVQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Girona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4954882,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 41.6499988,
+                  "lng" : 1.7242669
+               }
+            },
+            "location" : {
+               "lat" : 42.0407088,
+               "lng" : 2.9375739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4954882,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 41.6499988,
+                  "lng" : 1.7242669
+               }
+            }
+         },
+         "place_id" : "ChIJRRrTHsPNuhIRQMqjIeD6AAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Catalonia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            },
+            "location" : {
+               "lat" : 41.5911589,
+               "lng" : 1.5208624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8614502,
+                  "lng" : 3.3325539
+               },
+               "southwest" : {
+                  "lat" : 40.5230466,
+                  "lng" : 0.1591811
+               }
+            }
+         },
+         "place_id" : "ChIJ8_UwhdxbpBIRUMijIeD6AAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.244,
+                  "lng" : 5.098
+               },
+               "southwest" : {
+                  "lat" : 35.17300000000001,
+                  "lng" : -12.524
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

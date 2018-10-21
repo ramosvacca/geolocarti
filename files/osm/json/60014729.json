@@ -1,0 +1,500 @@
+{
+   "plus_code" : {
+      "compound_code" : "92GM+XH Muroran, Hokkaido, Japan",
+      "global_code" : "8RJ392GM+XH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muroran",
+               "short_name" : "Muroran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050-8585",
+               "short_name" : "050-8585",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Japan, 〒050-8585 Hokkaido, Muroran, 水元町27−１",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3774865,
+               "lng" : 141.0339302
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.37883548029149,
+                  "lng" : 141.0352791802915
+               },
+               "southwest" : {
+                  "lat" : 42.37613751970849,
+                  "lng" : 141.0325812197085
+               }
+            }
+         },
+         "place_id" : "ChIJb62B3qHZn18Rr9GbROrocXc",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "27",
+               "short_name" : "27",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Mizumotochō",
+               "short_name" : "Mizumotochō",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Muroran-shi",
+               "short_name" : "Muroran-shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaidō",
+               "short_name" : "Hokkaidō",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050-0071",
+               "short_name" : "050-0071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "27-1 Mizumotochō, Muroran-shi, Hokkaidō 050-0071, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3778477,
+               "lng" : 141.0334785
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3791966802915,
+                  "lng" : 141.0348274802915
+               },
+               "southwest" : {
+                  "lat" : 42.3764987197085,
+                  "lng" : 141.0321295197085
+               }
+            }
+         },
+         "place_id" : "ChIJ5-xTTp_Zn18R1cFxeI1W1wg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mizumoto Dori",
+               "short_name" : "Mizumoto Dori",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mizumotochō",
+               "short_name" : "Mizumotochō",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Muroran-shi",
+               "short_name" : "Muroran-shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaidō",
+               "short_name" : "Hokkaidō",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050-0071",
+               "short_name" : "050-0071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mizumoto Dori, Mizumotochō, Muroran-shi, Hokkaidō 050-0071, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.378243,
+                  "lng" : 141.0347165
+               },
+               "southwest" : {
+                  "lat" : 42.3774097,
+                  "lng" : 141.0346367
+               }
+            },
+            "location" : {
+               "lat" : 42.3778264,
+               "lng" : 141.0346766
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3791753302915,
+                  "lng" : 141.0360255802915
+               },
+               "southwest" : {
+                  "lat" : 42.3764773697085,
+                  "lng" : 141.0333276197085
+               }
+            }
+         },
+         "place_id" : "ChIJWe3XqpjZn18R7uxD-eH0PyE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "27",
+               "short_name" : "27",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Mizumotocho",
+               "short_name" : "Mizumotocho",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Muroran",
+               "short_name" : "Muroran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050-0071",
+               "short_name" : "050-0071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "27 Mizumotocho, Muroran, Hokkaido 050-0071, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.380599,
+                  "lng" : 141.0347563
+               },
+               "southwest" : {
+                  "lat" : 42.3766089,
+                  "lng" : 141.0315945
+               }
+            },
+            "location" : {
+               "lat" : 42.3780227,
+               "lng" : 141.0332341
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.380599,
+                  "lng" : 141.0347563
+               },
+               "southwest" : {
+                  "lat" : 42.3766089,
+                  "lng" : 141.0315945
+               }
+            }
+         },
+         "place_id" : "ChIJU62wYJ_Zn18Rx3wFr7t5qjM",
+         "types" : [ "political", "sublocality", "sublocality_level_4" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mizumotocho",
+               "short_name" : "Mizumotocho",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Muroran",
+               "short_name" : "Muroran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "050-0071",
+               "short_name" : "050-0071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mizumotocho, Muroran, Hokkaido 050-0071, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4040647,
+                  "lng" : 141.0378528
+               },
+               "southwest" : {
+                  "lat" : 42.3728266,
+                  "lng" : 141.0073424
+               }
+            },
+            "location" : {
+               "lat" : 42.3799363,
+               "lng" : 141.030812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4040647,
+                  "lng" : 141.0378528
+               },
+               "southwest" : {
+                  "lat" : 42.3728266,
+                  "lng" : 141.0073424
+               }
+            }
+         },
+         "place_id" : "ChIJV1bwfxLZn18RtX_XW8Y502c",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "050-0071",
+               "short_name" : "050-0071",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mizumotocho",
+               "short_name" : "Mizumotocho",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Muroran",
+               "short_name" : "Muroran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "050-0071, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4040647,
+                  "lng" : 141.0378554
+               },
+               "southwest" : {
+                  "lat" : 42.3728266,
+                  "lng" : 141.0073424
+               }
+            },
+            "location" : {
+               "lat" : 42.3926787,
+               "lng" : 141.0204226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4040647,
+                  "lng" : 141.0378554
+               },
+               "southwest" : {
+                  "lat" : 42.3728266,
+                  "lng" : 141.0073424
+               }
+            }
+         },
+         "place_id" : "ChIJrwRxrhLZn18R1DUYPQBJk-U",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muroran",
+               "short_name" : "Muroran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muroran, Hokkaido, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4373371,
+                  "lng" : 141.054317
+               },
+               "southwest" : {
+                  "lat" : 42.300858,
+                  "lng" : 140.9080999
+               }
+            },
+            "location" : {
+               "lat" : 42.3152306,
+               "lng" : 140.9737991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4373371,
+                  "lng" : 141.054317
+               },
+               "southwest" : {
+                  "lat" : 42.300858,
+                  "lng" : 140.9080999
+               }
+            }
+         },
+         "place_id" : "ChIJXT2vKcnbn18RDbMPCapO1C8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [
+                  "administrative_area_level_1",
+                  "establishment",
+                  "natural_feature",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hokkaido, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5230219,
+                  "lng" : 145.8175506
+               },
+               "southwest" : {
+                  "lat" : 41.3521284,
+                  "lng" : 139.3342995
+               }
+            },
+            "location" : {
+               "lat" : 43.06461470000001,
+               "lng" : 141.3468074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5230219,
+                  "lng" : 145.8175506
+               },
+               "southwest" : {
+                  "lat" : 41.3521284,
+                  "lng" : 139.3342995
+               }
+            }
+         },
+         "place_id" : "ChIJi4hsnyBZn18RjwPOT1bDPBw",
+         "types" : [
+            "administrative_area_level_1",
+            "establishment",
+            "natural_feature",
+            "political"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6412626,
+                  "lng" : 154.0031455
+               },
+               "southwest" : {
+                  "lat" : 20.3585295,
+                  "lng" : 122.8554688
+               }
+            },
+            "location" : {
+               "lat" : 36.204824,
+               "lng" : 138.252924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6412626,
+                  "lng" : 154.0031455
+               },
+               "southwest" : {
+                  "lat" : 20.3585295,
+                  "lng" : 122.8554688
+               }
+            }
+         },
+         "place_id" : "ChIJLxl_1w9OZzQRRFJmfNR1QvU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

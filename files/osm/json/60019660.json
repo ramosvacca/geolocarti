@@ -1,0 +1,499 @@
+{
+   "plus_code" : {
+      "compound_code" : "J788+C4 Klagenfurt, Austria",
+      "global_code" : "8FRPJ788+C4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "65",
+               "short_name" : "65",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsstraße",
+               "short_name" : "Universitätsstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kärnten",
+               "short_name" : "Kärnten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9020",
+               "short_name" : "9020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsstraße 65, 9020 Klagenfurt am Wörthersee, Austria",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.6167124,
+               "lng" : 14.2649439
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6180613802915,
+                  "lng" : 14.2662928802915
+               },
+               "southwest" : {
+                  "lat" : 46.6153634197085,
+                  "lng" : 14.2635949197085
+               }
+            }
+         },
+         "place_id" : "ChIJU2kvwGt0cEcRremecUjBhNc",
+         "plus_code" : {
+            "compound_code" : "J787+MX Klagenfurt, Austria",
+            "global_code" : "8FRPJ787+MX"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kärnten",
+               "short_name" : "Kärnten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9020",
+               "short_name" : "9020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 9020 Klagenfurt am Wörthersee, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6160362,
+                  "lng" : 14.2656426
+               },
+               "southwest" : {
+                  "lat" : 46.6158858,
+                  "lng" : 14.2640344
+               }
+            },
+            "location" : {
+               "lat" : 46.615961,
+               "lng" : 14.2648385
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.61730998029149,
+                  "lng" : 14.2661874802915
+               },
+               "southwest" : {
+                  "lat" : 46.6146120197085,
+                  "lng" : 14.2634895197085
+               }
+            }
+         },
+         "place_id" : "ChIJYcDOzmt0cEcRlOfRj5njgxQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Martin",
+               "short_name" : "St. Martin",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Klagenfurt",
+               "short_name" : "Klagenfurt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Carinthia",
+               "short_name" : "Carinthia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9020",
+               "short_name" : "9020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St. Martin, 9020 Klagenfurt, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6208132,
+                  "lng" : 14.2937119
+               },
+               "southwest" : {
+                  "lat" : 46.60661,
+                  "lng" : 14.2612177
+               }
+            },
+            "location" : {
+               "lat" : 46.6134236,
+               "lng" : 14.2813548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6208132,
+                  "lng" : 14.2937119
+               },
+               "southwest" : {
+                  "lat" : 46.60661,
+                  "lng" : 14.2612177
+               }
+            }
+         },
+         "place_id" : "ChIJ_WtV02Z0cEcRF7571H8kA3A",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9020",
+               "short_name" : "9020",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Klagenfurt",
+               "short_name" : "Klagenfurt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carinthia",
+               "short_name" : "Carinthia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9020 Klagenfurt, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6750771,
+                  "lng" : 14.4160192
+               },
+               "southwest" : {
+                  "lat" : 46.5837612,
+                  "lng" : 14.2381965
+               }
+            },
+            "location" : {
+               "lat" : 46.64450919999999,
+               "lng" : 14.3271202
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6750771,
+                  "lng" : 14.4160192
+               },
+               "southwest" : {
+                  "lat" : 46.5837612,
+                  "lng" : 14.2381965
+               }
+            }
+         },
+         "place_id" : "ChIJXf95R1JzcEcRfOfFw-MwaS4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Klagenfurt",
+               "short_name" : "Klagenfurt",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kärnten",
+               "short_name" : "Kärnten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9020",
+               "short_name" : "9020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Klagenfurt, 9020 Klagenfurt am Wörthersee, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6750771,
+                  "lng" : 14.4160192
+               },
+               "southwest" : {
+                  "lat" : 46.5837612,
+                  "lng" : 14.2381965
+               }
+            },
+            "location" : {
+               "lat" : 46.64450919999999,
+               "lng" : 14.3271202
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6750771,
+                  "lng" : 14.4160192
+               },
+               "southwest" : {
+                  "lat" : 46.5837612,
+                  "lng" : 14.2381965
+               }
+            }
+         },
+         "place_id" : "ChIJXf95R1JzcEcRyBwIdXgKKO8",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Klagenfurt",
+               "short_name" : "Klagenfurt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Carinthia",
+               "short_name" : "Carinthia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Klagenfurt, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.70822,
+                  "lng" : 14.41526
+               },
+               "southwest" : {
+                  "lat" : 46.57443,
+                  "lng" : 14.21025
+               }
+            },
+            "location" : {
+               "lat" : 46.6364598,
+               "lng" : 14.3122246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.70822,
+                  "lng" : 14.41526
+               },
+               "southwest" : {
+                  "lat" : 46.57443,
+                  "lng" : 14.21025
+               }
+            }
+         },
+         "place_id" : "ChIJZX6PMEVzcEcRK41hjN-2fmg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kärnten",
+               "short_name" : "Kärnten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Klagenfurt am Wörthersee, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.70822,
+                  "lng" : 14.41526
+               },
+               "southwest" : {
+                  "lat" : 46.57443,
+                  "lng" : 14.21025
+               }
+            },
+            "location" : {
+               "lat" : 46.62794,
+               "lng" : 14.30899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.70822,
+                  "lng" : 14.41526
+               },
+               "southwest" : {
+                  "lat" : 46.57443,
+                  "lng" : 14.21025
+               }
+            }
+         },
+         "place_id" : "ChIJ27ZE34pzcEcRBylGghSVrYU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carinthia",
+               "short_name" : "Carinthia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carinthia, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.13131,
+                  "lng" : 15.0651401
+               },
+               "southwest" : {
+                  "lat" : 46.3723,
+                  "lng" : 12.6563901
+               }
+            },
+            "location" : {
+               "lat" : 46.722203,
+               "lng" : 14.1805882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.13131,
+                  "lng" : 15.0651401
+               },
+               "southwest" : {
+                  "lat" : 46.3723,
+                  "lng" : 12.6563901
+               }
+            }
+         },
+         "place_id" : "ChIJF_WJpph0cEcRP8merT25Wtk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0206081,
+                  "lng" : 17.1607329
+               },
+               "southwest" : {
+                  "lat" : 46.37233579999999,
+                  "lng" : 9.530783399999999
+               }
+            },
+            "location" : {
+               "lat" : 47.516231,
+               "lng" : 14.550072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0206081,
+                  "lng" : 17.1607329
+               },
+               "southwest" : {
+                  "lat" : 46.37233579999999,
+                  "lng" : 9.530783399999999
+               }
+            }
+         },
+         "place_id" : "ChIJfyqdJZsHbUcRr8Hk3XvUEhA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

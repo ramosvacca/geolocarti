@@ -1,0 +1,367 @@
+{
+   "plus_code" : {
+      "compound_code" : "4MXF+3F Taichung, North District, Taichung City, Taiwan",
+      "global_code" : "7QP24MXF+3F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "122",
+               "short_name" : "122",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wuquan Road",
+               "short_name" : "Wuquan Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West District",
+               "short_name" : "West District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taichung City",
+               "short_name" : "Taichung City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "403",
+               "short_name" : "403",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 122, Wuquan Road, West District, Taichung City, Taiwan 403",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.1476944,
+               "lng" : 120.673592
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.14904338029151,
+                  "lng" : 120.6749409802915
+               },
+               "southwest" : {
+                  "lat" : 24.1463454197085,
+                  "lng" : 120.6722430197085
+               }
+            }
+         },
+         "place_id" : "Eic0MDPlj7DngaPlj7DkuK3luILopb_ljYDkupTmrIrot68xMjLomZ8iGhIYChQKEgm3c7jAcz1pNBHFrSJOU0pH8RB6",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "和龍里",
+               "short_name" : "和龍里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "西區",
+               "short_name" : "西區",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "台中市",
+               "short_name" : "台中市",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "403",
+               "short_name" : "403",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "403, Taiwan, 台中市西區和龍里",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.1521917,
+                  "lng" : 120.6755106
+               },
+               "southwest" : {
+                  "lat" : 24.1472222,
+                  "lng" : 120.6710867
+               }
+            },
+            "location" : {
+               "lat" : 24.1506989,
+               "lng" : 120.6739115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1521917,
+                  "lng" : 120.6755106
+               },
+               "southwest" : {
+                  "lat" : 24.1472222,
+                  "lng" : 120.6710867
+               }
+            }
+         },
+         "place_id" : "ChIJkXezaXE9aTQRvBdhWz9QNeI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West District",
+               "short_name" : "West District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taichung City",
+               "short_name" : "Taichung City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "403",
+               "short_name" : "403",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West District, Taichung City, Taiwan 403",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.1636034,
+                  "lng" : 120.6824983
+               },
+               "southwest" : {
+                  "lat" : 24.128342,
+                  "lng" : 120.6498103
+               }
+            },
+            "location" : {
+               "lat" : 24.1430604,
+               "lng" : 120.6631289
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1636034,
+                  "lng" : 120.6824983
+               },
+               "southwest" : {
+                  "lat" : 24.128342,
+                  "lng" : 120.6498103
+               }
+            }
+         },
+         "place_id" : "ChIJFeLmWHU9aTQRfObf-Rb2xQQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "403",
+               "short_name" : "403",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "West District",
+               "short_name" : "West District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taichung City",
+               "short_name" : "Taichung City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West District, Taichung City, Taiwan 403",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.1636034,
+                  "lng" : 120.6824983
+               },
+               "southwest" : {
+                  "lat" : 24.128342,
+                  "lng" : 120.6498103
+               }
+            },
+            "location" : {
+               "lat" : 24.1434952,
+               "lng" : 120.6639295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1636034,
+                  "lng" : 120.6824983
+               },
+               "southwest" : {
+                  "lat" : 24.128342,
+                  "lng" : 120.6498103
+               }
+            }
+         },
+         "place_id" : "ChIJT1VWWHU9aTQRvJKp0NLlZH0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taichung",
+               "short_name" : "Taichung",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "North District",
+               "short_name" : "North District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taichung City",
+               "short_name" : "Taichung City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taichung, North District, Taichung City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.3155578,
+                  "lng" : 120.7661915
+               },
+               "southwest" : {
+                  "lat" : 24.0544103,
+                  "lng" : 120.5032694
+               }
+            },
+            "location" : {
+               "lat" : 24.1631651,
+               "lng" : 120.6746691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.3155578,
+                  "lng" : 120.7661915
+               },
+               "southwest" : {
+                  "lat" : 24.0544103,
+                  "lng" : 120.5032694
+               }
+            }
+         },
+         "place_id" : "ChIJ0fJdV2U9aTQRCnt0UfuU1I0",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taichung City",
+               "short_name" : "Taichung City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taichung City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.4416976,
+                  "lng" : 121.4509512
+               },
+               "southwest" : {
+                  "lat" : 23.9985086,
+                  "lng" : 120.4607975
+               }
+            },
+            "location" : {
+               "lat" : 24.1477358,
+               "lng" : 120.6736482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4416976,
+                  "lng" : 121.4509512
+               },
+               "southwest" : {
+                  "lat" : 23.9985086,
+                  "lng" : 120.4607975
+               }
+            }
+         },
+         "place_id" : "ChIJ7yJ5-d8XaTQRf0SmfuQ-Uoc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            },
+            "location" : {
+               "lat" : 23.69781,
+               "lng" : 120.960515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4545,
+                  "lng" : 123.5021012
+               },
+               "southwest" : {
+                  "lat" : 20.5170001,
+                  "lng" : 116.6665
+               }
+            }
+         },
+         "place_id" : "ChIJL1cHXAbzbjQRaVScvwTwEec",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

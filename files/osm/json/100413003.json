@@ -1,0 +1,483 @@
+{
+   "plus_code" : {
+      "compound_code" : "2399+PW São Carlos, SP, Brazil",
+      "global_code" : "58CJ2399+PW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5111",
+               "short_name" : "5111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Miguel Petroni",
+               "short_name" : "R. Miguel Petroni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Bandeirantes",
+               "short_name" : "Jardim Bandeirantes",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13563-470",
+               "short_name" : "13563-470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Miguel Petroni, 5111 - Jardim Bandeirantes, São Carlos - SP, 13563-470, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -21.9807363,
+               "lng" : -47.9301475
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.9793873197085,
+                  "lng" : -47.9287985197085
+               },
+               "southwest" : {
+                  "lat" : -21.9820852802915,
+                  "lng" : -47.9314964802915
+               }
+            }
+         },
+         "place_id" : "ChIJ286IE316uJQRjcU8X2tQRZc",
+         "plus_code" : {
+            "compound_code" : "2399+PW São Carlos, State of São Paulo, Brazil",
+            "global_code" : "58CJ2399+PW"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5111",
+               "short_name" : "5111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Miguel Petroni",
+               "short_name" : "R. Miguel Petroni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Loteamento Habitacional Sao Carlos 1",
+               "short_name" : "Lot. Hab. Sao Carlos 1",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13563-470",
+               "short_name" : "13563-470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Miguel Petroni, 5111 - Lot. Hab. Sao Carlos 1, São Carlos - SP, 13563-470, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -21.9807363,
+               "lng" : -47.9301475
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.9793873197085,
+                  "lng" : -47.9287985197085
+               },
+               "southwest" : {
+                  "lat" : -21.9820852802915,
+                  "lng" : -47.9314964802915
+               }
+            }
+         },
+         "place_id" : "ChIJP0Oaeft2uJQRNfG1yP8_rKA",
+         "plus_code" : {
+            "compound_code" : "2399+PW São Carlos, State of São Paulo, Brazil",
+            "global_code" : "58CJ2399+PW"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2685",
+               "short_name" : "2685",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Miguel Petroni",
+               "short_name" : "R. Miguel Petroni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Bandeirantes",
+               "short_name" : "Jardim Bandeirantes",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R. Miguel Petroni, 2685 - Jardim Bandeirantes, São Carlos - SP, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -21.9805485,
+               "lng" : -47.9299633
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.97919951970849,
+                  "lng" : -47.92861431970849
+               },
+               "southwest" : {
+                  "lat" : -21.9818974802915,
+                  "lng" : -47.93131228029149
+               }
+            }
+         },
+         "place_id" : "EkdSLiBNaWd1ZWwgUGV0cm9uaSwgMjY4NSAtIEphcmRpbSBCYW5kZWlyYW50ZXMsIFPDo28gQ2FybG9zIC0gU1AsIEJyYXNpbCIbEhkKFAoSCZdKkhJ9eriUEafuWhUYp-hgEP0U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13563-470",
+               "short_name" : "13563-470",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Carlos - State of São Paulo, 13563-470, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.976739,
+                  "lng" : -47.90080039999999
+               },
+               "southwest" : {
+                  "lat" : -22.0067377,
+                  "lng" : -47.931715
+               }
+            },
+            "location" : {
+               "lat" : -21.9858665,
+               "lng" : -47.9250255
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.976739,
+                  "lng" : -47.90080039999999
+               },
+               "southwest" : {
+                  "lat" : -22.0067377,
+                  "lng" : -47.931715
+               }
+            }
+         },
+         "place_id" : "ChIJn6hG-aFwuJQRS8vQqQoszaI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13563",
+               "short_name" : "13563",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Carlos - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.9641709,
+                  "lng" : -47.909097
+               },
+               "southwest" : {
+                  "lat" : -22,
+                  "lng" : -47.9433642
+               }
+            },
+            "location" : {
+               "lat" : -21.9847554,
+               "lng" : -47.9242939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.9641709,
+                  "lng" : -47.909097
+               },
+               "southwest" : {
+                  "lat" : -22,
+                  "lng" : -47.9433642
+               }
+            }
+         },
+         "place_id" : "ChIJieqXpH56uJQRG5Yx2JRxw7A",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Carlos, SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.9599331,
+                  "lng" : -47.8408678
+               },
+               "southwest" : {
+                  "lat" : -22.0771466,
+                  "lng" : -47.9512468
+               }
+            },
+            "location" : {
+               "lat" : -22.0087082,
+               "lng" : -47.8909263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.9599331,
+                  "lng" : -47.8408678
+               },
+               "southwest" : {
+                  "lat" : -22.0771466,
+                  "lng" : -47.9512468
+               }
+            }
+         },
+         "place_id" : "ChIJgdGduyZ3uJQRvJlZUHF9nQ0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Carlos",
+               "short_name" : "São Carlos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Carlos - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.5974284,
+                  "lng" : -47.7194859
+               },
+               "southwest" : {
+                  "lat" : -22.161045,
+                  "lng" : -48.0912611
+               }
+            },
+            "location" : {
+               "lat" : -21.9643376,
+               "lng" : -47.8822604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.5974284,
+                  "lng" : -47.7194859
+               },
+               "southwest" : {
+                  "lat" : -22.161045,
+                  "lng" : -48.0912611
+               }
+            }
+         },
+         "place_id" : "ChIJL321j2tvuJQR54Pc1M2M8Xw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "State of São Paulo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            },
+            "location" : {
+               "lat" : -23.5431786,
+               "lng" : -46.6291845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            }
+         },
+         "place_id" : "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

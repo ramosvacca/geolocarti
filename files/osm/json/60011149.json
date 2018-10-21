@@ -1,0 +1,297 @@
+{
+   "plus_code" : {
+      "compound_code" : "8PVW+G5 Dublin, County Dublin, Ireland",
+      "global_code" : "9C5M8PVW+G5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "College Green",
+               "short_name" : "College Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dublin 2",
+               "short_name" : "Dublin 2",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "College Green, Dublin 2, Co. Dublin, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3437935,
+               "lng" : -6.254571599999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.34514248029149,
+                  "lng" : -6.253222619708497
+               },
+               "southwest" : {
+                  "lat" : 53.3424445197085,
+                  "lng" : -6.255920580291502
+               }
+            }
+         },
+         "place_id" : "ChIJ3Y7HLZsOZ0gRZ2FxjA3-ACc",
+         "plus_code" : {
+            "compound_code" : "8PVW+G5 Dublin, County Dublin, Ireland",
+            "global_code" : "9C5M8PVW+G5"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South-East Inner City",
+               "short_name" : "South-East Inner City",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, South-East Inner City, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3443991,
+                  "lng" : -6.2542046
+               },
+               "southwest" : {
+                  "lat" : 53.3435988,
+                  "lng" : -6.2544099
+               }
+            },
+            "location" : {
+               "lat" : 53.3439989,
+               "lng" : -6.2543072
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3453479302915,
+                  "lng" : -6.252958269708498
+               },
+               "southwest" : {
+                  "lat" : 53.3426499697085,
+                  "lng" : -6.255656230291502
+               }
+            }
+         },
+         "place_id" : "ChIJm2ppnJoOZ0gRNjblOVjPR-Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin City, Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4111566,
+                  "lng" : -6.11309
+               },
+               "southwest" : {
+                  "lat" : 53.2988569,
+                  "lng" : -6.387080600000001
+               }
+            },
+            "location" : {
+               "lat" : 53.3603142,
+               "lng" : -6.315054200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4111566,
+                  "lng" : -6.11309
+               },
+               "southwest" : {
+                  "lat" : 53.2988569,
+                  "lng" : -6.387080600000001
+               }
+            }
+         },
+         "place_id" : "ChIJv2RI7foRZ0gRwAKA8azHAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            },
+            "location" : {
+               "lat" : 53.3498053,
+               "lng" : -6.2603097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            }
+         },
+         "place_id" : "ChIJL6wn6oAOZ0gRoHExl6nHAAo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "County Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            },
+            "location" : {
+               "lat" : 53.3302033,
+               "lng" : -6.3105655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            }
+         },
+         "place_id" : "ChIJv2RI7foRZ0gRwAKA8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

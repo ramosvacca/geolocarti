@@ -1,0 +1,524 @@
+{
+   "plus_code" : {
+      "compound_code" : "WV6G+XJ Stony Brook, NY, USA",
+      "global_code" : "87G8WV6G+XJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nicolls Road",
+               "short_name" : "Nicolls Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stony Brook",
+               "short_name" : "Stony Brook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11794",
+               "short_name" : "11794",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 Nicolls Rd, Stony Brook, NY 11794, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.9123761,
+               "lng" : -73.12338889999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9137250802915,
+                  "lng" : -73.1220399197085
+               },
+               "southwest" : {
+                  "lat" : 40.9110271197085,
+                  "lng" : -73.12473788029151
+               }
+            }
+         },
+         "place_id" : "ChIJvzh05jM_6IkRhcy9aqUcTHM",
+         "plus_code" : {
+            "compound_code" : "WV6G+XJ Stony Brook, Brookhaven, NY, United States",
+            "global_code" : "87G8WV6G+XJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Computer Science",
+               "short_name" : "New Computer Science",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Engineering Drive",
+               "short_name" : "Engineering Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stony Brook",
+               "short_name" : "Stony Brook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brookhaven",
+               "short_name" : "Brookhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11794",
+               "short_name" : "11794",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2424",
+               "short_name" : "2424",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "New Computer Science, Engineering Dr, Stony Brook, NY 11794, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9133524,
+                  "lng" : -73.1232553
+               },
+               "southwest" : {
+                  "lat" : 40.9125768,
+                  "lng" : -73.12387339999999
+               }
+            },
+            "location" : {
+               "lat" : 40.9130863,
+               "lng" : -73.12362139999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9143135802915,
+                  "lng" : -73.12221536970848
+               },
+               "southwest" : {
+                  "lat" : 40.91161561970851,
+                  "lng" : -73.12491333029151
+               }
+            }
+         },
+         "place_id" : "ChIJu822LS4_6IkRHZUARS-B_d0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Engineering Drive",
+               "short_name" : "Engineering Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Setauket- East Setauket",
+               "short_name" : "Setauket- East Setauket",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brookhaven",
+               "short_name" : "Brookhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11733",
+               "short_name" : "11733",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Engineering Dr, Setauket- East Setauket, NY 11733, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9132908,
+                  "lng" : -73.1238469
+               },
+               "southwest" : {
+                  "lat" : 40.9127375,
+                  "lng" : -73.1240737
+               }
+            },
+            "location" : {
+               "lat" : 40.9130142,
+               "lng" : -73.12396029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9143631302915,
+                  "lng" : -73.1226113197085
+               },
+               "southwest" : {
+                  "lat" : 40.9116651697085,
+                  "lng" : -73.12530928029152
+               }
+            }
+         },
+         "place_id" : "ChIJiZpuzS8_6IkRVv-PI3uUKVk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11794",
+               "short_name" : "11794",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Stony Brook",
+               "short_name" : "Stony Brook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stony Brook, NY 11794, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9252474,
+                  "lng" : -73.10041
+               },
+               "southwest" : {
+                  "lat" : 40.8924347,
+                  "lng" : -73.14397629999999
+               }
+            },
+            "location" : {
+               "lat" : 40.9132244,
+               "lng" : -73.12610909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9252474,
+                  "lng" : -73.10041
+               },
+               "southwest" : {
+                  "lat" : 40.8924347,
+                  "lng" : -73.14397629999999
+               }
+            }
+         },
+         "place_id" : "ChIJhfO2GjA_6IkRCr-hGm23pug",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stony Brook",
+               "short_name" : "Stony Brook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brookhaven",
+               "short_name" : "Brookhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stony Brook, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9481107,
+                  "lng" : -73.0964919
+               },
+               "southwest" : {
+                  "lat" : 40.8691492,
+                  "lng" : -73.1535262
+               }
+            },
+            "location" : {
+               "lat" : 40.9256538,
+               "lng" : -73.1409429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9481107,
+                  "lng" : -73.0964919
+               },
+               "southwest" : {
+                  "lat" : 40.8691492,
+                  "lng" : -73.1535262
+               }
+            }
+         },
+         "place_id" : "ChIJURF4rio_6IkRPmsIHDgl-Uk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brookhaven",
+               "short_name" : "Brookhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brookhaven, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.11337890000001,
+                  "lng" : -72.702873
+               },
+               "southwest" : {
+                  "lat" : 40.599407,
+                  "lng" : -73.177505
+               }
+            },
+            "location" : {
+               "lat" : 40.8858353,
+               "lng" : -72.99329689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.11337890000001,
+                  "lng" : -72.702873
+               },
+               "southwest" : {
+                  "lat" : 40.599407,
+                  "lng" : -73.177505
+               }
+            }
+         },
+         "place_id" : "ChIJC6iSqSlf6IkRKpM-iqF_WnY",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suffolk County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3103871,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.534265,
+                  "lng" : -73.49740489999999
+               }
+            },
+            "location" : {
+               "lat" : 40.9848784,
+               "lng" : -72.61511689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3103871,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.534265,
+                  "lng" : -73.49740489999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

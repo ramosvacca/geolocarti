@@ -1,0 +1,383 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "518",
+               "short_name" : "518",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Manuel Díaz H.",
+               "short_name" : "Manuel Díaz H.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zona Pronaf Condominio La Plata",
+               "short_name" : "Zona Pronaf Condominio La Plata",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad Juárez",
+               "short_name" : "Cd. Juarez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juárez Municipality",
+               "short_name" : "Juárez Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32315",
+               "short_name" : "32315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manuel Díaz H. 518, Zona Pronaf Condominio La Plata, 32315 Cd Juárez, Chih., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.74172219999999,
+               "lng" : -106.4461608
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.74307118029149,
+                  "lng" : -106.4448118197085
+               },
+               "southwest" : {
+                  "lat" : 31.7403732197085,
+                  "lng" : -106.4475097802915
+               }
+            }
+         },
+         "place_id" : "ChIJcb53gVlZ54YRXcT8-YzHZVk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zona Pronaf Condominio La Plata",
+               "short_name" : "Zona Pronaf Condominio La Plata",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad Juárez",
+               "short_name" : "Cd. Juarez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juárez Municipality",
+               "short_name" : "Juárez Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32315",
+               "short_name" : "32315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zona Pronaf Condominio La Plata, 32315 Cd Juárez, Chih., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7516961,
+                  "lng" : -106.4431365
+               },
+               "southwest" : {
+                  "lat" : 31.7370585,
+                  "lng" : -106.4579438
+               }
+            },
+            "location" : {
+               "lat" : 31.742273,
+               "lng" : -106.4538386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7516961,
+                  "lng" : -106.4431365
+               },
+               "southwest" : {
+                  "lat" : 31.7370585,
+                  "lng" : -106.4579438
+               }
+            }
+         },
+         "place_id" : "ChIJEViGmVxZ54YRYFFZKC0MIhs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Juarez",
+               "short_name" : "Cd. Juarez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juárez Municipality",
+               "short_name" : "Juárez Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ciudad Juarez, Chihuahua, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7839854,
+                  "lng" : -106.2940898
+               },
+               "southwest" : {
+                  "lat" : 31.5238034,
+                  "lng" : -106.6037812
+               }
+            },
+            "location" : {
+               "lat" : 31.6903638,
+               "lng" : -106.4245478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7839854,
+                  "lng" : -106.2940898
+               },
+               "southwest" : {
+                  "lat" : 31.5238034,
+                  "lng" : -106.6037812
+               }
+            }
+         },
+         "place_id" : "ChIJnTILPcte54YRdHmcVABhGQs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "32315",
+               "short_name" : "32315",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Zona Pronaf Condominio La Plata",
+               "short_name" : "Zona Pronaf Condominio La Plata",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad Juárez",
+               "short_name" : "Cd. Juarez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juárez Municipality",
+               "short_name" : "Juárez Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zona Pronaf Condominio La Plata, 32315 Cd Juárez, Chih., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7516961,
+                  "lng" : -106.4431365
+               },
+               "southwest" : {
+                  "lat" : 31.7370585,
+                  "lng" : -106.4579438
+               }
+            },
+            "location" : {
+               "lat" : 31.742273,
+               "lng" : -106.4538386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7516961,
+                  "lng" : -106.4431365
+               },
+               "southwest" : {
+                  "lat" : 31.7370585,
+                  "lng" : -106.4579438
+               }
+            }
+         },
+         "place_id" : "ChIJM86mnlxZ54YRjbZt2UxwsGc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Juárez Municipality",
+               "short_name" : "Juárez Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Juárez Municipality, Chihuahua, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7840737,
+                  "lng" : -106.1808825
+               },
+               "southwest" : {
+                  "lat" : 31.1199568,
+                  "lng" : -106.9516256
+               }
+            },
+            "location" : {
+               "lat" : 31.7476729,
+               "lng" : -106.4466831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7840737,
+                  "lng" : -106.1808825
+               },
+               "southwest" : {
+                  "lat" : 31.1199568,
+                  "lng" : -106.9516256
+               }
+            }
+         },
+         "place_id" : "ChIJqa_9pT5Z54YR6GJqJ4NfTLw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chihuahua, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7844862,
+                  "lng" : -103.3067686
+               },
+               "southwest" : {
+                  "lat" : 25.5588435,
+                  "lng" : -109.0748861
+               }
+            },
+            "location" : {
+               "lat" : 28.4854458,
+               "lng" : -105.7820674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7844862,
+                  "lng" : -103.3067686
+               },
+               "southwest" : {
+                  "lat" : 25.5588435,
+                  "lng" : -109.0748861
+               }
+            }
+         },
+         "place_id" : "ChIJCaSRhS91loYRB36nQFPig5s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

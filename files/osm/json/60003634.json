@@ -1,0 +1,319 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida Doctor Eduardo Tallman",
+               "short_name" : "Av. Dr. Eduardo Tallman",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de los Ríos",
+               "short_name" : "Región de los Ríos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. Dr. Eduardo Tallman, Valdivia, Región de los Ríos, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.8054768,
+                  "lng" : -73.2512469
+               },
+               "southwest" : {
+                  "lat" : -39.8058918,
+                  "lng" : -73.2531686
+               }
+            },
+            "location" : {
+               "lat" : -39.8057374,
+               "lng" : -73.25222579999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.8043353197085,
+                  "lng" : -73.25085876970849
+               },
+               "southwest" : {
+                  "lat" : -39.8070332802915,
+                  "lng" : -73.25355673029149
+               }
+            }
+         },
+         "place_id" : "ChIJYcoIe93tFZYRc7pRAFd3XWY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terminal L4, L5, L20",
+               "short_name" : "Terminal L4, L5, L20",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de los Ríos",
+               "short_name" : "Región de los Ríos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Terminal L4, L5, L20, Valdivia, Región de los Ríos, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -39.8068794,
+               "lng" : -73.2520294
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.8055304197085,
+                  "lng" : -73.25068041970849
+               },
+               "southwest" : {
+                  "lat" : -39.8082283802915,
+                  "lng" : -73.25337838029151
+               }
+            }
+         },
+         "place_id" : "ChIJveankd3tFZYRjl8x37QkWRY",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valdivia Province",
+               "short_name" : "Valdivia Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Los Ríos Region",
+               "short_name" : "Los Ríos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valdivia, Los Ríos Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.6384805,
+                  "lng" : -72.9198123
+               },
+               "southwest" : {
+                  "lat" : -40.0322427,
+                  "lng" : -73.4116839
+               }
+            },
+            "location" : {
+               "lat" : -39.8195857,
+               "lng" : -73.2452103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.6384805,
+                  "lng" : -72.9198123
+               },
+               "southwest" : {
+                  "lat" : -40.0322427,
+                  "lng" : -73.4116839
+               }
+            }
+         },
+         "place_id" : "ChIJAUXeIE_pFZYRE3hTURAwt4k",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valdivia Province",
+               "short_name" : "Valdivia Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Los Ríos Region",
+               "short_name" : "Los Ríos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valdivia Province, Los Ríos Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.2871405,
+                  "lng" : -71.5829256
+               },
+               "southwest" : {
+                  "lat" : -40.2044111,
+                  "lng" : -73.7052241
+               }
+            },
+            "location" : {
+               "lat" : -39.8195857,
+               "lng" : -73.2452103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.2871405,
+                  "lng" : -71.5829256
+               },
+               "southwest" : {
+                  "lat" : -40.2044111,
+                  "lng" : -73.7052241
+               }
+            }
+         },
+         "place_id" : "ChIJEbA_cJYzFJYRcFmEiJT_i3c",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Ríos Region",
+               "short_name" : "Los Ríos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Ríos Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.2871405,
+                  "lng" : -71.5829256
+               },
+               "southwest" : {
+                  "lat" : -40.6819043,
+                  "lng" : -73.7253865
+               }
+            },
+            "location" : {
+               "lat" : -40.2310217,
+               "lng" : -72.331113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.2871405,
+                  "lng" : -71.5829256
+               },
+               "southwest" : {
+                  "lat" : -40.6819043,
+                  "lng" : -73.7253865
+               }
+            }
+         },
+         "place_id" : "ChIJWb_RpcmBFpYRjswu7I9LtWE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.4983291,
+                  "lng" : -66.3327
+               },
+               "southwest" : {
+                  "lat" : -56.1455,
+                  "lng" : -110.0281
+               }
+            },
+            "location" : {
+               "lat" : -35.675147,
+               "lng" : -71.542969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.4983291,
+                  "lng" : -66.3327
+               },
+               "southwest" : {
+                  "lat" : -56.1455,
+                  "lng" : -110.0281
+               }
+            }
+         },
+         "place_id" : "ChIJL68lBEHFYpYRHbkCERPhBQU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

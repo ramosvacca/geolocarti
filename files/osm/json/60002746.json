@@ -1,0 +1,583 @@
+{
+   "plus_code" : {
+      "compound_code" : "8VPW+79 Boston, MA, USA",
+      "global_code" : "87JC8VPW+79"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shattuck Street",
+               "short_name" : "Shattuck St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fenway/Kenmore",
+               "short_name" : "Fenway/Kenmore",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6007",
+               "short_name" : "6007",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "25 Shattuck St, Boston, MA 02115, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3356499,
+               "lng" : -71.10411570000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3369988802915,
+                  "lng" : -71.10276671970851
+               },
+               "southwest" : {
+                  "lat" : 42.3343009197085,
+                  "lng" : -71.10546468029152
+               }
+            }
+         },
+         "place_id" : "ChIJCyphZol544kR4YZpXdJrwMw",
+         "plus_code" : {
+            "compound_code" : "8VPW+79 Boston, Massachusetts, United States",
+            "global_code" : "87JC8VPW+79"
+         },
+         "types" : [ "establishment", "health", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gordon Hall",
+               "short_name" : "Gordon Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shattuck Street",
+               "short_name" : "Shattuck St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fenway/Kenmore",
+               "short_name" : "Fenway/Kenmore",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6027",
+               "short_name" : "6027",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Gordon Hall, 25 Shattuck St, Boston, MA 02115, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3358446,
+                  "lng" : -71.1038683
+               },
+               "southwest" : {
+                  "lat" : 42.3354524,
+                  "lng" : -71.1045661
+               }
+            },
+            "location" : {
+               "lat" : 42.3356451,
+               "lng" : -71.104215
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.33699748029151,
+                  "lng" : -71.1028682197085
+               },
+               "southwest" : {
+                  "lat" : 42.33429951970851,
+                  "lng" : -71.10556618029152
+               }
+            }
+         },
+         "place_id" : "ChIJJ2-ru45544kRDS2fyhNR_Qw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shattuck Street",
+               "short_name" : "Shattuck St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "25 Shattuck St, Boston, MA 02115, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3354799,
+               "lng" : -71.1043765
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3368288802915,
+                  "lng" : -71.1030275197085
+               },
+               "southwest" : {
+                  "lat" : 42.3341309197085,
+                  "lng" : -71.10572548029151
+               }
+            }
+         },
+         "place_id" : "EiUyNSBTaGF0dHVjayBTdCwgQm9zdG9uLCBNQSAwMjExNSwgVVNBIhoSGAoUChIJ7Zfavo5544kRRiTgfjx8FjUQGQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical Center Area",
+               "short_name" : "Medical Center Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medical Center Area, Boston, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.344478,
+                  "lng" : -71.09389589999999
+               },
+               "southwest" : {
+                  "lat" : 42.332897,
+                  "lng" : -71.11159599999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3376832,
+               "lng" : -71.1047446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.344478,
+                  "lng" : -71.09389589999999
+               },
+               "southwest" : {
+                  "lat" : 42.332897,
+                  "lng" : -71.11159599999999
+               }
+            }
+         },
+         "place_id" : "ChIJUbukgIt544kRy4IHkIJ0dIg",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boston, MA 02115, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3554169,
+                  "lng" : -71.08051689999999
+               },
+               "southwest" : {
+                  "lat" : 42.330787,
+                  "lng" : -71.11305609999999
+               }
+            },
+            "location" : {
+               "lat" : 42.339904,
+               "lng" : -71.0898892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3554169,
+                  "lng" : -71.08051689999999
+               },
+               "southwest" : {
+                  "lat" : 42.330787,
+                  "lng" : -71.11305609999999
+               }
+            }
+         },
+         "place_id" : "ChIJp6lIph9644kRmKYEWZO-Yno",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fenway/Kenmore",
+               "short_name" : "Fenway/Kenmore",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fenway/Kenmore, Boston, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3522779,
+                  "lng" : -71.0818948
+               },
+               "southwest" : {
+                  "lat" : 42.332897,
+                  "lng" : -71.11159599999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3428653,
+               "lng" : -71.1002881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3522779,
+                  "lng" : -71.0818948
+               },
+               "southwest" : {
+                  "lat" : 42.332897,
+                  "lng" : -71.11159599999999
+               }
+            }
+         },
+         "place_id" : "ChIJAfp8Lh5644kR9PDAZN8nEK8",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boston, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.40081989999999,
+                  "lng" : -70.749455
+               },
+               "southwest" : {
+                  "lat" : 42.22788,
+                  "lng" : -71.191113
+               }
+            },
+            "location" : {
+               "lat" : 42.3600825,
+               "lng" : -71.0588801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.40081989999999,
+                  "lng" : -70.749455
+               },
+               "southwest" : {
+                  "lat" : 42.22788,
+                  "lng" : -71.191113
+               }
+            }
+         },
+         "place_id" : "ChIJGzE9DS1l44kRoOhiASS_fHg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suffolk County, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4500959,
+                  "lng" : -70.648072
+               },
+               "southwest" : {
+                  "lat" : 42.22788,
+                  "lng" : -71.191113
+               }
+            },
+            "location" : {
+               "lat" : 42.3522866,
+               "lng" : -71.0504229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4500959,
+                  "lng" : -70.648072
+               },
+               "southwest" : {
+                  "lat" : 42.22788,
+                  "lng" : -71.191113
+               }
+            }
+         },
+         "place_id" : "ChIJ6TarW9Sc44kR4nUWuotzEyI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "Massachusetts",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            },
+            "location" : {
+               "lat" : 42.4072107,
+               "lng" : -71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.88679,
+                  "lng" : -69.85886099999999
+               },
+               "southwest" : {
+                  "lat" : 41.18705300000001,
+                  "lng" : -73.5081419
+               }
+            }
+         },
+         "place_id" : "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

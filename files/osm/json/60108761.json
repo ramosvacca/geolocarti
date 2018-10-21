@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "RH8F+24 Jiangdong, Ningbo, Zhejiang, China",
+      "global_code" : "7QX3RH8F+24"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xuefu Road",
+               "short_name" : "Xuefu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yinzhou Qu",
+               "short_name" : "Yinzhou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ningbo Shi",
+               "short_name" : "Ningbo Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang Sheng",
+               "short_name" : "Zhejiang Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "315000",
+               "short_name" : "315000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Xuefu Rd, Yinzhou Qu, Ningbo Shi, Zhejiang Sheng, China, 315000",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.815084,
+               "lng" : 121.572867
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8164329802915,
+                  "lng" : 121.5742159802915
+               },
+               "southwest" : {
+                  "lat" : 29.8137350197085,
+                  "lng" : 121.5715180197085
+               }
+            }
+         },
+         "place_id" : "ChIJ5bDTOVd8TTQRcowBqZoEiAk",
+         "plus_code" : {
+            "compound_code" : "RH8F+24 Jiangdong, Ningbo, Zhejiang, China",
+            "global_code" : "7QX3RH8F+24"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zijingang Road",
+               "short_name" : "Zijingang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yinzhou Qu",
+               "short_name" : "Yinzhou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ningbo Shi",
+               "short_name" : "Ningbo Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang Sheng",
+               "short_name" : "Zhejiang Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "315000",
+               "short_name" : "315000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zijingang Rd, Yinzhou Qu, Ningbo Shi, Zhejiang Sheng, China, 315000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.8153112,
+                  "lng" : 121.5732591
+               },
+               "southwest" : {
+                  "lat" : 29.8149839,
+                  "lng" : 121.5719037
+               }
+            },
+            "location" : {
+               "lat" : 29.8151476,
+               "lng" : 121.5725814
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8164965302915,
+                  "lng" : 121.5739303802915
+               },
+               "southwest" : {
+                  "lat" : 29.8137985697085,
+                  "lng" : 121.5712324197085
+               }
+            }
+         },
+         "place_id" : "ChIJy3AcOFd8TTQRSqI0341S_fo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "315000",
+               "short_name" : "315000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Haishu",
+               "short_name" : "Haishu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ningbo",
+               "short_name" : "Ningbo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haishu, Ningbo, Zhejiang, China, 315000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.9779798,
+                  "lng" : 121.6283099
+               },
+               "southwest" : {
+                  "lat" : 29.7633351,
+                  "lng" : 121.445618
+               }
+            },
+            "location" : {
+               "lat" : 29.8615902,
+               "lng" : 121.5513089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9779798,
+                  "lng" : 121.6283099
+               },
+               "southwest" : {
+                  "lat" : 29.7633351,
+                  "lng" : 121.445618
+               }
+            }
+         },
+         "place_id" : "ChIJIxCNf7F8TTQRERB9PthbwJM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yinzhou",
+               "short_name" : "Yinzhou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ningbo",
+               "short_name" : "Ningbo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yinzhou, Ningbo, Zhejiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.94970429999999,
+                  "lng" : 121.8953119
+               },
+               "southwest" : {
+                  "lat" : 29.61265869999999,
+                  "lng" : 121.1471308
+               }
+            },
+            "location" : {
+               "lat" : 29.81651,
+               "lng" : 121.546603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.94970429999999,
+                  "lng" : 121.8953119
+               },
+               "southwest" : {
+                  "lat" : 29.61265869999999,
+                  "lng" : 121.1471308
+               }
+            }
+         },
+         "place_id" : "ChIJOS5o8Fp5TTQREqaa-RZimjE",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ningbo",
+               "short_name" : "Ningbo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ningbo, Zhejiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4363516,
+                  "lng" : 122.2790166
+               },
+               "southwest" : {
+                  "lat" : 28.8532551,
+                  "lng" : 120.8670415
+               }
+            },
+            "location" : {
+               "lat" : 29.868336,
+               "lng" : 121.54399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4363516,
+                  "lng" : 122.2790166
+               },
+               "southwest" : {
+                  "lat" : 28.8532551,
+                  "lng" : 120.8670415
+               }
+            }
+         },
+         "place_id" : "ChIJ91gIY1RjTTQRc_HMRvgjh5Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhejiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1787819,
+                  "lng" : 122.9495085
+               },
+               "southwest" : {
+                  "lat" : 27.0413557,
+                  "lng" : 118.0282788
+               }
+            },
+            "location" : {
+               "lat" : 29.1416432,
+               "lng" : 119.7889248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1787819,
+                  "lng" : 122.9495085
+               },
+               "southwest" : {
+                  "lat" : 27.0413557,
+                  "lng" : 118.0282788
+               }
+            }
+         },
+         "place_id" : "ChIJv8wKpTQSSTQRt3wYNsVx74E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

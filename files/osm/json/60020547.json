@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "JM97+CC College Station, TX, USA",
+      "global_code" : "8625JM97+CC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bizzell Street",
+               "short_name" : "Bizzell St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "College Station",
+               "short_name" : "College Station",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazos County",
+               "short_name" : "Brazos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77843",
+               "short_name" : "77843",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "400 Bizzell St, College Station, TX 77843, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.618531,
+               "lng" : -96.33649899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6198799802915,
+                  "lng" : -96.33515001970848
+               },
+               "southwest" : {
+                  "lat" : 30.6171820197085,
+                  "lng" : -96.33784798029149
+               }
+            }
+         },
+         "place_id" : "ChIJAQDAM_eDRoYRyDvAuaS4R5c",
+         "plus_code" : {
+            "compound_code" : "JM97+CC College Station, Texas, United States",
+            "global_code" : "8625JM97+CC"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jack K. Williams Administration Building",
+               "short_name" : "Jack K. Williams Administration Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bizzell Street",
+               "short_name" : "Bizzell St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "College Station",
+               "short_name" : "College Station",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazos County",
+               "short_name" : "Brazos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77840",
+               "short_name" : "77840",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jack K. Williams Administration Building, 400 Bizzell St, College Station, TX 77840, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6190025,
+                  "lng" : -96.33615580000001
+               },
+               "southwest" : {
+                  "lat" : 30.6183895,
+                  "lng" : -96.3368
+               }
+            },
+            "location" : {
+               "lat" : 30.6187274,
+               "lng" : -96.3364411
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6200449802915,
+                  "lng" : -96.3351289197085
+               },
+               "southwest" : {
+                  "lat" : 30.6173470197085,
+                  "lng" : -96.33782688029152
+               }
+            }
+         },
+         "place_id" : "ChIJzbe4BJGDRoYRIbkh__8g8m8",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "College Station",
+               "short_name" : "College Station",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazos County",
+               "short_name" : "Brazos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77840",
+               "short_name" : "77840",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, College Station, TX 77840, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6187851,
+                  "lng" : -96.3364491
+               },
+               "southwest" : {
+                  "lat" : 30.61821699999999,
+                  "lng" : -96.3370154
+               }
+            },
+            "location" : {
+               "lat" : 30.618501,
+               "lng" : -96.3367322
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6198500302915,
+                  "lng" : -96.33538326970849
+               },
+               "southwest" : {
+                  "lat" : 30.6171520697085,
+                  "lng" : -96.33808123029151
+               }
+            }
+         },
+         "place_id" : "ChIJtYeJHJGDRoYRKKD2504PWHo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "77840",
+               "short_name" : "77840",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "College Station",
+               "short_name" : "College Station",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazos County",
+               "short_name" : "Brazos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "College Station, TX 77840, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.646253,
+                  "lng" : -96.28989
+               },
+               "southwest" : {
+                  "lat" : 30.577751,
+                  "lng" : -96.36497999999999
+               }
+            },
+            "location" : {
+               "lat" : 30.616559,
+               "lng" : -96.31197429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.646253,
+                  "lng" : -96.28989
+               },
+               "southwest" : {
+                  "lat" : 30.577751,
+                  "lng" : -96.36497999999999
+               }
+            }
+         },
+         "place_id" : "ChIJoTl6bYeDRoYRfF8ge8LRmPs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "College Station",
+               "short_name" : "College Station",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazos County",
+               "short_name" : "Brazos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "College Station, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.658246,
+                  "lng" : -96.19660309999999
+               },
+               "southwest" : {
+                  "lat" : 30.5234559,
+                  "lng" : -96.386719
+               }
+            },
+            "location" : {
+               "lat" : 30.627977,
+               "lng" : -96.3344068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.658246,
+                  "lng" : -96.19660309999999
+               },
+               "southwest" : {
+                  "lat" : 30.5234559,
+                  "lng" : -96.386719
+               }
+            }
+         },
+         "place_id" : "ChIJozxGGYaERoYRyWq_tk3Hack",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazos County",
+               "short_name" : "Brazos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazos County, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.973718,
+                  "lng" : -96.0799689
+               },
+               "southwest" : {
+                  "lat" : 30.3298319,
+                  "lng" : -96.6018538
+               }
+            },
+            "location" : {
+               "lat" : 30.6504141,
+               "lng" : -96.32260719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.973718,
+                  "lng" : -96.0799689
+               },
+               "southwest" : {
+                  "lat" : 30.3298319,
+                  "lng" : -96.6018538
+               }
+            }
+         },
+         "place_id" : "ChIJMRMDr4-PRoYRaxzx1RBnWGA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texas",
+               "short_name" : "Texas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            },
+            "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            }
+         },
+         "place_id" : "ChIJSTKCCzZwQIYRPN4IGI8c6xY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

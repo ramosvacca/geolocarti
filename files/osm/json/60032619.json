@@ -1,0 +1,452 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1030",
+               "short_name" : "1030",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue des Sciences Humaines",
+               "short_name" : "Avenue des Sciences Humaines",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cité-Universitaire",
+               "short_name" : "Cité-Universitaire",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sainte-Foy-Sillery-Cap-Rouge",
+               "short_name" : "Sainte-Foy-Sillery-Cap-Rouge",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "Québec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G1V",
+               "short_name" : "G1V",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "1030 Avenue des Sciences Humaines, Québec, QC G1V, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7814188,
+               "lng" : -71.27518140000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.78276778029149,
+                  "lng" : -71.27383241970851
+               },
+               "southwest" : {
+                  "lat" : 46.78006981970849,
+                  "lng" : -71.27653038029152
+               }
+            }
+         },
+         "place_id" : "EjoxMDMwIEF2ZW51ZSBkZXMgU2NpZW5jZXMgSHVtYWluZXMsIFF1w6liZWMsIFFDIEcxViwgQ2FuYWRhIhsSGQoUChIJZ4zZc8SWuEwR9dW4oOBpGyAQhgg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cité-Universitaire",
+               "short_name" : "Cité-Universitaire",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sainte-Foy-Sillery-Cap-Rouge",
+               "short_name" : "Sainte-Foy-Sillery-Cap-Rouge",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "Québec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cité-Universitaire, Québec, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7960052,
+                  "lng" : -71.25790359999999
+               },
+               "southwest" : {
+                  "lat" : 46.768337,
+                  "lng" : -71.313715
+               }
+            },
+            "location" : {
+               "lat" : 46.78418629999999,
+               "lng" : -71.2852597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7960052,
+                  "lng" : -71.25790359999999
+               },
+               "southwest" : {
+                  "lat" : 46.768337,
+                  "lng" : -71.313715
+               }
+            }
+         },
+         "place_id" : "ChIJncMR3NuWuEwR6KeuigbIK-c",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sainte-Foy",
+               "short_name" : "Sainte-Foy",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Quebec City",
+               "short_name" : "Quebec City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint-Augustin-de-Desmaures",
+               "short_name" : "Saint-Augustin-de-Desmaures",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sainte-Foy, Quebec City, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.830968,
+                  "lng" : -71.22643529999999
+               },
+               "southwest" : {
+                  "lat" : 46.7307989,
+                  "lng" : -71.49343499999999
+               }
+            },
+            "location" : {
+               "lat" : 46.78299579999999,
+               "lng" : -71.28606959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.830968,
+                  "lng" : -71.22643529999999
+               },
+               "southwest" : {
+                  "lat" : 46.7307989,
+                  "lng" : -71.49343499999999
+               }
+            }
+         },
+         "place_id" : "ChIJv2YDlc2WuEwR4OvYKjOEkHY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quebec City",
+               "short_name" : "Quebec City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec City, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9819379,
+                  "lng" : -71.13394
+               },
+               "southwest" : {
+                  "lat" : 46.7307989,
+                  "lng" : -71.54944499999999
+               }
+            },
+            "location" : {
+               "lat" : 46.8138783,
+               "lng" : -71.2079809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9819379,
+                  "lng" : -71.13394
+               },
+               "southwest" : {
+                  "lat" : 46.7307989,
+                  "lng" : -71.54944499999999
+               }
+            }
+         },
+         "place_id" : "ChIJk4jbBYqWuEwRAzro8GMtxY8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G1V",
+               "short_name" : "G1V",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Sainte-Foy",
+               "short_name" : "Sainte-Foy",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Quebec City",
+               "short_name" : "Quebec City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec City, QC G1V, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7957521,
+                  "lng" : -71.25786409999999
+               },
+               "southwest" : {
+                  "lat" : 46.7592261,
+                  "lng" : -71.310332
+               }
+            },
+            "location" : {
+               "lat" : 46.7752004,
+               "lng" : -71.29135850000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7957521,
+                  "lng" : -71.25786409999999
+               },
+               "southwest" : {
+                  "lat" : 46.7592261,
+                  "lng" : -71.310332
+               }
+            }
+         },
+         "place_id" : "ChIJlcjCPtCWuEwRVdzu2LhUEic",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Communauté-Urbaine-de-Québec, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9819379,
+                  "lng" : -71.13394
+               },
+               "southwest" : {
+                  "lat" : 46.7023439,
+                  "lng" : -71.6068131
+               }
+            },
+            "location" : {
+               "lat" : 46.82526439999999,
+               "lng" : -71.3803314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9819379,
+                  "lng" : -71.13394
+               },
+               "southwest" : {
+                  "lat" : 46.7023439,
+                  "lng" : -71.6068131
+               }
+            }
+         },
+         "place_id" : "ChIJnXX5onqYuEwRXldkq7QS3Io",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quebec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            },
+            "location" : {
+               "lat" : 52.9399159,
+               "lng" : -73.5491361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.600852,
+                  "lng" : -57.1054859
+               },
+               "southwest" : {
+                  "lat" : 44.9913581,
+                  "lng" : -79.77947379999999
+               }
+            }
+         },
+         "place_id" : "ChIJoajRnzS1WEwRIABNrq0MBAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70,
+                  "lng" : -50
+               },
+               "southwest" : {
+                  "lat" : 42,
+                  "lng" : -142
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

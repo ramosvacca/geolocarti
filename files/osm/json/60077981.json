@@ -1,0 +1,427 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saulėtekio alėja",
+               "short_name" : "Saulėtekio al.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus miesto savivaldybė",
+               "short_name" : "Vilniaus m. sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus apskritis",
+               "short_name" : "Vilniaus apskr.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10221",
+               "short_name" : "10221",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saulėtekio al. 11, Vilnius 10221, Lithuania",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.7224678,
+               "lng" : 25.3376688
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7238167802915,
+                  "lng" : 25.3390177802915
+               },
+               "southwest" : {
+                  "lat" : 54.7211188197085,
+                  "lng" : 25.3363198197085
+               }
+            }
+         },
+         "place_id" : "ChIJWyBGFeiW3UYRVmKXvXREyKU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antakalnis",
+               "short_name" : "Antakalnis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilnius city municipality",
+               "short_name" : "Vilnius city municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antakalnis, Vilnius, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.817671,
+                  "lng" : 25.4558149
+               },
+               "southwest" : {
+                  "lat" : 54.687058,
+                  "lng" : 25.291077
+               }
+            },
+            "location" : {
+               "lat" : 54.75865109999999,
+               "lng" : 25.3899172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.817671,
+                  "lng" : 25.4558149
+               },
+               "southwest" : {
+                  "lat" : 54.687058,
+                  "lng" : 25.291077
+               }
+            }
+         },
+         "place_id" : "ChIJex9p_Q2W3UYRUUJbKTaZjGI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilnius city municipality",
+               "short_name" : "Vilnius city municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vilnius, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.832544,
+                  "lng" : 25.4814883
+               },
+               "southwest" : {
+                  "lat" : 54.567798,
+                  "lng" : 25.024376
+               }
+            },
+            "location" : {
+               "lat" : 54.6871555,
+               "lng" : 25.2796514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.832544,
+                  "lng" : 25.4814883
+               },
+               "southwest" : {
+                  "lat" : 54.567798,
+                  "lng" : 25.024376
+               }
+            }
+         },
+         "place_id" : "ChIJ9QhkXPuT3UYRQNzpcIzRAAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10221",
+               "short_name" : "10221",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilnius city municipality",
+               "short_name" : "Vilnius city municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vilnius 10221, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7239209,
+                  "lng" : 25.3465839
+               },
+               "southwest" : {
+                  "lat" : 54.7121296,
+                  "lng" : 25.316366
+               }
+            },
+            "location" : {
+               "lat" : 54.7207215,
+               "lng" : 25.332871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7239209,
+                  "lng" : 25.3465839
+               },
+               "southwest" : {
+                  "lat" : 54.7121296,
+                  "lng" : 25.316366
+               }
+            }
+         },
+         "place_id" : "ChIJH6dS2OyW3UYR0hcrLozRABM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antakalnio seniūnija",
+               "short_name" : "Antakalnio sen.",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus miesto savivaldybė",
+               "short_name" : "Vilniaus m. sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus apskritis",
+               "short_name" : "Vilniaus apskr.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antakalnio sen., Vilnius, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.82614299999999,
+                  "lng" : 25.4563629
+               },
+               "southwest" : {
+                  "lat" : 54.6879642,
+                  "lng" : 25.2914089
+               }
+            },
+            "location" : {
+               "lat" : 54.75865109999999,
+               "lng" : 25.3899172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.82614299999999,
+                  "lng" : 25.4563629
+               },
+               "southwest" : {
+                  "lat" : 54.6879642,
+                  "lng" : 25.2914089
+               }
+            }
+         },
+         "place_id" : "ChIJm40PemmX3UYRNWwn20YgDxA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vilnius city municipality",
+               "short_name" : "Vilnius city municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vilnius city municipality, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.832544,
+                  "lng" : 25.4814883
+               },
+               "southwest" : {
+                  "lat" : 54.567798,
+                  "lng" : 25.024376
+               }
+            },
+            "location" : {
+               "lat" : 54.6759715,
+               "lng" : 25.2867414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.832544,
+                  "lng" : 25.4814883
+               },
+               "southwest" : {
+                  "lat" : 54.567798,
+                  "lng" : 25.024376
+               }
+            }
+         },
+         "place_id" : "ChIJ7epZQvuT3UYRg4dk0tyVXHU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vilnius County, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5174369,
+                  "lng" : 26.760213
+               },
+               "southwest" : {
+                  "lat" : 54.1276599,
+                  "lng" : 24.386375
+               }
+            },
+            "location" : {
+               "lat" : 54.8086502,
+               "lng" : 25.2182139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5174369,
+                  "lng" : 26.760213
+               },
+               "southwest" : {
+                  "lat" : 54.1276599,
+                  "lng" : 24.386375
+               }
+            }
+         },
+         "place_id" : "ChIJH4KkkAKi3UYRsNjpcIzRAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.45032089999999,
+                  "lng" : 26.835523
+               },
+               "southwest" : {
+                  "lat" : 53.8967949,
+                  "lng" : 20.931
+               }
+            },
+            "location" : {
+               "lat" : 55.169438,
+               "lng" : 23.881275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.45032089999999,
+                  "lng" : 26.835523
+               },
+               "southwest" : {
+                  "lat" : 53.8967949,
+                  "lng" : 20.931
+               }
+            }
+         },
+         "place_id" : "ChIJE74zDxSU3UYRubpdpdNUCvM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

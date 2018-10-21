@@ -1,0 +1,457 @@
+{
+   "plus_code" : {
+      "compound_code" : "FRJG+GG Menlo Park, CA, USA",
+      "global_code" : "849VFRJG+GG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "149",
+               "short_name" : "149",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Commonwealth Drive",
+               "short_name" : "Commonwealth Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Menlo Park",
+               "short_name" : "Menlo Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Mateo County",
+               "short_name" : "San Mateo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94025",
+               "short_name" : "94025",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1133",
+               "short_name" : "1133",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "149 Commonwealth Dr, Menlo Park, CA 94025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4812888,
+               "lng" : -122.173721
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4826377802915,
+                  "lng" : -122.1723720197085
+               },
+               "southwest" : {
+                  "lat" : 37.47993981970851,
+                  "lng" : -122.1750699802915
+               }
+            }
+         },
+         "place_id" : "ChIJPfWj2rS8j4ARQlzgOmdMrTU",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "149",
+               "short_name" : "149",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Commonwealth Drive",
+               "short_name" : "Commonwealth Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Menlo Park",
+               "short_name" : "Menlo Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Mateo County",
+               "short_name" : "San Mateo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94025",
+               "short_name" : "94025",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1133",
+               "short_name" : "1133",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "149 Commonwealth Dr, Menlo Park, CA 94025, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4816307,
+                  "lng" : -122.1732391
+               },
+               "southwest" : {
+                  "lat" : 37.480581,
+                  "lng" : -122.1745652
+               }
+            },
+            "location" : {
+               "lat" : 37.4812387,
+               "lng" : -122.1738067
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.48245483029149,
+                  "lng" : -122.1725531697085
+               },
+               "southwest" : {
+                  "lat" : 37.4797568697085,
+                  "lng" : -122.1752511302915
+               }
+            }
+         },
+         "place_id" : "ChIJwWf12rS8j4ARqpUK9jQWLTw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Menlo Park",
+               "short_name" : "Menlo Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Mateo County",
+               "short_name" : "San Mateo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94025",
+               "short_name" : "94025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Menlo Park, CA 94025, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4817647,
+                  "lng" : -122.172926
+               },
+               "southwest" : {
+                  "lat" : 37.4812903,
+                  "lng" : -122.174083
+               }
+            },
+            "location" : {
+               "lat" : 37.4815275,
+               "lng" : -122.1735045
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.48287648029149,
+                  "lng" : -122.1721555197085
+               },
+               "southwest" : {
+                  "lat" : 37.4801785197085,
+                  "lng" : -122.1748534802915
+               }
+            }
+         },
+         "place_id" : "ChIJhffQ3rS8j4ARMjJ1YDyLsTs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Menlo Park",
+               "short_name" : "Menlo Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Mateo County",
+               "short_name" : "San Mateo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Menlo Park, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.53433589999999,
+                  "lng" : -122.081473
+               },
+               "southwest" : {
+                  "lat" : 37.418539,
+                  "lng" : -122.228677
+               }
+            },
+            "location" : {
+               "lat" : 37.4529598,
+               "lng" : -122.1817252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.53433589999999,
+                  "lng" : -122.081473
+               },
+               "southwest" : {
+                  "lat" : 37.418539,
+                  "lng" : -122.228677
+               }
+            }
+         },
+         "place_id" : "ChIJ_4ByEbGmj4ARq4nyXY6Zv-s",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94025",
+               "short_name" : "94025",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "West Menlo Park",
+               "short_name" : "West Menlo Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Mateo County",
+               "short_name" : "San Mateo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Menlo Park, CA 94025, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5079439,
+                  "lng" : -122.1213449
+               },
+               "southwest" : {
+                  "lat" : 37.414466,
+                  "lng" : -122.2291331
+               }
+            },
+            "location" : {
+               "lat" : 37.4484914,
+               "lng" : -122.1802812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5079439,
+                  "lng" : -122.1213449
+               },
+               "southwest" : {
+                  "lat" : 37.414466,
+                  "lng" : -122.2291331
+               }
+            }
+         },
+         "place_id" : "ChIJNREEB6ykj4ARQSDDhLXB1nw",
+         "postcode_localities" : [ "Menlo Park", "West Menlo Park" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Mateo County",
+               "short_name" : "San Mateo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Mateo County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7084311,
+                  "lng" : -122.081473
+               },
+               "southwest" : {
+                  "lat" : 37.0538579,
+                  "lng" : -122.588177
+               }
+            },
+            "location" : {
+               "lat" : 37.4337342,
+               "lng" : -122.4014193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7084311,
+                  "lng" : -122.081473
+               },
+               "southwest" : {
+                  "lat" : 37.0538579,
+                  "lng" : -122.588177
+               }
+            }
+         },
+         "place_id" : "ChIJiUYt5gF4j4AR3OQX5ii4s1c",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

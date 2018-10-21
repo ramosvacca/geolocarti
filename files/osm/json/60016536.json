@@ -1,0 +1,454 @@
+{
+   "plus_code" : {
+      "compound_code" : "4F83+PH Houghton, MI, USA",
+      "global_code" : "86VH4F83+PH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1400",
+               "short_name" : "1400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Townsend Drive",
+               "short_name" : "Townsend Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Houghton",
+               "short_name" : "Houghton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houghton County",
+               "short_name" : "Houghton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49931",
+               "short_name" : "49931",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1295",
+               "short_name" : "1295",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1400 Townsend Dr, Houghton, MI 49931, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.11677479999999,
+               "lng" : -88.54602179999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1181237802915,
+                  "lng" : -88.54467281970848
+               },
+               "southwest" : {
+                  "lat" : 47.1154258197085,
+                  "lng" : -88.54737078029149
+               }
+            }
+         },
+         "place_id" : "ChIJgXWA0hDIUE0R1RrWV5TK14A",
+         "plus_code" : {
+            "compound_code" : "4F83+PH Houghton, Michigan, United States",
+            "global_code" : "86VH4F83+PH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1421",
+               "short_name" : "1421",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Woodland Road",
+               "short_name" : "Woodland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Houghton",
+               "short_name" : "Houghton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houghton County",
+               "short_name" : "Houghton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49931",
+               "short_name" : "49931",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1103",
+               "short_name" : "1103",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1421 Woodland Rd, Houghton, MI 49931, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.116885,
+               "lng" : -88.54638709999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.11823398029151,
+                  "lng" : -88.54503811970848
+               },
+               "southwest" : {
+                  "lat" : 47.11553601970851,
+                  "lng" : -88.54773608029149
+               }
+            }
+         },
+         "place_id" : "ChIJO-4AfBfIUE0Rc6T3XCisOwE",
+         "plus_code" : {
+            "compound_code" : "4F83+QC Houghton, Michigan, United States",
+            "global_code" : "86VH4F83+QC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1295",
+               "short_name" : "1295",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Woodland Road",
+               "short_name" : "Woodland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Houghton",
+               "short_name" : "Houghton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49931",
+               "short_name" : "49931",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1103",
+               "short_name" : "1103",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1295 Woodland Rd, Houghton, MI 49931, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.1169454,
+               "lng" : -88.5459329
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1182943802915,
+                  "lng" : -88.5445839197085
+               },
+               "southwest" : {
+                  "lat" : 47.1155964197085,
+                  "lng" : -88.54728188029151
+               }
+            }
+         },
+         "place_id" : "EikxMjk1IFdvb2RsYW5kIFJkLCBIb3VnaHRvbiwgTUkgNDk5MzEsIFVTQSIbEhkKFAoSCTHHn34XyFBNEUgZZdi6tUl1EI8K",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Houghton",
+               "short_name" : "Houghton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houghton County",
+               "short_name" : "Houghton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49931",
+               "short_name" : "49931",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Houghton, MI 49931, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1243489,
+                  "lng" : -88.511652
+               },
+               "southwest" : {
+                  "lat" : 47.0979108,
+                  "lng" : -88.611693
+               }
+            },
+            "location" : {
+               "lat" : 47.12113309999999,
+               "lng" : -88.5694182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1243489,
+                  "lng" : -88.511652
+               },
+               "southwest" : {
+                  "lat" : 47.0979108,
+                  "lng" : -88.611693
+               }
+            }
+         },
+         "place_id" : "ChIJhS223DDIUE0Rfe8EzM7Lcr4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "49931",
+               "short_name" : "49931",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Houghton",
+               "short_name" : "Houghton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houghton County",
+               "short_name" : "Houghton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Houghton, MI 49931, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2323529,
+                  "lng" : -88.502652
+               },
+               "southwest" : {
+                  "lat" : 47.0248119,
+                  "lng" : -88.6909009
+               }
+            },
+            "location" : {
+               "lat" : 47.0979653,
+               "lng" : -88.5606025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2323529,
+                  "lng" : -88.502652
+               },
+               "southwest" : {
+                  "lat" : 47.0248119,
+                  "lng" : -88.6909009
+               }
+            }
+         },
+         "place_id" : "ChIJD3v0q-m1UE0RgQMXpgFgDgY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Houghton County",
+               "short_name" : "Houghton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Houghton County, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.47714490000001,
+                  "lng" : -88.0437309
+               },
+               "southwest" : {
+                  "lat" : 46.419643,
+                  "lng" : -88.9915489
+               }
+            },
+            "location" : {
+               "lat" : 47.1211215,
+               "lng" : -88.5694012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.47714490000001,
+                  "lng" : -88.0437309
+               },
+               "southwest" : {
+                  "lat" : 46.419643,
+                  "lng" : -88.9915489
+               }
+            }
+         },
+         "place_id" : "ChIJTfO5_mQ7UU0RWG667XtdKyc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Michigan",
+               "short_name" : "Michigan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Michigan, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            },
+            "location" : {
+               "lat" : 44.3148443,
+               "lng" : -85.60236429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -82.1229709
+               },
+               "southwest" : {
+                  "lat" : 41.696118,
+                  "lng" : -90.4181358
+               }
+            }
+         },
+         "place_id" : "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

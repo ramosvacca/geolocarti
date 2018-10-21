@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "3R8M+P5 Los Angeles, CA, USA",
+      "global_code" : "85633R8M+P5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5151",
+               "short_name" : "5151",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "State University Drive",
+               "short_name" : "State University Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northeast Los Angeles",
+               "short_name" : "Northeast Los Angeles",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90032",
+               "short_name" : "90032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5151 State University Dr, Los Angeles, CA 90032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0667803,
+               "lng" : -118.1670662
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.06812928029149,
+                  "lng" : -118.1657172197085
+               },
+               "southwest" : {
+                  "lat" : 34.06543131970849,
+                  "lng" : -118.1684151802915
+               }
+            }
+         },
+         "place_id" : "ChIJWV2aEZjFwoARXlatgeRcSto",
+         "plus_code" : {
+            "compound_code" : "3R8M+P5 Los Angeles, California, United States",
+            "global_code" : "85633R8M+P5"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northeast Los Angeles",
+               "short_name" : "Northeast Los Angeles",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90032",
+               "short_name" : "90032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Los Angeles, CA 90032, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0668881,
+                  "lng" : -118.1669422
+               },
+               "southwest" : {
+                  "lat" : 34.0667348,
+                  "lng" : -118.1679437
+               }
+            },
+            "location" : {
+               "lat" : 34.0668115,
+               "lng" : -118.167443
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0681604302915,
+                  "lng" : -118.1660939697085
+               },
+               "southwest" : {
+                  "lat" : 34.0654624697085,
+                  "lng" : -118.1687919302915
+               }
+            }
+         },
+         "place_id" : "ChIJnwrye6LFwoARzoC0ZII7oU0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "90032",
+               "short_name" : "90032",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles, CA 90032, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1019209,
+                  "lng" : -118.15529
+               },
+               "southwest" : {
+                  "lat" : 34.060632,
+                  "lng" : -118.202841
+               }
+            },
+            "location" : {
+               "lat" : 34.0795169,
+               "lng" : -118.1766294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1019209,
+                  "lng" : -118.15529
+               },
+               "southwest" : {
+                  "lat" : 34.060632,
+                  "lng" : -118.202841
+               }
+            }
+         },
+         "place_id" : "ChIJifaGGLTFwoARHMa_zIr84o8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northeast Los Angeles",
+               "short_name" : "Northeast Los Angeles",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northeast Los Angeles, Los Angeles, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1515071,
+                  "lng" : -118.1503039
+               },
+               "southwest" : {
+                  "lat" : 34.0542109,
+                  "lng" : -118.2797141
+               }
+            },
+            "location" : {
+               "lat" : 34.105186,
+               "lng" : -118.2175744
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1515071,
+                  "lng" : -118.1503039
+               },
+               "southwest" : {
+                  "lat" : 34.0542109,
+                  "lng" : -118.2797141
+               }
+            }
+         },
+         "place_id" : "ChIJrSGF3LrGwoARIjminEcj03o",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3373061,
+                  "lng" : -118.1552891
+               },
+               "southwest" : {
+                  "lat" : 33.7036519,
+                  "lng" : -118.6681759
+               }
+            },
+            "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3373061,
+                  "lng" : -118.1552891
+               },
+               "southwest" : {
+                  "lat" : 33.7036519,
+                  "lng" : -118.6681759
+               }
+            }
+         },
+         "place_id" : "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            },
+            "location" : {
+               "lat" : 34.0522265,
+               "lng" : -118.2436596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            }
+         },
+         "place_id" : "ChIJMc1kAdMq3YARKjm9z9YofYM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

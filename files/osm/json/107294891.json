@@ -1,0 +1,474 @@
+{
+   "plus_code" : {
+      "compound_code" : "3G9Q+WV Botucatu, SP, Brazil",
+      "global_code" : "589H3G9Q+WV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jardim Aeroporto",
+               "short_name" : "Jardim Aeroporto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18606-851",
+               "short_name" : "18606-851",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. José Ítalo Bacchi, s/n - Jardim Aeroporto, Botucatu - SP, 18606-851, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.9302344,
+               "lng" : -48.4602885
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9288854197085,
+                  "lng" : -48.45893951970849
+               },
+               "southwest" : {
+                  "lat" : -22.9315833802915,
+                  "lng" : -48.46163748029149
+               }
+            }
+         },
+         "place_id" : "ChIJN2-O23vfxpQRp1LTLZiRidk",
+         "plus_code" : {
+            "compound_code" : "3G9Q+WV Botucatu, State of São Paulo, Brazil",
+            "global_code" : "589H3G9Q+WV"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Estrada Municipal do Rio Pardo",
+               "short_name" : "Estr. Mun. do Rio Pardo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Estr. Mun. do Rio Pardo, 2, Botucatu - SP, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.9305227,
+               "lng" : -48.4599995
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9291737197085,
+                  "lng" : -48.45865051970851
+               },
+               "southwest" : {
+                  "lat" : -22.9318716802915,
+                  "lng" : -48.46134848029151
+               }
+            }
+         },
+         "place_id" : "EjFFc3RyLiBNdW4uIGRvIFJpbyBQYXJkbywgMiwgQm90dWNhdHUgLSBTUCwgQnJhc2lsIhoSGAoUChIJgZyVS93expQR_mNTpn4jkOQQAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "18606-855",
+               "short_name" : "18606-855",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Avenida Alcides Cagliari",
+               "short_name" : "Av. Alcides Cagliari",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Aeroporto",
+               "short_name" : "Jardim Aeroporto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. Alcides Cagliari - Jardim Aeroporto, Botucatu - SP, 18606-855, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.9212786,
+                  "lng" : -48.4524936
+               },
+               "southwest" : {
+                  "lat" : -22.9341755,
+                  "lng" : -48.4699803
+               }
+            },
+            "location" : {
+               "lat" : -22.9290521,
+               "lng" : -48.45603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9212786,
+                  "lng" : -48.4524936
+               },
+               "southwest" : {
+                  "lat" : -22.9341755,
+                  "lng" : -48.4699803
+               }
+            }
+         },
+         "place_id" : "ChIJiUGxNebexpQRWAbxIvc4y1o",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Parque",
+               "short_name" : "Central Parque",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18605",
+               "short_name" : "18605",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Central Parque, Botucatu - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.9139037,
+                  "lng" : -48.449641
+               },
+               "southwest" : {
+                  "lat" : -22.9328887,
+                  "lng" : -48.4691065
+               }
+            },
+            "location" : {
+               "lat" : -22.9175145,
+               "lng" : -48.4570753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9139037,
+                  "lng" : -48.449641
+               },
+               "southwest" : {
+                  "lat" : -22.9328887,
+                  "lng" : -48.4691065
+               }
+            }
+         },
+         "place_id" : "ChIJ0dDez9_expQRJBiD37tHlo0",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "18605",
+               "short_name" : "18605",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Botucatu - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.9065456,
+                  "lng" : -48.4293725
+               },
+               "southwest" : {
+                  "lat" : -22.9512141,
+                  "lng" : -48.4740361
+               }
+            },
+            "location" : {
+               "lat" : -22.9245506,
+               "lng" : -48.4537424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9065456,
+                  "lng" : -48.4293725
+               },
+               "southwest" : {
+                  "lat" : -22.9512141,
+                  "lng" : -48.4740361
+               }
+            }
+         },
+         "place_id" : "ChIJ_2Oofe_expQRv9dKBiF6q9c",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Botucatu, SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5950398,
+                  "lng" : -48.2396231
+               },
+               "southwest" : {
+                  "lat" : -23.0812683,
+                  "lng" : -48.8516552
+               }
+            },
+            "location" : {
+               "lat" : -22.8841808,
+               "lng" : -48.4441654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5950398,
+                  "lng" : -48.2396231
+               },
+               "southwest" : {
+                  "lat" : -23.0812683,
+                  "lng" : -48.8516552
+               }
+            }
+         },
+         "place_id" : "ChIJK1hO3Q4mx5QRm9H4aEHnj3k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Botucatu - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5953158,
+                  "lng" : -48.2396385
+               },
+               "southwest" : {
+                  "lat" : -23.0818815,
+                  "lng" : -48.852213
+               }
+            },
+            "location" : {
+               "lat" : -22.8371835,
+               "lng" : -48.4387577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5953158,
+                  "lng" : -48.2396385
+               },
+               "southwest" : {
+                  "lat" : -23.0818815,
+                  "lng" : -48.852213
+               }
+            }
+         },
+         "place_id" : "ChIJ1bheTXrfxpQRs48lGj__-ao",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "State of São Paulo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            },
+            "location" : {
+               "lat" : -23.5431786,
+               "lng" : -46.6291845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            }
+         },
+         "place_id" : "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

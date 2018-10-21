@@ -1,0 +1,540 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida do Brasil",
+               "short_name" : "Av. do Brasil",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lisboa",
+               "short_name" : "Lisboa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisboa",
+               "short_name" : "Lisboa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1700-066",
+               "short_name" : "1700-066",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1700",
+               "short_name" : "1700",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Av. do Brasil 101, 1700-066 Lisboa, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.7586358,
+               "lng" : -9.141375699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7599847802915,
+                  "lng" : -9.140026719708498
+               },
+               "southwest" : {
+                  "lat" : 38.7572868197085,
+                  "lng" : -9.142724680291503
+               }
+            }
+         },
+         "place_id" : "ChIJYe0QMFQyGQ0RLwUeF02J9Ys",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lisbon, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7958538,
+                  "lng" : -9.090570899999999
+               },
+               "southwest" : {
+                  "lat" : 38.6913994,
+                  "lng" : -9.229835599999999
+               }
+            },
+            "location" : {
+               "lat" : 38.7222524,
+               "lng" : -9.1393366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7958538,
+                  "lng" : -9.090570899999999
+               },
+               "southwest" : {
+                  "lat" : 38.6913994,
+                  "lng" : -9.229835599999999
+               }
+            }
+         },
+         "place_id" : "ChIJO_PkYRozGQ0R0DaQ5L3rAAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1700-066",
+               "short_name" : "1700-066",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São João de Brito",
+               "short_name" : "São João de Brito",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1700-066 Lisbon, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7600325,
+                  "lng" : -9.138697199999999
+               },
+               "southwest" : {
+                  "lat" : 38.757328,
+                  "lng" : -9.1428479
+               }
+            },
+            "location" : {
+               "lat" : 38.758608,
+               "lng" : -9.139833099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7600325,
+                  "lng" : -9.138697199999999
+               },
+               "southwest" : {
+                  "lat" : 38.757328,
+                  "lng" : -9.1428479
+               }
+            }
+         },
+         "place_id" : "ChIJlZ4Li1MyGQ0Ra2KFcZrMaUY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São João de Brito",
+               "short_name" : "São João de Brito",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São João de Brito, Lisbon, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7631874,
+                  "lng" : -9.1280872
+               },
+               "southwest" : {
+                  "lat" : 38.7486896,
+                  "lng" : -9.150048099999999
+               }
+            },
+            "location" : {
+               "lat" : 38.757654,
+               "lng" : -9.137313599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7631874,
+                  "lng" : -9.1280872
+               },
+               "southwest" : {
+                  "lat" : 38.7486896,
+                  "lng" : -9.150048099999999
+               }
+            }
+         },
+         "place_id" : "ChIJCWT0XFMyGQ0RQEOQ5L3rAAU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1700-111",
+               "short_name" : "1700-111",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olivais",
+               "short_name" : "Olivais",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1700-111 Lisbon, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7870843,
+                  "lng" : -9.123906399999999
+               },
+               "southwest" : {
+                  "lat" : 38.754406,
+                  "lng" : -9.148394699999999
+               }
+            },
+            "location" : {
+               "lat" : 38.7661892,
+               "lng" : -9.129148599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7870843,
+                  "lng" : -9.123906399999999
+               },
+               "southwest" : {
+                  "lat" : 38.754406,
+                  "lng" : -9.148394699999999
+               }
+            }
+         },
+         "place_id" : "ChIJS-qk_0UyGQ0RN3v7SZnU9D8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1700",
+               "short_name" : "1700",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1700 Lisbon, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7870843,
+                  "lng" : -9.123906399999999
+               },
+               "southwest" : {
+                  "lat" : 38.7448641,
+                  "lng" : -9.156755
+               }
+            },
+            "location" : {
+               "lat" : 38.7600325,
+               "lng" : -9.1400807
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7870843,
+                  "lng" : -9.123906399999999
+               },
+               "southwest" : {
+                  "lat" : 38.7448641,
+                  "lng" : -9.156755
+               }
+            }
+         },
+         "place_id" : "ChIJdVtq_1kyGQ0RYKU7DsHrABw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lisbon, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7958538,
+                  "lng" : -9.090570899999999
+               },
+               "southwest" : {
+                  "lat" : 38.6913994,
+                  "lng" : -9.229835599999999
+               }
+            },
+            "location" : {
+               "lat" : 38.7222986,
+               "lng" : -9.1393188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7958538,
+                  "lng" : -9.090570899999999
+               },
+               "southwest" : {
+                  "lat" : 38.6913994,
+                  "lng" : -9.229835599999999
+               }
+            }
+         },
+         "place_id" : "ChIJMabWPRAzGQ0RRFqNEqmj6AI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lisbon, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3177286,
+                  "lng" : -8.781860999999999
+               },
+               "southwest" : {
+                  "lat" : 38.6731469,
+                  "lng" : -9.500526599999999
+               }
+            },
+            "location" : {
+               "lat" : 38.7223263,
+               "lng" : -9.1392714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3177286,
+                  "lng" : -8.781860999999999
+               },
+               "southwest" : {
+                  "lat" : 38.6731469,
+                  "lng" : -9.500526599999999
+               }
+            }
+         },
+         "place_id" : "ChIJWxIr4ajVGA0RwCyQ5L3rAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisbon Metropolitan Area",
+               "short_name" : "Lisbon Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lisbon Metropolitan Area, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0647183,
+                  "lng" : -8.4909721
+               },
+               "southwest" : {
+                  "lat" : 38.4090745,
+                  "lng" : -9.500526599999999
+               }
+            },
+            "location" : {
+               "lat" : 38.6850433,
+               "lng" : -8.968701099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0647183,
+                  "lng" : -8.4909721
+               },
+               "southwest" : {
+                  "lat" : 38.4090745,
+                  "lng" : -9.500526599999999
+               }
+            }
+         },
+         "place_id" : "ChIJZywMXwjNHg0RXQpSRrmHWuk",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            },
+            "location" : {
+               "lat" : 39.39987199999999,
+               "lng" : -8.224454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            }
+         },
+         "place_id" : "ChIJ1SZCvy0kMgsRQfBOHAlLuCo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

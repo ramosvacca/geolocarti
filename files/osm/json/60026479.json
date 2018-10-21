@@ -1,0 +1,495 @@
+{
+   "plus_code" : {
+      "compound_code" : "PFP7+VW Exeter, UK",
+      "global_code" : "9C2RPFP7+VW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Park Road",
+               "short_name" : "N Park Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX4",
+               "short_name" : "EX4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "N Park Rd, Exeter EX4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7369882,
+                  "lng" : -3.5337305
+               },
+               "southwest" : {
+                  "lat" : 50.73659139999999,
+                  "lng" : -3.5343597
+               }
+            },
+            "location" : {
+               "lat" : 50.7367898,
+               "lng" : -3.5340451
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.73813878029149,
+                  "lng" : -3.532696119708498
+               },
+               "southwest" : {
+                  "lat" : 50.73544081970849,
+                  "lng" : -3.535394080291502
+               }
+            }
+         },
+         "place_id" : "ChIJBaOGT0SkbUgRUOTgmYt2_OY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "EX4 4QD",
+               "short_name" : "EX4 4QD",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter EX4 4QD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7375839,
+                  "lng" : -3.5335711
+               },
+               "southwest" : {
+                  "lat" : 50.7360836,
+                  "lng" : -3.5354282
+               }
+            },
+            "location" : {
+               "lat" : 50.7366138,
+               "lng" : -3.5349535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7381827302915,
+                  "lng" : -3.533150669708498
+               },
+               "southwest" : {
+                  "lat" : 50.7354847697085,
+                  "lng" : -3.535848630291501
+               }
+            }
+         },
+         "place_id" : "ChIJJ8BktEWkbUgRkkJJPGptqZM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.4510893
+               },
+               "southwest" : {
+                  "lat" : 50.6731789,
+                  "lng" : -3.570203
+               }
+            },
+            "location" : {
+               "lat" : 50.7184284,
+               "lng" : -3.5339152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.4510893
+               },
+               "southwest" : {
+                  "lat" : 50.6731789,
+                  "lng" : -3.570203
+               }
+            }
+         },
+         "place_id" : "ChIJ_ehP1ASkbUgR0HLsoi2uDgQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.456359
+               },
+               "southwest" : {
+                  "lat" : 50.6873915,
+                  "lng" : -3.570736
+               }
+            },
+            "location" : {
+               "lat" : 50.718412,
+               "lng" : -3.533899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.456359
+               },
+               "southwest" : {
+                  "lat" : 50.6873915,
+                  "lng" : -3.570736
+               }
+            }
+         },
+         "place_id" : "ChIJp41J1MRSbEgRHq3fayXjdqk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "EX4",
+               "short_name" : "EX4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter EX4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7809956,
+                  "lng" : -3.4517904
+               },
+               "southwest" : {
+                  "lat" : 50.7114572,
+                  "lng" : -3.6657238
+               }
+            },
+            "location" : {
+               "lat" : 50.7378266,
+               "lng" : -3.6116528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7809956,
+                  "lng" : -3.4517904
+               },
+               "southwest" : {
+                  "lat" : 50.7114572,
+                  "lng" : -3.6657238
+               }
+            }
+         },
+         "place_id" : "ChIJbccKEQWjbUgRz5zfC9v_EQM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8626577,
+                  "lng" : -3.2958651
+               },
+               "southwest" : {
+                  "lat" : 50.60306569999999,
+                  "lng" : -3.8579609
+               }
+            },
+            "location" : {
+               "lat" : 50.7529939,
+               "lng" : -3.4540938
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8626577,
+                  "lng" : -3.2958651
+               },
+               "southwest" : {
+                  "lat" : 50.60306569999999,
+                  "lng" : -3.8579609
+               }
+            }
+         },
+         "place_id" : "ChIJvQ4uzJWlbUgRdJ08RQtXJ7w",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2468387,
+                  "lng" : -2.8866406
+               },
+               "southwest" : {
+                  "lat" : 50.2014644,
+                  "lng" : -4.6806563
+               }
+            },
+            "location" : {
+               "lat" : 50.7155591,
+               "lng" : -3.530875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2468387,
+                  "lng" : -2.8866406
+               },
+               "southwest" : {
+                  "lat" : 50.2014644,
+                  "lng" : -4.6806563
+               }
+            }
+         },
+         "place_id" : "ChIJRwLA2qv4a0gR_Vicygy6xhI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

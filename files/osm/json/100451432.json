@@ -1,0 +1,387 @@
+{
+   "plus_code" : {
+      "compound_code" : "5Q9Q+CM Port Hueneme, CA, USA",
+      "global_code" : "85625Q9Q+CM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "130",
+               "short_name" : "130",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "23rd Avenue",
+               "short_name" : "23rd Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Port Hueneme",
+               "short_name" : "Port Hueneme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93043",
+               "short_name" : "93043",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4404",
+               "short_name" : "4404",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "130 23rd Ave, Port Hueneme, CA 93043, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1685942,
+               "lng" : -119.2108703
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1699431802915,
+                  "lng" : -119.2095213197085
+               },
+               "southwest" : {
+                  "lat" : 34.16724521970851,
+                  "lng" : -119.2122192802915
+               }
+            }
+         },
+         "place_id" : "ChIJx5Ao2j9O6IAR4ru1kw7RZGM",
+         "plus_code" : {
+            "compound_code" : "5Q9Q+CM Port Hueneme, California, United States",
+            "global_code" : "85625Q9Q+CM"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23rd Avenue",
+               "short_name" : "23rd Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Port Hueneme",
+               "short_name" : "Port Hueneme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93043",
+               "short_name" : "93043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "23rd Ave, Port Hueneme, CA 93043, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1685048,
+                  "lng" : -119.2106526
+               },
+               "southwest" : {
+                  "lat" : 34.1685038,
+                  "lng" : -119.2110949
+               }
+            },
+            "location" : {
+               "lat" : 34.1685043,
+               "lng" : -119.2108738
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1698532802915,
+                  "lng" : -119.2095247697085
+               },
+               "southwest" : {
+                  "lat" : 34.1671553197085,
+                  "lng" : -119.2122227302915
+               }
+            }
+         },
+         "place_id" : "ChIJuZAo2j9O6IARpgn3niIJiAQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93043",
+               "short_name" : "93043",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Port Hueneme",
+               "short_name" : "Port Hueneme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Hueneme, CA 93043, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1757348,
+                  "lng" : -119.1950999
+               },
+               "southwest" : {
+                  "lat" : 34.148693,
+                  "lng" : -119.215149
+               }
+            },
+            "location" : {
+               "lat" : 34.1652138,
+               "lng" : -119.2102834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1757348,
+                  "lng" : -119.1950999
+               },
+               "southwest" : {
+                  "lat" : 34.148693,
+                  "lng" : -119.215149
+               }
+            }
+         },
+         "place_id" : "ChIJ_5JXc05O6IARjRHTPViiIp8",
+         "postcode_localities" : [ "Naval Construction Battalion Center Port Hueneme", "Port Hueneme" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Hueneme",
+               "short_name" : "Port Hueneme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Hueneme, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1813129,
+                  "lng" : -119.186028
+               },
+               "southwest" : {
+                  "lat" : 34.137413,
+                  "lng" : -119.221454
+               }
+            },
+            "location" : {
+               "lat" : 34.1477829,
+               "lng" : -119.1951074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1813129,
+                  "lng" : -119.186028
+               },
+               "southwest" : {
+                  "lat" : 34.137413,
+                  "lng" : -119.221454
+               }
+            }
+         },
+         "place_id" : "ChIJKcrafwBL6IARVHqFVcI6M0g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ventura County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.901274,
+                  "lng" : -118.6324951
+               },
+               "southwest" : {
+                  "lat" : 33.163493,
+                  "lng" : -119.636302
+               }
+            },
+            "location" : {
+               "lat" : 34.3704884,
+               "lng" : -119.1390642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.901274,
+                  "lng" : -118.6324951
+               },
+               "southwest" : {
+                  "lat" : 33.163493,
+                  "lng" : -119.636302
+               }
+            }
+         },
+         "place_id" : "ChIJqXcAstJi6YARs7DDR_CQld0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universidad Carlos III de Madrid",
+               "short_name" : "Universidad Carlos III de Madrid",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida de la Universidad",
+               "short_name" : "Av. de la Universidad",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leganés",
+               "short_name" : "Leganés",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28911",
+               "short_name" : "28911",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidad Carlos III de Madrid, Av. de la Universidad, 30, 28911 Leganés, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3344102,
+                  "lng" : -3.763211
+               },
+               "southwest" : {
+                  "lat" : 40.33157020000001,
+                  "lng" : -3.7672829
+               }
+            },
+            "location" : {
+               "lat" : 40.3331741,
+               "lng" : -3.765274199999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3344102,
+                  "lng" : -3.763211
+               },
+               "southwest" : {
+                  "lat" : 40.33157020000001,
+                  "lng" : -3.7672829
+               }
+            }
+         },
+         "place_id" : "ChIJbRgAKouJQQ0RQH7IkvqDu5k",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle Carlos III",
+               "short_name" : "Calle Carlos III",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leganés",
+               "short_name" : "Leganés",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28912",
+               "short_name" : "28912",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle Carlos III, 15, 28912 Leganés, Madrid, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.3331632,
+               "lng" : -3.7652106
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3345121802915,
+                  "lng" : -3.763861619708497
+               },
+               "southwest" : {
+                  "lat" : 40.3318142197085,
+                  "lng" : -3.766559580291502
+               }
+            }
+         },
+         "place_id" : "ChIJbz87FYuJQQ0RhMYzYaUfM6o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

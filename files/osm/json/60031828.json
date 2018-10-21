@@ -1,0 +1,460 @@
+{
+   "plus_code" : {
+      "compound_code" : "736J+98 Hamilton, ON, Canada",
+      "global_code" : "87M2736J+98"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1280",
+               "short_name" : "1280",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street West",
+               "short_name" : "Main St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cootes Paradise A",
+               "short_name" : "Cootes Paradise A",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L8S 4L8",
+               "short_name" : "L8S 4L8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1280 Main St W, Hamilton, ON L8S 4L8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.260879,
+               "lng" : -79.9192254
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.26222798029149,
+                  "lng" : -79.91787641970851
+               },
+               "southwest" : {
+                  "lat" : 43.2595300197085,
+                  "lng" : -79.92057438029151
+               }
+            }
+         },
+         "place_id" : "ChIJwSr3RKyELIgRHAFDYeoAnjk",
+         "plus_code" : {
+            "compound_code" : "736J+98 Hamilton, Ontario, Canada",
+            "global_code" : "87M2736J+98"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cootes Paradise A",
+               "short_name" : "Cootes Paradise A",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L8S",
+               "short_name" : "L8S",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "University Ave, Hamilton, ON L8S, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2614849,
+                  "lng" : -79.918724
+               },
+               "southwest" : {
+                  "lat" : 43.2607868,
+                  "lng" : -79.91875809999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2611358,
+               "lng" : -79.918741
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2624848302915,
+                  "lng" : -79.9173920697085
+               },
+               "southwest" : {
+                  "lat" : 43.2597868697085,
+                  "lng" : -79.9200900302915
+               }
+            }
+         },
+         "place_id" : "ChIJP3Qdz1KbLIgRLr8xUnqRd6k",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cootes Paradise A",
+               "short_name" : "Cootes Paradise A",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Millgrove",
+               "short_name" : "Millgrove",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cootes Paradise A, Hamilton, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.270193,
+                  "lng" : -79.91347999999999
+               },
+               "southwest" : {
+                  "lat" : 43.257584,
+                  "lng" : -79.9298431
+               }
+            },
+            "location" : {
+               "lat" : 43.2632979,
+               "lng" : -79.92066939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.270193,
+                  "lng" : -79.91347999999999
+               },
+               "southwest" : {
+                  "lat" : 43.257584,
+                  "lng" : -79.9298431
+               }
+            }
+         },
+         "place_id" : "ChIJ_c87j6yELIgRGOnguDkI834",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "L8S",
+               "short_name" : "L8S",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamilton, ON L8S, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.279455,
+                  "lng" : -79.8920669
+               },
+               "southwest" : {
+                  "lat" : 43.23236199999999,
+                  "lng" : -79.959986
+               }
+            },
+            "location" : {
+               "lat" : 43.255291,
+               "lng" : -79.9248669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.279455,
+                  "lng" : -79.8920669
+               },
+               "southwest" : {
+                  "lat" : 43.23236199999999,
+                  "lng" : -79.959986
+               }
+            }
+         },
+         "place_id" : "ChIJkwv2lLGELIgRc8gzQMyK__U",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamilton, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4710569,
+                  "lng" : -79.6175911
+               },
+               "southwest" : {
+                  "lat" : 43.0505639,
+                  "lng" : -80.24870709999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2557206,
+               "lng" : -79.8711024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4710569,
+                  "lng" : -79.6175911
+               },
+               "southwest" : {
+                  "lat" : 43.0505639,
+                  "lng" : -80.24870709999999
+               }
+            }
+         },
+         "place_id" : "ChIJj3feJ2yYLIgRIQ7f2Fbuais",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamilton Division, Hamilton, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4710569,
+                  "lng" : -79.6175911
+               },
+               "southwest" : {
+                  "lat" : 43.0505639,
+                  "lng" : -80.24870709999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2770636,
+               "lng" : -80.0087746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4710569,
+                  "lng" : -79.6175911
+               },
+               "southwest" : {
+                  "lat" : 43.0505639,
+                  "lng" : -80.24870709999999
+               }
+            }
+         },
+         "place_id" : "ChIJj3feJ2yYLIgReGIXzikKReE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ontario",
+               "short_name" : "Ontario",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            },
+            "location" : {
+               "lat" : 51.253775,
+               "lng" : -85.32321399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwRCR5iKVZC-HA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

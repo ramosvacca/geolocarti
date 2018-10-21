@@ -1,0 +1,185 @@
+{
+   "plus_code" : {
+      "compound_code" : "CXQW+XF Pittsburgh, PA, USA",
+      "global_code" : "86GXCXQW+XF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "# 2810",
+               "short_name" : "# 2810",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ppg Pl",
+               "short_name" : "Ppg Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny County",
+               "short_name" : "Allegheny County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15222",
+               "short_name" : "15222",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5416",
+               "short_name" : "5416",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1 Ppg Pl # 2810, Pittsburgh, PA 15222, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4399982,
+               "lng" : -80.00379479999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.44134718029149,
+                  "lng" : -80.00244581970848
+               },
+               "southwest" : {
+                  "lat" : 40.4386492197085,
+                  "lng" : -80.0051437802915
+               }
+            }
+         },
+         "place_id" : "ChIJO1CPWlHxNIgRpPvBZFD1JAE",
+         "plus_code" : {
+            "compound_code" : "CXQW+XF Pittsburgh, Pennsylvania, United States",
+            "global_code" : "86GXCXQW+XF"
+         },
+         "types" : [ "accounting", "establishment", "finance", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15222",
+               "short_name" : "15222",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny County",
+               "short_name" : "Allegheny County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pittsburgh, PA 15222, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.46445689999999,
+                  "lng" : -79.97310109999999
+               },
+               "southwest" : {
+                  "lat" : 40.4350669,
+                  "lng" : -80.013374
+               }
+            },
+            "location" : {
+               "lat" : 40.4475255,
+               "lng" : -79.99339759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.46445689999999,
+                  "lng" : -79.97310109999999
+               },
+               "southwest" : {
+                  "lat" : 40.4350669,
+                  "lng" : -80.013374
+               }
+            }
+         },
+         "place_id" : "ChIJTWkPbuHzNIgR-7XI4ocIvqQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

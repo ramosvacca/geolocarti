@@ -1,0 +1,573 @@
+{
+   "plus_code" : {
+      "compound_code" : "VPC6+RP Glasgow, UK",
+      "global_code" : "9C7QVPC6+RP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "John McIntyre Building",
+               "short_name" : "John McIntyre Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Glasgow",
+               "short_name" : "University of Glasgow",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G12 8QQ",
+               "short_name" : "G12 8QQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "John McIntyre Building, University of Glasgow, University Avenue, Glasgow G12 8QQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.87212109999999,
+               "lng" : -4.288200499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.87347008029149,
+                  "lng" : -4.286851519708497
+               },
+               "southwest" : {
+                  "lat" : 55.87077211970849,
+                  "lng" : -4.289549480291502
+               }
+            }
+         },
+         "place_id" : "ChIJv116dNJFiEgRraEr3Tx9ZFM",
+         "plus_code" : {
+            "compound_code" : "VPC6+RP Glasgow, United Kingdom",
+            "global_code" : "9C7QVPC6+RP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "John McIntyre Building",
+               "short_name" : "John McIntyre Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G12 8QQ",
+               "short_name" : "G12 8QQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "John McIntyre Building, University Avenue, Glasgow G12 8QQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8723719,
+                  "lng" : -4.2883945
+               },
+               "southwest" : {
+                  "lat" : 55.8720655,
+                  "lng" : -4.2891135
+               }
+            },
+            "location" : {
+               "lat" : 55.8722165,
+               "lng" : -4.2888242
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8735676802915,
+                  "lng" : -4.287405019708498
+               },
+               "southwest" : {
+                  "lat" : 55.8708697197085,
+                  "lng" : -4.290102980291502
+               }
+            }
+         },
+         "place_id" : "ChIJL2uwC9JFiEgRaam4HexBjJA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G12 8PP",
+               "short_name" : "G12 8PP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Avenue, Glasgow G12 8PP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8723404,
+                  "lng" : -4.2877069
+               },
+               "southwest" : {
+                  "lat" : 55.8722757,
+                  "lng" : -4.2881307
+               }
+            },
+            "location" : {
+               "lat" : 55.8723081,
+               "lng" : -4.2879188
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8736570302915,
+                  "lng" : -4.286569819708498
+               },
+               "southwest" : {
+                  "lat" : 55.8709590697085,
+                  "lng" : -4.289267780291502
+               }
+            }
+         },
+         "place_id" : "ChIJH_hedtJFiEgRvHvD86uqLIE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G12 8PP",
+               "short_name" : "G12 8PP",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow G12 8PP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8727764,
+                  "lng" : -4.2876439
+               },
+               "southwest" : {
+                  "lat" : 55.87146990000001,
+                  "lng" : -4.290816700000001
+               }
+            },
+            "location" : {
+               "lat" : 55.8722112,
+               "lng" : -4.2887705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8734721302915,
+                  "lng" : -4.2876439
+               },
+               "southwest" : {
+                  "lat" : 55.8707741697085,
+                  "lng" : -4.290816700000001
+               }
+            }
+         },
+         "place_id" : "ChIJD5iW9c1FiEgRgwsv_xpoDB0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G12",
+               "short_name" : "G12",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow G12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8942858,
+                  "lng" : -4.2779209
+               },
+               "southwest" : {
+                  "lat" : 55.868619,
+                  "lng" : -4.3246227
+               }
+            },
+            "location" : {
+               "lat" : 55.8802935,
+               "lng" : -4.3027657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8942858,
+                  "lng" : -4.2779209
+               },
+               "southwest" : {
+                  "lat" : 55.868619,
+                  "lng" : -4.3246227
+               }
+            }
+         },
+         "place_id" : "ChIJrforUi1EiEgRgq1iaD5G4-0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow City, Glasgow, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9296413,
+                  "lng" : -4.0717167
+               },
+               "southwest" : {
+                  "lat" : 55.7812791,
+                  "lng" : -4.3932005
+               }
+            },
+            "location" : {
+               "lat" : 55.8641622,
+               "lng" : -4.2513729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9296413,
+                  "lng" : -4.0717167
+               },
+               "southwest" : {
+                  "lat" : 55.7812791,
+                  "lng" : -4.3932005
+               }
+            }
+         },
+         "place_id" : "ChIJ368eA69GiEgRELNCBhpoDAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9296413,
+                  "lng" : -4.0717167
+               },
+               "southwest" : {
+                  "lat" : 55.7812791,
+                  "lng" : -4.3932005
+               }
+            },
+            "location" : {
+               "lat" : 55.864237,
+               "lng" : -4.251806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9296413,
+                  "lng" : -4.0717167
+               },
+               "southwest" : {
+                  "lat" : 55.7812791,
+                  "lng" : -4.3932005
+               }
+            }
+         },
+         "place_id" : "ChIJ685WIFYViEgRHlHvBbiD5nE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2046686,
+                  "lng" : -3.8855538
+               },
+               "southwest" : {
+                  "lat" : 55.6766307,
+                  "lng" : -4.6881506
+               }
+            },
+            "location" : {
+               "lat" : 55.8635646,
+               "lng" : -4.222364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2046686,
+                  "lng" : -3.8855538
+               },
+               "southwest" : {
+                  "lat" : 55.6766307,
+                  "lng" : -4.6881506
+               }
+            }
+         },
+         "place_id" : "ChIJWTJSStdEiEgRLuv1b-bYjAA",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Scotland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            },
+            "location" : {
+               "lat" : 56.49067119999999,
+               "lng" : -4.2026458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            }
+         },
+         "place_id" : "ChIJn6HyA8TiYUgRFAfDCdj6wec",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

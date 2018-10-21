@@ -1,0 +1,575 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universidad Cisneriana",
+               "short_name" : "Universidad Cisneriana",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Calle Pedro Gumiel",
+               "short_name" : "Calle Pedro Gumiel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alcalá de Henares",
+               "short_name" : "Alcalá de Henares",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28801",
+               "short_name" : "28801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidad Cisneriana, Calle Pedro Gumiel, 28801 Alcalá de Henares, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4830766,
+                  "lng" : -3.3620197
+               },
+               "southwest" : {
+                  "lat" : 40.4814256,
+                  "lng" : -3.3638945
+               }
+            },
+            "location" : {
+               "lat" : 40.4824285,
+               "lng" : -3.3628203
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4836000802915,
+                  "lng" : -3.361608119708498
+               },
+               "southwest" : {
+                  "lat" : 40.4809021197085,
+                  "lng" : -3.364306080291501
+               }
+            }
+         },
+         "place_id" : "ChIJf2sEjRRJQg0RoWdq5_FCYQY",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calle San Pedro y San Pablo",
+               "short_name" : "Calle San Pedro y San Pablo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alcalá de Henares",
+               "short_name" : "Alcalá de Henares",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28801",
+               "short_name" : "28801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle San Pedro y San Pablo, 28801 Alcalá de Henares, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4831361,
+                  "lng" : -3.3619129
+               },
+               "southwest" : {
+                  "lat" : 40.4815556,
+                  "lng" : -3.3626071
+               }
+            },
+            "location" : {
+               "lat" : 40.4823806,
+               "lng" : -3.3623847
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.48369483029149,
+                  "lng" : -3.360911019708498
+               },
+               "southwest" : {
+                  "lat" : 40.48099686970849,
+                  "lng" : -3.363608980291501
+               }
+            }
+         },
+         "place_id" : "ChIJP8ts8BRJQg0REUaFO3LhAOo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plaza Cervantes N 7",
+               "short_name" : "Plaza Cervantes N 7",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Alcalá de Henares",
+               "short_name" : "Alcalá de Henares",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28801",
+               "short_name" : "28801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Plaza Cervantes N 7, 28801 Alcalá de Henares, Madrid, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4827816,
+               "lng" : -3.3639314
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4841305802915,
+                  "lng" : -3.362582419708498
+               },
+               "southwest" : {
+                  "lat" : 40.4814326197085,
+                  "lng" : -3.365280380291502
+               }
+            }
+         },
+         "place_id" : "ChIJV4tYnhRJQg0RqWTtXVz3p_4",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alcala de Henares",
+               "short_name" : "Alcala de Henares",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alcalá de Henares",
+               "short_name" : "Alcalá de Henares",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alcala de Henares, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5229801,
+                  "lng" : -3.3154891
+               },
+               "southwest" : {
+                  "lat" : 40.4665996,
+                  "lng" : -3.4178627
+               }
+            },
+            "location" : {
+               "lat" : 40.4819791,
+               "lng" : -3.3635421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5229801,
+                  "lng" : -3.3154891
+               },
+               "southwest" : {
+                  "lat" : 40.4665996,
+                  "lng" : -3.4178627
+               }
+            }
+         },
+         "place_id" : "ChIJC-ZpxthLQg0RIxeyVBTrVQU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "28801",
+               "short_name" : "28801",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Alcala de Henares",
+               "short_name" : "Alcala de Henares",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "28801 Alcala de Henares, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4854365,
+                  "lng" : -3.3587715
+               },
+               "southwest" : {
+                  "lat" : 40.4772375,
+                  "lng" : -3.3710636
+               }
+            },
+            "location" : {
+               "lat" : 40.4816426,
+               "lng" : -3.366604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4854365,
+                  "lng" : -3.3587715
+               },
+               "southwest" : {
+                  "lat" : 40.4772375,
+                  "lng" : -3.3710636
+               }
+            }
+         },
+         "place_id" : "ChIJk0R_gRNJQg0R0KGLM_dAAxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alcalá de Henares",
+               "short_name" : "Alcalá de Henares",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alcalá de Henares, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5454616,
+                  "lng" : -3.2838969
+               },
+               "southwest" : {
+                  "lat" : 40.4458918,
+                  "lng" : -3.4471958
+               }
+            },
+            "location" : {
+               "lat" : 40.4819984,
+               "lng" : -3.3636687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5454616,
+                  "lng" : -3.2838969
+               },
+               "southwest" : {
+                  "lat" : 40.4458918,
+                  "lng" : -3.4471958
+               }
+            }
+         },
+         "place_id" : "ChIJtTtbuWVJQg0RcNdMvvNAAwQ",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Área Metropolitalitana y Corredor del Henares, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6453875,
+                  "lng" : -3.2838978
+               },
+               "southwest" : {
+                  "lat" : 40.1989269,
+                  "lng" : -4.006454
+               }
+            },
+            "location" : {
+               "lat" : 40.4955493,
+               "lng" : -3.6623239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6453875,
+                  "lng" : -3.2838978
+               },
+               "southwest" : {
+                  "lat" : 40.1989269,
+                  "lng" : -4.006454
+               }
+            }
+         },
+         "place_id" : "ChIJgXVwV1wvQg0RzPz8wabKb2k",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            },
+            "location" : {
+               "lat" : 40.4162883,
+               "lng" : -3.7033725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            }
+         },
+         "place_id" : "ChIJuTPgQHqBQQ0R8MpLvvNAAwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Community of Madrid, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            },
+            "location" : {
+               "lat" : 40.4167515,
+               "lng" : -3.7038322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.16584470000001,
+                  "lng" : -3.0529833
+               },
+               "southwest" : {
+                  "lat" : 39.8847195,
+                  "lng" : -4.579076
+               }
+            }
+         },
+         "place_id" : "ChIJuTPgQHqBQQ0RgMhLvvNAAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.244,
+                  "lng" : 5.098
+               },
+               "southwest" : {
+                  "lat" : 35.17300000000001,
+                  "lng" : -12.524
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

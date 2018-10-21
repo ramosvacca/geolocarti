@@ -1,0 +1,666 @@
+{
+   "plus_code" : {
+      "compound_code" : "F6PF+36 Bochum, Germany",
+      "global_code" : "9F39F6PF+36"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bergstraße",
+               "short_name" : "Bergstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bochum Mitte",
+               "short_name" : "Bochum Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bochum",
+               "short_name" : "BO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44791",
+               "short_name" : "44791",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bergstraße 26, 44791 Bochum, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4859965,
+                  "lng" : 7.2241648
+               },
+               "southwest" : {
+                  "lat" : 51.4841543,
+                  "lng" : 7.221718999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4851682,
+               "lng" : 7.223023899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4864243802915,
+                  "lng" : 7.224290880291502
+               },
+               "southwest" : {
+                  "lat" : 51.4837264197085,
+                  "lng" : 7.221592919708497
+               }
+            }
+         },
+         "place_id" : "ChIJRwUqgD7guEcR_VgtTeAZLgQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bergstraße",
+               "short_name" : "Bergstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bochum Mitte",
+               "short_name" : "Bochum Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bochum",
+               "short_name" : "BO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44791",
+               "short_name" : "44791",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bergstraße 26, 44791 Bochum, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4851682,
+               "lng" : 7.223023899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48651718029149,
+                  "lng" : 7.224372880291502
+               },
+               "southwest" : {
+                  "lat" : 51.48381921970849,
+                  "lng" : 7.221674919708497
+               }
+            }
+         },
+         "place_id" : "ChIJh5dPgj7guEcRE9V0ZUwhVyU",
+         "plus_code" : {
+            "compound_code" : "F6PF+36 Bochum, Germany",
+            "global_code" : "9F39F6PF+36"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bergstraße",
+               "short_name" : "Bergstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bochum Mitte",
+               "short_name" : "Bochum Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bochum",
+               "short_name" : "BO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44789",
+               "short_name" : "44789",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bergstraße 26, 44789 Bochum, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.48538,
+               "lng" : 7.2228101
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4867289802915,
+                  "lng" : 7.224159080291503
+               },
+               "southwest" : {
+                  "lat" : 51.4840310197085,
+                  "lng" : 7.221461119708498
+               }
+            }
+         },
+         "place_id" : "ChIJUbSA8z7guEcRC2yiavGEfC0",
+         "plus_code" : {
+            "compound_code" : "F6PF+54 Bochum, Germany",
+            "global_code" : "9F39F6PF+54"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burggrafenstraße",
+               "short_name" : "Burggrafenstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bochum Mitte",
+               "short_name" : "Bochum Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bochum",
+               "short_name" : "BO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44791",
+               "short_name" : "44791",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burggrafenstraße, 44791 Bochum, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4853214,
+                  "lng" : 7.2240781
+               },
+               "southwest" : {
+                  "lat" : 51.4852099,
+                  "lng" : 7.223293499999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4852656,
+               "lng" : 7.2236858
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4866146302915,
+                  "lng" : 7.225034780291501
+               },
+               "southwest" : {
+                  "lat" : 51.4839166697085,
+                  "lng" : 7.222336819708496
+               }
+            }
+         },
+         "place_id" : "ChIJwz4TLjzguEcRtIZn1y3xlQE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bochum-Innenstadt",
+               "short_name" : "Bochum-Innenstadt",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Bochum Mitte",
+               "short_name" : "Bochum Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bochum",
+               "short_name" : "BO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bochum-Innenstadt, Bochum, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.495297,
+                  "lng" : 7.252157
+               },
+               "southwest" : {
+                  "lat" : 51.4712279,
+                  "lng" : 7.193237099999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4847262,
+               "lng" : 7.2261707
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.495297,
+                  "lng" : 7.252157
+               },
+               "southwest" : {
+                  "lat" : 51.4712279,
+                  "lng" : 7.193237099999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2wX7CT7guEcRMJZXMYHyJwU",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "44791",
+               "short_name" : "44791",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bochum Mitte",
+               "short_name" : "Bochum Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bochum",
+               "short_name" : "BO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "44791 Bochum, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4986079,
+                  "lng" : 7.2969039
+               },
+               "southwest" : {
+                  "lat" : 51.481218,
+                  "lng" : 7.204847
+               }
+            },
+            "location" : {
+               "lat" : 51.4886935,
+               "lng" : 7.2474125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4986079,
+                  "lng" : 7.2969039
+               },
+               "southwest" : {
+                  "lat" : 51.481218,
+                  "lng" : 7.204847
+               }
+            }
+         },
+         "place_id" : "ChIJOxIa7dkfuUcRwHJbkYTyJxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bochum Mitte",
+               "short_name" : "Bochum Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bochum",
+               "short_name" : "BO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bochum Mitte, Bochum, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5218569,
+                  "lng" : 7.266543800000001
+               },
+               "southwest" : {
+                  "lat" : 51.4573129,
+                  "lng" : 7.1539058
+               }
+            },
+            "location" : {
+               "lat" : 51.4939545,
+               "lng" : 7.204999899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5218569,
+                  "lng" : 7.266543800000001
+               },
+               "southwest" : {
+                  "lat" : 51.4573129,
+                  "lng" : 7.1539058
+               }
+            }
+         },
+         "place_id" : "ChIJi-k3H0TguEcRDFDB9Utfg1E",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bochum",
+               "short_name" : "Bochum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ennepe-Ruhr-Kreis",
+               "short_name" : "Ennepe-Ruhr-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bochum, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5313637,
+                  "lng" : 7.3493746
+               },
+               "southwest" : {
+                  "lat" : 51.4104511,
+                  "lng" : 7.101740700000001
+               }
+            },
+            "location" : {
+               "lat" : 51.4818445,
+               "lng" : 7.216236299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5313637,
+                  "lng" : 7.3493746
+               },
+               "southwest" : {
+                  "lat" : 51.4104511,
+                  "lng" : 7.101740700000001
+               }
+            }
+         },
+         "place_id" : "ChIJdVfT-Q_guEcRQIdUMYHyJwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arnsberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7445973,
+                  "lng" : 8.970754299999999
+               },
+               "southwest" : {
+                  "lat" : 50.6852504,
+                  "lng" : 7.1021332
+               }
+            },
+            "location" : {
+               "lat" : 51.224084,
+               "lng" : 8.2535376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7445973,
+                  "lng" : 8.970754299999999
+               },
+               "southwest" : {
+                  "lat" : 50.6852504,
+                  "lng" : 7.1021332
+               }
+            }
+         },
+         "place_id" : "ChIJX6Zdr2H9u0cRw6v8j6830Vg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "North Rhine-Westphalia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Rhine-Westphalia, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.43323669999999,
+               "lng" : 7.661593799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJoUhCjnwWuUcRX4_XT34yTC8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

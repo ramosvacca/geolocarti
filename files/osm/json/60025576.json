@@ -1,0 +1,383 @@
+{
+   "plus_code" : {
+      "compound_code" : "RX78+2M Wright-Patterson Air Force Base, OH, USA",
+      "global_code" : "86FQRX78+2M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thurlow Road",
+               "short_name" : "Thurlow Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wright-Patterson Air Force Base",
+               "short_name" : "Wright-Patterson AFB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath Township",
+               "short_name" : "Bath Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45433",
+               "short_name" : "45433",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thurlow Rd, Wright-Patterson AFB, OH 45433, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8128682,
+                  "lng" : -84.03230809999999
+               },
+               "southwest" : {
+                  "lat" : 39.8122379,
+                  "lng" : -84.0342921
+               }
+            },
+            "location" : {
+               "lat" : 39.812553,
+               "lng" : -84.03330009999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.81390203029149,
+                  "lng" : -84.03195111970849
+               },
+               "southwest" : {
+                  "lat" : 39.8112040697085,
+                  "lng" : -84.0346490802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-xeF9-udQIgRBM3lQDdde0I",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "45433",
+               "short_name" : "45433",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "WPAFB",
+               "short_name" : "WPAFB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WPAFB, OH 45433, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.84312,
+                  "lng" : -84.0188581
+               },
+               "southwest" : {
+                  "lat" : 39.7707878,
+                  "lng" : -84.0997648
+               }
+            },
+            "location" : {
+               "lat" : 39.8137298,
+               "lng" : -84.05374479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.84312,
+                  "lng" : -84.0188581
+               },
+               "southwest" : {
+                  "lat" : 39.7707878,
+                  "lng" : -84.0997648
+               }
+            }
+         },
+         "place_id" : "ChIJ4RARMg2dQIgRABU3FCxyiOw",
+         "postcode_localities" : [ "Dayton", "WPAFB", "Wright-Patterson Air Force Base" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wright-Patterson Air Force Base",
+               "short_name" : "Wright-Patterson AFB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath Township",
+               "short_name" : "Bath Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wright-Patterson AFB, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8486621,
+                  "lng" : -84.013834
+               },
+               "southwest" : {
+                  "lat" : 39.7697329,
+                  "lng" : -84.0989361
+               }
+            },
+            "location" : {
+               "lat" : 39.8137298,
+               "lng" : -84.05374479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8486621,
+                  "lng" : -84.013834
+               },
+               "southwest" : {
+                  "lat" : 39.7697329,
+                  "lng" : -84.0989361
+               }
+            }
+         },
+         "place_id" : "ChIJG8UAN9mCQIgRfm8e0q-Q430",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath Township",
+               "short_name" : "Bath Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bath Township, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.85045789999999,
+                  "lng" : -83.93958289999999
+               },
+               "southwest" : {
+                  "lat" : 39.771662,
+                  "lng" : -84.097837
+               }
+            },
+            "location" : {
+               "lat" : 39.8077867,
+               "lng" : -84.0378894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.85045789999999,
+                  "lng" : -83.93958289999999
+               },
+               "southwest" : {
+                  "lat" : 39.771662,
+                  "lng" : -84.097837
+               }
+            }
+         },
+         "place_id" : "ChIJT4nTHOCcQIgRpstHBN2i7Ho",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greene County, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.85045789999999,
+                  "lng" : -83.64661
+               },
+               "southwest" : {
+                  "lat" : 39.5502538,
+                  "lng" : -84.114195
+               }
+            },
+            "location" : {
+               "lat" : 39.697399,
+               "lng" : -83.88970569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.85045789999999,
+                  "lng" : -83.64661
+               },
+               "southwest" : {
+                  "lat" : 39.5502538,
+                  "lng" : -84.114195
+               }
+            }
+         },
+         "place_id" : "ChIJncWRYq2iQIgRMygrj391U5E",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ohio",
+               "short_name" : "Ohio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ohio, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.327132,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            },
+            "location" : {
+               "lat" : 40.4172871,
+               "lng" : -82.90712300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.327132,
+                  "lng" : -80.51819999999999
+               },
+               "southwest" : {
+                  "lat" : 38.4034229,
+                  "lng" : -84.8203049
+               }
+            }
+         },
+         "place_id" : "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

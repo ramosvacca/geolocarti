@@ -1,0 +1,464 @@
+{
+   "plus_code" : {
+      "compound_code" : "247G+C6 Beja, Portugal",
+      "global_code" : "8CCJ247G+C6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua de Pedro Soares",
+               "short_name" : "R. de Pedro Soares",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7800-295",
+               "short_name" : "7800-295",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. de Pedro Soares 40, 7800-295 Beja, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0142923,
+               "lng" : -7.873615600000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0156412802915,
+                  "lng" : -7.872266619708499
+               },
+               "southwest" : {
+                  "lat" : 38.0129433197085,
+                  "lng" : -7.874964580291502
+               }
+            }
+         },
+         "place_id" : "ChIJSwoTR35zGg0RVOV6D3mNSyI",
+         "plus_code" : {
+            "compound_code" : "247G+PH Beja, Portugal",
+            "global_code" : "8CCJ247G+PH"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua de Pedro Soares",
+               "short_name" : "R. de Pedro Soares",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R. de Pedro Soares 40, Beja, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0142315,
+               "lng" : -7.873717200000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0155804802915,
+                  "lng" : -7.872368219708498
+               },
+               "southwest" : {
+                  "lat" : 38.0128825197085,
+                  "lng" : -7.875066180291503
+               }
+            }
+         },
+         "place_id" : "EiVSLiBkZSBQZWRybyBTb2FyZXMgNDAsIEJlamEsIFBvcnR1Z2FsIhoSGAoUChIJayS_Q35zGg0RK3qxYR1-dT4QKA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7800-295",
+               "short_name" : "7800-295",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beja District",
+               "short_name" : "Beja District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "7800-295 Beja, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0184609,
+                  "lng" : -7.8571958
+               },
+               "southwest" : {
+                  "lat" : 38.0108818,
+                  "lng" : -7.8748811
+               }
+            },
+            "location" : {
+               "lat" : 38.0137186,
+               "lng" : -7.873204100000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0184609,
+                  "lng" : -7.8571958
+               },
+               "southwest" : {
+                  "lat" : 38.0108818,
+                  "lng" : -7.8748811
+               }
+            }
+         },
+         "place_id" : "ChIJSdcONH5zGg0RRmidIvb4hFI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beja District",
+               "short_name" : "Beja District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7800",
+               "short_name" : "7800",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Beja, 7800 Beja, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0584919,
+                  "lng" : -7.8622941
+               },
+               "southwest" : {
+                  "lat" : 37.97009,
+                  "lng" : -7.959504799999999
+               }
+            },
+            "location" : {
+               "lat" : 38.0192077,
+               "lng" : -7.904820000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0584919,
+                  "lng" : -7.8622941
+               },
+               "southwest" : {
+                  "lat" : 37.97009,
+                  "lng" : -7.959504799999999
+               }
+            }
+         },
+         "place_id" : "ChIJTdq5mwNzGg0RMFGQ5L3rAAU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beja District",
+               "short_name" : "Beja District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7800",
+               "short_name" : "7800",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "7800 Beja, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0746209,
+                  "lng" : -7.8177491
+               },
+               "southwest" : {
+                  "lat" : 37.97009,
+                  "lng" : -7.959504799999999
+               }
+            },
+            "location" : {
+               "lat" : 38.0153039,
+               "lng" : -7.8627308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0746209,
+                  "lng" : -7.8177491
+               },
+               "southwest" : {
+                  "lat" : 37.97009,
+                  "lng" : -7.959504799999999
+               }
+            }
+         },
+         "place_id" : "ChIJh83fpXFzGg0Rk1HM5nDqWmo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beja",
+               "short_name" : "Beja",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Beja District",
+               "short_name" : "Beja District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7800",
+               "short_name" : "7800",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Beja, 7800, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1625767,
+                  "lng" : -7.6326306
+               },
+               "southwest" : {
+                  "lat" : 37.7764605,
+                  "lng" : -8.083303899999999
+               }
+            },
+            "location" : {
+               "lat" : 37.9687786,
+               "lng" : -7.872159999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1625767,
+                  "lng" : -7.6326306
+               },
+               "southwest" : {
+                  "lat" : 37.7764605,
+                  "lng" : -8.083303899999999
+               }
+            }
+         },
+         "place_id" : "ChIJp4xxnIZ0Gg0Rqcpgw4o2rFg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7800",
+               "short_name" : "7800",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Beja District",
+               "short_name" : "Beja District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "7800, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.162643,
+                  "lng" : -7.6330182
+               },
+               "southwest" : {
+                  "lat" : 37.7760593,
+                  "lng" : -8.0831445
+               }
+            },
+            "location" : {
+               "lat" : 37.9687786,
+               "lng" : -7.872159999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.162643,
+                  "lng" : -7.6330182
+               },
+               "southwest" : {
+                  "lat" : 37.7760593,
+                  "lng" : -8.0831445
+               }
+            }
+         },
+         "place_id" : "ChIJX6jPyqB2Gg0RIJo7DsHrABw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beja District",
+               "short_name" : "Beja District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beja District, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.331146,
+                  "lng" : -6.9314994
+               },
+               "southwest" : {
+                  "lat" : 37.3189633,
+                  "lng" : -8.819533999999999
+               }
+            },
+            "location" : {
+               "lat" : 38.0153863,
+               "lng" : -7.8626229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.331146,
+                  "lng" : -6.9314994
+               },
+               "southwest" : {
+                  "lat" : 37.3189633,
+                  "lng" : -8.819533999999999
+               }
+            }
+         },
+         "place_id" : "ChIJp4xxnIZ0Gg0ReFUhsBqUOiA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            },
+            "location" : {
+               "lat" : 39.39987199999999,
+               "lng" : -8.224454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            }
+         },
+         "place_id" : "ChIJ1SZCvy0kMgsRQfBOHAlLuCo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

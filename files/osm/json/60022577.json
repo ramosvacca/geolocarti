@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "V4XP+G5 Buffalo, NY, USA",
+      "global_code" : "87J3V4XP+G5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "665",
+               "short_name" : "665",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Elm Street",
+               "short_name" : "Elm St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Park",
+               "short_name" : "Medical Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14203",
+               "short_name" : "14203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "665 Elm St, Buffalo, NY 14203, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.89881949999999,
+               "lng" : -78.8645872
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9001684802915,
+                  "lng" : -78.86323821970851
+               },
+               "southwest" : {
+                  "lat" : 42.8974705197085,
+                  "lng" : -78.86593618029151
+               }
+            }
+         },
+         "place_id" : "ChIJLRwmReAT04kRomHE24zVCgA",
+         "plus_code" : {
+            "compound_code" : "V4XP+G5 Buffalo, New York, United States",
+            "global_code" : "87J3V4XP+G5"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical Park",
+               "short_name" : "Medical Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medical Park, Buffalo, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9045569,
+                  "lng" : -78.8443559
+               },
+               "southwest" : {
+                  "lat" : 42.8960569,
+                  "lng" : -78.87035689999999
+               }
+            },
+            "location" : {
+               "lat" : 42.8998671,
+               "lng" : -78.8566661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9045569,
+                  "lng" : -78.8443559
+               },
+               "southwest" : {
+                  "lat" : 42.8960569,
+                  "lng" : -78.87035689999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4b70xWES04kRmih-PAgQbMY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14203",
+               "short_name" : "14203",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buffalo, NY 14203, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.025641,
+                  "lng" : -78.79897889999999
+               },
+               "southwest" : {
+                  "lat" : 42.8321908,
+                  "lng" : -78.8946569
+               }
+            },
+            "location" : {
+               "lat" : 42.8667771,
+               "lng" : -78.8750644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.025641,
+                  "lng" : -78.79897889999999
+               },
+               "southwest" : {
+                  "lat" : 42.8321908,
+                  "lng" : -78.8946569
+               }
+            }
+         },
+         "place_id" : "ChIJh49HkosS04kRtu3TgA4vir0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buffalo, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9664549,
+                  "lng" : -78.795157
+               },
+               "southwest" : {
+                  "lat" : 42.826023,
+                  "lng" : -78.9337276
+               }
+            },
+            "location" : {
+               "lat" : 42.88644679999999,
+               "lng" : -78.8783689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9664549,
+                  "lng" : -78.795157
+               },
+               "southwest" : {
+                  "lat" : 42.826023,
+                  "lng" : -78.9337276
+               }
+            }
+         },
+         "place_id" : "ChIJoeXfUmES04kRcYEfGKUEI5g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erie County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.098676,
+                  "lng" : -78.46204609999999
+               },
+               "southwest" : {
+                  "lat" : 42.437997,
+                  "lng" : -79.31213609999999
+               }
+            },
+            "location" : {
+               "lat" : 42.9023958,
+               "lng" : -78.8661589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.098676,
+                  "lng" : -78.46204609999999
+               },
+               "southwest" : {
+                  "lat" : 42.437997,
+                  "lng" : -79.31213609999999
+               }
+            }
+         },
+         "place_id" : "ChIJRRlv_BcQ04kRP2qzyO_pHxA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

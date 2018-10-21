@@ -1,0 +1,441 @@
+{
+   "plus_code" : {
+      "compound_code" : "2626+94 Getzville, NY, USA",
+      "global_code" : "87M32626+94"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capen Hall",
+               "short_name" : "Capen Hall",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14260",
+               "short_name" : "14260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12, Capen Hall, Buffalo, NY 14260, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.00095,
+               "lng" : -78.78972899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00229898029149,
+                  "lng" : -78.78838001970848
+               },
+               "southwest" : {
+                  "lat" : 42.99960101970849,
+                  "lng" : -78.7910779802915
+               }
+            }
+         },
+         "place_id" : "ChIJnwQbJtJz04kR97LbNZZIyhc",
+         "plus_code" : {
+            "compound_code" : "2626+94 Getzville, Amherst, NY, United States",
+            "global_code" : "87M32626+94"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Putnam Way",
+               "short_name" : "Putnam Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amherst",
+               "short_name" : "Amherst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14228",
+               "short_name" : "14228",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Putnam Way, Buffalo, NY 14228, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0014907,
+                  "lng" : -78.7892921
+               },
+               "southwest" : {
+                  "lat" : 43.001452,
+                  "lng" : -78.78988459999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0014713,
+               "lng" : -78.7895884
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0028203302915,
+                  "lng" : -78.78823936970849
+               },
+               "southwest" : {
+                  "lat" : 43.0001223697085,
+                  "lng" : -78.79093733029151
+               }
+            }
+         },
+         "place_id" : "ChIJCeV1XdJz04kRvIpHM4x5sAI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Getzville",
+               "short_name" : "Getzville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amherst",
+               "short_name" : "Amherst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Getzville, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0349482,
+                  "lng" : -78.7377252
+               },
+               "southwest" : {
+                  "lat" : 42.9911787,
+                  "lng" : -78.8064397
+               }
+            },
+            "location" : {
+               "lat" : 43.0232669,
+               "lng" : -78.76814120000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0349482,
+                  "lng" : -78.7377252
+               },
+               "southwest" : {
+                  "lat" : 42.9911787,
+                  "lng" : -78.8064397
+               }
+            }
+         },
+         "place_id" : "ChIJ5zQzr0Fx04kRMtXDz3k-KGM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14228",
+               "short_name" : "14228",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amherst",
+               "short_name" : "Amherst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buffalo, NY 14228, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.08622,
+                  "lng" : -78.7204509
+               },
+               "southwest" : {
+                  "lat" : 42.9908511,
+                  "lng" : -78.8276719
+               }
+            },
+            "location" : {
+               "lat" : 43.0378104,
+               "lng" : -78.78162189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.08622,
+                  "lng" : -78.7204509
+               },
+               "southwest" : {
+                  "lat" : 42.9908511,
+                  "lng" : -78.8276719
+               }
+            }
+         },
+         "place_id" : "ChIJq7gWSRpx04kRYE9E09UchvA",
+         "postcode_localities" : [ "Amherst", "Buffalo" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amherst",
+               "short_name" : "Amherst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amherst, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.08707880000001,
+                  "lng" : -78.696865
+               },
+               "southwest" : {
+                  "lat" : 42.9457649,
+                  "lng" : -78.8323319
+               }
+            },
+            "location" : {
+               "lat" : 43.0270921,
+               "lng" : -78.77028949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.08707880000001,
+                  "lng" : -78.696865
+               },
+               "southwest" : {
+                  "lat" : 42.9457649,
+                  "lng" : -78.8323319
+               }
+            }
+         },
+         "place_id" : "ChIJ54gzRVtx04kRw-Xz_LTIwoE",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erie County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.098676,
+                  "lng" : -78.46204609999999
+               },
+               "southwest" : {
+                  "lat" : 42.437997,
+                  "lng" : -79.31213609999999
+               }
+            },
+            "location" : {
+               "lat" : 42.9023958,
+               "lng" : -78.8661589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.098676,
+                  "lng" : -78.46204609999999
+               },
+               "southwest" : {
+                  "lat" : 42.437997,
+                  "lng" : -79.31213609999999
+               }
+            }
+         },
+         "place_id" : "ChIJRRlv_BcQ04kRP2qzyO_pHxA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

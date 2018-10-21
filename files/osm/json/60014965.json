@@ -1,0 +1,364 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Illinois Street",
+               "short_name" : "Illinois St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Golden",
+               "short_name" : "Golden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80401",
+               "short_name" : "80401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1887",
+               "short_name" : "1887",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1500 Illinois St, Golden, CO 80401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7510216,
+               "lng" : -105.2225769
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7523705802915,
+                  "lng" : -105.2212279197085
+               },
+               "southwest" : {
+                  "lat" : 39.7496726197085,
+                  "lng" : -105.2239258802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1arVX9Saa4cRgP8Kpz_DbGc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden",
+               "short_name" : "Golden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Golden, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7871108,
+                  "lng" : -105.1618588
+               },
+               "southwest" : {
+                  "lat" : 39.6998089,
+                  "lng" : -105.2419609
+               }
+            },
+            "location" : {
+               "lat" : 39.755543,
+               "lng" : -105.2210997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7871108,
+                  "lng" : -105.1618588
+               },
+               "southwest" : {
+                  "lat" : 39.6998089,
+                  "lng" : -105.2419609
+               }
+            }
+         },
+         "place_id" : "ChIJ92xohxKYa4cR3FWAIFRGxhQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80401",
+               "short_name" : "80401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Evergreen",
+               "short_name" : "Evergreen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Evergreen, CO 80401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7737849,
+                  "lng" : -105.1186739
+               },
+               "southwest" : {
+                  "lat" : 39.6524081,
+                  "lng" : -105.3632669
+               }
+            },
+            "location" : {
+               "lat" : 39.7158773,
+               "lng" : -105.2311827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7737849,
+                  "lng" : -105.1186739
+               },
+               "southwest" : {
+                  "lat" : 39.6524081,
+                  "lng" : -105.3632669
+               }
+            }
+         },
+         "place_id" : "ChIJd_mawkSba4cRzYWhM2Ny03M",
+         "postcode_localities" : [ "Evergreen", "Golden", "Lakewood" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jefferson County, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.914386,
+                  "lng" : -105.04874
+               },
+               "southwest" : {
+                  "lat" : 39.12954300000001,
+                  "lng" : -105.3991499
+               }
+            },
+            "location" : {
+               "lat" : 39.5800298,
+               "lng" : -105.2662931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.914386,
+                  "lng" : -105.04874
+               },
+               "southwest" : {
+                  "lat" : 39.12954300000001,
+                  "lng" : -105.3991499
+               }
+            }
+         },
+         "place_id" : "ChIJyxAXZg2va4cRgQv02X4ue50",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denver Metropolitan Area",
+               "short_name" : "Denver Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denver Metropolitan Area, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.044227,
+                  "lng" : -103.705695
+               },
+               "southwest" : {
+                  "lat" : 38.693089,
+                  "lng" : -106.210173
+               }
+            },
+            "location" : {
+               "lat" : 39.5142848,
+               "lng" : -104.8454619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.044227,
+                  "lng" : -103.705695
+               },
+               "southwest" : {
+                  "lat" : 38.693089,
+                  "lng" : -106.210173
+               }
+            }
+         },
+         "place_id" : "ChIJmdjjStKbbIcR5MH987eFdeA",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colorado, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            },
+            "location" : {
+               "lat" : 39.5500507,
+               "lng" : -105.7820674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            }
+         },
+         "place_id" : "ChIJt1YYm3QUQIcR_6eQSTGDVMc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

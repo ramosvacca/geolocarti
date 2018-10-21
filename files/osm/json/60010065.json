@@ -1,0 +1,366 @@
+{
+   "plus_code" : {
+      "compound_code" : "62JX+QX Tucson, AZ, USA",
+      "global_code" : "854F62JX+QX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1339",
+               "short_name" : "1339",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East University Boulevard",
+               "short_name" : "E University Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pima County",
+               "short_name" : "Pima County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85719",
+               "short_name" : "85719",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1339 E University Blvd, Tucson, AZ 85719, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.2318394,
+               "lng" : -110.9505306
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.23318838029149,
+                  "lng" : -110.9491816197085
+               },
+               "southwest" : {
+                  "lat" : 32.2304904197085,
+                  "lng" : -110.9518795802915
+               }
+            }
+         },
+         "place_id" : "ChIJJ8ZaAKpx1oYRdEXGIKdF2ek",
+         "plus_code" : {
+            "compound_code" : "62JX+PQ Tucson, Arizona, United States",
+            "global_code" : "854F62JX+PQ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1423",
+               "short_name" : "1423",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East University Boulevard",
+               "short_name" : "E University Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85719",
+               "short_name" : "85719",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1423 E University Blvd, Tucson, AZ 85719, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.2320596,
+               "lng" : -110.950238
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2334085802915,
+                  "lng" : -110.9488890197085
+               },
+               "southwest" : {
+                  "lat" : 32.2307106197085,
+                  "lng" : -110.9515869802915
+               }
+            }
+         },
+         "place_id" : "Ei0xNDIzIEUgVW5pdmVyc2l0eSBCbHZkLCBUdWNzb24sIEFaIDg1NzE5LCBVU0EiGxIZChQKEgnLuoD4qXHWhhH2DrktTD__UxCPCw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "85709",
+               "short_name" : "85709",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tucson, AZ 85709, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4544781,
+                  "lng" : -110.2440916
+               },
+               "southwest" : {
+                  "lat" : 31.5662096,
+                  "lng" : -112.0674721
+               }
+            },
+            "location" : {
+               "lat" : 32.2251978,
+               "lng" : -110.9838214
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4544781,
+                  "lng" : -110.2440916
+               },
+               "southwest" : {
+                  "lat" : 31.5662096,
+                  "lng" : -112.0674721
+               }
+            }
+         },
+         "place_id" : "ChIJLUFr6QBx1oYRGWTamidJRGk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pima County",
+               "short_name" : "Pima County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tucson, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.32016610000001,
+                  "lng" : -110.708204
+               },
+               "southwest" : {
+                  "lat" : 31.9916539,
+                  "lng" : -111.059406
+               }
+            },
+            "location" : {
+               "lat" : 32.2226066,
+               "lng" : -110.9747108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.32016610000001,
+                  "lng" : -110.708204
+               },
+               "southwest" : {
+                  "lat" : 31.9916539,
+                  "lng" : -111.059406
+               }
+            }
+         },
+         "place_id" : "ChIJK-0sC0Fl1oYRFccWTTgtw3M",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pima County",
+               "short_name" : "Pima County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pima County, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.514187,
+                  "lng" : -110.447318
+               },
+               "southwest" : {
+                  "lat" : 31.426075,
+                  "lng" : -113.334105
+               }
+            },
+            "location" : {
+               "lat" : 32.057499,
+               "lng" : -111.6660725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.514187,
+                  "lng" : -110.447318
+               },
+               "southwest" : {
+                  "lat" : 31.426075,
+                  "lng" : -113.334105
+               }
+            }
+         },
+         "place_id" : "ChIJe8JyMI_h1YYR2CMgyPALEJc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arizona",
+               "short_name" : "Arizona",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arizona, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0042599,
+                  "lng" : -109.0452231
+               },
+               "southwest" : {
+                  "lat" : 31.3321771,
+                  "lng" : -114.8165909
+               }
+            },
+            "location" : {
+               "lat" : 34.0489281,
+               "lng" : -111.0937311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0042599,
+                  "lng" : -109.0452231
+               },
+               "southwest" : {
+                  "lat" : 31.3321771,
+                  "lng" : -114.8165909
+               }
+            }
+         },
+         "place_id" : "ChIJaxhMy-sIK4cRcc3Bf7EnOUI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

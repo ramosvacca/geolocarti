@@ -1,0 +1,480 @@
+{
+   "plus_code" : {
+      "compound_code" : "6VHC+R2 Bangor, UK",
+      "global_code" : "9C5Q6VHC+R2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "College Road",
+               "short_name" : "College Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynedd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL57 2DG",
+               "short_name" : "LL57 2DG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "College Rd, Bangor LL57 2DG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2296485,
+                  "lng" : -4.130075
+               },
+               "southwest" : {
+                  "lat" : 53.2295658,
+                  "lng" : -4.1303987
+               }
+            },
+            "location" : {
+               "lat" : 53.2296072,
+               "lng" : -4.1302369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2309561302915,
+                  "lng" : -4.128887869708497
+               },
+               "southwest" : {
+                  "lat" : 53.2282581697085,
+                  "lng" : -4.131585830291502
+               }
+            }
+         },
+         "place_id" : "ChIJlVBupUsHZUgRGOfobmfO7FA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LL57 2DG",
+               "short_name" : "LL57 2DG",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynedd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor LL57 2DG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2300822,
+                  "lng" : -4.127263699999999
+               },
+               "southwest" : {
+                  "lat" : 53.2282183,
+                  "lng" : -4.1311724
+               }
+            },
+            "location" : {
+               "lat" : 53.22921909999999,
+               "lng" : -4.129498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2304992302915,
+                  "lng" : -4.127263699999999
+               },
+               "southwest" : {
+                  "lat" : 53.2278012697085,
+                  "lng" : -4.1311724
+               }
+            }
+         },
+         "place_id" : "ChIJbWeOs0sHZUgRoyHOhvGkvg4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynedd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2397909,
+                  "lng" : -4.108130099999999
+               },
+               "southwest" : {
+                  "lat" : 53.2048184,
+                  "lng" : -4.163452299999999
+               }
+            },
+            "location" : {
+               "lat" : 53.2273923,
+               "lng" : -4.1323626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2397909,
+                  "lng" : -4.108130099999999
+               },
+               "southwest" : {
+                  "lat" : 53.2048184,
+                  "lng" : -4.163452299999999
+               }
+            }
+         },
+         "place_id" : "ChIJGRaLhU8HZUgRb_hFxHbbrbs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynedd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2379055,
+                  "lng" : -4.1062198
+               },
+               "southwest" : {
+                  "lat" : 53.2039826,
+                  "lng" : -4.1791598
+               }
+            },
+            "location" : {
+               "lat" : 53.22739,
+               "lng" : -4.129263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2379055,
+                  "lng" : -4.1062198
+               },
+               "southwest" : {
+                  "lat" : 53.2039826,
+                  "lng" : -4.1791598
+               }
+            }
+         },
+         "place_id" : "ChIJ_zQzgLUAZUgRv06vzs7KqrA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL57",
+               "short_name" : "LL57",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Bangor LL57, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2377516,
+                  "lng" : -3.8929011
+               },
+               "southwest" : {
+                  "lat" : 53.1020352,
+                  "lng" : -4.210252
+               }
+            },
+            "location" : {
+               "lat" : 53.172245,
+               "lng" : -4.0098047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2377516,
+                  "lng" : -3.8929011
+               },
+               "southwest" : {
+                  "lat" : 53.1020352,
+                  "lng" : -4.210252
+               }
+            }
+         },
+         "place_id" : "ChIJz0g8xxIGZUgRZtUbmLycjH4",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LL57",
+               "short_name" : "LL57",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor LL57, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2377516,
+                  "lng" : -3.8929011
+               },
+               "southwest" : {
+                  "lat" : 53.1020352,
+                  "lng" : -4.210252
+               }
+            },
+            "location" : {
+               "lat" : 53.172245,
+               "lng" : -4.0098047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2377516,
+                  "lng" : -3.8929011
+               },
+               "southwest" : {
+                  "lat" : 53.1020352,
+                  "lng" : -4.210252
+               }
+            }
+         },
+         "place_id" : "ChIJ_zQzgLUAZUgRb3f2Vd7f8MA",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynedd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2810762,
+                  "lng" : -3.436765
+               },
+               "southwest" : {
+                  "lat" : 52.5346386,
+                  "lng" : -4.8043827
+               }
+            },
+            "location" : {
+               "lat" : 52.9277266,
+               "lng" : -4.1334836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2810762,
+                  "lng" : -3.436765
+               },
+               "southwest" : {
+                  "lat" : 52.5346386,
+                  "lng" : -4.8043827
+               }
+            }
+         },
+         "place_id" : "ChIJ7Q8cbLY0ZEgR_OasFAMbzuw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wales, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            },
+            "location" : {
+               "lat" : 52.1306607,
+               "lng" : -3.7837117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            }
+         },
+         "place_id" : "ChIJ7Q8cbLY0ZEgRouilirxxux4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

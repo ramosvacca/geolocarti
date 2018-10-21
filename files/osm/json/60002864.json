@@ -1,0 +1,255 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3302",
+               "short_name" : "3302",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Deán Funes",
+               "short_name" : "Deán Funes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mar del Plata",
+               "short_name" : "Mar del Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General Pueyrredón",
+               "short_name" : "Gral Pueyrredón",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "Buenos Aires",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B7602",
+               "short_name" : "B7602",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "AYL",
+               "short_name" : "AYL",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Deán Funes 3302, B7602AYL Mar del Plata, Buenos Aires, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -38.0050754,
+               "lng" : -57.57137939999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.0037264197085,
+                  "lng" : -57.57003041970849
+               },
+               "southwest" : {
+                  "lat" : -38.0064243802915,
+                  "lng" : -57.5727283802915
+               }
+            }
+         },
+         "place_id" : "EkFEZcOhbiBGdW5lcyAzMzAyLCBCNzYwMkFZTCBNYXIgZGVsIFBsYXRhLCBCdWVub3MgQWlyZXMsIEFyZ2VudGluYSIbEhkKFAoSCYU_7Re33oSVESy5LPaXaFd-EOYZ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mar del Plata",
+               "short_name" : "Mar del Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General Pueyrredón Partido",
+               "short_name" : "General Pueyrredón Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mar del Plata, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.908783,
+                  "lng" : -57.51795199999999
+               },
+               "southwest" : {
+                  "lat" : -38.1263503,
+                  "lng" : -57.68311610000001
+               }
+            },
+            "location" : {
+               "lat" : -38.0054771,
+               "lng" : -57.5426106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.908783,
+                  "lng" : -57.51795199999999
+               },
+               "southwest" : {
+                  "lat" : -38.1263503,
+                  "lng" : -57.68311610000001
+               }
+            }
+         },
+         "place_id" : "ChIJCULTGU3ZhJURJtH-S4Bwlt0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "General Pueyrredón Partido",
+               "short_name" : "General Pueyrredón Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "General Pueyrredón Partido, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.6976056,
+                  "lng" : -57.5176763
+               },
+               "southwest" : {
+                  "lat" : -38.24587289999999,
+                  "lng" : -58.0467964
+               }
+            },
+            "location" : {
+               "lat" : -37.9475294,
+               "lng" : -57.7799935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.6976056,
+                  "lng" : -57.5176763
+               },
+               "southwest" : {
+                  "lat" : -38.24587289999999,
+                  "lng" : -58.0467964
+               }
+            }
+         },
+         "place_id" : "ChIJic_Q_54vhZURLXNx6QUNbtI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.263335,
+                  "lng" : -56.6647663
+               },
+               "southwest" : {
+                  "lat" : -41.0404548,
+                  "lng" : -63.3926469
+               }
+            },
+            "location" : {
+               "lat" : -37.2017285,
+               "lng" : -59.84106969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.263335,
+                  "lng" : -56.6647663
+               },
+               "southwest" : {
+                  "lat" : -41.0404548,
+                  "lng" : -63.3926469
+               }
+            }
+         },
+         "place_id" : "ChIJ2YFSWbe87ZURRKHw3PwJ00o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            },
+            "location" : {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

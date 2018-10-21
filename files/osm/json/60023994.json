@@ -1,0 +1,578 @@
+{
+   "plus_code" : {
+      "compound_code" : "CGCQ+QR Secunderabad, Telangana, India",
+      "global_code" : "7J9WCGCQ+QR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500007",
+               "short_name" : "500007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Uppal Road, IICT Colony, Tarnaka, Hyderabad, Telangana 500007, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 17.4219634,
+               "lng" : 78.5395307
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4233123802915,
+                  "lng" : 78.5408796802915
+               },
+               "southwest" : {
+                  "lat" : 17.4206144197085,
+                  "lng" : 78.53818171970849
+               }
+            }
+         },
+         "place_id" : "ChIJWTGGAmeZyzsRw5nbFzWj7ho",
+         "plus_code" : {
+            "compound_code" : "CGCQ+QR Secunderabad, Telangana, India",
+            "global_code" : "7J9WCGCQ+QR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doctor Zaheer Marg",
+               "short_name" : "Dr Zaheer Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "IICT & IICT Colony",
+               "short_name" : "IICT & IICT Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "IICT Colony",
+               "short_name" : "IICT Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Tarnaka",
+               "short_name" : "Tarnaka",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500007",
+               "short_name" : "500007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dr Zaheer Marg, IICT & IICT Colony, IICT Colony, Tarnaka, Hyderabad, Telangana 500007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4230781,
+                  "lng" : 78.5408783
+               },
+               "southwest" : {
+                  "lat" : 17.4216411,
+                  "lng" : 78.5395539
+               }
+            },
+            "location" : {
+               "lat" : 17.4220735,
+               "lng" : 78.5400423
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4237085802915,
+                  "lng" : 78.54156508029152
+               },
+               "southwest" : {
+                  "lat" : 17.4210106197085,
+                  "lng" : 78.53886711970851
+               }
+            }
+         },
+         "place_id" : "ChIJCQj0VWaZyzsResd5F-7f_Jc",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doctor Zaheer Marg",
+               "short_name" : "Dr Zaheer Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "IICT & IICT Colony",
+               "short_name" : "IICT & IICT Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "IICT Colony",
+               "short_name" : "IICT Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Tarnaka",
+               "short_name" : "Tarnaka",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Secunderabad",
+               "short_name" : "SC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500007",
+               "short_name" : "500007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dr Zaheer Marg, IICT & IICT Colony, IICT Colony, Tarnaka, Secunderabad, Telangana 500007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4219996,
+                  "lng" : 78.539547
+               },
+               "southwest" : {
+                  "lat" : 17.421636,
+                  "lng" : 78.5392504
+               }
+            },
+            "location" : {
+               "lat" : 17.4218178,
+               "lng" : 78.53939869999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.42316678029151,
+                  "lng" : 78.5407476802915
+               },
+               "southwest" : {
+                  "lat" : 17.4204688197085,
+                  "lng" : 78.5380497197085
+               }
+            }
+         },
+         "place_id" : "ChIJjzpeXGaZyzsRZOCtTRR8zlY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "IICT Colony",
+               "short_name" : "IICT Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Tarnaka",
+               "short_name" : "Tarnaka",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Secunderabad",
+               "short_name" : "SC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "IICT Colony, Tarnaka, Secunderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.426822,
+                  "lng" : 78.545337
+               },
+               "southwest" : {
+                  "lat" : 17.419009,
+                  "lng" : 78.53577709999999
+               }
+            },
+            "location" : {
+               "lat" : 17.4231896,
+               "lng" : 78.5412403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.426822,
+                  "lng" : 78.545337
+               },
+               "southwest" : {
+                  "lat" : 17.419009,
+                  "lng" : 78.53577709999999
+               }
+            }
+         },
+         "place_id" : "ChIJR-uKMl2ZyzsRyHccx8epLjE",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarnaka",
+               "short_name" : "Tarnaka",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Secunderabad",
+               "short_name" : "SC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarnaka, Secunderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4349311,
+                  "lng" : 78.5502699
+               },
+               "southwest" : {
+                  "lat" : 17.419009,
+                  "lng" : 78.52574709999999
+               }
+            },
+            "location" : {
+               "lat" : 17.4283104,
+               "lng" : 78.5386101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4349311,
+                  "lng" : 78.5502699
+               },
+               "southwest" : {
+                  "lat" : 17.419009,
+                  "lng" : 78.52574709999999
+               }
+            }
+         },
+         "place_id" : "ChIJERVNnWCZyzsRvS237VGZ15g",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "500007",
+               "short_name" : "500007",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hyderabad, Telangana 500007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4351123,
+                  "lng" : 78.5565539
+               },
+               "southwest" : {
+                  "lat" : 17.3995271,
+                  "lng" : 78.5162421
+               }
+            },
+            "location" : {
+               "lat" : 17.4176446,
+               "lng" : 78.5431066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4351123,
+                  "lng" : 78.5565539
+               },
+               "southwest" : {
+                  "lat" : 17.3995271,
+                  "lng" : 78.5162421
+               }
+            }
+         },
+         "place_id" : "ChIJx0qlPW-ZyzsRR0d-ehKqGU8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hyderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.52701,
+                  "lng" : 78.55109
+               },
+               "southwest" : {
+                  "lat" : 17.29111,
+                  "lng" : 78.3640099
+               }
+            },
+            "location" : {
+               "lat" : 17.4027421,
+               "lng" : 78.4524591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.52701,
+                  "lng" : 78.55109
+               },
+               "southwest" : {
+                  "lat" : 17.29111,
+                  "lng" : 78.3640099
+               }
+            }
+         },
+         "place_id" : "ChIJx9Lr6tqZyzsRMyOXJZHL34s",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Secunderabad",
+               "short_name" : "Secunderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Secunderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.6552887,
+                  "lng" : 78.6768359
+               },
+               "southwest" : {
+                  "lat" : 17.4188692,
+                  "lng" : 78.46588849999999
+               }
+            },
+            "location" : {
+               "lat" : 17.4399295,
+               "lng" : 78.4982741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.6552887,
+                  "lng" : 78.6768359
+               },
+               "southwest" : {
+                  "lat" : 17.4188692,
+                  "lng" : 78.46588849999999
+               }
+            }
+         },
+         "place_id" : "ChIJKV0lSK2EyzsRMzSbmRqEEAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.916715,
+                  "lng" : 81.3075465
+               },
+               "southwest" : {
+                  "lat" : 15.83535,
+                  "lng" : 77.23791299999999
+               }
+            },
+            "location" : {
+               "lat" : 18.1124372,
+               "lng" : 79.01929969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.916715,
+                  "lng" : 81.3075465
+               },
+               "southwest" : {
+                  "lat" : 15.83535,
+                  "lng" : 77.23791299999999
+               }
+            }
+         },
+         "place_id" : "ChIJQ-0plNtQMzoRWUBZQad772M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

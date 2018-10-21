@@ -1,0 +1,427 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "246",
+               "short_name" : "246",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Place",
+               "short_name" : "University Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastside",
+               "short_name" : "Eastside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Syracuse",
+               "short_name" : "Syracuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13210",
+               "short_name" : "13210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "246 University Pl, Syracuse, NY 13210, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.03942079999999,
+               "lng" : -76.13545119999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.04076978029149,
+                  "lng" : -76.1341022197085
+               },
+               "southwest" : {
+                  "lat" : 43.03807181970849,
+                  "lng" : -76.1368001802915
+               }
+            }
+         },
+         "place_id" : "EioyNDYgVW5pdmVyc2l0eSBQbCwgU3lyYWN1c2UsIE5ZIDEzMjEwLCBVU0EiGxIZChQKEgkRN8l0n_PZiRFWAsstGWNOFxD2AQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastside",
+               "short_name" : "Eastside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Syracuse",
+               "short_name" : "Syracuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "De Witt",
+               "short_name" : "De Witt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastside, Syracuse, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.059666,
+                  "lng" : -76.07424379999999
+               },
+               "southwest" : {
+                  "lat" : 42.9996659,
+                  "lng" : -76.144446
+               }
+            },
+            "location" : {
+               "lat" : 43.0347064,
+               "lng" : -76.1261969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.059666,
+                  "lng" : -76.07424379999999
+               },
+               "southwest" : {
+                  "lat" : 42.9996659,
+                  "lng" : -76.144446
+               }
+            }
+         },
+         "place_id" : "ChIJlfyBL2jz2YkR7sjX7ltV1GY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syracuse",
+               "short_name" : "Syracuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syracuse, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0861018,
+                  "lng" : -76.07408409999999
+               },
+               "southwest" : {
+                  "lat" : 42.984366,
+                  "lng" : -76.20447600000001
+               }
+            },
+            "location" : {
+               "lat" : 43.0481221,
+               "lng" : -76.14742439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0861018,
+                  "lng" : -76.07408409999999
+               },
+               "southwest" : {
+                  "lat" : 42.984366,
+                  "lng" : -76.20447600000001
+               }
+            }
+         },
+         "place_id" : "ChIJDZqXv5vz2YkRRZWt1-IM1QA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13210",
+               "short_name" : "13210",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Syracuse",
+               "short_name" : "Syracuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syracuse, NY 13210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.05781289999999,
+                  "lng" : -76.103905
+               },
+               "southwest" : {
+                  "lat" : 43.00486799999999,
+                  "lng" : -76.1440448
+               }
+            },
+            "location" : {
+               "lat" : 43.0347064,
+               "lng" : -76.1261969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.05781289999999,
+                  "lng" : -76.103905
+               },
+               "southwest" : {
+                  "lat" : 43.00486799999999,
+                  "lng" : -76.1440448
+               }
+            }
+         },
+         "place_id" : "ChIJlfyBL2jz2YkRdkgKZMH86N0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Onondaga County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.271605,
+                  "lng" : -75.89607889999999
+               },
+               "southwest" : {
+                  "lat" : 42.7712569,
+                  "lng" : -76.499324
+               }
+            },
+            "location" : {
+               "lat" : 43.026819,
+               "lng" : -76.17837390000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.271605,
+                  "lng" : -75.89607889999999
+               },
+               "southwest" : {
+                  "lat" : 42.7712569,
+                  "lng" : -76.499324
+               }
+            }
+         },
+         "place_id" : "ChIJNf-jRf702YkRWbJ48qyiSrI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syracuse, NY",
+               "short_name" : "Syracuse, NY",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syracuse, NY, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7070179,
+                  "lng" : -75.23997199999999
+               },
+               "southwest" : {
+                  "lat" : 42.723844,
+                  "lng" : -76.61704779999999
+               }
+            },
+            "location" : {
+               "lat" : 43.114397,
+               "lng" : -76.2710833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7070179,
+                  "lng" : -75.23997199999999
+               },
+               "southwest" : {
+                  "lat" : 42.723844,
+                  "lng" : -76.61704779999999
+               }
+            }
+         },
+         "place_id" : "ChIJG1ByhoST2YkRpx440X2eFGo",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

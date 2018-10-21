@@ -1,0 +1,461 @@
+{
+   "plus_code" : {
+      "compound_code" : "WX33+X6 Chapel Hill, NC, USA",
+      "global_code" : "8772WX33+X6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morrison Residence Hall",
+               "short_name" : "Morrison Residence Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "445",
+               "short_name" : "445",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Paul Hardin Drive",
+               "short_name" : "Paul Hardin Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27514",
+               "short_name" : "27514",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Morrison Residence Hall, 445 Paul Hardin Dr, Chapel Hill, NC 27514, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9049224,
+                  "lng" : -79.04577569999999
+               },
+               "southwest" : {
+                  "lat" : 35.9041039,
+                  "lng" : -79.0466393
+               }
+            },
+            "location" : {
+               "lat" : 35.9044505,
+               "lng" : -79.0462187
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9058621302915,
+                  "lng" : -79.0448585197085
+               },
+               "southwest" : {
+                  "lat" : 35.9031641697085,
+                  "lng" : -79.0475564802915
+               }
+            }
+         },
+         "place_id" : "ChIJRQYcyu3CrIkRIn6PvBqXdtM",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27514",
+               "short_name" : "27514",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Chapel Hill, NC 27514, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9048843,
+                  "lng" : -79.04677629999999
+               },
+               "southwest" : {
+                  "lat" : 35.9048164,
+                  "lng" : -79.04697829999999
+               }
+            },
+            "location" : {
+               "lat" : 35.9048504,
+               "lng" : -79.04687729999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9061993302915,
+                  "lng" : -79.04552831970848
+               },
+               "southwest" : {
+                  "lat" : 35.9035013697085,
+                  "lng" : -79.0482262802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0d2t0u3CrIkRkt1fJVchC1w",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "27514",
+               "short_name" : "27514",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapel Hill, NC 27514, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.040617,
+                  "lng" : -79.000325
+               },
+               "southwest" : {
+                  "lat" : 35.8781439,
+                  "lng" : -79.08076989999999
+               }
+            },
+            "location" : {
+               "lat" : 35.9722081,
+               "lng" : -79.04755589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.040617,
+                  "lng" : -79.000325
+               },
+               "southwest" : {
+                  "lat" : 35.8781439,
+                  "lng" : -79.08076989999999
+               }
+            }
+         },
+         "place_id" : "ChIJ74Zks2jCrIkRUtUnd9ZxFxY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapel Hill, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.972366,
+                  "lng" : -78.9954109
+               },
+               "southwest" : {
+                  "lat" : 35.869552,
+                  "lng" : -79.08317099999999
+               }
+            },
+            "location" : {
+               "lat" : 35.9131996,
+               "lng" : -79.05584450000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.972366,
+                  "lng" : -78.9954109
+               },
+               "southwest" : {
+                  "lat" : 35.869552,
+                  "lng" : -79.08317099999999
+               }
+            }
+         },
+         "place_id" : "ChIJp35uIRzDrIkRy-RDBOC6A38",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapel Hill, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0317,
+                  "lng" : -78.987121
+               },
+               "southwest" : {
+                  "lat" : 35.8606679,
+                  "lng" : -79.148578
+               }
+            },
+            "location" : {
+               "lat" : 35.9791445,
+               "lng" : -79.06450559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0317,
+                  "lng" : -78.987121
+               },
+               "southwest" : {
+                  "lat" : 35.8606679,
+                  "lng" : -79.148578
+               }
+            }
+         },
+         "place_id" : "ChIJzdWC-9bcrIkRm87x5L6hBl0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orange County, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.243866,
+                  "lng" : -78.95079
+               },
+               "southwest" : {
+                  "lat" : 35.8606679,
+                  "lng" : -79.264594
+               }
+            },
+            "location" : {
+               "lat" : 36.0263022,
+               "lng" : -79.10969009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.243866,
+                  "lng" : -78.95079
+               },
+               "southwest" : {
+                  "lat" : 35.8606679,
+                  "lng" : -79.264594
+               }
+            }
+         },
+         "place_id" : "ChIJEejT22XdrIkRPupCdcVJt0k",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "North Carolina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Carolina, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5881568,
+                  "lng" : -75.400119
+               },
+               "southwest" : {
+                  "lat" : 33.7528778,
+                  "lng" : -84.32186899999999
+               }
+            },
+            "location" : {
+               "lat" : 35.7595731,
+               "lng" : -79.01929969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5881568,
+                  "lng" : -75.400119
+               },
+               "southwest" : {
+                  "lat" : 33.7528778,
+                  "lng" : -84.32186899999999
+               }
+            }
+         },
+         "place_id" : "ChIJgRo4_MQfVIgRGa4i6fUwP60",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

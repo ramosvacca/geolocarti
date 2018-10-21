@@ -1,0 +1,577 @@
+{
+   "plus_code" : {
+      "compound_code" : "V8CG+CQ Chicago, IL, USA",
+      "global_code" : "86HJV8CG+CQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1835",
+               "short_name" : "1835",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Polk Street",
+               "short_name" : "W Polk St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Illinois Medical District",
+               "short_name" : "Illinois Medical District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60612",
+               "short_name" : "60612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1835 W Polk St, Chicago, IL 60612, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.871027,
+               "lng" : -87.673028
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8723759802915,
+                  "lng" : -87.67167901970851
+               },
+               "southwest" : {
+                  "lat" : 41.8696780197085,
+                  "lng" : -87.67437698029151
+               }
+            }
+         },
+         "place_id" : "ChIJH8LX_RMtDogRJ1XomtBH9e4",
+         "plus_code" : {
+            "compound_code" : "V8CG+CQ Chicago, Illinois, United States",
+            "global_code" : "86HJV8CG+CQ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "840",
+               "short_name" : "840",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Wood Street",
+               "short_name" : "S Wood St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Illinois Medical District",
+               "short_name" : "Illinois Medical District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60612",
+               "short_name" : "60612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "840 S Wood St, Chicago, IL 60612, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8714135,
+                  "lng" : -87.6715789
+               },
+               "southwest" : {
+                  "lat" : 41.8701073,
+                  "lng" : -87.6735709
+               }
+            },
+            "location" : {
+               "lat" : 41.8707846,
+               "lng" : -87.6723681
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8721093802915,
+                  "lng" : -87.67122591970849
+               },
+               "southwest" : {
+                  "lat" : 41.8694114197085,
+                  "lng" : -87.6739238802915
+               }
+            }
+         },
+         "place_id" : "ChIJ5eoRUxEtDogRyCiocEI2wMo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1869",
+               "short_name" : "1869",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Polk Street",
+               "short_name" : "W Polk St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60612",
+               "short_name" : "60612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1869 W Polk St, Chicago, IL 60612, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8715334,
+               "lng" : -87.6730441
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.87288238029151,
+                  "lng" : -87.6716951197085
+               },
+               "southwest" : {
+                  "lat" : 41.87018441970851,
+                  "lng" : -87.67439308029151
+               }
+            }
+         },
+         "place_id" : "EiYxODY5IFcgUG9sayBTdCwgQ2hpY2FnbywgSUwgNjA2MTIsIFVTQSIbEhkKFAoSCeN5IgEULQ6IEX6Z5OjTBTOzEM0O",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1200",
+               "short_name" : "1200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Harrison Street",
+               "short_name" : "W Harrison St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Near West Side",
+               "short_name" : "Near West Side",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60607",
+               "short_name" : "60607",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1200 W Harrison St, Chicago, IL 60607, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8693039,
+               "lng" : -87.64745019999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8706528802915,
+                  "lng" : -87.64610121970848
+               },
+               "southwest" : {
+                  "lat" : 41.8679549197085,
+                  "lng" : -87.6487991802915
+               }
+            }
+         },
+         "place_id" : "ChIJu8KXH-AsDogR3Nzbopo-A6Y",
+         "plus_code" : {
+            "compound_code" : "V993+P2 Chicago, Illinois, United States",
+            "global_code" : "86HJV993+P2"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Illinois Medical District",
+               "short_name" : "Illinois Medical District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Illinois Medical District, Chicago, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8755366,
+                  "lng" : -87.66626199999999
+               },
+               "southwest" : {
+                  "lat" : 41.8613783,
+                  "lng" : -87.68379969999999
+               }
+            },
+            "location" : {
+               "lat" : 41.86849429999999,
+               "lng" : -87.67397489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8755366,
+                  "lng" : -87.66626199999999
+               },
+               "southwest" : {
+                  "lat" : 41.8613783,
+                  "lng" : -87.68379969999999
+               }
+            }
+         },
+         "place_id" : "ChIJE3J6nRItDogRkcOcuJw2teg",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60612",
+               "short_name" : "60612",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chicago, IL 60612, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8959119,
+                  "lng" : -87.66645699999999
+               },
+               "southwest" : {
+                  "lat" : 41.8625471,
+                  "lng" : -87.711871
+               }
+            },
+            "location" : {
+               "lat" : 41.8816606,
+               "lng" : -87.69262569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8959119,
+                  "lng" : -87.66645699999999
+               },
+               "southwest" : {
+                  "lat" : 41.8625471,
+                  "lng" : -87.711871
+               }
+            }
+         },
+         "place_id" : "ChIJ7bQ2Q0EtDogRGeoT49ZYrho",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chicago, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.023131,
+                  "lng" : -87.52366099999999
+               },
+               "southwest" : {
+                  "lat" : 41.6443349,
+                  "lng" : -87.9402669
+               }
+            },
+            "location" : {
+               "lat" : 41.8781136,
+               "lng" : -87.6297982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.023131,
+                  "lng" : -87.52366099999999
+               },
+               "southwest" : {
+                  "lat" : 41.6443349,
+                  "lng" : -87.9402669
+               }
+            }
+         },
+         "place_id" : "ChIJ7cv00DwsDogRAMDACa2m4K8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cook County, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1543239,
+                  "lng" : -87.1111619
+               },
+               "southwest" : {
+                  "lat" : 41.46953389999999,
+                  "lng" : -88.2634779
+               }
+            },
+            "location" : {
+               "lat" : 41.7376587,
+               "lng" : -87.697554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1543239,
+                  "lng" : -87.1111619
+               },
+               "southwest" : {
+                  "lat" : 41.46953389999999,
+                  "lng" : -88.2634779
+               }
+            }
+         },
+         "place_id" : "ChIJdRNDZqqxD4gRPOAOIwnX2Yo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Illinois",
+               "short_name" : "Illinois",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Illinois, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            },
+            "location" : {
+               "lat" : 40.6331249,
+               "lng" : -89.3985283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            }
+         },
+         "place_id" : "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

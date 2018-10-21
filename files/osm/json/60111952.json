@@ -1,0 +1,513 @@
+{
+   "plus_code" : {
+      "compound_code" : "FMFX+QF Salford, UK",
+      "global_code" : "9C5VFMFX+QF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M50 2UW",
+               "short_name" : "M50 2UW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "128 Metroplex Business Park, Broadway, MediaCityUK, Salford M50 2UW, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4744879,
+               "lng" : -2.3012767
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4758368802915,
+                  "lng" : -2.299927719708498
+               },
+               "southwest" : {
+                  "lat" : 53.4731389197085,
+                  "lng" : -2.302625680291502
+               }
+            }
+         },
+         "place_id" : "ChIJS7VrfWque0gR1NqTTNfvZKM",
+         "plus_code" : {
+            "compound_code" : "FMFX+QF Salford, United Kingdom",
+            "global_code" : "9C5VFMFX+QF"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "130",
+               "short_name" : "130",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M50 2EQ",
+               "short_name" : "M50 2EQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "130 Broadway, Salford M50 2EQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4738662,
+               "lng" : -2.3017403
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4752151802915,
+                  "lng" : -2.300391319708498
+               },
+               "southwest" : {
+                  "lat" : 53.4725172197085,
+                  "lng" : -2.303089280291502
+               }
+            }
+         },
+         "place_id" : "EiExMzAgQnJvYWR3YXksIFNhbGZvcmQgTTUwIDJFUSwgVUsiGxIZChQKEgnfttZhaK57SBHVzOozAB2KZBCCAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M50 2GE",
+               "short_name" : "M50 2GE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford M50 2GE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.476731,
+                  "lng" : -2.2988439
+               },
+               "southwest" : {
+                  "lat" : 53.4739036,
+                  "lng" : -2.3030377
+               }
+            },
+            "location" : {
+               "lat" : 53.4763439,
+               "lng" : -2.2997746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.476731,
+                  "lng" : -2.2988439
+               },
+               "southwest" : {
+                  "lat" : 53.4739036,
+                  "lng" : -2.3030377
+               }
+            }
+         },
+         "place_id" : "ChIJJetr12mue0gRYvL0ctugVak",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M50",
+               "short_name" : "M50",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford M50, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4853294,
+                  "lng" : -2.2797878
+               },
+               "southwest" : {
+                  "lat" : 53.46584619999999,
+                  "lng" : -2.3311568
+               }
+            },
+            "location" : {
+               "lat" : 53.4739926,
+               "lng" : -2.2937409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4853294,
+                  "lng" : -2.2797878
+               },
+               "southwest" : {
+                  "lat" : 53.46584619999999,
+                  "lng" : -2.3311568
+               }
+            }
+         },
+         "place_id" : "ChIJ1aSuXhGue0gRPazPFc45oGo",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.51842809999999,
+                  "lng" : -2.2451382
+               },
+               "southwest" : {
+                  "lat" : 53.4648608,
+                  "lng" : -2.3310829
+               }
+            },
+            "location" : {
+               "lat" : 53.48752349999999,
+               "lng" : -2.2901264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51842809999999,
+                  "lng" : -2.2451382
+               },
+               "southwest" : {
+                  "lat" : 53.4648608,
+                  "lng" : -2.3310829
+               }
+            }
+         },
+         "place_id" : "ChIJEVdF_g2ue0gRFtj1WL_-9G0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5183844,
+                  "lng" : -2.2446742
+               },
+               "southwest" : {
+                  "lat" : 53.46493719999999,
+                  "lng" : -2.3311568
+               }
+            },
+            "location" : {
+               "lat" : 53.48780439999999,
+               "lng" : -2.2784557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5183844,
+                  "lng" : -2.2446742
+               },
+               "southwest" : {
+                  "lat" : 53.46493719999999,
+                  "lng" : -2.3311568
+               }
+            }
+         },
+         "place_id" : "ChIJD9y18jaue0gRPRQglU-_4jA",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford District",
+               "short_name" : "Salford District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5421225,
+                  "lng" : -2.2451065
+               },
+               "southwest" : {
+                  "lat" : 53.41587500000001,
+                  "lng" : -2.4897313
+               }
+            },
+            "location" : {
+               "lat" : 53.4857577,
+               "lng" : -2.3835945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5421225,
+                  "lng" : -2.2451065
+               },
+               "southwest" : {
+                  "lat" : 53.41587500000001,
+                  "lng" : -2.4897313
+               }
+            }
+         },
+         "place_id" : "ChIJP5NeEsuue0gRsDNpWLxiEAQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater Manchester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6857188,
+                  "lng" : -1.9096223
+               },
+               "southwest" : {
+                  "lat" : 53.3272977,
+                  "lng" : -2.7305208
+               }
+            },
+            "location" : {
+               "lat" : 53.4575955,
+               "lng" : -2.1578377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6857188,
+                  "lng" : -1.9096223
+               },
+               "southwest" : {
+                  "lat" : 53.3272977,
+                  "lng" : -2.7305208
+               }
+            }
+         },
+         "place_id" : "ChIJsS6I01Sme0gRgYDGISLYxyw",
+         "types" : [ "administrative_area_level_2", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

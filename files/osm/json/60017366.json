@@ -1,0 +1,402 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1101",
+               "short_name" : "1101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kitchawan Road",
+               "short_name" : "Kitchawan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ossining",
+               "short_name" : "Ossining",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yorktown",
+               "short_name" : "Yorktown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10562",
+               "short_name" : "10562",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1101 Kitchawan Rd, Ossining, NY 10562, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.2111258,
+               "lng" : -73.8022921
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.21247478029149,
+                  "lng" : -73.80094311970849
+               },
+               "southwest" : {
+                  "lat" : 41.2097768197085,
+                  "lng" : -73.80364108029151
+               }
+            }
+         },
+         "place_id" : "ChIJswSxLFC4wokRoIjQZMBLSvE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10562",
+               "short_name" : "10562",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ossining",
+               "short_name" : "Ossining",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ossining, NY 10562, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.237598,
+                  "lng" : -73.765844
+               },
+               "southwest" : {
+                  "lat" : 41.138295,
+                  "lng" : -73.899681
+               }
+            },
+            "location" : {
+               "lat" : 41.1795084,
+               "lng" : -73.8536683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.237598,
+                  "lng" : -73.765844
+               },
+               "southwest" : {
+                  "lat" : 41.138295,
+                  "lng" : -73.899681
+               }
+            }
+         },
+         "place_id" : "ChIJX1U4PZS4wokRARn8hn2v-fw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yorktown",
+               "short_name" : "Yorktown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yorktown, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.342492,
+                  "lng" : -73.75498089999999
+               },
+               "southwest" : {
+                  "lat" : 41.2031651,
+                  "lng" : -73.86201
+               }
+            },
+            "location" : {
+               "lat" : 41.2625965,
+               "lng" : -73.8183804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.342492,
+                  "lng" : -73.75498089999999
+               },
+               "southwest" : {
+                  "lat" : 41.2031651,
+                  "lng" : -73.86201
+               }
+            }
+         },
+         "place_id" : "ChIJcyHfa5C3wokRnAskrcOQjKA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westchester County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.366375,
+                  "lng" : -73.48270909999999
+               },
+               "southwest" : {
+                  "lat" : 40.871721,
+                  "lng" : -73.98328409999999
+               }
+            },
+            "location" : {
+               "lat" : 41.1220194,
+               "lng" : -73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.366375,
+                  "lng" : -73.48270909999999
+               },
+               "southwest" : {
+                  "lat" : 40.871721,
+                  "lng" : -73.98328409999999
+               }
+            }
+         },
+         "place_id" : "ChIJr1lrnWrJwokRidu9ImLYDjc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York-Northern New Jersey-Long Island, NY-NJ-PA",
+               "short_name" : "New York-Northern New Jersey-Long Island, NY-NJ-PA",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York-Northern New Jersey-Long Island, NY-NJ-PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6018065,
+                  "lng" : -71.85621399999999
+               },
+               "southwest" : {
+                  "lat" : 39.49853299999999,
+                  "lng" : -75.3585939
+               }
+            },
+            "location" : {
+               "lat" : 40.9590293,
+               "lng" : -74.0300122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6018065,
+                  "lng" : -71.85621399999999
+               },
+               "southwest" : {
+                  "lat" : 39.49853299999999,
+                  "lng" : -75.3585939
+               }
+            }
+         },
+         "place_id" : "ChIJ3YJV4PRWwokRFFI21ZrHXtQ",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York Metropolitan Area",
+               "short_name" : "New York Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York Metropolitan Area, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0809059,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 39.475198,
+                  "lng" : -75.3587649
+               }
+            },
+            "location" : {
+               "lat" : 40.7127761,
+               "lng" : -74.00595439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0809059,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 39.475198,
+                  "lng" : -75.3587649
+               }
+            }
+         },
+         "place_id" : "ChIJ-5Z24NaGwokRiMh4Rj8FNMo",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

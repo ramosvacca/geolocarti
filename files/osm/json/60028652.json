@@ -1,0 +1,460 @@
+{
+   "plus_code" : {
+      "compound_code" : "V4M8+CP Research Triangle Park, Durham, NC, USA",
+      "global_code" : "8773V4M8+CP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "TW Alexander Drive",
+               "short_name" : "TW Alexander Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Research Triangle Park",
+               "short_name" : "RTP",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Triangle",
+               "short_name" : "Triangle",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham County",
+               "short_name" : "Durham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27709",
+               "short_name" : "27709",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "111 TW Alexander Dr, Durham, NC 27709, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.8835576,
+               "lng" : -78.8831335
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.88490658029149,
+                  "lng" : -78.8817845197085
+               },
+               "southwest" : {
+                  "lat" : 35.88220861970849,
+                  "lng" : -78.88448248029151
+               }
+            }
+         },
+         "place_id" : "ChIJAQAAQK7vrIkR8H27vDiyIVU",
+         "plus_code" : {
+            "compound_code" : "V4M8+CP Research Triangle Park, Durham, NC, United States",
+            "global_code" : "8773V4M8+CP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Environmental Parkway",
+               "short_name" : "Environmental Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Research Triangle Park",
+               "short_name" : "RTP",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Triangle",
+               "short_name" : "Triangle",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham County",
+               "short_name" : "Durham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27713",
+               "short_name" : "27713",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Environmental Pkwy, Durham, NC 27713, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.883799,
+                  "lng" : -78.88321979999999
+               },
+               "southwest" : {
+                  "lat" : 35.8834853,
+                  "lng" : -78.8835059
+               }
+            },
+            "location" : {
+               "lat" : 35.8836422,
+               "lng" : -78.8833628
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8849911302915,
+                  "lng" : -78.88201386970849
+               },
+               "southwest" : {
+                  "lat" : 35.8822931697085,
+                  "lng" : -78.88471183029151
+               }
+            }
+         },
+         "place_id" : "ChIJq_qSfgfvrIkRyEmiTVh02xs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Research Triangle Park",
+               "short_name" : "Research Triangle Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Triangle",
+               "short_name" : "Triangle",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham County",
+               "short_name" : "Durham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Research Triangle Park, Durham, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9438369,
+                  "lng" : -78.8495411
+               },
+               "southwest" : {
+                  "lat" : 35.86738,
+                  "lng" : -78.89018799999999
+               }
+            },
+            "location" : {
+               "lat" : 35.8991678,
+               "lng" : -78.86364019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9438369,
+                  "lng" : -78.8495411
+               },
+               "southwest" : {
+                  "lat" : 35.86738,
+                  "lng" : -78.89018799999999
+               }
+            }
+         },
+         "place_id" : "ChIJg0bJTpDvrIkRzLsntbr-LiA",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "27713",
+               "short_name" : "27713",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham, NC 27713, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0679369,
+                  "lng" : -78.864153
+               },
+               "southwest" : {
+                  "lat" : 35.8285008,
+                  "lng" : -78.98287909999999
+               }
+            },
+            "location" : {
+               "lat" : 35.890231,
+               "lng" : -78.91750879999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0679369,
+                  "lng" : -78.864153
+               },
+               "southwest" : {
+                  "lat" : 35.8285008,
+                  "lng" : -78.98287909999999
+               }
+            }
+         },
+         "place_id" : "ChIJAbLr1MrorIkRuHrK95PbzB8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Triangle",
+               "short_name" : "Triangle",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham County",
+               "short_name" : "Durham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Triangle, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0225749,
+                  "lng" : -78.8078598
+               },
+               "southwest" : {
+                  "lat" : 35.8632009,
+                  "lng" : -79.016699
+               }
+            },
+            "location" : {
+               "lat" : 35.8999418,
+               "lng" : -78.9061921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0225749,
+                  "lng" : -78.8078598
+               },
+               "southwest" : {
+                  "lat" : 35.8632009,
+                  "lng" : -79.016699
+               }
+            }
+         },
+         "place_id" : "ChIJzzfc8OnlrIkRLp0hN6jDSDk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durham County",
+               "short_name" : "Durham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham County, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2395401,
+                  "lng" : -78.69793
+               },
+               "southwest" : {
+                  "lat" : 35.8632009,
+                  "lng" : -79.016699
+               }
+            },
+            "location" : {
+               "lat" : 36.0221805,
+               "lng" : -78.9031279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2395401,
+                  "lng" : -78.69793
+               },
+               "southwest" : {
+                  "lat" : 35.8632009,
+                  "lng" : -79.016699
+               }
+            }
+         },
+         "place_id" : "ChIJLdauxjzprIkRVFeQLhVUJCQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "North Carolina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Carolina, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5881568,
+                  "lng" : -75.400119
+               },
+               "southwest" : {
+                  "lat" : 33.7528778,
+                  "lng" : -84.32186899999999
+               }
+            },
+            "location" : {
+               "lat" : 35.7595731,
+               "lng" : -79.01929969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5881568,
+                  "lng" : -75.400119
+               },
+               "southwest" : {
+                  "lat" : 33.7528778,
+                  "lng" : -84.32186899999999
+               }
+            }
+         },
+         "place_id" : "ChIJgRo4_MQfVIgRGa4i6fUwP60",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

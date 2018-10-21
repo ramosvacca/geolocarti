@@ -1,0 +1,558 @@
+{
+   "plus_code" : {
+      "compound_code" : "FQWP+FP Cardiff, UK",
+      "global_code" : "9C3RFQWP+FP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llandaff Campus",
+               "short_name" : "Llandaff Campus",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Western Avenue",
+               "short_name" : "Western Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF5 2YB",
+               "short_name" : "CF5 2YB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llandaff Campus, 200 Western Ave, Cardiff CF5 2YB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.49623219999999,
+               "lng" : -3.2131349
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4975811802915,
+                  "lng" : -3.211785919708498
+               },
+               "southwest" : {
+                  "lat" : 51.4948832197085,
+                  "lng" : -3.214483880291502
+               }
+            }
+         },
+         "place_id" : "ChIJ7z5d08ccbkgRdo7RMMEl_lo",
+         "plus_code" : {
+            "compound_code" : "FQWP+FP Cardiff, United Kingdom",
+            "global_code" : "9C3RFQWP+FP"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF5 2YB",
+               "short_name" : "CF5 2YB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Cardiff CF5 2YB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.49688159999999,
+                  "lng" : -3.2119934
+               },
+               "southwest" : {
+                  "lat" : 51.4961857,
+                  "lng" : -3.2136154
+               }
+            },
+            "location" : {
+               "lat" : 51.4965336,
+               "lng" : -3.2128044
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49788263029149,
+                  "lng" : -3.211455419708498
+               },
+               "southwest" : {
+                  "lat" : 51.49518466970849,
+                  "lng" : -3.214153380291501
+               }
+            }
+         },
+         "place_id" : "ChIJtb_BOmkbbkgRzmuNb4KGtdo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CF5 2YB",
+               "short_name" : "CF5 2YB",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Western Avenue",
+               "short_name" : "Western Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Ave, Cardiff CF5 2YB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4980327,
+                  "lng" : -3.2103381
+               },
+               "southwest" : {
+                  "lat" : 51.4951498,
+                  "lng" : -3.2151019
+               }
+            },
+            "location" : {
+               "lat" : 51.4958312,
+               "lng" : -3.2120957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4980327,
+                  "lng" : -3.2103381
+               },
+               "southwest" : {
+                  "lat" : 51.4951498,
+                  "lng" : -3.2151019
+               }
+            }
+         },
+         "place_id" : "ChIJDw1jGWkbbkgRSYNLyz7cgNk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llandaff",
+               "short_name" : "Llandaff",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF5",
+               "short_name" : "CF5",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Llandaff, Cardiff CF5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5090574,
+                  "lng" : -3.2066723
+               },
+               "southwest" : {
+                  "lat" : 51.4868843,
+                  "lng" : -3.2494048
+               }
+            },
+            "location" : {
+               "lat" : 51.4944589,
+               "lng" : -3.2239582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5090574,
+                  "lng" : -3.2066723
+               },
+               "southwest" : {
+                  "lat" : 51.4868843,
+                  "lng" : -3.2494048
+               }
+            }
+         },
+         "place_id" : "ChIJGVp4XBEbbkgRKINPBnzyXOs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiff, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5609063,
+                  "lng" : -3.1164374
+               },
+               "southwest" : {
+                  "lat" : 51.4435752,
+                  "lng" : -3.2823817
+               }
+            },
+            "location" : {
+               "lat" : 51.48158100000001,
+               "lng" : -3.17909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5609063,
+                  "lng" : -3.1164374
+               },
+               "southwest" : {
+                  "lat" : 51.4435752,
+                  "lng" : -3.2823817
+               }
+            }
+         },
+         "place_id" : "ChIJ9VPsNNQCbkgRDmeGZdsGNBQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CF5",
+               "short_name" : "CF5",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiff CF5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5176065,
+                  "lng" : -3.1973325
+               },
+               "southwest" : {
+                  "lat" : 51.4257941,
+                  "lng" : -3.3846217
+               }
+            },
+            "location" : {
+               "lat" : 51.47971219999999,
+               "lng" : -3.2816463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5176065,
+                  "lng" : -3.1973325
+               },
+               "southwest" : {
+                  "lat" : 51.4257941,
+                  "lng" : -3.3846217
+               }
+            }
+         },
+         "place_id" : "ChIJwSBp2QsFbkgRBQAxS98n878",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiff, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5604336,
+                  "lng" : -3.0689023
+               },
+               "southwest" : {
+                  "lat" : 51.3745553,
+                  "lng" : -3.3437202
+               }
+            },
+            "location" : {
+               "lat" : 51.4816403,
+               "lng" : -3.1787741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5604336,
+                  "lng" : -3.0689023
+               },
+               "southwest" : {
+                  "lat" : 51.3745553,
+                  "lng" : -3.3437202
+               }
+            }
+         },
+         "place_id" : "ChIJIcabGbIEbkgRAKKZ1COLDQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiff, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5879007,
+                  "lng" : -3.0251444
+               },
+               "southwest" : {
+                  "lat" : 51.4257941,
+                  "lng" : -3.3846217
+               }
+            },
+            "location" : {
+               "lat" : 51.4919226,
+               "lng" : -3.2205396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5879007,
+                  "lng" : -3.0251444
+               },
+               "southwest" : {
+                  "lat" : 51.4257941,
+                  "lng" : -3.3846217
+               }
+            }
+         },
+         "place_id" : "ChIJpVPW6nsbbkgRwW-7U9Qg2xA",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wales, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            },
+            "location" : {
+               "lat" : 52.1306607,
+               "lng" : -3.7837117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            }
+         },
+         "place_id" : "ChIJ7Q8cbLY0ZEgRouilirxxux4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

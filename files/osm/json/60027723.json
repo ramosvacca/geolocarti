@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "HC22+XH Trexlertown, PA, USA",
+      "global_code" : "87G6HC22+XH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7201",
+               "short_name" : "7201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hamilton Boulevard",
+               "short_name" : "Hamilton Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Macungie Township",
+               "short_name" : "Upper Macungie Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18195",
+               "short_name" : "18195",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9642",
+               "short_name" : "9642",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "7201 Hamilton Blvd, Allentown, PA 18195, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.55246,
+               "lng" : -75.59850100000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5538089802915,
+                  "lng" : -75.59715201970852
+               },
+               "southwest" : {
+                  "lat" : 40.5511110197085,
+                  "lng" : -75.59984998029152
+               }
+            }
+         },
+         "place_id" : "ChIJV8-GoQoixIkR_35Sb41aNxU",
+         "plus_code" : {
+            "compound_code" : "HC22+XH Trexlertown, Upper Macungie Township, PA, United States",
+            "global_code" : "87G6HC22+XH"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Macungie Township",
+               "short_name" : "Upper Macungie Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18195",
+               "short_name" : "18195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Allentown, PA 18195, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.552396,
+                  "lng" : -75.5973932
+               },
+               "southwest" : {
+                  "lat" : 40.5518536,
+                  "lng" : -75.5985443
+               }
+            },
+            "location" : {
+               "lat" : 40.5521248,
+               "lng" : -75.5979687
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5534737802915,
+                  "lng" : -75.59661976970848
+               },
+               "southwest" : {
+                  "lat" : 40.55077581970851,
+                  "lng" : -75.5993177302915
+               }
+            }
+         },
+         "place_id" : "ChIJe-48ceoxxIkRNBuEOXAhkd0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "18195",
+               "short_name" : "18195",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Allentown, PA 18195, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.615521,
+                  "lng" : -75.53232489999999
+               },
+               "southwest" : {
+                  "lat" : 40.54914600000001,
+                  "lng" : -75.6264729
+               }
+            },
+            "location" : {
+               "lat" : 40.5575093,
+               "lng" : -75.5946194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.615521,
+                  "lng" : -75.53232489999999
+               },
+               "southwest" : {
+                  "lat" : 40.54914600000001,
+                  "lng" : -75.6264729
+               }
+            }
+         },
+         "place_id" : "ChIJkw1GmSYxxIkR-qZCDhNRRMc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trexlertown",
+               "short_name" : "Trexlertown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Macungie Township",
+               "short_name" : "Upper Macungie Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trexlertown, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5650172,
+                  "lng" : -75.5829023
+               },
+               "southwest" : {
+                  "lat" : 40.54158,
+                  "lng" : -75.608969
+               }
+            },
+            "location" : {
+               "lat" : 40.5479136,
+               "lng" : -75.60591769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5650172,
+                  "lng" : -75.5829023
+               },
+               "southwest" : {
+                  "lat" : 40.54158,
+                  "lng" : -75.608969
+               }
+            }
+         },
+         "place_id" : "ChIJ4fN38m8wxIkRwp8OD_XJY70",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Macungie Township",
+               "short_name" : "Upper Macungie Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Macungie Township, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.621308,
+                  "lng" : -75.5501859
+               },
+               "southwest" : {
+                  "lat" : 40.5176551,
+                  "lng" : -75.6942229
+               }
+            },
+            "location" : {
+               "lat" : 40.5697736,
+               "lng" : -75.632447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.621308,
+                  "lng" : -75.5501859
+               },
+               "southwest" : {
+                  "lat" : 40.5176551,
+                  "lng" : -75.6942229
+               }
+            }
+         },
+         "place_id" : "ChIJmdLuFSgyxIkRRCendfZKJR4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lehigh County, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.787387,
+                  "lng" : -75.33392309999999
+               },
+               "southwest" : {
+                  "lat" : 40.4184511,
+                  "lng" : -75.89147299999999
+               }
+            },
+            "location" : {
+               "lat" : 40.6519679,
+               "lng" : -75.5742467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.787387,
+                  "lng" : -75.33392309999999
+               },
+               "southwest" : {
+                  "lat" : 40.4184511,
+                  "lng" : -75.89147299999999
+               }
+            }
+         },
+         "place_id" : "ChIJLXl6Rn8_xIkRIi_FV_0CMTQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "Pennsylvania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pennsylvania, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.516072,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 39.7197989,
+                  "lng" : -80.51989499999999
+               }
+            },
+            "location" : {
+               "lat" : 41.2033216,
+               "lng" : -77.1945247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.516072,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 39.7197989,
+                  "lng" : -80.51989499999999
+               }
+            }
+         },
+         "place_id" : "ChIJieUyHiaALYgRPbQiUEchRsI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

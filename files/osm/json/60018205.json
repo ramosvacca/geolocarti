@@ -1,0 +1,381 @@
+{
+   "plus_code" : {
+      "compound_code" : "C3PX+W4 Xiamen, Fujian, China",
+      "global_code" : "7PPWC3PX+W4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "422",
+               "short_name" : "422",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Siming South Road",
+               "short_name" : "Siming S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Siming Qu",
+               "short_name" : "Siming Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Xiamen Shi",
+               "short_name" : "Xiamen Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fujian Sheng",
+               "short_name" : "Fujian Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "361005",
+               "short_name" : "361005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "422 Siming S Rd, Siming Qu, Xiamen Shi, Fujian Sheng, China, 361005",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.4373484,
+               "lng" : 118.097855
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4386973802915,
+                  "lng" : 118.0992039802915
+               },
+               "southwest" : {
+                  "lat" : 24.43599941970849,
+                  "lng" : 118.0965060197085
+               }
+            }
+         },
+         "place_id" : "ChIJ38NGKEWDFDQREddiTtp4mhw",
+         "plus_code" : {
+            "compound_code" : "C3PX+W4 Xiamen, Fujian, China",
+            "global_code" : "7PPWC3PX+W4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boxue Road",
+               "short_name" : "Boxue Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Siming Qu",
+               "short_name" : "Siming Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Xiamen Shi",
+               "short_name" : "Xiamen Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fujian Sheng",
+               "short_name" : "Fujian Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "361005",
+               "short_name" : "361005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boxue Rd, Siming Qu, Xiamen Shi, Fujian Sheng, China, 361005",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.4376618,
+                  "lng" : 118.0980399
+               },
+               "southwest" : {
+                  "lat" : 24.4365198,
+                  "lng" : 118.0975042
+               }
+            },
+            "location" : {
+               "lat" : 24.4370908,
+               "lng" : 118.097772
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4384397802915,
+                  "lng" : 118.0991210302915
+               },
+               "southwest" : {
+                  "lat" : 24.43574181970849,
+                  "lng" : 118.0964230697085
+               }
+            }
+         },
+         "place_id" : "ChIJhUsjAkWDFDQRwj7wD6UfATg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "361005",
+               "short_name" : "361005",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Siming",
+               "short_name" : "Siming",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Xiamen",
+               "short_name" : "Xiamen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fujian",
+               "short_name" : "Fujian",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Siming, Xiamen, Fujian, China, 361005",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.4575723,
+                  "lng" : 118.1707795
+               },
+               "southwest" : {
+                  "lat" : 24.4208555,
+                  "lng" : 118.0654446
+               }
+            },
+            "location" : {
+               "lat" : 24.4367253,
+               "lng" : 118.1072133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4575723,
+                  "lng" : 118.1707795
+               },
+               "southwest" : {
+                  "lat" : 24.4208555,
+                  "lng" : 118.0654446
+               }
+            }
+         },
+         "place_id" : "ChIJ2dbu702DFDQRJyi6mEJksOY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siming",
+               "short_name" : "Siming",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Xiamen",
+               "short_name" : "Xiamen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fujian",
+               "short_name" : "Fujian",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Siming, Xiamen, Fujian, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.5047974,
+                  "lng" : 118.2071587
+               },
+               "southwest" : {
+                  "lat" : 24.4196827,
+                  "lng" : 118.0563478
+               }
+            },
+            "location" : {
+               "lat" : 24.445567,
+               "lng" : 118.082658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5047974,
+                  "lng" : 118.2071587
+               },
+               "southwest" : {
+                  "lat" : 24.4196827,
+                  "lng" : 118.0563478
+               }
+            }
+         },
+         "place_id" : "ChIJgwhrGF2bFDQRrPhqeBA_E-4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xiamen",
+               "short_name" : "Xiamen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fujian",
+               "short_name" : "Fujian",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xiamen, Fujian, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9027924,
+                  "lng" : 118.4147777
+               },
+               "southwest" : {
+                  "lat" : 24.4183067,
+                  "lng" : 117.8860123
+               }
+            },
+            "location" : {
+               "lat" : 24.479833,
+               "lng" : 118.089425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9027924,
+                  "lng" : 118.4147777
+               },
+               "southwest" : {
+                  "lat" : 24.4183067,
+                  "lng" : 117.8860123
+               }
+            }
+         },
+         "place_id" : "ChIJJ-u_5XmDFDQRVtBolgpnoCg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fujian",
+               "short_name" : "Fujian",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fujian, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3129012,
+                  "lng" : 120.7273215
+               },
+               "southwest" : {
+                  "lat" : 23.5285471,
+                  "lng" : 115.85229
+               }
+            },
+            "location" : {
+               "lat" : 26.4836842,
+               "lng" : 117.9249002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3129012,
+                  "lng" : 120.7273215
+               },
+               "southwest" : {
+                  "lat" : 23.5285471,
+                  "lng" : 115.85229
+               }
+            }
+         },
+         "place_id" : "ChIJ2_lEcNNUFTQR6FDb5LQ07k4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

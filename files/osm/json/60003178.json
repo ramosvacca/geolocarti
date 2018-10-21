@@ -1,0 +1,435 @@
+{
+   "plus_code" : {
+      "compound_code" : "PVR5+WX Fort Belvoir, VA, USA",
+      "global_code" : "87C4PVR5+WX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7701",
+               "short_name" : "7701",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Telegraph Road",
+               "short_name" : "Telegraph Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alexandria",
+               "short_name" : "Alexandria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mount Vernon",
+               "short_name" : "Mt Vernon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Fairfax County",
+               "short_name" : "Fairfax County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22315",
+               "short_name" : "22315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7701 Telegraph Rd, Alexandria, VA 22315, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.7423481,
+               "lng" : -77.14002480000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7436970802915,
+                  "lng" : -77.13867581970851
+               },
+               "southwest" : {
+                  "lat" : 38.7409991197085,
+                  "lng" : -77.14137378029152
+               }
+            }
+         },
+         "place_id" : "ChIJpaRo-6Ott4kRZ0pZdhbNxd8",
+         "plus_code" : {
+            "compound_code" : "PVR5+WX Fort Belvoir, Mount Vernon, VA, United States",
+            "global_code" : "87C4PVR5+WX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7961",
+               "short_name" : "7961",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "John J Kingman Road",
+               "short_name" : "John J Kingman Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fort Belvoir",
+               "short_name" : "Fort Belvoir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22060",
+               "short_name" : "22060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7961 John J Kingman Rd, Fort Belvoir, VA 22060, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.7427538,
+               "lng" : -77.13968009999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7441027802915,
+                  "lng" : -77.13833111970848
+               },
+               "southwest" : {
+                  "lat" : 38.7414048197085,
+                  "lng" : -77.14102908029149
+               }
+            }
+         },
+         "place_id" : "EjM3OTYxIEpvaG4gSiBLaW5nbWFuIFJkLCBGb3J0IEJlbHZvaXIsIFZBIDIyMDYwLCBVU0EiGxIZChQKEgmv09OBr623iRHkEf7zrpcUPBCZPg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Belvoir",
+               "short_name" : "Fort Belvoir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mount Vernon",
+               "short_name" : "Mt Vernon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Fairfax County",
+               "short_name" : "Fairfax County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Belvoir, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7486319,
+                  "lng" : -77.12179209999999
+               },
+               "southwest" : {
+                  "lat" : 38.672928,
+                  "lng" : -77.173985
+               }
+            },
+            "location" : {
+               "lat" : 38.71887160000001,
+               "lng" : -77.15426839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7486319,
+                  "lng" : -77.12179209999999
+               },
+               "southwest" : {
+                  "lat" : 38.672928,
+                  "lng" : -77.173985
+               }
+            }
+         },
+         "place_id" : "ChIJ3-oBRQAAt4kRgpV9XkCJa8U",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22060",
+               "short_name" : "22060",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Fort Belvoir",
+               "short_name" : "Fort Belvoir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairfax County",
+               "short_name" : "Fairfax County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Belvoir, VA 22060, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7591509,
+                  "lng" : -77.116603
+               },
+               "southwest" : {
+                  "lat" : 38.6600059,
+                  "lng" : -77.215903
+               }
+            },
+            "location" : {
+               "lat" : 38.7040514,
+               "lng" : -77.1600201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7591509,
+                  "lng" : -77.116603
+               },
+               "southwest" : {
+                  "lat" : 38.6600059,
+                  "lng" : -77.215903
+               }
+            }
+         },
+         "place_id" : "ChIJFVXPKYyst4kRsDvKgjhxSGk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Vernon",
+               "short_name" : "Mt Vernon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Fairfax County",
+               "short_name" : "Fairfax County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mt Vernon, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8003239,
+                  "lng" : -77.0413619
+               },
+               "southwest" : {
+                  "lat" : 38.6056169,
+                  "lng" : -77.28279390000002
+               }
+            },
+            "location" : {
+               "lat" : 38.6743987,
+               "lng" : -77.17152279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8003239,
+                  "lng" : -77.0413619
+               },
+               "southwest" : {
+                  "lat" : 38.6056169,
+                  "lng" : -77.28279390000002
+               }
+            }
+         },
+         "place_id" : "ChIJ31bgmpqst4kRnAzpk3f7VFE",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fairfax County",
+               "short_name" : "Fairfax County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fairfax County, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0570041,
+                  "lng" : -77.0413619
+               },
+               "southwest" : {
+                  "lat" : 38.6056169,
+                  "lng" : -77.5367179
+               }
+            },
+            "location" : {
+               "lat" : 38.9085472,
+               "lng" : -77.2405153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0570041,
+                  "lng" : -77.0413619
+               },
+               "southwest" : {
+                  "lat" : 38.6056169,
+                  "lng" : -77.5367179
+               }
+            }
+         },
+         "place_id" : "ChIJ0wxG_rFgtokRmRY44U76C30",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virginia",
+               "short_name" : "Virginia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Virginia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.466012,
+                  "lng" : -75.1664349
+               },
+               "southwest" : {
+                  "lat" : 36.5407589,
+                  "lng" : -83.675415
+               }
+            },
+            "location" : {
+               "lat" : 37.4315734,
+               "lng" : -78.6568942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.466012,
+                  "lng" : -75.1664349
+               },
+               "southwest" : {
+                  "lat" : 36.5407589,
+                  "lng" : -83.675415
+               }
+            }
+         },
+         "place_id" : "ChIJzbK8vXDWTIgRlaZGt0lBTsA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

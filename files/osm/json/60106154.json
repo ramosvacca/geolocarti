@@ -1,0 +1,364 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue des Labos Chauds",
+               "short_name" : "Avenue des Labos Chauds",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saclay",
+               "short_name" : "Saclay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91400",
+               "short_name" : "91400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenue des Labos Chauds, 91400 Saclay, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.725687,
+                  "lng" : 2.152381
+               },
+               "southwest" : {
+                  "lat" : 48.723867,
+                  "lng" : 2.152282
+               }
+            },
+            "location" : {
+               "lat" : 48.724777,
+               "lng" : 2.1523302
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.72612598029151,
+                  "lng" : 2.153680480291502
+               },
+               "southwest" : {
+                  "lat" : 48.72342801970851,
+                  "lng" : 2.150982519708498
+               }
+            }
+         },
+         "place_id" : "ChIJ4wgnfRZ_5kcR85bZGjRS2tk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saclay",
+               "short_name" : "Saclay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91400",
+               "short_name" : "91400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "91400 Saclay, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.758927,
+                  "lng" : 2.2037149
+               },
+               "southwest" : {
+                  "lat" : 48.71437700000001,
+                  "lng" : 2.1348199
+               }
+            },
+            "location" : {
+               "lat" : 48.73668,
+               "lng" : 2.180034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.758927,
+                  "lng" : 2.2037149
+               },
+               "southwest" : {
+                  "lat" : 48.71437700000001,
+                  "lng" : 2.1348199
+               }
+            }
+         },
+         "place_id" : "ChIJN7L4hdR45kcR4ZmRioWnmmI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "91400",
+               "short_name" : "91400",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gometz-la-Ville",
+               "short_name" : "Gometz-la-Ville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "91400 Gometz-la-Ville, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7587514,
+                  "lng" : 2.2096794
+               },
+               "southwest" : {
+                  "lat" : 48.6520249,
+                  "lng" : 2.0818301
+               }
+            },
+            "location" : {
+               "lat" : 48.7135995,
+               "lng" : 2.1819647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7587514,
+                  "lng" : 2.2096794
+               },
+               "southwest" : {
+                  "lat" : 48.6520249,
+                  "lng" : 2.0818301
+               }
+            }
+         },
+         "place_id" : "ChIJe7bEZ2R_5kcRIHzY4caCCxw",
+         "postcode_localities" : [ "Gometz-la-Ville", "Orsay", "Saclay" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essonne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7761319,
+                  "lng" : 2.5856331
+               },
+               "southwest" : {
+                  "lat" : 48.28455599999999,
+                  "lng" : 1.9145131
+               }
+            },
+            "location" : {
+               "lat" : 48.4585698,
+               "lng" : 2.1569416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7761319,
+                  "lng" : 2.5856331
+               },
+               "southwest" : {
+                  "lat" : 48.28455599999999,
+                  "lng" : 1.9145131
+               }
+            }
+         },
+         "place_id" : "ChIJH3mvlvjP5UcRMCuLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Île-de-France, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            },
+            "location" : {
+               "lat" : 48.8499198,
+               "lng" : 2.6370411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            }
+         },
+         "place_id" : "ChIJF4ymA8Th5UcRcCWLaMOCCwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris Metropolitan Area",
+               "short_name" : "Paris Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paris Metropolitan Area, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            },
+            "location" : {
+               "lat" : 48.8575712,
+               "lng" : 2.2771715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            }
+         },
+         "place_id" : "ChIJW36m20gL5kcRiMnAEpHgyq8",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,616 @@
+{
+   "plus_code" : {
+      "compound_code" : "FF55+CV Gdynia, Poland",
+      "global_code" : "9F6WFF55+CV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "129-149, 81-571",
+               "short_name" : "129-149, 81-571",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chwaszczyńska",
+               "short_name" : "Chwaszczyńska",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wielki Kack",
+               "short_name" : "Wielki Kack",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "pomorskie",
+               "short_name" : "pomorskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81-001",
+               "short_name" : "81-001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chwaszczyńska 129-149, 81-571, 81-001 Gdynia, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.45854139999999,
+               "lng" : 18.4596475
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4598903802915,
+                  "lng" : 18.4609964802915
+               },
+               "southwest" : {
+                  "lat" : 54.4571924197085,
+                  "lng" : 18.4582985197085
+               }
+            }
+         },
+         "place_id" : "ChIJj-I89bqh_UYRoEW0SYs0WA4",
+         "plus_code" : {
+            "compound_code" : "FF55+CV Gdynia, Poland",
+            "global_code" : "9F6WFF55+CV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "133A",
+               "short_name" : "133A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chwaszczyńska",
+               "short_name" : "Chwaszczyńska",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wielki Kack",
+               "short_name" : "Wielki Kack",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "pomorskie",
+               "short_name" : "pomorskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81-571",
+               "short_name" : "81-571",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chwaszczyńska 133A, 81-571 Gdynia, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.4593435,
+               "lng" : 18.4594613
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.46069248029149,
+                  "lng" : 18.4608102802915
+               },
+               "southwest" : {
+                  "lat" : 54.4579945197085,
+                  "lng" : 18.45811231970849
+               }
+            }
+         },
+         "place_id" : "ChIJN17M_Lqh_UYRtn5ZyBwmkXI",
+         "plus_code" : {
+            "compound_code" : "FF55+PQ Gdynia, Poland",
+            "global_code" : "9F6WFF55+PQ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "139",
+               "short_name" : "139",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chwaszczyńska",
+               "short_name" : "Chwaszczyńska",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chwaszczyńska 139, Gdynia, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.45887949999999,
+               "lng" : 18.4599133
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.46022848029149,
+                  "lng" : 18.4612622802915
+               },
+               "southwest" : {
+                  "lat" : 54.45753051970849,
+                  "lng" : 18.4585643197085
+               }
+            }
+         },
+         "place_id" : "EiJDaHdhc3pjennFhHNrYSAxMzksIEdkeW5pYSwgUG9sc2thIhsSGQoUChIJu-iM-bqh_UYR4CF633VrpAIQiwE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "81-577",
+               "short_name" : "81-577",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pomeranian Voivodeship",
+               "short_name" : "Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "81-577 Gdynia, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5489415,
+                  "lng" : 19.179561
+               },
+               "southwest" : {
+                  "lat" : 49.792333,
+                  "lng" : 18.384795
+               }
+            },
+            "location" : {
+               "lat" : 54.46854399999999,
+               "lng" : 18.4675216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5489415,
+                  "lng" : 19.179561
+               },
+               "southwest" : {
+                  "lat" : 49.792333,
+                  "lng" : 18.384795
+               }
+            }
+         },
+         "place_id" : "ChIJRR5zu3ah_UYRu9ayO7v3SMg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wielki Kack",
+               "short_name" : "Wielki Kack",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "pomorskie",
+               "short_name" : "pomorskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wielki Kack, Gdynia, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.472039,
+                  "lng" : 18.5192583
+               },
+               "southwest" : {
+                  "lat" : 54.4228501,
+                  "lng" : 18.4398652
+               }
+            },
+            "location" : {
+               "lat" : 54.4659158,
+               "lng" : 18.4925269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.472039,
+                  "lng" : 18.5192583
+               },
+               "southwest" : {
+                  "lat" : 54.4228501,
+                  "lng" : 18.4398652
+               }
+            }
+         },
+         "place_id" : "ChIJl5YeMFWg_UYRIngYoWpGJzM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "pomorskie",
+               "short_name" : "pomorskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Gdynia, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5847367,
+                  "lng" : 18.5692156
+               },
+               "southwest" : {
+                  "lat" : 54.42291299999999,
+                  "lng" : 18.3577425
+               }
+            },
+            "location" : {
+               "lat" : 54.4938255,
+               "lng" : 18.4700542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5847367,
+                  "lng" : 18.5692156
+               },
+               "southwest" : {
+                  "lat" : 54.42291299999999,
+                  "lng" : 18.3577425
+               }
+            }
+         },
+         "place_id" : "ChIJJ9geB0Wh_UYRx1iV1U-oKpA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "pomorskie",
+               "short_name" : "pomorskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Gdynia, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5847367,
+                  "lng" : 18.5692156
+               },
+               "southwest" : {
+                  "lat" : 54.42291299999999,
+                  "lng" : 18.3577425
+               }
+            },
+            "location" : {
+               "lat" : 54.4938255,
+               "lng" : 18.4700542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5847367,
+                  "lng" : 18.5692156
+               },
+               "southwest" : {
+                  "lat" : 54.42291299999999,
+                  "lng" : 18.3577425
+               }
+            }
+         },
+         "place_id" : "ChIJJ9geB0Wh_UYRe52VdpCka7k",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gdynia",
+               "short_name" : "Gdynia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pomeranian Voivodeship",
+               "short_name" : "Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Gdynia, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5847367,
+                  "lng" : 18.5692156
+               },
+               "southwest" : {
+                  "lat" : 54.42291299999999,
+                  "lng" : 18.3577425
+               }
+            },
+            "location" : {
+               "lat" : 54.5188898,
+               "lng" : 18.5305409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5847367,
+                  "lng" : 18.5692156
+               },
+               "southwest" : {
+                  "lat" : 54.42291299999999,
+                  "lng" : 18.3577425
+               }
+            }
+         },
+         "place_id" : "ChIJidceB0Wh_UYRNmYjiZn54t4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Pomeranian Voivodeship",
+               "short_name" : "Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6351333,
+                  "lng" : 18.5909822
+               },
+               "southwest" : {
+                  "lat" : 54.4198743,
+                  "lng" : 18.3577426
+               }
+            },
+            "location" : {
+               "lat" : 54.4938255,
+               "lng" : 18.4700542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6351333,
+                  "lng" : 18.5909822
+               },
+               "southwest" : {
+                  "lat" : 54.4198743,
+                  "lng" : 18.3577426
+               }
+            }
+         },
+         "place_id" : "ChIJz2pRWaWm_UYRTiVXVjeiOG0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pomeranian Voivodeship",
+               "short_name" : "Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pomeranian Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8358123,
+                  "lng" : 19.6493699
+               },
+               "southwest" : {
+                  "lat" : 53.49067179999999,
+                  "lng" : 16.6991291
+               }
+            },
+            "location" : {
+               "lat" : 54.2944252,
+               "lng" : 18.1531164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8358123,
+                  "lng" : 19.6493699
+               },
+               "southwest" : {
+                  "lat" : 53.49067179999999,
+                  "lng" : 16.6991291
+               }
+            }
+         },
+         "place_id" : "ChIJowVujNqG_UYRwMAOrTIOAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9054761,
+                  "lng" : 24.1458931
+               },
+               "southwest" : {
+                  "lat" : 49.002025,
+                  "lng" : 14.1228641
+               }
+            },
+            "location" : {
+               "lat" : 51.919438,
+               "lng" : 19.145136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9054761,
+                  "lng" : 24.1458931
+               },
+               "southwest" : {
+                  "lat" : 49.002025,
+                  "lng" : 14.1228641
+               }
+            }
+         },
+         "place_id" : "ChIJuwtkpGSZAEcR6lXMScpzdQk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

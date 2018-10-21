@@ -1,0 +1,528 @@
+{
+   "plus_code" : {
+      "compound_code" : "C892+P5 Santa Barbara, CA, USA",
+      "global_code" : "8562C892+P5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "651",
+               "short_name" : "651",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93101",
+               "short_name" : "93101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "651, Santa Barbara, CA 93101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4194582,
+                  "lng" : -119.6986509
+               },
+               "southwest" : {
+                  "lat" : 34.4185254,
+                  "lng" : -119.7000096
+               }
+            },
+            "location" : {
+               "lat" : 34.4188881,
+               "lng" : -119.6992547
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4203407802915,
+                  "lng" : -119.6979812697085
+               },
+               "southwest" : {
+                  "lat" : 34.4176428197085,
+                  "lng" : -119.7006792302915
+               }
+            }
+         },
+         "place_id" : "ChIJd_xiAXkU6YARymTn_269iX0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "735",
+               "short_name" : "735",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "State Street",
+               "short_name" : "State St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower State",
+               "short_name" : "Lower State",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93101",
+               "short_name" : "93101",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5504",
+               "short_name" : "5504",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "735 State St #300, Santa Barbara, CA 93101, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.419271,
+               "lng" : -119.699506
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4206199802915,
+                  "lng" : -119.6981570197085
+               },
+               "southwest" : {
+                  "lat" : 34.41792201970851,
+                  "lng" : -119.7008549802915
+               }
+            }
+         },
+         "place_id" : "ChIJfQ4xHHkU6YARFY23T_G4CYk",
+         "plus_code" : {
+            "compound_code" : "C892+P5 Santa Barbara, California, United States",
+            "global_code" : "8562C892+P5"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West De La Guerra Street",
+               "short_name" : "W De La Guerra St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower State",
+               "short_name" : "Lower State",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93101",
+               "short_name" : "93101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "11 W De La Guerra St, Santa Barbara, CA 93101, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.4192274,
+               "lng" : -119.6994096
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.42057638029149,
+                  "lng" : -119.6980606197085
+               },
+               "southwest" : {
+                  "lat" : 34.4178784197085,
+                  "lng" : -119.7007585802915
+               }
+            }
+         },
+         "place_id" : "ChIJL_uzDXkU6YARiHws_MEq7yk",
+         "plus_code" : {
+            "compound_code" : "C892+M6 Santa Barbara, California, United States",
+            "global_code" : "8562C892+M6"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower State",
+               "short_name" : "Lower State",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93101",
+               "short_name" : "93101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower State, Santa Barbara, CA 93101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.421815,
+                  "lng" : -119.6865669
+               },
+               "southwest" : {
+                  "lat" : 34.412221,
+                  "lng" : -119.700275
+               }
+            },
+            "location" : {
+               "lat" : 34.4165462,
+               "lng" : -119.6940953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.421815,
+                  "lng" : -119.6865669
+               },
+               "southwest" : {
+                  "lat" : 34.412221,
+                  "lng" : -119.700275
+               }
+            }
+         },
+         "place_id" : "ChIJo77kfYgT6YARlqTCNwE9kBk",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93101",
+               "short_name" : "93101",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Barbara, CA 93101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.437532,
+                  "lng" : -119.683556
+               },
+               "southwest" : {
+                  "lat" : 34.403149,
+                  "lng" : -119.741222
+               }
+            },
+            "location" : {
+               "lat" : 34.420334,
+               "lng" : -119.7107494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.437532,
+                  "lng" : -119.683556
+               },
+               "southwest" : {
+                  "lat" : 34.403149,
+                  "lng" : -119.741222
+               }
+            }
+         },
+         "place_id" : "ChIJ1x4YqmQU6YAR1CVQY5t5pt4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Barbara, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4611451,
+                  "lng" : -119.6399201
+               },
+               "southwest" : {
+                  "lat" : 34.336029,
+                  "lng" : -119.859791
+               }
+            },
+            "location" : {
+               "lat" : 34.4208305,
+               "lng" : -119.6981901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4611451,
+                  "lng" : -119.6399201
+               },
+               "southwest" : {
+                  "lat" : 34.336029,
+                  "lng" : -119.859791
+               }
+            }
+         },
+         "place_id" : "ChIJ1YMtb8cU6YARSHa612Q60cg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Barbara County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.114678,
+                  "lng" : -118.9627279
+               },
+               "southwest" : {
+                  "lat" : 33.411024,
+                  "lng" : -120.734382
+               }
+            },
+            "location" : {
+               "lat" : 34.4208321,
+               "lng" : -119.6982057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.114678,
+                  "lng" : -118.9627279
+               },
+               "southwest" : {
+                  "lat" : 33.411024,
+                  "lng" : -120.734382
+               }
+            }
+         },
+         "place_id" : "ChIJXxfrQWYM7IAR_9ACRVau1Wo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

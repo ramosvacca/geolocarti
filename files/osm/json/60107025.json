@@ -1,0 +1,447 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloco U",
+               "short_name" : "Bloco U",
+               "types" : [ "establishment", "point_of_interest", "premise" ]
+            },
+            {
+               "long_name" : "Avenida Cincinato Braga",
+               "short_name" : "Av. Cincinato Braga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mauá",
+               "short_name" : "Mauá",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09560-000",
+               "short_name" : "09560-000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "09520",
+               "short_name" : "09520",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Bloco U - Av. Cincinato Braga - Mauá, São Caetano do Sul - SP, 09560-000, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.6484235,
+               "lng" : -46.5738478
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6470745197085,
+                  "lng" : -46.57249881970849
+               },
+               "southwest" : {
+                  "lat" : -23.6497724802915,
+                  "lng" : -46.57519678029149
+               }
+            }
+         },
+         "place_id" : "ChIJjTi_KzZDzpQR2HoEBfuTO8E",
+         "types" : [ "establishment", "point_of_interest", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida Cincinato Braga",
+               "short_name" : "Av. Cincinato Braga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mauá",
+               "short_name" : "Mauá",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. Cincinato Braga - Mauá, São Caetano do Sul - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.6471687,
+                  "lng" : -46.5730507
+               },
+               "southwest" : {
+                  "lat" : -23.6477903,
+                  "lng" : -46.574757
+               }
+            },
+            "location" : {
+               "lat" : -23.6471873,
+               "lng" : -46.5736716
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6461305197085,
+                  "lng" : -46.5725548697085
+               },
+               "southwest" : {
+                  "lat" : -23.6488284802915,
+                  "lng" : -46.5752528302915
+               }
+            }
+         },
+         "place_id" : "ChIJP7LIGDZDzpQRcs4mYpV2jeU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mauá",
+               "short_name" : "Mauá",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mauá, São Caetano do Sul - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.6394507,
+                  "lng" : -46.5673655
+               },
+               "southwest" : {
+                  "lat" : -23.6506989,
+                  "lng" : -46.5769895
+               }
+            },
+            "location" : {
+               "lat" : -23.6431148,
+               "lng" : -46.5716484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6394507,
+                  "lng" : -46.5673655
+               },
+               "southwest" : {
+                  "lat" : -23.6506989,
+                  "lng" : -46.5769895
+               }
+            }
+         },
+         "place_id" : "ChIJh1ZkiTVDzpQRDm3MaZR4GNw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Caetano do Sul, State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5992153,
+                  "lng" : -46.5448234
+               },
+               "southwest" : {
+                  "lat" : -23.6505537,
+                  "lng" : -46.5849924
+               }
+            },
+            "location" : {
+               "lat" : -23.6233625,
+               "lng" : -46.5552433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5992153,
+                  "lng" : -46.5448234
+               },
+               "southwest" : {
+                  "lat" : -23.6505537,
+                  "lng" : -46.5849924
+               }
+            }
+         },
+         "place_id" : "ChIJO-h-YVhczpQRskQCgAVmO8U",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "09560-000",
+               "short_name" : "09560-000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Praça Faria Lima",
+               "short_name" : "Praça Faria Lima",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Maria",
+               "short_name" : "Santa Maria",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Praça Faria Lima - Santa Maria, São Caetano do Sul - SP, 09560-000, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.6189101,
+                  "lng" : -46.549968
+               },
+               "southwest" : {
+                  "lat" : -23.6606207,
+                  "lng" : -46.574058
+               }
+            },
+            "location" : {
+               "lat" : -23.6339162,
+               "lng" : -46.5561348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6189101,
+                  "lng" : -46.549968
+               },
+               "southwest" : {
+                  "lat" : -23.6606207,
+                  "lng" : -46.574058
+               }
+            }
+         },
+         "place_id" : "ChIJ9_SKFNVczpQRea8pw_J8WuQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Caetano do Sul",
+               "short_name" : "São Caetano do Sul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Caetano do Sul - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5995239,
+                  "lng" : -46.5446459
+               },
+               "southwest" : {
+                  "lat" : -23.6505699,
+                  "lng" : -46.584958
+               }
+            },
+            "location" : {
+               "lat" : -23.6231633,
+               "lng" : -46.5572908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5995239,
+                  "lng" : -46.5446459
+               },
+               "southwest" : {
+                  "lat" : -23.6505699,
+                  "lng" : -46.584958
+               }
+            }
+         },
+         "place_id" : "ChIJa0SkUttczpQR2TsJrM4vSGM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            },
+            "location" : {
+               "lat" : -23.5431786,
+               "lng" : -46.6291845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            }
+         },
+         "place_id" : "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

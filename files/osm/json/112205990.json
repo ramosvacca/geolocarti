@@ -1,0 +1,602 @@
+{
+   "plus_code" : {
+      "compound_code" : "GV4C+WV Westminster, London, UK",
+      "global_code" : "9C3XGV4C+WV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK1 3XE",
+               "short_name" : "SK1 3XE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stockport, London SK1 3XE, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5073509,
+               "lng" : -0.1277582
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5086998802915,
+                  "lng" : -0.126409219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5060019197085,
+                  "lng" : -0.129107180291502
+               }
+            }
+         },
+         "place_id" : "ChIJS6zlNc4EdkgRAYZMKjfrUhw",
+         "plus_code" : {
+            "compound_code" : "GV4C+WV Westminster, London, United Kingdom",
+            "global_code" : "9C3XGV4C+WV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A4",
+               "short_name" : "A4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC2N 5DU",
+               "short_name" : "WC2N 5DU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A4, London WC2N 5DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.50740769999999,
+                  "lng" : -0.1280118
+               },
+               "southwest" : {
+                  "lat" : 51.5073089,
+                  "lng" : -0.1282712
+               }
+            },
+            "location" : {
+               "lat" : 51.5073583,
+               "lng" : -0.1281415
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5087072802915,
+                  "lng" : -0.1267925197084979
+               },
+               "southwest" : {
+                  "lat" : 51.5060093197085,
+                  "lng" : -0.129490480291502
+               }
+            }
+         },
+         "place_id" : "ChIJSzDdM84EdkgRgI8FbxvqCRM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WC2N 5DU",
+               "short_name" : "WC2N 5DU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Trafalgar Square",
+               "short_name" : "Trafalgar Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trafalgar Square, London WC2N 5DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5086097,
+                  "lng" : -0.1276047
+               },
+               "southwest" : {
+                  "lat" : 51.5069414,
+                  "lng" : -0.1283483
+               }
+            },
+            "location" : {
+               "lat" : 51.5072092,
+               "lng" : -0.1282941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50912453029149,
+                  "lng" : -0.126627519708498
+               },
+               "southwest" : {
+                  "lat" : 51.50642656970849,
+                  "lng" : -0.129325480291502
+               }
+            }
+         },
+         "place_id" : "ChIJh6jmMs4EdkgR18V0MXQOdAY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WC2N",
+               "short_name" : "WC2N",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London WC2N, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5167991,
+                  "lng" : -0.1189894
+               },
+               "southwest" : {
+                  "lat" : 51.50410609999999,
+                  "lng" : -0.1294048
+               }
+            },
+            "location" : {
+               "lat" : 51.5077151,
+               "lng" : -0.1240261
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5167991,
+                  "lng" : -0.1189894
+               },
+               "southwest" : {
+                  "lat" : 51.50410609999999,
+                  "lng" : -0.1294048
+               }
+            }
+         },
+         "place_id" : "ChIJb9KHxsgEdkgRe82UfSxQIv0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westminster",
+               "short_name" : "Westminster",
+               "types" : [ "locality", "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westminster, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5073854,
+                  "lng" : -0.1223458
+               },
+               "southwest" : {
+                  "lat" : 51.48813089999999,
+                  "lng" : -0.1471354
+               }
+            },
+            "location" : {
+               "lat" : 51.4974948,
+               "lng" : -0.1356583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5073854,
+                  "lng" : -0.1223458
+               },
+               "southwest" : {
+                  "lat" : 51.48813089999999,
+                  "lng" : -0.1471354
+               }
+            }
+         },
+         "place_id" : "ChIJVbSVrt0EdkgRQH_FO4ZkHc0",
+         "types" : [ "locality", "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "City of Westminster",
+               "short_name" : "City of Westminster",
+               "types" : [ "administrative_area_level_3", "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "City of Westminster, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5397932,
+                  "lng" : -0.1111016
+               },
+               "southwest" : {
+                  "lat" : 51.4838163,
+                  "lng" : -0.2160886
+               }
+            },
+            "location" : {
+               "lat" : 51.5001754,
+               "lng" : -0.1332326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5397932,
+                  "lng" : -0.1111016
+               },
+               "southwest" : {
+                  "lat" : 51.4838163,
+                  "lng" : -0.2160886
+               }
+            }
+         },
+         "place_id" : "ChIJxwN8mDUFdkgRoGfsoi2uDgQ",
+         "types" : [ "administrative_area_level_3", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            },
+            "location" : {
+               "lat" : 51.5073509,
+               "lng" : -0.1277583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            }
+         },
+         "place_id" : "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            },
+            "location" : {
+               "lat" : 51.5569879,
+               "lng" : -0.1411791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            }
+         },
+         "place_id" : "ChIJ8_MXt1sbdkgRCrIAOXkukUk",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6918726,
+                  "lng" : 0.3339957
+               },
+               "southwest" : {
+                  "lat" : 51.28676,
+                  "lng" : -0.5103751
+               }
+            },
+            "location" : {
+               "lat" : 51.4309209,
+               "lng" : -0.0936496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6918726,
+                  "lng" : 0.3339957
+               },
+               "southwest" : {
+                  "lat" : 51.28676,
+                  "lng" : -0.5103751
+               }
+            }
+         },
+         "place_id" : "ChIJb-IaoQug2EcRi-m4hONz8S8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

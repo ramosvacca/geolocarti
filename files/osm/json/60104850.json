@@ -1,0 +1,386 @@
+{
+   "plus_code" : {
+      "compound_code" : "VPCR+GH Berkeley, CA, USA",
+      "global_code" : "849VVPCR+GH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "102",
+               "short_name" : "102",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "S Hall",
+               "short_name" : "S Hall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Berkeley",
+               "short_name" : "Berkeley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alameda County",
+               "short_name" : "Alameda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94720",
+               "short_name" : "94720",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0001",
+               "short_name" : "0001",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "102 S Hall, Berkeley, CA 94720, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.8713583,
+               "lng" : -122.2585206
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8727072802915,
+                  "lng" : -122.2571716197085
+               },
+               "southwest" : {
+                  "lat" : 37.8700093197085,
+                  "lng" : -122.2598695802915
+               }
+            }
+         },
+         "place_id" : "ChIJUaRKLCZ8hYARnR1EEVYml78",
+         "plus_code" : {
+            "compound_code" : "VPCR+GH Berkeley, California, United States",
+            "global_code" : "849VVPCR+GH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Pathway",
+               "short_name" : "Central Pathway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Berkeley",
+               "short_name" : "Berkeley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alameda County",
+               "short_name" : "Alameda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94720",
+               "short_name" : "94720",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Pathway, Berkeley, CA 94720, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8716679,
+                  "lng" : -122.2585642
+               },
+               "southwest" : {
+                  "lat" : 37.8710019,
+                  "lng" : -122.2587573
+               }
+            },
+            "location" : {
+               "lat" : 37.8713349,
+               "lng" : -122.2586608
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8726838802915,
+                  "lng" : -122.2573117697085
+               },
+               "southwest" : {
+                  "lat" : 37.8699859197085,
+                  "lng" : -122.2600097302915
+               }
+            }
+         },
+         "place_id" : "ChIJvZBXyyV8hYAR_ohphSHubv8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94720",
+               "short_name" : "94720",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Berkeley",
+               "short_name" : "Berkeley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alameda County",
+               "short_name" : "Alameda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berkeley, CA 94720, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.881405,
+                  "lng" : -122.2448649
+               },
+               "southwest" : {
+                  "lat" : 37.84554300000001,
+                  "lng" : -122.332636
+               }
+            },
+            "location" : {
+               "lat" : 37.87015100000001,
+               "lng" : -122.2594606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.881405,
+                  "lng" : -122.2448649
+               },
+               "southwest" : {
+                  "lat" : 37.84554300000001,
+                  "lng" : -122.332636
+               }
+            }
+         },
+         "place_id" : "ChIJOS44Gjl8hYARjMTPdlBMDls",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berkeley",
+               "short_name" : "Berkeley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alameda County",
+               "short_name" : "Alameda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berkeley, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9058239,
+                  "lng" : -122.234179
+               },
+               "southwest" : {
+                  "lat" : 37.835727,
+                  "lng" : -122.367781
+               }
+            },
+            "location" : {
+               "lat" : 37.8715926,
+               "lng" : -122.272747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9058239,
+                  "lng" : -122.234179
+               },
+               "southwest" : {
+                  "lat" : 37.835727,
+                  "lng" : -122.367781
+               }
+            }
+         },
+         "place_id" : "ChIJ00mFOjZ5hYARk-l1ppUV6pQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alameda County",
+               "short_name" : "Alameda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alameda County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9058239,
+                  "lng" : -121.4692139
+               },
+               "southwest" : {
+                  "lat" : 37.4545388,
+                  "lng" : -122.3737821
+               }
+            },
+            "location" : {
+               "lat" : 37.6016892,
+               "lng" : -121.7195459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9058239,
+                  "lng" : -121.4692139
+               },
+               "southwest" : {
+                  "lat" : 37.4545388,
+                  "lng" : -122.3737821
+               }
+            }
+         },
+         "place_id" : "ChIJWRd5NDfyj4ARc30TGxHHxmg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

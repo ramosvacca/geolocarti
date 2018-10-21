@@ -1,0 +1,304 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35/4",
+               "short_name" : "35/4",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "43 строение 2",
+               "short_name" : "43 строение 2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ул. Сущевский вал",
+               "short_name" : "ул. Сущевский вал",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Москва",
+               "short_name" : "Москва",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Evenkiysky District",
+               "short_name" : "Evenkiysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarskiy kray",
+               "short_name" : "Krasnoyarskiy kray",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "648591",
+               "short_name" : "648591",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ул. Сущевский вал, 43 строение 2, 35/4, Москва, Krasnoyarskiy kray, Russia, 648591",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.52388279999999,
+               "lng" : 105.3189372
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.5252317802915,
+                  "lng" : 105.3202861802915
+               },
+               "southwest" : {
+                  "lat" : 61.52253381970849,
+                  "lng" : 105.3175882197085
+               }
+            }
+         },
+         "place_id" : "ChIJf8XtZT--jVwRekNiO0Q36v8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Airport",
+               "short_name" : "Airport",
+               "types" : [ "airport", "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Evenkiysky District",
+               "short_name" : "Evenkiysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarskiy kray",
+               "short_name" : "Krasnoyarskiy kray",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "648591",
+               "short_name" : "648591",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Airport, Krasnoyarskiy kray, Russia, 648591",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.5253589802915,
+                  "lng" : 105.3201049802915
+               },
+               "southwest" : {
+                  "lat" : 61.52266101970849,
+                  "lng" : 105.3174070197085
+               }
+            }
+         },
+         "place_id" : "ChIJWyi2aD--jVwRMcwMk2XgzEc",
+         "types" : [ "airport", "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "648591",
+               "short_name" : "648591",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Evenkiysky District",
+               "short_name" : "Evenkiysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krasnoyarsk Krai, Russia, 648591",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.5999791,
+                  "lng" : 108.389195
+               },
+               "southwest" : {
+                  "lat" : 61.17733799999999,
+                  "lng" : 104.61292
+               }
+            },
+            "location" : {
+               "lat" : 63.3144252,
+               "lng" : 105.4182488
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.5999791,
+                  "lng" : 108.389195
+               },
+               "southwest" : {
+                  "lat" : 61.17733799999999,
+                  "lng" : 104.61292
+               }
+            }
+         },
+         "place_id" : "ChIJh3ck8nq7j1wROSzlzAcsQfM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Evenkiysky District",
+               "short_name" : "Evenkiysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Evenkiysky District, Krasnoyarsk Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.9273271,
+                  "lng" : 108.3710121
+               },
+               "southwest" : {
+                  "lat" : 58.61236799999999,
+                  "lng" : 88.56846879999999
+               }
+            },
+            "location" : {
+               "lat" : 65.62981880000001,
+               "lng" : 98.30477089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.9273271,
+                  "lng" : 108.3710121
+               },
+               "southwest" : {
+                  "lat" : 58.61236799999999,
+                  "lng" : 88.56846879999999
+               }
+            }
+         },
+         "place_id" : "ChIJR6a4shpIo1wRFJQHmiqn0UM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krasnoyarsk Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.2663089,
+                  "lng" : 113.9209951
+               },
+               "southwest" : {
+                  "lat" : 51.7734569,
+                  "lng" : 76.1117519
+               }
+            },
+            "location" : {
+               "lat" : 64.24797579999999,
+               "lng" : 95.11041759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 81.2663089,
+                  "lng" : 113.9209951
+               },
+               "southwest" : {
+                  "lat" : 51.7734569,
+                  "lng" : 76.1117519
+               }
+            }
+         },
+         "place_id" : "ChIJHyMdKZGKqFwRLuE1LERdadI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70,
+                  "lng" : 179
+               },
+               "southwest" : {
+                  "lat" : 40,
+                  "lng" : 27
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

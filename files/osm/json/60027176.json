@@ -1,0 +1,249 @@
+{
+   "plus_code" : {
+      "compound_code" : "G89R+FC Derrypatrick Grange, Marshalstown, County Meath, Ireland",
+      "global_code" : "9C5MG89R+FC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Derrypatrick Grange",
+               "short_name" : "Derrypatrick Grange",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "County Meath",
+               "short_name" : "County Meath",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Derrypatrick Grange, Co. Meath, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.51926109999999,
+                  "lng" : -6.6583872
+               },
+               "southwest" : {
+                  "lat" : 53.5182394,
+                  "lng" : -6.660698699999999
+               }
+            },
+            "location" : {
+               "lat" : 53.5187502,
+               "lng" : -6.659542999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52009923029149,
+                  "lng" : -6.658193969708497
+               },
+               "southwest" : {
+                  "lat" : 53.51740126970849,
+                  "lng" : -6.660891930291502
+               }
+            }
+         },
+         "place_id" : "ChIJPwQ7h9BnZ0gRuKQhDhx-SYU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derrypatrick Grange",
+               "short_name" : "Derrypatrick Grange",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Marshalstown",
+               "short_name" : "Marshalstown",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "County Meath",
+               "short_name" : "County Meath",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derrypatrick Grange, Marshalstown, Co. Meath, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5229378,
+                  "lng" : -6.6504556
+               },
+               "southwest" : {
+                  "lat" : 53.5121233,
+                  "lng" : -6.6780021
+               }
+            },
+            "location" : {
+               "lat" : 53.5188728,
+               "lng" : -6.6666551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5229378,
+                  "lng" : -6.6504556
+               },
+               "southwest" : {
+                  "lat" : 53.5121233,
+                  "lng" : -6.6780021
+               }
+            }
+         },
+         "place_id" : "ChIJm2UYk89nZ0gRyDCk7DZ_9Uw",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Meath",
+               "short_name" : "County Meath",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Meath, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.91766879999999,
+                  "lng" : -6.2126106
+               },
+               "southwest" : {
+                  "lat" : 53.38186640000001,
+                  "lng" : -7.3436642
+               }
+            },
+            "location" : {
+               "lat" : 53.64759669999999,
+               "lng" : -6.6982212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.91766879999999,
+                  "lng" : -6.2126106
+               },
+               "southwest" : {
+                  "lat" : 53.38186640000001,
+                  "lng" : -7.3436642
+               }
+            }
+         },
+         "place_id" : "ChIJv1cLaulbZ0gRsAGA8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meath",
+               "short_name" : "Meath",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Meath",
+               "short_name" : "County Meath",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meath, Co. Meath, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.91766879999999,
+                  "lng" : -6.2126106
+               },
+               "southwest" : {
+                  "lat" : 53.38186640000001,
+                  "lng" : -7.3436642
+               }
+            },
+            "location" : {
+               "lat" : 53.60554800000001,
+               "lng" : -6.6564169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.91766879999999,
+                  "lng" : -6.2126106
+               },
+               "southwest" : {
+                  "lat" : 53.38186640000001,
+                  "lng" : -7.3436642
+               }
+            }
+         },
+         "place_id" : "ChIJkyl6FYFcZ0gRRgm8jG1O3NQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

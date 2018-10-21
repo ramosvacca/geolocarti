@@ -1,0 +1,308 @@
+{
+   "plus_code" : {
+      "compound_code" : "HWF7+99 Fort Collins, CO, USA",
+      "global_code" : "85GPHWF7+99"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "628",
+               "short_name" : "628",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fort Collins",
+               "short_name" : "Fort Collins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80521",
+               "short_name" : "80521",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "628 University Ave, Fort Collins, CO 80521, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5737416,
+               "lng" : -105.0866536
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.57509058029149,
+                  "lng" : -105.0853046197085
+               },
+               "southwest" : {
+                  "lat" : 40.5723926197085,
+                  "lng" : -105.0880025802915
+               }
+            }
+         },
+         "place_id" : "Ei82MjggVW5pdmVyc2l0eSBBdmUsIEZvcnQgQ29sbGlucywgQ08gODA1MjEsIFVTQSIbEhkKFAoSCeeh0eZQSmmHEQVrS0ck_9JOEPQE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80521",
+               "short_name" : "80521",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Fort Collins",
+               "short_name" : "Fort Collins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larimer County",
+               "short_name" : "Larimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Collins, CO 80521, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.629698,
+                  "lng" : -105.0770679
+               },
+               "southwest" : {
+                  "lat" : 40.561974,
+                  "lng" : -105.1739529
+               }
+            },
+            "location" : {
+               "lat" : 40.5889664,
+               "lng" : -105.1375908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.629698,
+                  "lng" : -105.0770679
+               },
+               "southwest" : {
+                  "lat" : 40.561974,
+                  "lng" : -105.1739529
+               }
+            }
+         },
+         "place_id" : "ChIJQ-QK8AFKaYcR_7-2KBICORE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Collins",
+               "short_name" : "Fort Collins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larimer County",
+               "short_name" : "Larimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Collins, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6392729,
+                  "lng" : -104.98208
+               },
+               "southwest" : {
+                  "lat" : 40.474044,
+                  "lng" : -105.153224
+               }
+            },
+            "location" : {
+               "lat" : 40.5852602,
+               "lng" : -105.084423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6392729,
+                  "lng" : -104.98208
+               },
+               "southwest" : {
+                  "lat" : 40.474044,
+                  "lng" : -105.153224
+               }
+            }
+         },
+         "place_id" : "ChIJrTDwkEVKaYcRgkCrtChCsak",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Larimer County",
+               "short_name" : "Larimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Larimer County, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.998441,
+                  "lng" : -104.9430519
+               },
+               "southwest" : {
+                  "lat" : 40.2577839,
+                  "lng" : -106.1954379
+               }
+            },
+            "location" : {
+               "lat" : 40.6955572,
+               "lng" : -105.5943388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.998441,
+                  "lng" : -104.9430519
+               },
+               "southwest" : {
+                  "lat" : 40.2577839,
+                  "lng" : -106.1954379
+               }
+            }
+         },
+         "place_id" : "ChIJ03t0qaJuaYcRZBCHlq3SC70",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colorado",
+               "short_name" : "Colorado",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colorado, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            },
+            "location" : {
+               "lat" : 39.5500507,
+               "lng" : -105.7820674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0034439,
+                  "lng" : -102.040878
+               },
+               "southwest" : {
+                  "lat" : 36.992424,
+                  "lng" : -109.060256
+               }
+            }
+         },
+         "place_id" : "ChIJt1YYm3QUQIcR_6eQSTGDVMc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

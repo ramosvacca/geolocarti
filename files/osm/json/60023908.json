@@ -1,0 +1,572 @@
+{
+   "plus_code" : {
+      "compound_code" : "G868+P7 Portland, OR, USA",
+      "global_code" : "84QVG868+P7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1830",
+               "short_name" : "1830",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Park Avenue",
+               "short_name" : "SW Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97201",
+               "short_name" : "97201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1830 SW Park Ave, Portland, OR 97201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5119515,
+               "lng" : -122.6845957
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.51330048029149,
+                  "lng" : -122.6832467197085
+               },
+               "southwest" : {
+                  "lat" : 45.51060251970849,
+                  "lng" : -122.6859446802915
+               }
+            }
+         },
+         "place_id" : "ChIJB2Jq3xYKlVQR3Air7ZBbHLQ",
+         "plus_code" : {
+            "compound_code" : "G868+Q5 Portland, Oregon, United States",
+            "global_code" : "84QVG868+Q5"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1825",
+               "short_name" : "1825",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Broadway",
+               "short_name" : "SW Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97201",
+               "short_name" : "97201",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3256",
+               "short_name" : "3256",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1825 SW Broadway, Portland, OR 97201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5111102,
+               "lng" : -122.6833424
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.51245918029149,
+                  "lng" : -122.6819934197085
+               },
+               "southwest" : {
+                  "lat" : 45.50976121970849,
+                  "lng" : -122.6846913802915
+               }
+            }
+         },
+         "place_id" : "ChIJkbAL-LGglVQRlTfmyWPTDjY",
+         "plus_code" : {
+            "compound_code" : "G868+CM Portland, Oregon, United States",
+            "global_code" : "84QVG868+CM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1830",
+               "short_name" : "1830",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Park Avenue",
+               "short_name" : "SW Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97201",
+               "short_name" : "97201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1830 SW Park Ave, Portland, OR 97201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5119889,
+               "lng" : -122.6847327
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.51333788029149,
+                  "lng" : -122.6833837197085
+               },
+               "southwest" : {
+                  "lat" : 45.5106399197085,
+                  "lng" : -122.6860816802915
+               }
+            }
+         },
+         "place_id" : "EikxODMwIFNXIFBhcmsgQXZlLCBQb3J0bGFuZCwgT1IgOTcyMDEsIFVTQSIbEhkKFAoSCYVkhN8WCpVUEVXSyysAYHKTEKYO",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown, Portland, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.53185089999999,
+                  "lng" : -122.667537
+               },
+               "southwest" : {
+                  "lat" : 45.505353,
+                  "lng" : -122.6895469
+               }
+            },
+            "location" : {
+               "lat" : 45.51345420000001,
+               "lng" : -122.6801343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.53185089999999,
+                  "lng" : -122.667537
+               },
+               "southwest" : {
+                  "lat" : 45.505353,
+                  "lng" : -122.6895469
+               }
+            }
+         },
+         "place_id" : "ChIJGZUYNhAKlVQRQpLqTtV1S_U",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "97201",
+               "short_name" : "97201",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Southwest Portland",
+               "short_name" : "Southwest Portland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portland, OR 97201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.519965,
+                  "lng" : -122.665103
+               },
+               "southwest" : {
+                  "lat" : 45.497957,
+                  "lng" : -122.7193571
+               }
+            },
+            "location" : {
+               "lat" : 45.505603,
+               "lng" : -122.6882145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.519965,
+                  "lng" : -122.665103
+               },
+               "southwest" : {
+                  "lat" : 45.497957,
+                  "lng" : -122.7193571
+               }
+            }
+         },
+         "place_id" : "ChIJi8MjqD8KlVQRsyr5ZtaBLMI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southwest Portland",
+               "short_name" : "Southwest Portland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southwest Portland, Portland, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5242158,
+                  "lng" : -122.6583019
+               },
+               "southwest" : {
+                  "lat" : 45.432393,
+                  "lng" : -122.7475081
+               }
+            },
+            "location" : {
+               "lat" : 45.484946,
+               "lng" : -122.7116161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5242158,
+                  "lng" : -122.6583019
+               },
+               "southwest" : {
+                  "lat" : 45.432393,
+                  "lng" : -122.7475081
+               }
+            }
+         },
+         "place_id" : "ChIJ_0NjuwUKlVQRGJu8jNCHpTE",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portland, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.65288049999999,
+                  "lng" : -122.472024
+               },
+               "southwest" : {
+                  "lat" : 45.4325358,
+                  "lng" : -122.8367493
+               }
+            },
+            "location" : {
+               "lat" : 45.5122308,
+               "lng" : -122.6587185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.65288049999999,
+                  "lng" : -122.472024
+               },
+               "southwest" : {
+                  "lat" : 45.4325358,
+                  "lng" : -122.8367493
+               }
+            }
+         },
+         "place_id" : "ChIJJ3SpfQsLlVQRkYXR9ua5Nhw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Multnomah County, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.728573,
+                  "lng" : -121.8202881
+               },
+               "southwest" : {
+                  "lat" : 45.432541,
+                  "lng" : -122.929222
+               }
+            },
+            "location" : {
+               "lat" : 45.5145659,
+               "lng" : -122.5863211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.728573,
+                  "lng" : -121.8202881
+               },
+               "southwest" : {
+                  "lat" : 45.432541,
+                  "lng" : -122.929222
+               }
+            }
+         },
+         "place_id" : "ChIJsbYckviDlVQR6bqXj-gieh8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oregon",
+               "short_name" : "Oregon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oregon, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.299099,
+                  "lng" : -116.463262
+               },
+               "southwest" : {
+                  "lat" : 41.9917941,
+                  "lng" : -124.7035411
+               }
+            },
+            "location" : {
+               "lat" : 43.8041334,
+               "lng" : -120.5542012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.299099,
+                  "lng" : -116.463262
+               },
+               "southwest" : {
+                  "lat" : 41.9917941,
+                  "lng" : -124.7035411
+               }
+            }
+         },
+         "place_id" : "ChIJVWqfm3xuk1QRdrgLettlTH0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,639 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "532",
+               "short_name" : "532",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Professor Almeida Prado",
+               "short_name" : "Av. Prof. Almeida Prado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Butantã",
+               "short_name" : "Butantã",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05508-070",
+               "short_name" : "05508-070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Prof. Almeida Prado, 532 - Butantã, São Paulo - SP, 05508-070, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5568133,
+               "lng" : -46.7346776
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.55546431970849,
+                  "lng" : -46.73332861970851
+               },
+               "southwest" : {
+                  "lat" : -23.5581622802915,
+                  "lng" : -46.73602658029151
+               }
+            }
+         },
+         "place_id" : "ChIJi0EIzRBWzpQRI4qYSA_pbSE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Butantã",
+               "short_name" : "Butantã",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03178-200",
+               "short_name" : "03178-200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Butantã, São Paulo - SP, 03178-200, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5481799,
+                  "lng" : -46.7017353
+               },
+               "southwest" : {
+                  "lat" : -23.5797474,
+                  "lng" : -46.7493077
+               }
+            },
+            "location" : {
+               "lat" : -23.5634872,
+               "lng" : -46.7210095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5481799,
+                  "lng" : -46.7017353
+               },
+               "southwest" : {
+                  "lat" : -23.5797474,
+                  "lng" : -46.7493077
+               }
+            }
+         },
+         "place_id" : "ChIJsRtgEkFWzpQRYZxCnWVzxQA",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo, State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.3566039,
+                  "lng" : -46.3650844
+               },
+               "southwest" : {
+                  "lat" : -24.0082209,
+                  "lng" : -46.825514
+               }
+            },
+            "location" : {
+               "lat" : -23.5505199,
+               "lng" : -46.63330939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.3566039,
+                  "lng" : -46.3650844
+               },
+               "southwest" : {
+                  "lat" : -24.0082209,
+                  "lng" : -46.825514
+               }
+            }
+         },
+         "place_id" : "ChIJ0WGkg4FEzpQRrlsz_whLqZs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "05508-280",
+               "short_name" : "05508-280",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Butantã",
+               "short_name" : "Butantã",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butantã, São Paulo - SP, 05508-280, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5561153,
+                  "lng" : -46.7333436
+               },
+               "southwest" : {
+                  "lat" : -23.5581414,
+                  "lng" : -46.735761
+               }
+            },
+            "location" : {
+               "lat" : -23.5573417,
+               "lng" : -46.7343341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5557793697085,
+                  "lng" : -46.7332033197085
+               },
+               "southwest" : {
+                  "lat" : -23.5584773302915,
+                  "lng" : -46.7359012802915
+               }
+            }
+         },
+         "place_id" : "ChIJoa2qGRFWzpQR0Hfdi3zk_n8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "05508",
+               "short_name" : "05508",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Butantã",
+               "short_name" : "Butantã",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03178-200",
+               "short_name" : "03178-200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Butantã, São Paulo - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5556942,
+                  "lng" : -46.727849
+               },
+               "southwest" : {
+                  "lat" : -23.5650354,
+                  "lng" : -46.746431
+               }
+            },
+            "location" : {
+               "lat" : -23.5609436,
+               "lng" : -46.73696959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5556942,
+                  "lng" : -46.727849
+               },
+               "southwest" : {
+                  "lat" : -23.5650354,
+                  "lng" : -46.746431
+               }
+            }
+         },
+         "place_id" : "ChIJWQrOGRJWzpQRF6VWlw1ZDjY",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "05338-110",
+               "short_name" : "05338-110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Jaguare",
+               "short_name" : "Jaguare",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jaguare, São Paulo - State of São Paulo, 05338-110, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5425221,
+                  "lng" : -46.6970977
+               },
+               "southwest" : {
+                  "lat" : -23.5869479,
+                  "lng" : -46.74905829999999
+               }
+            },
+            "location" : {
+               "lat" : -23.5548167,
+               "lng" : -46.74613249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5425221,
+                  "lng" : -46.6970977
+               },
+               "southwest" : {
+                  "lat" : -23.5869479,
+                  "lng" : -46.74905829999999
+               }
+            }
+         },
+         "place_id" : "ChIJ39kPPwdWzpQRJkVteaJaPWM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "05508-070",
+               "short_name" : "05508-070",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Butantã",
+               "short_name" : "Butantã",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butantã, São Paulo - SP, 05508-070, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5496776,
+                  "lng" : -46.7091766
+               },
+               "southwest" : {
+                  "lat" : -23.5744805,
+                  "lng" : -46.7478493
+               }
+            },
+            "location" : {
+               "lat" : -23.555434,
+               "lng" : -46.7333935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5496776,
+                  "lng" : -46.7091766
+               },
+               "southwest" : {
+                  "lat" : -23.5744805,
+                  "lng" : -46.7478493
+               }
+            }
+         },
+         "place_id" : "ChIJ7Uba9A5WzpQRbwHFXXfjshg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "03178-200",
+               "short_name" : "03178-200",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Quarta Parada",
+               "short_name" : "Quarta Parada",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quarta Parada, São Paulo - State of São Paulo, 03178-200, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.4757145,
+                  "lng" : -46.4008721
+               },
+               "southwest" : {
+                  "lat" : -23.7266334,
+                  "lng" : -46.7623591
+               }
+            },
+            "location" : {
+               "lat" : -23.5489993,
+               "lng" : -46.5844159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.4757145,
+                  "lng" : -46.4008721
+               },
+               "southwest" : {
+                  "lat" : -23.7266334,
+                  "lng" : -46.7623591
+               }
+            }
+         },
+         "place_id" : "ChIJL7i7_8dezpQRGiyhuawfrvQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.356293,
+                  "lng" : -46.3650838
+               },
+               "southwest" : {
+                  "lat" : -24.0084309,
+                  "lng" : -46.826199
+               }
+            },
+            "location" : {
+               "lat" : -23.6503225,
+               "lng" : -46.70917670000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.356293,
+                  "lng" : -46.3650838
+               },
+               "southwest" : {
+                  "lat" : -24.0084309,
+                  "lng" : -46.826199
+               }
+            }
+         },
+         "place_id" : "ChIJ9cXwmIFEzpQR7-ebZCySXMo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            },
+            "location" : {
+               "lat" : -23.5431786,
+               "lng" : -46.6291845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7796583,
+                  "lng" : -44.1613651
+               },
+               "southwest" : {
+                  "lat" : -25.3126231,
+                  "lng" : -53.1101046
+               }
+            }
+         },
+         "place_id" : "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

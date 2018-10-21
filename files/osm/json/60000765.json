@@ -1,0 +1,440 @@
+{
+   "plus_code" : {
+      "compound_code" : "H2X3+5R Erlangen, Germany",
+      "global_code" : "8FXHH2X3+5R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schloßplatz",
+               "short_name" : "Schloßplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "Erlangen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mittelfranken",
+               "short_name" : "Mittelfranken",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91054",
+               "short_name" : "91054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Schloßplatz 4, 91054 Erlangen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.5978804,
+               "lng" : 11.0045507
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5992293802915,
+                  "lng" : 11.0058996802915
+               },
+               "southwest" : {
+                  "lat" : 49.5965314197085,
+                  "lng" : 11.0032017197085
+               }
+            }
+         },
+         "place_id" : "ChIJT_-Fm8r9oUcRPhfkTS-SNBA",
+         "plus_code" : {
+            "compound_code" : "H2X3+5R Erlangen, Germany",
+            "global_code" : "8FXHH2X3+5R"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schloßplatz",
+               "short_name" : "Schloßplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mittelfranken",
+               "short_name" : "Mittelfranken",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91054",
+               "short_name" : "91054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Schloßplatz 4, 91054 Erlangen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.5976974,
+               "lng" : 11.0047174
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5990463802915,
+                  "lng" : 11.0060663802915
+               },
+               "southwest" : {
+                  "lat" : 49.59634841970851,
+                  "lng" : 11.0033684197085
+               }
+            }
+         },
+         "place_id" : "ChIJMZc9VOf4oUcRBZzQJPcC_i4",
+         "plus_code" : {
+            "compound_code" : "H2X3+3V Erlangen, Germany",
+            "global_code" : "8FXHH2X3+3V"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schloßplatz",
+               "short_name" : "Schloßplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bruck",
+               "short_name" : "Bruck",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91054",
+               "short_name" : "91054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Schloßplatz 1, 91054 Erlangen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.5978169,
+               "lng" : 11.0043734
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.59916588029149,
+                  "lng" : 11.0057223802915
+               },
+               "southwest" : {
+                  "lat" : 49.59646791970849,
+                  "lng" : 11.0030244197085
+               }
+            }
+         },
+         "place_id" : "EitTY2hsb8OfcGxhdHogMSwgOTEwNTQgRXJsYW5nZW4sIERldXRzY2hsYW5kIhoSGAoUChIJwdTJUOf4oUcRnKyxuRCUwRQQAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "91054",
+               "short_name" : "91054",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "91054 Erlangen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.619871,
+                  "lng" : 11.067596
+               },
+               "southwest" : {
+                  "lat" : 49.58667699999999,
+                  "lng" : 10.993294
+               }
+            },
+            "location" : {
+               "lat" : 49.6024057,
+               "lng" : 11.0069277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.619871,
+                  "lng" : 11.067596
+               },
+               "southwest" : {
+                  "lat" : 49.58667699999999,
+                  "lng" : 10.993294
+               }
+            }
+         },
+         "place_id" : "ChIJ4344UBD5oUcRkMXG9DXaHhw",
+         "postcode_localities" : [ "Buckenhof", "Erlangen" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "Erlangen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erlangen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6455845,
+                  "lng" : 11.0536043
+               },
+               "southwest" : {
+                  "lat" : 49.5327698,
+                  "lng" : 10.9153629
+               }
+            },
+            "location" : {
+               "lat" : 49.5896744,
+               "lng" : 11.0119611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6455845,
+                  "lng" : 11.0536043
+               },
+               "southwest" : {
+                  "lat" : 49.5327698,
+                  "lng" : 10.9153629
+               }
+            }
+         },
+         "place_id" : "ChIJoTR81cf4oUcR0Me1vjLaHgQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middle Franconia, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7882495,
+                  "lng" : 11.6016272
+               },
+               "southwest" : {
+                  "lat" : 48.858336,
+                  "lng" : 10.0695475
+               }
+            },
+            "location" : {
+               "lat" : 49.36332729999999,
+               "lng" : 10.6506315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7882495,
+                  "lng" : 11.6016272
+               },
+               "southwest" : {
+                  "lat" : 48.858336,
+                  "lng" : 10.0695475
+               }
+            }
+         },
+         "place_id" : "ChIJgR4VyceymEcRqOmYSv8A1x4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "Bavaria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bavaria, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            },
+            "location" : {
+               "lat" : 48.7904472,
+               "lng" : 11.4978895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5647142,
+                  "lng" : 13.8396371
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 8.9763497
+               }
+            }
+         },
+         "place_id" : "ChIJqVPfD0wEn0cRYHk4CaQlHQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

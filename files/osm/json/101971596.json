@@ -1,0 +1,437 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20 Norte1",
+               "short_name" : "20 Norte1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida 5a Norte",
+               "short_name" : "Av. 5a Nte.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Versalles",
+               "short_name" : "Versalles",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "760046",
+               "short_name" : "760046",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. 5a Nte. #20 Norte-1, Cali, Valle del Cauca, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4613601,
+               "lng" : -76.52972439999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.462709080291502,
+                  "lng" : -76.52837541970848
+               },
+               "southwest" : {
+                  "lat" : 3.460011119708498,
+                  "lng" : -76.5310733802915
+               }
+            }
+         },
+         "place_id" : "EjhBdi4gNWEgTnRlLiAjMjAgTm9ydGUtMSwgQ2FsaSwgVmFsbGUgZGVsIENhdWNhLCBDb2xvbWJpYSIaEhgKFAoSCVNIUhFrpjCOEdX8y1gJwEqWEAE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Versailles",
+               "short_name" : "Versailles",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Vicente",
+               "short_name" : "San Vicente",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Versailles, Cali, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.4665159,
+                  "lng" : -76.5235251
+               },
+               "southwest" : {
+                  "lat" : 3.4559136,
+                  "lng" : -76.5330039
+               }
+            },
+            "location" : {
+               "lat" : 3.4614557,
+               "lng" : -76.52931389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.4665159,
+                  "lng" : -76.5235251
+               },
+               "southwest" : {
+                  "lat" : 3.4559136,
+                  "lng" : -76.5330039
+               }
+            }
+         },
+         "place_id" : "ChIJieBy_GqmMI4R3b9Bphg-mTg",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Vicente",
+               "short_name" : "San Vicente",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Vicente, Cali, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.4757151,
+                  "lng" : -76.52326219999999
+               },
+               "southwest" : {
+                  "lat" : 3.4559886,
+                  "lng" : -76.53285870000001
+               }
+            },
+            "location" : {
+               "lat" : 3.4669612,
+               "lng" : -76.527146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.4757151,
+                  "lng" : -76.52326219999999
+               },
+               "southwest" : {
+                  "lat" : 3.4559886,
+                  "lng" : -76.53285870000001
+               }
+            }
+         },
+         "place_id" : "ChIJn1GwqRWmMI4RCUfBRAokRAY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cali, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.505554,
+                  "lng" : -76.46082489999999
+               },
+               "southwest" : {
+                  "lat" : 3.2845748,
+                  "lng" : -76.590503
+               }
+            },
+            "location" : {
+               "lat" : 3.4516467,
+               "lng" : -76.5319854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.505554,
+                  "lng" : -76.46082489999999
+               },
+               "southwest" : {
+                  "lat" : 3.2845748,
+                  "lng" : -76.590503
+               }
+            }
+         },
+         "place_id" : "ChIJ8bNLzPCmMI4RaGGuUum1Dx8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "760046",
+               "short_name" : "760046",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cali, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.498385,
+                  "lng" : -76.5165121
+               },
+               "southwest" : {
+                  "lat" : 3.4576009,
+                  "lng" : -76.5384459
+               }
+            },
+            "location" : {
+               "lat" : 3.4805195,
+               "lng" : -76.5285913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.498385,
+                  "lng" : -76.5165121
+               },
+               "southwest" : {
+                  "lat" : 3.4576009,
+                  "lng" : -76.5384459
+               }
+            }
+         },
+         "place_id" : "ChIJg7VbyximMI4RvxIy28jWoxM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cali, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.5476371,
+                  "lng" : -76.458855
+               },
+               "southwest" : {
+                  "lat" : 3.273552,
+                  "lng" : -76.7073891
+               }
+            },
+            "location" : {
+               "lat" : 3.45246,
+               "lng" : -76.535758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.5476371,
+                  "lng" : -76.458855
+               },
+               "southwest" : {
+                  "lat" : 3.273552,
+                  "lng" : -76.7073891
+               }
+            }
+         },
+         "place_id" : "ChIJESedtkOmMI4R--NFJ63l3jc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.015258,
+                  "lng" : -75.704875
+               },
+               "southwest" : {
+                  "lat" : 3.0615429,
+                  "lng" : -77.5532631
+               }
+            },
+            "location" : {
+               "lat" : 3.8008893,
+               "lng" : -76.64127119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.015258,
+                  "lng" : -75.704875
+               },
+               "southwest" : {
+                  "lat" : 3.0615429,
+                  "lng" : -77.5532631
+               }
+            }
+         },
+         "place_id" : "ChIJj0EMhiryNo4RoExlemHhg-s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            },
+            "location" : {
+               "lat" : 4.570868,
+               "lng" : -74.29733299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            }
+         },
+         "place_id" : "ChIJo5QVrjqkFY4RQKPy7wSaDZo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

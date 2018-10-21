@@ -1,0 +1,336 @@
+{
+   "plus_code" : {
+      "compound_code" : "39PJ+V5 Båtvik, Finland",
+      "global_code" : "9GG639PJ+V5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sockerbruksvägen",
+               "short_name" : "Sockerbruksvägen",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kantvik",
+               "short_name" : "Kantvik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02460",
+               "short_name" : "02460",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sockerbruksvägen 20, 02460 Kantvik, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.08719309999999,
+               "lng" : 24.3804608
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.0885420802915,
+                  "lng" : 24.3818097802915
+               },
+               "southwest" : {
+                  "lat" : 60.08584411970849,
+                  "lng" : 24.3791118197085
+               }
+            }
+         },
+         "place_id" : "ChIJJTYSfQKOjUYR1eEYev6WwGg",
+         "plus_code" : {
+            "compound_code" : "39PJ+V5 Båtvik, Kirkkonummi, Finland",
+            "global_code" : "9GG639PJ+V5"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kyrkslätt",
+               "short_name" : "Kyrkslätt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02460",
+               "short_name" : "02460",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 02460 Kyrkslätt, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.0878615,
+                  "lng" : 24.3807202
+               },
+               "southwest" : {
+                  "lat" : 60.0866133,
+                  "lng" : 24.3790608
+               }
+            },
+            "location" : {
+               "lat" : 60.0872374,
+               "lng" : 24.3798905
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.0885863802915,
+                  "lng" : 24.3812394802915
+               },
+               "southwest" : {
+                  "lat" : 60.08588841970849,
+                  "lng" : 24.3785415197085
+               }
+            }
+         },
+         "place_id" : "ChIJxwVeUh2OjUYRympxLXhDgOM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "02460",
+               "short_name" : "02460",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kirkkonummi",
+               "short_name" : "Kirkkonummi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "02460 Kirkkonummi, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.10610079999999,
+                  "lng" : 24.4136989
+               },
+               "southwest" : {
+                  "lat" : 60.0816849,
+                  "lng" : 24.369375
+               }
+            },
+            "location" : {
+               "lat" : 60.0908461,
+               "lng" : 24.3940523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.10610079999999,
+                  "lng" : 24.4136989
+               },
+               "southwest" : {
+                  "lat" : 60.0816849,
+                  "lng" : 24.369375
+               }
+            }
+         },
+         "place_id" : "ChIJP9x6BwGOjUYRcExXeFS1ABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkkonummi",
+               "short_name" : "Kirkkonummi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirkkonummi, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.29770049999999,
+                  "lng" : 24.8331932
+               },
+               "southwest" : {
+                  "lat" : 59.7915576,
+                  "lng" : 24.2719938
+               }
+            },
+            "location" : {
+               "lat" : 60.1237386,
+               "lng" : 24.4414297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.29770049999999,
+                  "lng" : 24.8331932
+               },
+               "southwest" : {
+                  "lat" : 59.7915576,
+                  "lng" : 24.2719938
+               }
+            }
+         },
+         "place_id" : "ChIJYezT3UaJjUYRDCiQq1pCu48",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 25.5265525
+               },
+               "southwest" : {
+                  "lat" : 59.7915576,
+                  "lng" : 23.5868581
+               }
+            },
+            "location" : {
+               "lat" : 60.2308636,
+               "lng" : 24.7178413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 25.5265525
+               },
+               "southwest" : {
+                  "lat" : 59.7915576,
+                  "lng" : 23.5868581
+               }
+            }
+         },
+         "place_id" : "ChIJ8d7XsbPvjUYRSkCZVH4SEe4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uusimaa",
+               "short_name" : "Uusimaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uusimaa, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 26.5905075
+               },
+               "southwest" : {
+                  "lat" : 59.7366942,
+                  "lng" : 22.7612088
+               }
+            },
+            "location" : {
+               "lat" : 60.21872,
+               "lng" : 25.271621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8405237,
+                  "lng" : 26.5905075
+               },
+               "southwest" : {
+                  "lat" : 59.7366942,
+                  "lng" : 22.7612088
+               }
+            }
+         },
+         "place_id" : "ChIJjxx_x8PzjUYRoPTt2ZDEppc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            },
+            "location" : {
+               "lat" : 61.92410999999999,
+               "lng" : 25.7481511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5870999
+               },
+               "southwest" : {
+                  "lat" : 59.693623,
+                  "lng" : 20.4565002
+               }
+            }
+         },
+         "place_id" : "ChIJ3fYyS9_KgUYREKh1PNZGAQA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

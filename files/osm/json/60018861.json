@@ -1,0 +1,681 @@
+{
+   "plus_code" : {
+      "compound_code" : "J6CC+WH Norwich, UK",
+      "global_code" : "9F43J6CC+WH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich Research Park",
+               "short_name" : "Norwich Research Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Colney Lane",
+               "short_name" : "Colney Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR4 7UH",
+               "short_name" : "NR4 7UH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Norwich Research Park, Colney Ln, Norwich NR4 7UH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.622271,
+               "lng" : 1.221381
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6236199802915,
+                  "lng" : 1.222729980291502
+               },
+               "southwest" : {
+                  "lat" : 52.6209220197085,
+                  "lng" : 1.220032019708498
+               }
+            }
+         },
+         "place_id" : "ChIJv0M4ZsXg2UcRC9kFKAoN2jU",
+         "plus_code" : {
+            "compound_code" : "J6CC+WH Norwich, United Kingdom",
+            "global_code" : "9F43J6CC+WH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bateson Building",
+               "short_name" : "Bateson Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Colney Lane",
+               "short_name" : "Colney Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR4 7UE",
+               "short_name" : "NR4 7UE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bateson Building, Colney Ln, Norwich NR4 7UE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6223972,
+                  "lng" : 1.2224723
+               },
+               "southwest" : {
+                  "lat" : 52.6216295,
+                  "lng" : 1.2214533
+               }
+            },
+            "location" : {
+               "lat" : 52.62208949999999,
+               "lng" : 1.2223034
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6233623302915,
+                  "lng" : 1.223311780291502
+               },
+               "southwest" : {
+                  "lat" : 52.6206643697085,
+                  "lng" : 1.220613819708498
+               }
+            }
+         },
+         "place_id" : "ChIJn55_WcXg2UcRQN7wgsGF9lA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR4",
+               "short_name" : "NR4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Norwich NR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6225687,
+                  "lng" : 1.2213199
+               },
+               "southwest" : {
+                  "lat" : 52.6216097,
+                  "lng" : 1.2208473
+               }
+            },
+            "location" : {
+               "lat" : 52.6220892,
+               "lng" : 1.2210836
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.62343818029149,
+                  "lng" : 1.222432580291502
+               },
+               "southwest" : {
+                  "lat" : 52.62074021970849,
+                  "lng" : 1.219734619708498
+               }
+            }
+         },
+         "place_id" : "ChIJfU9qZMXg2UcRDBZxXaRgAgM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NR4 7UE",
+               "short_name" : "NR4 7UE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich NR4 7UE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6225424,
+                  "lng" : 1.2274933
+               },
+               "southwest" : {
+                  "lat" : 52.6207017,
+                  "lng" : 1.218157
+               }
+            },
+            "location" : {
+               "lat" : 52.62187429999999,
+               "lng" : 1.2223058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6229710302915,
+                  "lng" : 1.2274933
+               },
+               "southwest" : {
+                  "lat" : 52.6202730697085,
+                  "lng" : 1.218157
+               }
+            }
+         },
+         "place_id" : "ChIJ5SfTWcXg2UcRhYlc7hBO3RE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colney",
+               "short_name" : "Colney",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colney, Norwich, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6371341,
+                  "lng" : 1.2327415
+               },
+               "southwest" : {
+                  "lat" : 52.6099229,
+                  "lng" : 1.1973829
+               }
+            },
+            "location" : {
+               "lat" : 52.6190881,
+               "lng" : 1.2136788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6371341,
+                  "lng" : 1.2327415
+               },
+               "southwest" : {
+                  "lat" : 52.6099229,
+                  "lng" : 1.1973829
+               }
+            }
+         },
+         "place_id" : "ChIJeRyJQ8bg2UcRHiSxDbAwEDc",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NR4",
+               "short_name" : "NR4",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich NR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6484235,
+                  "lng" : 1.3236366
+               },
+               "southwest" : {
+                  "lat" : 52.58332979999999,
+                  "lng" : 1.1960696
+               }
+            },
+            "location" : {
+               "lat" : 52.60004379999999,
+               "lng" : 1.247209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6484235,
+                  "lng" : 1.3236366
+               },
+               "southwest" : {
+                  "lat" : 52.58332979999999,
+                  "lng" : 1.1960696
+               }
+            }
+         },
+         "place_id" : "ChIJzcy7p7Xg2UcRSnBc8zHbRuc",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6858357,
+                  "lng" : 1.3786135
+               },
+               "southwest" : {
+                  "lat" : 52.5944502,
+                  "lng" : 1.1950855
+               }
+            },
+            "location" : {
+               "lat" : 52.6308859,
+               "lng" : 1.297355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6858357,
+                  "lng" : 1.3786135
+               },
+               "southwest" : {
+                  "lat" : 52.5944502,
+                  "lng" : 1.1950855
+               }
+            }
+         },
+         "place_id" : "ChIJE_UzUdWq0EcRL0USDuClTGg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Norfolk District",
+               "short_name" : "South Norfolk District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Norfolk District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6785175,
+                  "lng" : 1.682626
+               },
+               "southwest" : {
+                  "lat" : 52.355367,
+                  "lng" : 0.9470054000000001
+               }
+            },
+            "location" : {
+               "lat" : 52.48281859999999,
+               "lng" : 1.2294872
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6785175,
+                  "lng" : 1.682626
+               },
+               "southwest" : {
+                  "lat" : 52.355367,
+                  "lng" : 0.9470054000000001
+               }
+            }
+         },
+         "place_id" : "ChIJASqpVmTv2UcRIOPBu6gcDgQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9269711,
+                  "lng" : 1.6435661
+               },
+               "southwest" : {
+                  "lat" : 52.4064229,
+                  "lng" : 0.8157593999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.65358209999999,
+               "lng" : 1.2371039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9269711,
+                  "lng" : 1.6435661
+               },
+               "southwest" : {
+                  "lat" : 52.4064229,
+                  "lng" : 0.8157593999999999
+               }
+            }
+         },
+         "place_id" : "ChIJt2-AXk7g2UcRi1eUn-Dwujc",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9927044,
+                  "lng" : 1.7454611
+               },
+               "southwest" : {
+                  "lat" : 52.355367,
+                  "lng" : 0.1535552
+               }
+            },
+            "location" : {
+               "lat" : 52.6139686,
+               "lng" : 0.8864021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9927044,
+                  "lng" : 1.7454611
+               },
+               "southwest" : {
+                  "lat" : 52.355367,
+                  "lng" : 0.1535552
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRHxKMavHIeTU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

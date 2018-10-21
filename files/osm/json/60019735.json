@@ -1,0 +1,346 @@
+{
+   "plus_code" : {
+      "compound_code" : "FVWX+72 Ibadan, Nigeria",
+      "global_code" : "6FV5FVWX+72"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ibadan",
+               "short_name" : "Ibadan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200285",
+               "short_name" : "200285",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "PMB 5320 Oyo Road, 200285, Ibadan, Nigeria",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.4956643,
+               "lng" : 3.8975716
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.497013280291502,
+                  "lng" : 3.898920580291502
+               },
+               "southwest" : {
+                  "lat" : 7.494315319708497,
+                  "lng" : 3.896222619708498
+               }
+            }
+         },
+         "place_id" : "ChIJLfNxlA_yORARSBM_HGDdd_I",
+         "plus_code" : {
+            "compound_code" : "FVWX+72 Ibadan, Nigeria",
+            "global_code" : "6FV5FVWX+72"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "IITA Entrance Road",
+               "short_name" : "IITA Entrance Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ibadan",
+               "short_name" : "Ibadan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akinyele",
+               "short_name" : "Akinyele",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oyo",
+               "short_name" : "YO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "IITA Entrance Rd, Ibadan, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.4969102,
+                  "lng" : 3.8975496
+               },
+               "southwest" : {
+                  "lat" : 7.496264900000001,
+                  "lng" : 3.8961793
+               }
+            },
+            "location" : {
+               "lat" : 7.496587599999999,
+               "lng" : 3.8968644
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.497936530291502,
+                  "lng" : 3.898213430291503
+               },
+               "southwest" : {
+                  "lat" : 7.495238569708498,
+                  "lng" : 3.895515469708498
+               }
+            }
+         },
+         "place_id" : "ChIJjS8C9w_yORARCl5-sLj5sOU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ojo-Emo/Moniya",
+               "short_name" : "Ojo-Emo/Moniya",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Akinyele",
+               "short_name" : "Akinyele",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oyo",
+               "short_name" : "YO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ojo-Emo/Moniya, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.5753963,
+                  "lng" : 3.961487499999999
+               },
+               "southwest" : {
+                  "lat" : 7.492691400000001,
+                  "lng" : 3.8822378
+               }
+            },
+            "location" : {
+               "lat" : 7.518159300000001,
+               "lng" : 3.9164585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.5753963,
+                  "lng" : 3.961487499999999
+               },
+               "southwest" : {
+                  "lat" : 7.492691400000001,
+                  "lng" : 3.8822378
+               }
+            }
+         },
+         "place_id" : "ChIJ9fX2qz7uORARzAR6Xaz9HOc",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akinyele",
+               "short_name" : "Akinyele",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oyo",
+               "short_name" : "YO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akinyele, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.675344699999999,
+                  "lng" : 4.0925921
+               },
+               "southwest" : {
+                  "lat" : 7.419692,
+                  "lng" : 3.7927655
+               }
+            },
+            "location" : {
+               "lat" : 7.5503161,
+               "lng" : 3.9470396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.675344699999999,
+                  "lng" : 4.0925921
+               },
+               "southwest" : {
+                  "lat" : 7.419692,
+                  "lng" : 3.7927655
+               }
+            }
+         },
+         "place_id" : "ChIJ-9jlYlTuORAR-zMuFiKYHyI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ibadan",
+               "short_name" : "Ibadan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oyo",
+               "short_name" : "YO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ibadan, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.557695799999999,
+                  "lng" : 4.0328407
+               },
+               "southwest" : {
+                  "lat" : 7.2839339,
+                  "lng" : 3.7755203
+               }
+            },
+            "location" : {
+               "lat" : 7.3775355,
+               "lng" : 3.9470396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.557695799999999,
+                  "lng" : 4.0328407
+               },
+               "southwest" : {
+                  "lat" : 7.2839339,
+                  "lng" : 3.7755203
+               }
+            }
+         },
+         "place_id" : "ChIJbwj_7neNORARqQSObvfgMzs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oyo",
+               "short_name" : "Oyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oyo, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.1885479,
+                  "lng" : 4.5682238
+               },
+               "southwest" : {
+                  "lat" : 7.0805342,
+                  "lng" : 2.66773
+               }
+            },
+            "location" : {
+               "lat" : 8.119567,
+               "lng" : 3.4195527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.1885479,
+                  "lng" : 4.5682238
+               },
+               "southwest" : {
+                  "lat" : 7.0805342,
+                  "lng" : 2.66773
+               }
+            }
+         },
+         "place_id" : "ChIJRZr7RV7lNhAR6QXwLpDha5w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8856449,
+                  "lng" : 14.677982
+               },
+               "southwest" : {
+                  "lat" : 4.1821001,
+                  "lng" : 2.676932
+               }
+            },
+            "location" : {
+               "lat" : 9.081999,
+               "lng" : 8.675276999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8856449,
+                  "lng" : 14.677982
+               },
+               "southwest" : {
+                  "lat" : 4.1821001,
+                  "lng" : 2.676932
+               }
+            }
+         },
+         "place_id" : "ChIJDY2kfa8LThARyAvFaEH-qJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

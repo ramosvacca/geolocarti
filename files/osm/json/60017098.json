@@ -1,0 +1,426 @@
+{
+   "plus_code" : {
+      "compound_code" : "JVH6+PV Leicester, UK",
+      "global_code" : "9C4WJVH6+PV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Deacon Street",
+               "short_name" : "Deacon St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "22 Deacon St, Leicester, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6288859,
+               "lng" : -1.1375463
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6302348802915,
+                  "lng" : -1.136197319708498
+               },
+               "southwest" : {
+                  "lat" : 52.6275369197085,
+                  "lng" : -1.138895280291502
+               }
+            }
+         },
+         "place_id" : "EhsyMiBEZWFjb24gU3QsIExlaWNlc3RlciwgVUsiGhIYChQKEglx3K1A32B3SBGQzcZCVqGbjBAW",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LE2 7DP",
+               "short_name" : "LE2 7DP",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gateway Street",
+               "short_name" : "Gateway St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gateway St, Leicester LE2 7DP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.62958769999999,
+                  "lng" : -1.1369004
+               },
+               "southwest" : {
+                  "lat" : 52.6281536,
+                  "lng" : -1.1385251
+               }
+            },
+            "location" : {
+               "lat" : 52.6286992,
+               "lng" : -1.1374891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.63021963029149,
+                  "lng" : -1.136363769708498
+               },
+               "southwest" : {
+                  "lat" : 52.62752166970849,
+                  "lng" : -1.139061730291502
+               }
+            }
+         },
+         "place_id" : "ChIJQ7OeR99gd0gRWNkCuDHYEtk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LE2",
+               "short_name" : "LE2",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leicestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leicester LE2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6393329,
+                  "lng" : -1.0096077
+               },
+               "southwest" : {
+                  "lat" : 52.57301469999999,
+                  "lng" : -1.1868329
+               }
+            },
+            "location" : {
+               "lat" : 52.60174989999999,
+               "lng" : -1.072559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6393329,
+                  "lng" : -1.0096077
+               },
+               "southwest" : {
+                  "lat" : 52.57301469999999,
+                  "lng" : -1.1868329
+               }
+            }
+         },
+         "place_id" : "ChIJoUOSQdJgd0gR78IIls_Y-Rg",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leicester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6915038,
+                  "lng" : -1.0462128
+               },
+               "southwest" : {
+                  "lat" : 52.5806504,
+                  "lng" : -1.2159877
+               }
+            },
+            "location" : {
+               "lat" : 52.6368141,
+               "lng" : -1.1396014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6915038,
+                  "lng" : -1.0462128
+               },
+               "southwest" : {
+                  "lat" : 52.5806504,
+                  "lng" : -1.2159877
+               }
+            }
+         },
+         "place_id" : "ChIJoezi2B5hd0gRsJ_Du6gcDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leicester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6915038,
+                  "lng" : -1.0462128
+               },
+               "southwest" : {
+                  "lat" : 52.5806504,
+                  "lng" : -1.2159877
+               }
+            },
+            "location" : {
+               "lat" : 52.6368778,
+               "lng" : -1.1397592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6915038,
+                  "lng" : -1.0462128
+               },
+               "southwest" : {
+                  "lat" : 52.5806504,
+                  "lng" : -1.2159877
+               }
+            }
+         },
+         "place_id" : "ChIJc2y3SatCd0gRuJy0byodFZo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leicestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leicester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7808641,
+                  "lng" : -0.8107126
+               },
+               "southwest" : {
+                  "lat" : 52.5070491,
+                  "lng" : -1.3964844
+               }
+            },
+            "location" : {
+               "lat" : 52.6545818,
+               "lng" : -1.137065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7808641,
+                  "lng" : -0.8107126
+               },
+               "southwest" : {
+                  "lat" : 52.5070491,
+                  "lng" : -1.3964844
+               }
+            }
+         },
+         "place_id" : "ChIJn1VtIW5hd0gRmynEEJsob-c",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

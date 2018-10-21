@@ -1,0 +1,441 @@
+{
+   "plus_code" : {
+      "compound_code" : "9C2J+P9 Leipzig, Germany",
+      "global_code" : "9F3J9C2J+P9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Permoserstraße",
+               "short_name" : "Permoserstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ost",
+               "short_name" : "Ost",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04318",
+               "short_name" : "04318",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Permoserstraße 16, 04318 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.351325,
+               "lng" : 12.4310578
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3526739802915,
+                  "lng" : 12.4324067802915
+               },
+               "southwest" : {
+                  "lat" : 51.3499760197085,
+                  "lng" : 12.4297088197085
+               }
+            }
+         },
+         "place_id" : "Ei5QZXJtb3NlcnN0cmHDn2UgMTYsIDA0MzE4IExlaXB6aWcsIERldXRzY2hsYW5kIhoSGAoUChIJW8S7Zn34pkcRydspS1qTqGwQEA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "04318",
+               "short_name" : "04318",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ost",
+               "short_name" : "Ost",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sachsen",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "04318 Leipzig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.358368,
+                  "lng" : 12.445149
+               },
+               "southwest" : {
+                  "lat" : 51.3247349,
+                  "lng" : 12.4069489
+               }
+            },
+            "location" : {
+               "lat" : 51.336667,
+               "lng" : 12.4287949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.358368,
+                  "lng" : 12.445149
+               },
+               "southwest" : {
+                  "lat" : 51.3247349,
+                  "lng" : 12.4069489
+               }
+            }
+         },
+         "place_id" : "ChIJ9fJ1B2H4pkcR4Jc0lc6xIRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paunsdorf",
+               "short_name" : "Paunsdorf",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Ost",
+               "short_name" : "Ost",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nordsachsen",
+               "short_name" : "Nordsachsen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sachsen",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paunsdorf, Leipzig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3621839,
+                  "lng" : 12.4983517
+               },
+               "southwest" : {
+                  "lat" : 51.3453481,
+                  "lng" : 12.4263422
+               }
+            },
+            "location" : {
+               "lat" : 51.3539553,
+               "lng" : 12.4660314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3621839,
+                  "lng" : 12.4983517
+               },
+               "southwest" : {
+                  "lat" : 51.3453481,
+                  "lng" : 12.4263422
+               }
+            }
+         },
+         "place_id" : "ChIJ--kWlZj4pkcRgN-JQsuxIQU",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ost",
+               "short_name" : "Ost",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sachsen",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ost, Leipzig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3700509,
+                  "lng" : 12.5506377
+               },
+               "southwest" : {
+                  "lat" : 51.2992109,
+                  "lng" : 12.3923941
+               }
+            },
+            "location" : {
+               "lat" : 51.3452053,
+               "lng" : 12.4731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3700509,
+                  "lng" : 12.5506377
+               },
+               "southwest" : {
+                  "lat" : 51.2992109,
+                  "lng" : 12.3923941
+               }
+            }
+         },
+         "place_id" : "ChIJh0KKKcj4pkcRwq8f953hyMk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leipzig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.448026,
+                  "lng" : 12.5506377
+               },
+               "southwest" : {
+                  "lat" : 51.235539,
+                  "lng" : 12.2366321
+               }
+            },
+            "location" : {
+               "lat" : 51.3396955,
+               "lng" : 12.3730747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.448026,
+                  "lng" : 12.5506377
+               },
+               "southwest" : {
+                  "lat" : 51.235539,
+                  "lng" : 12.2366321
+               }
+            }
+         },
+         "place_id" : "ChIJcywPIBj4pkcRUvW0udKA35M",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leipzig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.684871,
+                  "lng" : 13.2170649
+               },
+               "southwest" : {
+                  "lat" : 50.978852,
+                  "lng" : 12.1475362
+               }
+            },
+            "location" : {
+               "lat" : 51.4104758,
+               "lng" : 12.7540257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.684871,
+                  "lng" : 13.2170649
+               },
+               "southwest" : {
+                  "lat" : 50.978852,
+                  "lng" : 12.1475362
+               }
+            }
+         },
+         "place_id" : "ChIJv9KeZYH9pkcRAAAydMGOIAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saxony",
+               "short_name" : "Saxony",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saxony, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.684871,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 50.1713633,
+                  "lng" : 11.8714358
+               }
+            },
+            "location" : {
+               "lat" : 51.1045407,
+               "lng" : 13.2017384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.684871,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 50.1713633,
+                  "lng" : 11.8714358
+               }
+            }
+         },
+         "place_id" : "ChIJR0Kum3LeCUcRsHmIQsuxIQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

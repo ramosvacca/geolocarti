@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "WW5H+23 Washington, DC, USA",
+      "global_code" : "87C4WW5H+23"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3700",
+               "short_name" : "3700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "O Street Northwest",
+               "short_name" : "O St NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Georgetown",
+               "short_name" : "Georgetown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20057",
+               "short_name" : "20057",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3700 O St NW, Washington, DC 20057, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9076089,
+               "lng" : -77.07225849999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9089578802915,
+                  "lng" : -77.07090951970848
+               },
+               "southwest" : {
+                  "lat" : 38.9062599197085,
+                  "lng" : -77.0736074802915
+               }
+            }
+         },
+         "place_id" : "ChIJa4-fzkC2t4kRgihmVAVtnRw",
+         "plus_code" : {
+            "compound_code" : "WW5H+23 Washington, District of Columbia, United States",
+            "global_code" : "87C4WW5H+23"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3700",
+               "short_name" : "3700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "O Street Northwest",
+               "short_name" : "O St NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20007",
+               "short_name" : "20007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3700 O St NW, Washington, DC 20007, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9076358,
+               "lng" : -77.07211789999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9089847802915,
+                  "lng" : -77.07076891970848
+               },
+               "southwest" : {
+                  "lat" : 38.90628681970851,
+                  "lng" : -77.07346688029151
+               }
+            }
+         },
+         "place_id" : "EiczNzAwIE8gU3QgTlcsIFdhc2hpbmd0b24sIERDIDIwMDA3LCBVU0EiGxIZChQKEgnvUpHhRra3iRE2OHht5RwMvRD0HA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Georgetown",
+               "short_name" : "Georgetown",
+               "types" : [ "locality", "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fort Lesley J. McNair",
+               "short_name" : "Fort Lesley J. McNair",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arlington County",
+               "short_name" : "Arlington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Georgetown, Washington, DC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.918511,
+                  "lng" : -77.05029879999999
+               },
+               "southwest" : {
+                  "lat" : 38.8998674,
+                  "lng" : -77.07917689999999
+               }
+            },
+            "location" : {
+               "lat" : 38.9097057,
+               "lng" : -77.06535650000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.918511,
+                  "lng" : -77.05029879999999
+               },
+               "southwest" : {
+                  "lat" : 38.8998674,
+                  "lng" : -77.07917689999999
+               }
+            }
+         },
+         "place_id" : "ChIJSdaU0Em2t4kR9OSiNiOCmEI",
+         "types" : [ "locality", "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20007",
+               "short_name" : "20007",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Northwest Washington",
+               "short_name" : "Northwest Washington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, DC 20007, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.92821,
+                  "lng" : -77.0499729
+               },
+               "southwest" : {
+                  "lat" : 38.8917629,
+                  "lng" : -77.104619
+               }
+            },
+            "location" : {
+               "lat" : 38.9156487,
+               "lng" : -77.0737149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.92821,
+                  "lng" : -77.0499729
+               },
+               "southwest" : {
+                  "lat" : 38.8917629,
+                  "lng" : -77.104619
+               }
+            }
+         },
+         "place_id" : "ChIJp4vcdBa2t4kRElFxwF3Kr_4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwest Washington",
+               "short_name" : "Northwest Washington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fort Lesley J. McNair",
+               "short_name" : "Fort Lesley J. McNair",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northwest Washington, Washington, DC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9955566,
+                  "lng" : -77.00605969999999
+               },
+               "southwest" : {
+                  "lat" : 38.8891955,
+                  "lng" : -77.1197502
+               }
+            },
+            "location" : {
+               "lat" : 38.9380912,
+               "lng" : -77.04493269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9955566,
+                  "lng" : -77.00605969999999
+               },
+               "southwest" : {
+                  "lat" : 38.8891955,
+                  "lng" : -77.1197502
+               }
+            }
+         },
+         "place_id" : "ChIJi7U4CaS3t4kR0m_KoPJ00Bw",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "District of Columbia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, DC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            },
+            "location" : {
+               "lat" : 38.9071923,
+               "lng" : -77.03687069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            }
+         },
+         "place_id" : "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "District of Columbia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "District of Columbia, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            },
+            "location" : {
+               "lat" : 38.9059849,
+               "lng" : -77.03341790000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.995548,
+                  "lng" : -76.90939299999999
+               },
+               "southwest" : {
+                  "lat" : 38.7916449,
+                  "lng" : -77.119759
+               }
+            }
+         },
+         "place_id" : "ChIJW-T2Wt7Gt4kRmKFUAsCO4tY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

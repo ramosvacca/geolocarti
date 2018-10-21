@@ -1,0 +1,357 @@
+{
+   "plus_code" : {
+      "compound_code" : "C2R3+XV Pittsburgh, PA, USA",
+      "global_code" : "87G2C2R3+XV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "660",
+               "short_name" : "660",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grant Street",
+               "short_name" : "Grant St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Downtown Historic District",
+               "short_name" : "Central Downtown Historic District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny County",
+               "short_name" : "Allegheny County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15219",
+               "short_name" : "15219",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "600 Grant St #660, Pittsburgh, PA 15219, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4424701,
+               "lng" : -79.99529799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4438190802915,
+                  "lng" : -79.9939490197085
+               },
+               "southwest" : {
+                  "lat" : 40.44112111970851,
+                  "lng" : -79.9966469802915
+               }
+            }
+         },
+         "place_id" : "ChIJz5DaAVnxNIgRS7SVFom_iwE",
+         "plus_code" : {
+            "compound_code" : "C2R3+XV Pittsburgh, Pennsylvania, United States",
+            "global_code" : "87G2C2R3+XV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Downtown Historic District",
+               "short_name" : "Central Downtown Historic District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kilbuck Township",
+               "short_name" : "Kilbuck Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Allegheny County",
+               "short_name" : "Allegheny County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Downtown Historic District, Pittsburgh, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4438454,
+                  "lng" : -79.9939545
+               },
+               "southwest" : {
+                  "lat" : 40.4387023,
+                  "lng" : -80.0008
+               }
+            },
+            "location" : {
+               "lat" : 40.4410166,
+               "lng" : -79.99829059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4438454,
+                  "lng" : -79.9939545
+               },
+               "southwest" : {
+                  "lat" : 40.4387023,
+                  "lng" : -80.0008
+               }
+            }
+         },
+         "place_id" : "ChIJa-fdX1fxNIgRP4eyDnCKcuU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kilbuck Township",
+               "short_name" : "Kilbuck Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Allegheny County",
+               "short_name" : "Allegheny County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown, Pittsburgh, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4470826,
+                  "lng" : -79.9850177
+               },
+               "southwest" : {
+                  "lat" : 40.433569,
+                  "lng" : -80.0132775
+               }
+            },
+            "location" : {
+               "lat" : 40.4418296,
+               "lng" : -80.0003875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4470826,
+                  "lng" : -79.9850177
+               },
+               "southwest" : {
+                  "lat" : 40.433569,
+                  "lng" : -80.0132775
+               }
+            }
+         },
+         "place_id" : "ChIJ9XikalfxNIgROLQrsLkD75Y",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15219",
+               "short_name" : "15219",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny County",
+               "short_name" : "Allegheny County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pittsburgh, PA 15219, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.472077,
+                  "lng" : -79.840588
+               },
+               "southwest" : {
+                  "lat" : 40.4292079,
+                  "lng" : -80.04131679999999
+               }
+            },
+            "location" : {
+               "lat" : 40.440368,
+               "lng" : -79.98361079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.472077,
+                  "lng" : -79.840588
+               },
+               "southwest" : {
+                  "lat" : 40.4292079,
+                  "lng" : -80.04131679999999
+               }
+            }
+         },
+         "place_id" : "ChIJBRRSZV_xNIgRMDq4kUKLVqM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Allegheny County",
+               "short_name" : "Allegheny County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Allegheny County, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.67453,
+                  "lng" : -79.688761
+               },
+               "southwest" : {
+                  "lat" : 40.1943428,
+                  "lng" : -80.36087289999999
+               }
+            },
+            "location" : {
+               "lat" : 40.4450813,
+               "lng" : -80.0087746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67453,
+                  "lng" : -79.688761
+               },
+               "southwest" : {
+                  "lat" : 40.1943428,
+                  "lng" : -80.36087289999999
+               }
+            }
+         },
+         "place_id" : "ChIJu-PIH-y5NIgRVFV1McCaCyw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

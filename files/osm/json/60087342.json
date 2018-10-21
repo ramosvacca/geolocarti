@@ -1,0 +1,195 @@
+{
+   "plus_code" : {
+      "compound_code" : "9826+7X Tiaret, Algeria",
+      "global_code" : "8F739826+7X"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "N14",
+               "short_name" : "N14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tiaret",
+               "short_name" : "Tiaret",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya de Tiaret",
+               "short_name" : "Wilaya de Tiaret",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "N14, Tiaret, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3514844,
+                  "lng" : 1.3114734
+               },
+               "southwest" : {
+                  "lat" : 35.350399,
+                  "lng" : 1.3108615
+               }
+            },
+            "location" : {
+               "lat" : 35.3509417,
+               "lng" : 1.3111675
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.35229068029149,
+                  "lng" : 1.312516430291502
+               },
+               "southwest" : {
+                  "lat" : 35.3495927197085,
+                  "lng" : 1.309818469708498
+               }
+            }
+         },
+         "place_id" : "ChIJDdw50bzRhhIRxn4Q-JLSur8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tiaret",
+               "short_name" : "Tiaret",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tiaret Province",
+               "short_name" : "Tiaret Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tiaret, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4112982,
+                  "lng" : 1.4936257
+               },
+               "southwest" : {
+                  "lat" : 35.3086815,
+                  "lng" : 1.2896061
+               }
+            },
+            "location" : {
+               "lat" : 35.3673553,
+               "lng" : 1.3220322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4112982,
+                  "lng" : 1.4936257
+               },
+               "southwest" : {
+                  "lat" : 35.3086815,
+                  "lng" : 1.2896061
+               }
+            }
+         },
+         "place_id" : "ChIJX7qL08_RhhIRUGlGNScagJE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tiaret Province",
+               "short_name" : "Tiaret Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tiaret Province, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.665791,
+                  "lng" : 2.7264359
+               },
+               "southwest" : {
+                  "lat" : 34.0906491,
+                  "lng" : 0.52996
+               }
+            },
+            "location" : {
+               "lat" : 34.8529489,
+               "lng" : 1.5208624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.665791,
+                  "lng" : 2.7264359
+               },
+               "southwest" : {
+                  "lat" : 34.0906491,
+                  "lng" : 0.52996
+               }
+            }
+         },
+         "place_id" : "ChIJvTyCj9TRhhIRqbUvwq6CB6U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2216,
+                  "lng" : 11.9999992
+               },
+               "southwest" : {
+                  "lat" : 18.9681469,
+                  "lng" : -8.6676111
+               }
+            },
+            "location" : {
+               "lat" : 28.033886,
+               "lng" : 1.659626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2216,
+                  "lng" : 11.9999992
+               },
+               "southwest" : {
+                  "lat" : 18.9681469,
+                  "lng" : -8.6676111
+               }
+            }
+         },
+         "place_id" : "ChIJ0XsDKGqKfg0RovjXq-O-QHE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

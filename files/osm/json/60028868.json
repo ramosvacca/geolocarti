@@ -1,0 +1,516 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universita' degli studi di Pisa Rettorato",
+               "short_name" : "Universita' degli studi di Pisa Rettorato",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lungarno Antonio Pacinotti",
+               "short_name" : "Lungarno Antonio Pacinotti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56126",
+               "short_name" : "56126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universita' degli studi di Pisa Rettorato, Lungarno Antonio Pacinotti, 43, 56126 Pisa PI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7166613,
+               "lng" : 10.3988602
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7180102802915,
+                  "lng" : 10.4002091802915
+               },
+               "southwest" : {
+                  "lat" : 43.7153123197085,
+                  "lng" : 10.3975112197085
+               }
+            }
+         },
+         "place_id" : "ChIJX-rIZp-R1RIRdtc8Reh_4gs",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lungarno Antonio Pacinotti",
+               "short_name" : "Lungarno Antonio Pacinotti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56126",
+               "short_name" : "56126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lungarno Antonio Pacinotti, 43, 56126 Pisa PI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7166431,
+               "lng" : 10.3988785
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71799208029149,
+                  "lng" : 10.4002274802915
+               },
+               "southwest" : {
+                  "lat" : 43.7152941197085,
+                  "lng" : 10.3975295197085
+               }
+            }
+         },
+         "place_id" : "ChIJYa6IXp-R1RIR1tBOgJ0NR6o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pisa, Province of Pisa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7394813,
+                  "lng" : 10.4453807
+               },
+               "southwest" : {
+                  "lat" : 43.6740201,
+                  "lng" : 10.3453756
+               }
+            },
+            "location" : {
+               "lat" : 43.7228386,
+               "lng" : 10.4016888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7394813,
+                  "lng" : 10.4453807
+               },
+               "southwest" : {
+                  "lat" : 43.6740201,
+                  "lng" : 10.3453756
+               }
+            }
+         },
+         "place_id" : "ChIJj1n28JqR1RIRyHiEp7UPuKo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "56126",
+               "short_name" : "56126",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "56126 Pisa, Province of Pisa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.724476,
+                  "lng" : 10.4024659
+               },
+               "southwest" : {
+                  "lat" : 43.712936,
+                  "lng" : 10.3877321
+               }
+            },
+            "location" : {
+               "lat" : 43.7193747,
+               "lng" : 10.39752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.724476,
+                  "lng" : 10.4024659
+               },
+               "southwest" : {
+                  "lat" : 43.712936,
+                  "lng" : 10.3877321
+               }
+            }
+         },
+         "place_id" : "ChIJ6RV3daCR1RIR0ASAQpQsCBw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pisa, Province of Pisa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.75168619999999,
+                  "lng" : 10.4557984
+               },
+               "southwest" : {
+                  "lat" : 43.5812038,
+                  "lng" : 10.268189
+               }
+            },
+            "location" : {
+               "lat" : 43.6813732,
+               "lng" : 10.3722477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75168619999999,
+                  "lng" : 10.4557984
+               },
+               "southwest" : {
+                  "lat" : 43.5812038,
+                  "lng" : 10.268189
+               }
+            }
+         },
+         "place_id" : "ChIJ_TwJ0Z6R1RIRDEQYJL76ZEw",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Province of Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Province of Pisa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8349461,
+                  "lng" : 11.0133512
+               },
+               "southwest" : {
+                  "lat" : 43.1085285,
+                  "lng" : 10.2584664
+               }
+            },
+            "location" : {
+               "lat" : 43.7228315,
+               "lng" : 10.4017194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8349461,
+                  "lng" : 11.0133512
+               },
+               "southwest" : {
+                  "lat" : 43.1085285,
+                  "lng" : 10.2584664
+               }
+            }
+         },
+         "place_id" : "ChIJp2_X9TsIKhMRgIDk45AsCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuscany, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4726899,
+                  "lng" : 12.3713555
+               },
+               "southwest" : {
+                  "lat" : 42.2376686,
+                  "lng" : 9.6867213
+               }
+            },
+            "location" : {
+               "lat" : 43.7710513,
+               "lng" : 11.2486208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4726899,
+                  "lng" : 12.3713555
+               },
+               "southwest" : {
+                  "lat" : 42.2376686,
+                  "lng" : 9.6867213
+               }
+            }
+         },
+         "place_id" : "ChIJezSAEFMr1BIRq1kgW7rDxro",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            },
+            "location" : {
+               "lat" : 41.87194,
+               "lng" : 12.56738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            }
+         },
+         "place_id" : "ChIJA9KNRIL-1BIRb15jJFz1LOI",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gambacorti 2",
+               "short_name" : "Gambacorti 2",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56125",
+               "short_name" : "56125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gambacorti 2, 56125 Pisa PI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7157698,
+               "lng" : 10.398609
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7171187802915,
+                  "lng" : 10.3999579802915
+               },
+               "southwest" : {
+                  "lat" : 43.7144208197085,
+                  "lng" : 10.3972600197085
+               }
+            }
+         },
+         "place_id" : "ChIJuRJba5-R1RIRMtt09nOnLIk",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,444 @@
+{
+   "plus_code" : {
+      "compound_code" : "M84V+32 Ridgecrest, CA, USA",
+      "global_code" : "8574M84V+32"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Administrative Circle",
+               "short_name" : "Administrative Circle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ridgecrest",
+               "short_name" : "Ridgecrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93555",
+               "short_name" : "93555",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Administrative Circle, Ridgecrest, CA 93555, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6551706,
+               "lng" : -117.6574374
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6565195802915,
+                  "lng" : -117.6560884197085
+               },
+               "southwest" : {
+                  "lat" : 35.6538216197085,
+                  "lng" : -117.6587863802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1WReLEsSwYAR6DmiThNQkro",
+         "plus_code" : {
+            "compound_code" : "M84V+32 Ridgecrest, California, United States",
+            "global_code" : "8574M84V+32"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blandy Avenue",
+               "short_name" : "Blandy Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ridgecrest",
+               "short_name" : "Ridgecrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93555",
+               "short_name" : "93555",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blandy Ave, Ridgecrest, CA 93555, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6545777,
+                  "lng" : -117.6573871
+               },
+               "southwest" : {
+                  "lat" : 35.65455439999999,
+                  "lng" : -117.6589324
+               }
+            },
+            "location" : {
+               "lat" : 35.654566,
+               "lng" : -117.6581598
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6559150302915,
+                  "lng" : -117.6568107697085
+               },
+               "southwest" : {
+                  "lat" : 35.6532170697085,
+                  "lng" : -117.6595087302915
+               }
+            }
+         },
+         "place_id" : "ChIJg84AoEMTwYARbL7akEvlqBg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "610",
+               "short_name" : "610",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Blandy Avenue",
+               "short_name" : "Blandy Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ridgecrest",
+               "short_name" : "Ridgecrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93555",
+               "short_name" : "93555",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "610 Blandy Ave, Ridgecrest, CA 93555, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6551444,
+               "lng" : -117.6548403
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.65649338029149,
+                  "lng" : -117.6534913197085
+               },
+               "southwest" : {
+                  "lat" : 35.65379541970849,
+                  "lng" : -117.6561892802915
+               }
+            }
+         },
+         "place_id" : "ChIJDwCftlwTwYAREbug83Z0KwI",
+         "plus_code" : {
+            "compound_code" : "M84W+33 Ridgecrest, California, United States",
+            "global_code" : "8574M84W+33"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ridgecrest",
+               "short_name" : "Ridgecrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93555",
+               "short_name" : "93555",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ridgecrest, CA 93555, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6809941,
+                  "lng" : -117.616195
+               },
+               "southwest" : {
+                  "lat" : 35.5638911,
+                  "lng" : -117.7058889
+               }
+            },
+            "location" : {
+               "lat" : 35.6224561,
+               "lng" : -117.6708966
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6809941,
+                  "lng" : -117.616195
+               },
+               "southwest" : {
+                  "lat" : 35.5638911,
+                  "lng" : -117.7058889
+               }
+            }
+         },
+         "place_id" : "ChIJpYoMALxswYARuq4QZwNzstw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93555",
+               "short_name" : "93555",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ridgecrest",
+               "short_name" : "Ridgecrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ridgecrest, CA 93555, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.718198,
+                  "lng" : -117.58537
+               },
+               "southwest" : {
+                  "lat" : 35.448083,
+                  "lng" : -117.816078
+               }
+            },
+            "location" : {
+               "lat" : 35.5897118,
+               "lng" : -117.6904167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.718198,
+                  "lng" : -117.58537
+               },
+               "southwest" : {
+                  "lat" : 35.448083,
+                  "lng" : -117.816078
+               }
+            }
+         },
+         "place_id" : "ChIJ35wCh7JGwYARmHVb1ZcTwSY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kern County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7982019,
+                  "lng" : -117.616195
+               },
+               "southwest" : {
+                  "lat" : 34.7906088,
+                  "lng" : -120.1941521
+               }
+            },
+            "location" : {
+               "lat" : 35.4937274,
+               "lng" : -118.8596804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7982019,
+                  "lng" : -117.616195
+               },
+               "southwest" : {
+                  "lat" : 34.7906088,
+                  "lng" : -120.1941521
+               }
+            }
+         },
+         "place_id" : "ChIJay370_YE64AR-iOuuhZv_Hk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

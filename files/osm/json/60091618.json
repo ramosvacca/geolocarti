@@ -1,0 +1,496 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "102",
+               "short_name" : "102",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Calle 100",
+               "short_name" : "Ac. 100",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "El Pedregal",
+               "short_name" : "El Pedregal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Usaquén",
+               "short_name" : "Usaquén",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110111",
+               "short_name" : "110111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ac. 100 #10-2, Bogotá, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6821259,
+               "lng" : -74.04213609999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.683474880291502,
+                  "lng" : -74.0407871197085
+               },
+               "southwest" : {
+                  "lat" : 4.680776919708498,
+                  "lng" : -74.0434850802915
+               }
+            }
+         },
+         "place_id" : "EiBBYy4gMTAwICMxMC0yLCBCb2dvdMOhLCBDb2xvbWJpYSIaEhgKFAoSCSGwmWiXmj-OEb4b9lXJhWYLEAI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "AC 100 - Kr 11A",
+               "short_name" : "AC 100 - Kr 11A",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "El Pedregal",
+               "short_name" : "El Pedregal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Usaquén",
+               "short_name" : "Usaquén",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110111",
+               "short_name" : "110111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AC 100 - Kr 11A, Bogotá, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6825734,
+               "lng" : -74.04286449999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.683922380291502,
+                  "lng" : -74.04151551970848
+               },
+               "southwest" : {
+                  "lat" : 4.681224419708498,
+                  "lng" : -74.04421348029149
+               }
+            }
+         },
+         "place_id" : "ChIJM2AnbJeaP44Rq7MS1EfIOKo",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Pedregal",
+               "short_name" : "El Pedregal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Usaquén",
+               "short_name" : "Usaquén",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Calera",
+               "short_name" : "La Calera",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110111",
+               "short_name" : "110111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "El Pedregal, Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.688427799999999,
+                  "lng" : -74.0356494
+               },
+               "southwest" : {
+                  "lat" : 4.679911,
+                  "lng" : -74.0481293
+               }
+            },
+            "location" : {
+               "lat" : 4.6845938,
+               "lng" : -74.040294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.688427799999999,
+                  "lng" : -74.0356494
+               },
+               "southwest" : {
+                  "lat" : 4.679911,
+                  "lng" : -74.0481293
+               }
+            }
+         },
+         "place_id" : "ChIJFeKyiZeaP44R2ckohaKglf0",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Usaquén",
+               "short_name" : "Usaquén",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Calera",
+               "short_name" : "La Calera",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Usaquén, Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.825362999999999,
+                  "lng" : -74.0004491
+               },
+               "southwest" : {
+                  "lat" : 4.664612,
+                  "lng" : -74.05714589999999
+               }
+            },
+            "location" : {
+               "lat" : 4.695457999999999,
+               "lng" : -74.031194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.825362999999999,
+                  "lng" : -74.0004491
+               },
+               "southwest" : {
+                  "lat" : 4.664612,
+                  "lng" : -74.05714589999999
+               }
+            }
+         },
+         "place_id" : "ChIJ61tOXYCPP44Rb3xHQhxhUwg",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.8371311,
+                  "lng" : -73.99197699999999
+               },
+               "southwest" : {
+                  "lat" : 4.459464,
+                  "lng" : -74.223637
+               }
+            },
+            "location" : {
+               "lat" : 4.710988599999999,
+               "lng" : -74.072092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.8371311,
+                  "lng" : -73.99197699999999
+               },
+               "southwest" : {
+                  "lat" : 4.459464,
+                  "lng" : -74.223637
+               }
+            }
+         },
+         "place_id" : "ChIJKcumLf2bP44RFDmjIFVjnSM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "110111",
+               "short_name" : "110111",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Usaquén",
+               "short_name" : "Usaquén",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.70679,
+                  "lng" : -74.00241199999999
+               },
+               "southwest" : {
+                  "lat" : 4.662840099999999,
+                  "lng" : -74.0572071
+               }
+            },
+            "location" : {
+               "lat" : 4.6904549,
+               "lng" : -74.0241367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.70679,
+                  "lng" : -74.00241199999999
+               },
+               "southwest" : {
+                  "lat" : 4.662840099999999,
+                  "lng" : -74.0572071
+               }
+            }
+         },
+         "place_id" : "ChIJM7sAWXWQP44R-bhnlv1EnuU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.8372401,
+                  "lng" : -73.991733
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            },
+            "location" : {
+               "lat" : 4.648594,
+               "lng" : -74.104466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.8372401,
+                  "lng" : -73.991733
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ0-SYJsAP44RBHEcWTjKX1U",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogota Metropolitan Area",
+               "short_name" : "Bogota Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogota Metropolitan Area, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.15845,
+                  "lng" : -73.791026
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            },
+            "location" : {
+               "lat" : 4.6279127,
+               "lng" : -74.12399599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.15845,
+                  "lng" : -73.791026
+               },
+               "southwest" : {
+                  "lat" : 3.726945,
+                  "lng" : -74.45332089999999
+               }
+            }
+         },
+         "place_id" : "ChIJi7h3Jfp4P44RcrwqNBE3Psg",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            },
+            "location" : {
+               "lat" : 4.570868,
+               "lng" : -74.29733299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            }
+         },
+         "place_id" : "ChIJo5QVrjqkFY4RQKPy7wSaDZo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

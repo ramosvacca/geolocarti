@@ -1,0 +1,358 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2101",
+               "short_name" : "2101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Inwood Road",
+               "short_name" : "Inwood Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75235",
+               "short_name" : "75235",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2101 Inwood Rd, Dallas, TX 75235, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.817349,
+               "lng" : -96.8421879
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8186979802915,
+                  "lng" : -96.84083891970849
+               },
+               "southwest" : {
+                  "lat" : 32.8160000197085,
+                  "lng" : -96.8435368802915
+               }
+            }
+         },
+         "place_id" : "ChIJpYfYuBucToYRlRGmHxsny8c",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.0237921,
+                  "lng" : -96.4637379
+               },
+               "southwest" : {
+                  "lat" : 32.617537,
+                  "lng" : -96.999347
+               }
+            },
+            "location" : {
+               "lat" : 32.7766642,
+               "lng" : -96.79698789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0237921,
+                  "lng" : -96.4637379
+               },
+               "southwest" : {
+                  "lat" : 32.617537,
+                  "lng" : -96.999347
+               }
+            }
+         },
+         "place_id" : "ChIJS5dFe_cZTIYRj2dH9qSb7Lk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "75235",
+               "short_name" : "75235",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas, TX 75235, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8597579,
+                  "lng" : -96.81798999999999
+               },
+               "southwest" : {
+                  "lat" : 32.8056751,
+                  "lng" : -96.87551479999999
+               }
+            },
+            "location" : {
+               "lat" : 32.8296623,
+               "lng" : -96.8511814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8597579,
+                  "lng" : -96.81798999999999
+               },
+               "southwest" : {
+                  "lat" : 32.8056751,
+                  "lng" : -96.87551479999999
+               }
+            }
+         },
+         "place_id" : "ChIJXW6W6DqcToYRA32-wuEu6eg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas County, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9893279,
+                  "lng" : -96.5168659
+               },
+               "southwest" : {
+                  "lat" : 32.5452141,
+                  "lng" : -97.03838499999999
+               }
+            },
+            "location" : {
+               "lat" : 32.8024682,
+               "lng" : -96.83509989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9893279,
+                  "lng" : -96.5168659
+               },
+               "southwest" : {
+                  "lat" : 32.5452141,
+                  "lng" : -97.03838499999999
+               }
+            }
+         },
+         "place_id" : "ChIJgUO9Ukq_ToYRh9ndnDaZsUc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas-Fort Worth Metropolitan Area",
+               "short_name" : "Dallas-Fort Worth Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas-Fort Worth Metropolitan Area, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4340569,
+                  "lng" : -95.8586449
+               },
+               "southwest" : {
+                  "lat" : 32.052087,
+                  "lng" : -98.068545
+               }
+            },
+            "location" : {
+               "lat" : 32.7078751,
+               "lng" : -96.9209135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4340569,
+                  "lng" : -95.8586449
+               },
+               "southwest" : {
+                  "lat" : 32.052087,
+                  "lng" : -98.068545
+               }
+            }
+         },
+         "place_id" : "ChIJLTo6H7iCToYR5YyLgJpNclM",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            },
+            "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            }
+         },
+         "place_id" : "ChIJSTKCCzZwQIYRPN4IGI8c6xY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

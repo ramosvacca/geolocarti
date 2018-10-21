@@ -1,0 +1,304 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sigma Drive",
+               "short_name" : "Sigma Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clemson",
+               "short_name" : "Clemson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pickens County",
+               "short_name" : "Pickens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29631",
+               "short_name" : "29631",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sigma Dr, Clemson, SC 29631, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.6764347,
+                  "lng" : -82.8371487
+               },
+               "southwest" : {
+                  "lat" : 34.6758877,
+                  "lng" : -82.8373065
+               }
+            },
+            "location" : {
+               "lat" : 34.6761522,
+               "lng" : -82.837186
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.6775101802915,
+                  "lng" : -82.8358786197085
+               },
+               "southwest" : {
+                  "lat" : 34.6748122197085,
+                  "lng" : -82.8385765802915
+               }
+            }
+         },
+         "place_id" : "ChIJ5VfAYmteWIgRK-jyxjfFfXo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "29631",
+               "short_name" : "29631",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Clemson",
+               "short_name" : "Clemson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clemson, SC 29631, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7130639,
+                  "lng" : -82.77918679999999
+               },
+               "southwest" : {
+                  "lat" : 34.6380959,
+                  "lng" : -82.85661999999999
+               }
+            },
+            "location" : {
+               "lat" : 34.6790356,
+               "lng" : -82.82636149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7130639,
+                  "lng" : -82.77918679999999
+               },
+               "southwest" : {
+                  "lat" : 34.6380959,
+                  "lng" : -82.85661999999999
+               }
+            }
+         },
+         "place_id" : "ChIJtfvWa9hdWIgRZf5CFfivTzU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pickens County",
+               "short_name" : "Pickens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pickens County, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.0857,
+                  "lng" : -82.4764551
+               },
+               "southwest" : {
+                  "lat" : 34.609045,
+                  "lng" : -82.94360379999999
+               }
+            },
+            "location" : {
+               "lat" : 34.9046217,
+               "lng" : -82.6483442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0857,
+                  "lng" : -82.4764551
+               },
+               "southwest" : {
+                  "lat" : 34.609045,
+                  "lng" : -82.94360379999999
+               }
+            }
+         },
+         "place_id" : "ChIJQ69iVLE3WIgRqgONoUs01Dk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenville, SC",
+               "short_name" : "Greenville, SC",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greenville, SC, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2154019,
+                  "lng" : -81.64346510000001
+               },
+               "southwest" : {
+                  "lat" : 34.203148,
+                  "lng" : -82.94360399999999
+               }
+            },
+            "location" : {
+               "lat" : 34.7074745,
+               "lng" : -82.30177279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2154019,
+                  "lng" : -81.64346510000001
+               },
+               "southwest" : {
+                  "lat" : 34.203148,
+                  "lng" : -82.94360399999999
+               }
+            }
+         },
+         "place_id" : "ChIJZezZyU4kWIgR6OmAtTDxWOQ",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Carolina, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2155401,
+                  "lng" : -78.49930090000001
+               },
+               "southwest" : {
+                  "lat" : 32.033454,
+                  "lng" : -83.35392800000001
+               }
+            },
+            "location" : {
+               "lat" : 33.836081,
+               "lng" : -81.1637245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2155401,
+                  "lng" : -78.49930090000001
+               },
+               "southwest" : {
+                  "lat" : 32.033454,
+                  "lng" : -83.35392800000001
+               }
+            }
+         },
+         "place_id" : "ChIJ49ExeWml-IgRnhcF9TKh_7k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

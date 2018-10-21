@@ -1,0 +1,506 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "550",
+               "short_name" : "550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Pedro Calmon",
+               "short_name" : "Av. Pedro Calmon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21941-485",
+               "short_name" : "21941-485",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Pedro Calmon, 550 - Cidade Universitária, Rio de Janeiro - RJ, 21941-485, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.8625055,
+               "lng" : -43.2234735
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8611565197085,
+                  "lng" : -43.2221245197085
+               },
+               "southwest" : {
+                  "lat" : -22.8638544802915,
+                  "lng" : -43.22482248029149
+               }
+            }
+         },
+         "place_id" : "ChIJKW-4BjB5mQARgaMdDyG_scA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cidade Universitária, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8360902,
+                  "lng" : -43.2082061
+               },
+               "southwest" : {
+                  "lat" : -22.870749,
+                  "lng" : -43.2432307
+               }
+            },
+            "location" : {
+               "lat" : -22.8626877,
+               "lng" : -43.2258954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8360902,
+                  "lng" : -43.2082061
+               },
+               "southwest" : {
+                  "lat" : -22.870749,
+                  "lng" : -43.2432307
+               }
+            }
+         },
+         "place_id" : "ChIJa-i-Rdx4mQAR9HGmOLli8Rs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rio de Janeiro, State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.7460327,
+                  "lng" : -43.0969042
+               },
+               "southwest" : {
+                  "lat" : -23.0822288,
+                  "lng" : -43.7950599
+               }
+            },
+            "location" : {
+               "lat" : -22.9068467,
+               "lng" : -43.1728965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.7460327,
+                  "lng" : -43.0969042
+               },
+               "southwest" : {
+                  "lat" : -23.0822288,
+                  "lng" : -43.7950599
+               }
+            }
+         },
+         "place_id" : "ChIJW6AIkVXemwARTtIvZ2xC3FA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "21941-485",
+               "short_name" : "21941-485",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sepetiba",
+               "short_name" : "Sepetiba",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sepetiba, Rio de Janeiro - State of Rio de Janeiro, 21941-485, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8580304,
+                  "lng" : -43.2182877
+               },
+               "southwest" : {
+                  "lat" : -22.9607554,
+                  "lng" : -43.68789049999999
+               }
+            },
+            "location" : {
+               "lat" : -22.9593409,
+               "lng" : -43.6842426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8580304,
+                  "lng" : -43.2182877
+               },
+               "southwest" : {
+                  "lat" : -22.9607554,
+                  "lng" : -43.68789049999999
+               }
+            }
+         },
+         "place_id" : "ChIJD8Eyuzp5mQARXYfejTSfN_s",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "21941-590",
+               "short_name" : "21941-590",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Maré",
+               "short_name" : "Maré",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maré, Rio de Janeiro - State of Rio de Janeiro, 21941-590, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8036395,
+                  "lng" : -43.2086086
+               },
+               "southwest" : {
+                  "lat" : -22.8751955,
+                  "lng" : -43.2847827
+               }
+            },
+            "location" : {
+               "lat" : -22.8490996,
+               "lng" : -43.2469428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8036395,
+                  "lng" : -43.2086086
+               },
+               "southwest" : {
+                  "lat" : -22.8751955,
+                  "lng" : -43.2847827
+               }
+            }
+         },
+         "place_id" : "ChIJd8q631t5mQAReLiHzFA87dM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rio de Janeiro - State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.7460201,
+                  "lng" : -43.0990395
+               },
+               "southwest" : {
+                  "lat" : -23.0828927,
+                  "lng" : -43.7965385
+               }
+            },
+            "location" : {
+               "lat" : -22.9112301,
+               "lng" : -43.4452148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.7460201,
+                  "lng" : -43.0990395
+               },
+               "southwest" : {
+                  "lat" : -23.0828927,
+                  "lng" : -43.7965385
+               }
+            }
+         },
+         "place_id" : "ChIJC7UkQv5-mQAR7llshDwliPk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7632054,
+                  "lng" : -40.9568207
+               },
+               "southwest" : {
+                  "lat" : -23.3689318,
+                  "lng" : -44.8893205
+               }
+            },
+            "location" : {
+               "lat" : -22.9098755,
+               "lng" : -43.2094971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7632054,
+                  "lng" : -40.9568207
+               },
+               "southwest" : {
+                  "lat" : -23.3689318,
+                  "lng" : -44.8893205
+               }
+            }
+         },
+         "place_id" : "ChIJw4riypQYmAAR0IMFwRrDSQM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida Pedro Calmon próximo ao 550",
+               "short_name" : "Avenida Pedro Calmon próximo ao 550",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21941-485",
+               "short_name" : "21941-485",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenida Pedro Calmon próximo ao 550 - Cidade Universitária, Rio de Janeiro - RJ, 21941-485, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.8617673,
+               "lng" : -43.2243275
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8604183197085,
+                  "lng" : -43.22297851970851
+               },
+               "southwest" : {
+                  "lat" : -22.8631162802915,
+                  "lng" : -43.2256764802915
+               }
+            }
+         },
+         "place_id" : "ChIJ9dnaoTp5mQARejOhUB7vhz4",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

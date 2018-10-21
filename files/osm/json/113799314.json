@@ -1,0 +1,368 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue du Château",
+               "short_name" : "Rue du Château",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chalmaison",
+               "short_name" : "Chalmaison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-et-Marne",
+               "short_name" : "Seine-et-Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77650",
+               "short_name" : "77650",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Rue du Château, 77650 Chalmaison, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.4977893,
+               "lng" : 3.2487025
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4991382802915,
+                  "lng" : 3.250051480291502
+               },
+               "southwest" : {
+                  "lat" : 48.4964403197085,
+                  "lng" : 3.247353519708498
+               }
+            }
+         },
+         "place_id" : "ChIJve511BY670cR3x6BboU_srg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chalmaison",
+               "short_name" : "Chalmaison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-et-Marne",
+               "short_name" : "Seine-et-Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77650",
+               "short_name" : "77650",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "77650 Chalmaison, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5104721,
+                  "lng" : 3.2804001
+               },
+               "southwest" : {
+                  "lat" : 48.470244,
+                  "lng" : 3.2332519
+               }
+            },
+            "location" : {
+               "lat" : 48.483055,
+               "lng" : 3.251655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5104721,
+                  "lng" : 3.2804001
+               },
+               "southwest" : {
+                  "lat" : 48.470244,
+                  "lng" : 3.2332519
+               }
+            }
+         },
+         "place_id" : "ChIJOfwNeTg670cRMQsugw_TkFs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "77650",
+               "short_name" : "77650",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Longueville",
+               "short_name" : "Longueville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-et-Marne",
+               "short_name" : "Seine-et-Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "77650 Longueville, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5594964,
+                  "lng" : 3.3405075
+               },
+               "southwest" : {
+                  "lat" : 48.4701083,
+                  "lng" : 3.1354492
+               }
+            },
+            "location" : {
+               "lat" : 48.5230453,
+               "lng" : 3.2484092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5594964,
+                  "lng" : 3.3405075
+               },
+               "southwest" : {
+                  "lat" : 48.4701083,
+                  "lng" : 3.1354492
+               }
+            }
+         },
+         "place_id" : "ChIJt3dr7Kow70cRoGDY4caCCxw",
+         "postcode_localities" : [
+            "Chalmaison",
+            "Jutigny",
+            "Lizines",
+            "Longueville",
+            "Saint-Loup-de-Naud",
+            "Sainte-Colombe",
+            "Savins",
+            "Soisy-Bouy"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seine-et-Marne",
+               "short_name" : "Seine-et-Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seine-et-Marne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1178979,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 2.3923261
+               }
+            },
+            "location" : {
+               "lat" : 48.841082,
+               "lng" : 2.999366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1178979,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 2.3923261
+               }
+            }
+         },
+         "place_id" : "ChIJa5Z5nApS70cRUCqLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Île-de-France, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            },
+            "location" : {
+               "lat" : 48.8499198,
+               "lng" : 2.6370411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            }
+         },
+         "place_id" : "ChIJF4ymA8Th5UcRcCWLaMOCCwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris Metropolitan Area",
+               "short_name" : "Paris Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paris Metropolitan Area, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            },
+            "location" : {
+               "lat" : 48.8575712,
+               "lng" : 2.2771715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            }
+         },
+         "place_id" : "ChIJW36m20gL5kcRiMnAEpHgyq8",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

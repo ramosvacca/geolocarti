@@ -1,0 +1,445 @@
+{
+   "plus_code" : {
+      "compound_code" : "2Q3P+4W Den Hoorn Texel, Netherlands",
+      "global_code" : "9F562Q3P+4W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Landsdiep",
+               "short_name" : "Landsdiep",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Den Hoorn Texel",
+               "short_name" : "Den Hoorn Texel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texel",
+               "short_name" : "Texel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1797 SZ",
+               "short_name" : "1797 SZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Landsdiep 4, 1797 SZ Den Hoorn Texel, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0023873,
+               "lng" : 4.786050299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0037362802915,
+                  "lng" : 4.787399280291502
+               },
+               "southwest" : {
+                  "lat" : 53.0010383197085,
+                  "lng" : 4.784701319708497
+               }
+            }
+         },
+         "place_id" : "ChIJYynsFnI3z0cR_aebjSA-8XY",
+         "plus_code" : {
+            "compound_code" : "2Q2P+XC Den Hoorn Texel, Netherlands",
+            "global_code" : "9F562Q2P+XC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Landsdiep",
+               "short_name" : "Landsdiep",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Den Hoorn Texel",
+               "short_name" : "Den Hoorn Texel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texel",
+               "short_name" : "Texel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1797",
+               "short_name" : "1797",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Landsdiep, 1797 Den Hoorn Texel, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0035901,
+                  "lng" : 4.7889403
+               },
+               "southwest" : {
+                  "lat" : 53.002939,
+                  "lng" : 4.7863412
+               }
+            },
+            "location" : {
+               "lat" : 53.00326459999999,
+               "lng" : 4.7876407
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0046135302915,
+                  "lng" : 4.788989730291502
+               },
+               "southwest" : {
+                  "lat" : 53.0019155697085,
+                  "lng" : 4.786291769708497
+               }
+            }
+         },
+         "place_id" : "ChIJjT7ACnI3z0cRmL090pQrIDM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1797 SZ",
+               "short_name" : "1797 SZ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Den Hoorn Texel",
+               "short_name" : "Den Hoorn Texel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texel",
+               "short_name" : "Texel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1797 SZ Den Hoorn Texel, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.00515499999999,
+                  "lng" : 4.7901568
+               },
+               "southwest" : {
+                  "lat" : 53.0020093,
+                  "lng" : 4.7783913
+               }
+            },
+            "location" : {
+               "lat" : 53.0034027,
+               "lng" : 4.7860214
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.00515499999999,
+                  "lng" : 4.7901568
+               },
+               "southwest" : {
+                  "lat" : 53.0020093,
+                  "lng" : 4.7783913
+               }
+            }
+         },
+         "place_id" : "ChIJD7NQdXI3z0cROfSKh0QsNds",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Den Hoorn Texel",
+               "short_name" : "Den Hoorn Texel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texel",
+               "short_name" : "Texel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1797",
+               "short_name" : "1797",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "1797 Den Hoorn Texel, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0582333,
+                  "lng" : 4.8229399
+               },
+               "southwest" : {
+                  "lat" : 52.9627966,
+                  "lng" : 4.6486753
+               }
+            },
+            "location" : {
+               "lat" : 53.02628190000001,
+               "lng" : 4.7552065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0582333,
+                  "lng" : 4.8229399
+               },
+               "southwest" : {
+                  "lat" : 52.9627966,
+                  "lng" : 4.6486753
+               }
+            }
+         },
+         "place_id" : "ChIJk_Fye8A5z0cRF_pLXIqylHs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1797",
+               "short_name" : "1797",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Den Hoorn Texel",
+               "short_name" : "Den Hoorn Texel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texel",
+               "short_name" : "Texel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1797 Den Hoorn Texel, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0582333,
+                  "lng" : 4.8229399
+               },
+               "southwest" : {
+                  "lat" : 52.9627966,
+                  "lng" : 4.6486753
+               }
+            },
+            "location" : {
+               "lat" : 53.02628190000001,
+               "lng" : 4.7552065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0582333,
+                  "lng" : 4.8229399
+               },
+               "southwest" : {
+                  "lat" : 52.9627966,
+                  "lng" : 4.6486753
+               }
+            }
+         },
+         "place_id" : "ChIJqeOO1rg5z0cRv_bsmGAQskw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texel",
+               "short_name" : "Texel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texel, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1833322,
+                  "lng" : 4.908431
+               },
+               "southwest" : {
+                  "lat" : 52.9627966,
+                  "lng" : 4.6486753
+               }
+            },
+            "location" : {
+               "lat" : 53.0547626,
+               "lng" : 4.7977149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1833322,
+                  "lng" : 4.908431
+               },
+               "southwest" : {
+                  "lat" : 52.9627966,
+                  "lng" : 4.6486753
+               }
+            }
+         },
+         "place_id" : "ChIJxRpZYgbpyEcRxg4LlvIuEZM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Holland",
+               "short_name" : "North Holland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Holland, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1833322,
+                  "lng" : 5.328279999999999
+               },
+               "southwest" : {
+                  "lat" : 52.1657716,
+                  "lng" : 4.4937415
+               }
+            },
+            "location" : {
+               "lat" : 52.5205869,
+               "lng" : 4.788474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1833322,
+                  "lng" : 5.328279999999999
+               },
+               "southwest" : {
+                  "lat" : 52.1657716,
+                  "lng" : 4.4937415
+               }
+            }
+         },
+         "place_id" : "ChIJu-SH28MJxkcRJYI2wf63IME",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6316,
+                  "lng" : 7.227510199999999
+               },
+               "southwest" : {
+                  "lat" : 50.75038379999999,
+                  "lng" : 3.3316001
+               }
+            },
+            "location" : {
+               "lat" : 52.132633,
+               "lng" : 5.291265999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6316,
+                  "lng" : 7.227510199999999
+               },
+               "southwest" : {
+                  "lat" : 50.75038379999999,
+                  "lng" : 3.3316001
+               }
+            }
+         },
+         "place_id" : "ChIJu-SH28MJxkcRnwq9_851obM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

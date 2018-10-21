@@ -1,0 +1,467 @@
+{
+   "plus_code" : {
+      "compound_code" : "34H9+86 Milwaukee, WI, USA",
+      "global_code" : "86MJ34H9+86"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapman Hall",
+               "short_name" : "Chapman Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "2310",
+               "short_name" : "2310",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Hartford Avenue",
+               "short_name" : "E Hartford Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downer Woods",
+               "short_name" : "Downer Woods",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53211",
+               "short_name" : "53211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chapman Hall, 2310 E Hartford Ave, Milwaukee, WI 53211, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0781779,
+                  "lng" : -87.8807819
+               },
+               "southwest" : {
+                  "lat" : 43.0778957,
+                  "lng" : -87.8812975
+               }
+            },
+            "location" : {
+               "lat" : 43.0780312,
+               "lng" : -87.8810369
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0793857802915,
+                  "lng" : -87.87969071970849
+               },
+               "southwest" : {
+                  "lat" : 43.0766878197085,
+                  "lng" : -87.88238868029151
+               }
+            }
+         },
+         "place_id" : "ChIJldDRNjMfBYgRzGLLF3hebvo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downer Woods",
+               "short_name" : "Downer Woods",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53211",
+               "short_name" : "53211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Milwaukee, WI 53211, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0786034,
+                  "lng" : -87.8820092
+               },
+               "southwest" : {
+                  "lat" : 43.0779963,
+                  "lng" : -87.88221919999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0782998,
+               "lng" : -87.88211419999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0796488302915,
+                  "lng" : -87.88076521970849
+               },
+               "southwest" : {
+                  "lat" : 43.0769508697085,
+                  "lng" : -87.8834631802915
+               }
+            }
+         },
+         "place_id" : "ChIJJ3Yq2DIfBYgRZsoO5tMA6RA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downer Woods",
+               "short_name" : "Downer Woods",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53211",
+               "short_name" : "53211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Downer Woods, Milwaukee, WI 53211, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0819121,
+                  "lng" : -87.867531
+               },
+               "southwest" : {
+                  "lat" : 43.0745119,
+                  "lng" : -87.88798389999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0787723,
+               "lng" : -87.8782959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0819121,
+                  "lng" : -87.867531
+               },
+               "southwest" : {
+                  "lat" : 43.0745119,
+                  "lng" : -87.88798389999999
+               }
+            }
+         },
+         "place_id" : "ChIJlwNCxTQfBYgRhF2bwN5LySo",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "53211",
+               "short_name" : "53211",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milwaukee, WI 53211, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.111197,
+                  "lng" : -87.858543
+               },
+               "southwest" : {
+                  "lat" : 43.057719,
+                  "lng" : -87.90916589999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0824328,
+               "lng" : -87.87952299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.111197,
+                  "lng" : -87.858543
+               },
+               "southwest" : {
+                  "lat" : 43.057719,
+                  "lng" : -87.90916589999999
+               }
+            }
+         },
+         "place_id" : "ChIJW30NCiwfBYgRRmJ2FXR65Kg",
+         "postcode_localities" : [ "Glendale", "Milwaukee", "Shorewood", "Whitefish Bay" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milwaukee, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1949671,
+                  "lng" : -87.8639841
+               },
+               "southwest" : {
+                  "lat" : 42.9208158,
+                  "lng" : -88.070876
+               }
+            },
+            "location" : {
+               "lat" : 43.0389025,
+               "lng" : -87.9064736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1949671,
+                  "lng" : -87.8639841
+               },
+               "southwest" : {
+                  "lat" : 42.9208158,
+                  "lng" : -88.070876
+               }
+            }
+         },
+         "place_id" : "ChIJ50eLV9cCBYgRhHtBtSIZX0Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milwaukee County, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.192708,
+                  "lng" : -87.0694189
+               },
+               "southwest" : {
+                  "lat" : 42.8421169,
+                  "lng" : -88.069947
+               }
+            },
+            "location" : {
+               "lat" : 43.03879490000001,
+               "lng" : -87.9065334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.192708,
+                  "lng" : -87.0694189
+               },
+               "southwest" : {
+                  "lat" : 42.8421169,
+                  "lng" : -88.069947
+               }
+            }
+         },
+         "place_id" : "ChIJn_qhzUnMGogRPqGaYXA4zLA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "Wisconsin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wisconsin, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3098219,
+                  "lng" : -86.2495479
+               },
+               "southwest" : {
+                  "lat" : 42.4917199,
+                  "lng" : -92.88943309999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7844397,
+               "lng" : -88.7878678
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3098219,
+                  "lng" : -86.2495479
+               },
+               "southwest" : {
+                  "lat" : 42.4917199,
+                  "lng" : -92.88943309999999
+               }
+            }
+         },
+         "place_id" : "ChIJr-OEkw_0qFIR1kmG-LjV1fI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

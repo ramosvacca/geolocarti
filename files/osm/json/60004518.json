@@ -1,0 +1,501 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1917",
+               "short_name" : "1917",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Rivadavia",
+               "short_name" : "Av. Rivadavia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Balvanera",
+               "short_name" : "Balvanera",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna 3",
+               "short_name" : "Comuna 3",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "C1033",
+               "short_name" : "C1033",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "AAJ",
+               "short_name" : "AAJ",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Av. Rivadavia 1917, C1033AAJ CABA, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.6091837,
+               "lng" : -58.39372829999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.6078347197085,
+                  "lng" : -58.39237931970849
+               },
+               "southwest" : {
+                  "lat" : -34.61053268029149,
+                  "lng" : -58.3950772802915
+               }
+            }
+         },
+         "place_id" : "ChIJaYZmkMLKvJURsyTdzffYMvo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riobamba 2-30",
+               "short_name" : "Riobamba 2-30",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Balvanera",
+               "short_name" : "Balvanera",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna 3",
+               "short_name" : "Comuna 3",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "C1025",
+               "short_name" : "C1025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Riobamba 2-30, C1025 CABA, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.6090454,
+               "lng" : -58.3934535
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.6076964197085,
+                  "lng" : -58.39210451970849
+               },
+               "southwest" : {
+                  "lat" : -34.6103943802915,
+                  "lng" : -58.3948024802915
+               }
+            }
+         },
+         "place_id" : "ChIJjzKgkcLKvJURbzm3vaUvITk",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balvanera",
+               "short_name" : "Balvanera",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna 3",
+               "short_name" : "Comuna 3",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balvanera, Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.59800300000001,
+                  "lng" : -58.3916586
+               },
+               "southwest" : {
+                  "lat" : -34.6206422,
+                  "lng" : -58.4146599
+               }
+            },
+            "location" : {
+               "lat" : -34.6101223,
+               "lng" : -58.40594059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.59800300000001,
+                  "lng" : -58.3916586
+               },
+               "southwest" : {
+                  "lat" : -34.6206422,
+                  "lng" : -58.4146599
+               }
+            }
+         },
+         "place_id" : "ChIJUaOV2u_KvJURIbHgKZTw24g",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7051011,
+                  "lng" : -58.5314522
+               }
+            },
+            "location" : {
+               "lat" : -34.6036844,
+               "lng" : -58.3815591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7051011,
+                  "lng" : -58.5314522
+               }
+            }
+         },
+         "place_id" : "ChIJvQz5TjvKvJURh47oiC6Bs6A",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C1025",
+               "short_name" : "C1025",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C1025 Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.5982824,
+                  "lng" : -58.3916578
+               },
+               "southwest" : {
+                  "lat" : -34.6103146,
+                  "lng" : -58.395937
+               }
+            },
+            "location" : {
+               "lat" : -34.6081667,
+               "lng" : -58.3935582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5982824,
+                  "lng" : -58.3916578
+               },
+               "southwest" : {
+                  "lat" : -34.6103146,
+                  "lng" : -58.395937
+               }
+            }
+         },
+         "place_id" : "ChIJXWu8Y8LKvJURaFldurJ5rqQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C1033",
+               "short_name" : "C1033",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C1033 Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.6012705,
+                  "lng" : -58.36883779999999
+               },
+               "southwest" : {
+                  "lat" : -34.6244686,
+                  "lng" : -58.3973635
+               }
+            },
+            "location" : {
+               "lat" : -34.6089099,
+               "lng" : -58.39406109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.6012705,
+                  "lng" : -58.36883779999999
+               },
+               "southwest" : {
+                  "lat" : -34.6244686,
+                  "lng" : -58.3973635
+               }
+            }
+         },
+         "place_id" : "ChIJIcw_hMLKvJUR3m6BW00L7t8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comuna 3",
+               "short_name" : "Comuna 3",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Comuna 3, CABA, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.59800300000001,
+                  "lng" : -58.3911697
+               },
+               "southwest" : {
+                  "lat" : -34.6303557,
+                  "lng" : -58.4146599
+               }
+            },
+            "location" : {
+               "lat" : -34.6177736,
+               "lng" : -58.4002165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.59800300000001,
+                  "lng" : -58.3911697
+               },
+               "southwest" : {
+                  "lat" : -34.6303557,
+                  "lng" : -58.4146599
+               }
+            }
+         },
+         "place_id" : "ChIJfYHTguXKvJURoZj4BULLfqM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7055085,
+                  "lng" : -58.5314522
+               }
+            },
+            "location" : {
+               "lat" : -34.6037618,
+               "lng" : -58.38171499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7055085,
+                  "lng" : -58.5314522
+               }
+            }
+         },
+         "place_id" : "ChIJu39FBT3KvJURF8D35_z0YOE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            },
+            "location" : {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.7810459,
+                  "lng" : -53.637481
+               },
+               "southwest" : {
+                  "lat" : -55.1250224,
+                  "lng" : -73.5603601
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

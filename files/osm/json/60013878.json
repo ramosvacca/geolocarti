@@ -1,0 +1,513 @@
+{
+   "plus_code" : {
+      "compound_code" : "279H+VP Harrison, NY, USA",
+      "global_code" : "87H8279H+VP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Corporate Park Drive",
+               "short_name" : "Corporate Park Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White Plains",
+               "short_name" : "White Plains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrison",
+               "short_name" : "Harrison",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10604",
+               "short_name" : "10604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104 Corporate Park Dr, White Plains, NY 10604, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.019688,
+               "lng" : -73.720708
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02103698029149,
+                  "lng" : -73.71935901970851
+               },
+               "southwest" : {
+                  "lat" : 41.01833901970849,
+                  "lng" : -73.72205698029151
+               }
+            }
+         },
+         "place_id" : "ChIJZR4QW-yWwokRKSFfG_MXFS8",
+         "plus_code" : {
+            "compound_code" : "279H+VP Harrison, NY, United States",
+            "global_code" : "87H8279H+VP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Corporate Park Drive",
+               "short_name" : "Corporate Park Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Harrison",
+               "short_name" : "West Harrison",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Harrison",
+               "short_name" : "Harrison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrison",
+               "short_name" : "Harrison",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10604",
+               "short_name" : "10604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104 Corporate Park Dr, West Harrison, NY 10604, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.019688,
+               "lng" : -73.720708
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02103698029149,
+                  "lng" : -73.71935901970851
+               },
+               "southwest" : {
+                  "lat" : 41.01833901970849,
+                  "lng" : -73.72205698029151
+               }
+            }
+         },
+         "place_id" : "ChIJZR4QW-yWwokRAxiKX10lnXI",
+         "plus_code" : {
+            "compound_code" : "279H+VP Harrison, NY, United States",
+            "global_code" : "87H8279H+VP"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Corporate Park Drive",
+               "short_name" : "Corporate Park Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Harrison",
+               "short_name" : "West Harrison",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10604",
+               "short_name" : "10604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "106 Corporate Park Dr, West Harrison, NY 10604, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.020053,
+               "lng" : -73.7209196
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0214019802915,
+                  "lng" : -73.71957061970849
+               },
+               "southwest" : {
+                  "lat" : 41.0187040197085,
+                  "lng" : -73.72226858029151
+               }
+            }
+         },
+         "place_id" : "EjMxMDYgQ29ycG9yYXRlIFBhcmsgRHIsIFdlc3QgSGFycmlzb24sIE5ZIDEwNjA0LCBVU0EiGhIYChQKEgnTRaFR7JbCiREasRpPzFo-SxBq",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10604",
+               "short_name" : "10604",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "White Plains",
+               "short_name" : "White Plains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "White Plains, NY 10604, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0952,
+                  "lng" : -73.6946811
+               },
+               "southwest" : {
+                  "lat" : 41.012105,
+                  "lng" : -73.7661981
+               }
+            },
+            "location" : {
+               "lat" : 41.0603977,
+               "lng" : -73.7419017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0952,
+                  "lng" : -73.6946811
+               },
+               "southwest" : {
+                  "lat" : 41.012105,
+                  "lng" : -73.7661981
+               }
+            }
+         },
+         "place_id" : "ChIJp0O2H2yWwokRcDdvAOcweqk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harrison",
+               "short_name" : "Harrison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrison",
+               "short_name" : "Harrison",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harrison, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.079651,
+                  "lng" : -73.68461289999999
+               },
+               "southwest" : {
+                  "lat" : 40.9592771,
+                  "lng" : -73.753967
+               }
+            },
+            "location" : {
+               "lat" : 40.9700171,
+               "lng" : -73.71763369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.079651,
+                  "lng" : -73.68461289999999
+               },
+               "southwest" : {
+                  "lat" : 40.9592771,
+                  "lng" : -73.753967
+               }
+            }
+         },
+         "place_id" : "ChIJRXu0a-mWwokRjJQmycJ8bFQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harrison",
+               "short_name" : "Harrison",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Harrison",
+               "short_name" : "Harrison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harrison, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.079651,
+                  "lng" : -73.68461289999999
+               },
+               "southwest" : {
+                  "lat" : 40.9592771,
+                  "lng" : -73.753967
+               }
+            },
+            "location" : {
+               "lat" : 41.0414122,
+               "lng" : -73.712479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.079651,
+                  "lng" : -73.68461289999999
+               },
+               "southwest" : {
+                  "lat" : 40.9592771,
+                  "lng" : -73.753967
+               }
+            }
+         },
+         "place_id" : "ChIJhwvVFuyWwokRDjPSN1nQuGg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westchester County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.366375,
+                  "lng" : -73.48270909999999
+               },
+               "southwest" : {
+                  "lat" : 40.871721,
+                  "lng" : -73.98328409999999
+               }
+            },
+            "location" : {
+               "lat" : 41.1220194,
+               "lng" : -73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.366375,
+                  "lng" : -73.48270909999999
+               },
+               "southwest" : {
+                  "lat" : 40.871721,
+                  "lng" : -73.98328409999999
+               }
+            }
+         },
+         "place_id" : "ChIJr1lrnWrJwokRidu9ImLYDjc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

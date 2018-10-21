@@ -1,0 +1,442 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "361",
+               "short_name" : "361",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carrera 6",
+               "short_name" : "Cra. 6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "El Centro",
+               "short_name" : "El Centro",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bolívar",
+               "short_name" : "Bolívar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "130001",
+               "short_name" : "130001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cra. 6 #36-1, Cartagena, Bolívar, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.4252064,
+               "lng" : -75.54958959999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4265553802915,
+                  "lng" : -75.54824061970848
+               },
+               "southwest" : {
+                  "lat" : 10.4238574197085,
+                  "lng" : -75.55093858029149
+               }
+            }
+         },
+         "place_id" : "EitDcmEuIDYgIzM2LTEsIENhcnRhZ2VuYSwgQm9sw612YXIsIENvbG9tYmlhIhoSGAoUChIJ2WQBE58v9o4RFMoDo9rzIFMQAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Centro",
+               "short_name" : "El Centro",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartagena Province",
+               "short_name" : "Cartagena Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bolivar",
+               "short_name" : "Bolivar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "130001",
+               "short_name" : "130001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "El Centro, Cartagena, Cartagena Province, Bolivar, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4278422,
+                  "lng" : -75.5471419
+               },
+               "southwest" : {
+                  "lat" : 10.4203293,
+                  "lng" : -75.55375099999999
+               }
+            },
+            "location" : {
+               "lat" : 10.4242981,
+               "lng" : -75.5502324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4278422,
+                  "lng" : -75.5471419
+               },
+               "southwest" : {
+                  "lat" : 10.4203293,
+                  "lng" : -75.55375099999999
+               }
+            }
+         },
+         "place_id" : "ChIJRfrwjp8v9o4RRnRYfv_qzCE",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartagena Province",
+               "short_name" : "Cartagena Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bolivar",
+               "short_name" : "Bolivar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centro, Cartagena, Cartagena Province, Bolivar, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4271564,
+                  "lng" : -75.5441153
+               },
+               "southwest" : {
+                  "lat" : 10.4181837,
+                  "lng" : -75.5546882
+               }
+            },
+            "location" : {
+               "lat" : 10.4229301,
+               "lng" : -75.5502324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4271564,
+                  "lng" : -75.5441153
+               },
+               "southwest" : {
+                  "lat" : 10.4181837,
+                  "lng" : -75.5546882
+               }
+            }
+         },
+         "place_id" : "ChIJL_283Z8v9o4RN-1ZMVMtnLo",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartagena Province",
+               "short_name" : "Cartagena Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bolivar",
+               "short_name" : "Bolivar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cartagena, Cartagena Province, Bolivar, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4555439,
+                  "lng" : -75.450526
+               },
+               "southwest" : {
+                  "lat" : 10.3448536,
+                  "lng" : -75.56652489999999
+               }
+            },
+            "location" : {
+               "lat" : 10.3910485,
+               "lng" : -75.47942569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4555439,
+                  "lng" : -75.450526
+               },
+               "southwest" : {
+                  "lat" : 10.3448536,
+                  "lng" : -75.56652489999999
+               }
+            }
+         },
+         "place_id" : "ChIJUROdrucl9o4RyiY_Ay45YbE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "130001",
+               "short_name" : "130001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartagena Province",
+               "short_name" : "Cartagena Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bolivar",
+               "short_name" : "Bolivar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cartagena, Cartagena Province, Bolivar, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4324991,
+                  "lng" : -75.5156911
+               },
+               "southwest" : {
+                  "lat" : 10.38059,
+                  "lng" : -75.56669409999999
+               }
+            },
+            "location" : {
+               "lat" : 10.4134044,
+               "lng" : -75.53640419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4324991,
+                  "lng" : -75.5156911
+               },
+               "southwest" : {
+                  "lat" : 10.38059,
+                  "lng" : -75.56669409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1188PG8v9o4RI1I0fN57Jak",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cartagena Province",
+               "short_name" : "Cartagena Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bolivar",
+               "short_name" : "Bolivar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cartagena Province, Bolivar, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7037341,
+                  "lng" : -75.2871761
+               },
+               "southwest" : {
+                  "lat" : 10.0854849,
+                  "lng" : -75.70437199999999
+               }
+            },
+            "location" : {
+               "lat" : 10.400234,
+               "lng" : -75.50852499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7037341,
+                  "lng" : -75.2871761
+               },
+               "southwest" : {
+                  "lat" : 10.0854849,
+                  "lng" : -75.70437199999999
+               }
+            }
+         },
+         "place_id" : "ChIJL_pb_8Yl9o4RaHb7oHlZMaw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolivar",
+               "short_name" : "Bolivar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolivar, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.803259,
+                  "lng" : -73.7470541
+               },
+               "southwest" : {
+                  "lat" : 6.999522,
+                  "lng" : -75.79910989999999
+               }
+            },
+            "location" : {
+               "lat" : 8.6704382,
+               "lng" : -74.0300122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.803259,
+                  "lng" : -73.7470541
+               },
+               "southwest" : {
+                  "lat" : 6.999522,
+                  "lng" : -75.79910989999999
+               }
+            }
+         },
+         "place_id" : "ChIJhWiv4EXQWI4RFZYP9gSTAaY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            },
+            "location" : {
+               "lat" : 4.570868,
+               "lng" : -74.29733299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5177999,
+                  "lng" : -66.8463122
+               },
+               "southwest" : {
+                  "lat" : -4.227109899999999,
+                  "lng" : -81.8317
+               }
+            }
+         },
+         "place_id" : "ChIJo5QVrjqkFY4RQKPy7wSaDZo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

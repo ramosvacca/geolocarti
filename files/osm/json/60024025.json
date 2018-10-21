@@ -1,0 +1,435 @@
+{
+   "plus_code" : {
+      "compound_code" : "WWHH+7G Cologne, Germany",
+      "global_code" : "9F28WWHH+7G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Köln",
+               "short_name" : "Köln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50923",
+               "short_name" : "50923",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Albertus-Magnus-Platz, 50923 Köln, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9281625,
+               "lng" : 6.9288193
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9295114802915,
+                  "lng" : 6.930168280291502
+               },
+               "southwest" : {
+                  "lat" : 50.9268135197085,
+                  "lng" : 6.927470319708497
+               }
+            }
+         },
+         "place_id" : "ChIJW7PL2eUkv0cRPAtD5qzBxCE",
+         "plus_code" : {
+            "compound_code" : "WWHH+7G Cologne, Germany",
+            "global_code" : "9F28WWHH+7G"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universitätsstraße",
+               "short_name" : "L100",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lindenthal",
+               "short_name" : "Lindenthal",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "Köln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50931",
+               "short_name" : "50931",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsstraße, 50931 Köln, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.928342,
+                  "lng" : 6.928540399999999
+               },
+               "southwest" : {
+                  "lat" : 50.927831,
+                  "lng" : 6.928194400000001
+               }
+            },
+            "location" : {
+               "lat" : 50.9280865,
+               "lng" : 6.9283674
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9294354802915,
+                  "lng" : 6.929716380291503
+               },
+               "southwest" : {
+                  "lat" : 50.9267375197085,
+                  "lng" : 6.927018419708499
+               }
+            }
+         },
+         "place_id" : "ChIJcWd9s_wkv0cROJwyHYS2BRc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "50931",
+               "short_name" : "50931",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lindenthal",
+               "short_name" : "Lindenthal",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "Cologne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "50931 Cologne, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.94262800000001,
+                  "lng" : 6.9340641
+               },
+               "southwest" : {
+                  "lat" : 50.9224529,
+                  "lng" : 6.9077101
+               }
+            },
+            "location" : {
+               "lat" : 50.9302584,
+               "lng" : 6.9188847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.94262800000001,
+                  "lng" : 6.9340641
+               },
+               "southwest" : {
+                  "lat" : 50.9224529,
+                  "lng" : 6.9077101
+               }
+            }
+         },
+         "place_id" : "ChIJcQwP3-Ekv0cR4KYmq_9gJxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lindenthal",
+               "short_name" : "Lindenthal",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "Cologne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhein-Erft-Kreis",
+               "short_name" : "Rhein-Erft-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lindenthal, Cologne, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9736741,
+                  "lng" : 6.9404919
+               },
+               "southwest" : {
+                  "lat" : 50.8932493,
+                  "lng" : 6.808414000000001
+               }
+            },
+            "location" : {
+               "lat" : 50.92501499999999,
+               "lng" : 6.874839199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9736741,
+                  "lng" : 6.9404919
+               },
+               "southwest" : {
+                  "lat" : 50.8932493,
+                  "lng" : 6.808414000000001
+               }
+            }
+         },
+         "place_id" : "ChIJ1asNIiQ7v0cRtdsJGRshD68",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne",
+               "short_name" : "Cologne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cologne, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.08496299999999,
+                  "lng" : 7.1620628
+               },
+               "southwest" : {
+                  "lat" : 50.8304427,
+                  "lng" : 6.7725819
+               }
+            },
+            "location" : {
+               "lat" : 50.937531,
+               "lng" : 6.9602786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.08496299999999,
+                  "lng" : 7.1620628
+               },
+               "southwest" : {
+                  "lat" : 50.8304427,
+                  "lng" : 6.7725819
+               }
+            }
+         },
+         "place_id" : "ChIJ5S-raZElv0cR8HcqSvxgJwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne",
+               "short_name" : "Cologne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cologne, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2505257,
+                  "lng" : 7.791868999999999
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 50.8993757,
+               "lng" : 6.776658299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2505257,
+                  "lng" : 7.791868999999999
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJ5S-raZElv0cRoOwpSvxgJwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "North Rhine-Westphalia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Rhine-Westphalia, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.43323669999999,
+               "lng" : 7.661593799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJoUhCjnwWuUcRX4_XT34yTC8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

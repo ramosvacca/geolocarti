@@ -1,0 +1,597 @@
+{
+   "plus_code" : {
+      "compound_code" : "4RXW+CX Pasadena, CA, USA",
+      "global_code" : "85634RXW+CX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Walnut Street",
+               "short_name" : "W Walnut St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Pasadena",
+               "short_name" : "Old Pasadena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91124",
+               "short_name" : "91124",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0001",
+               "short_name" : "0001",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "100 W Walnut St, Pasadena, CA 91124, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1485883,
+               "lng" : -118.1525068
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1499372802915,
+                  "lng" : -118.1511578197085
+               },
+               "southwest" : {
+                  "lat" : 34.1472393197085,
+                  "lng" : -118.1538557802915
+               }
+            }
+         },
+         "place_id" : "ChIJnQMfoXPDwoARBgUB3kfBdww",
+         "plus_code" : {
+            "compound_code" : "4RXW+CX Pasadena, California, United States",
+            "global_code" : "85634RXW+CX"
+         },
+         "types" : [ "atm", "establishment", "finance", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Walnut Street",
+               "short_name" : "E Walnut St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Pasadena",
+               "short_name" : "Old Pasadena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91103",
+               "short_name" : "91103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 E Walnut St, Pasadena, CA 91103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.14849050000001,
+               "lng" : -118.152467
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.14983948029151,
+                  "lng" : -118.1511180197085
+               },
+               "southwest" : {
+                  "lat" : 34.14714151970851,
+                  "lng" : -118.1538159802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1ZQQdXPDwoARphLjAWvqRs8",
+         "plus_code" : {
+            "compound_code" : "4RXX+92 Pasadena, California, United States",
+            "global_code" : "85634RXX+92"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Walnut Street",
+               "short_name" : "W Walnut St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Pasadena",
+               "short_name" : "Old Pasadena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91124",
+               "short_name" : "91124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 W Walnut St, Pasadena, CA 91124, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1491076,
+                  "lng" : -118.1517022
+               },
+               "southwest" : {
+                  "lat" : 34.1479785,
+                  "lng" : -118.1532156
+               }
+            },
+            "location" : {
+               "lat" : 34.1487598,
+               "lng" : -118.1527709
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1498920302915,
+                  "lng" : -118.1511099197085
+               },
+               "southwest" : {
+                  "lat" : 34.1471940697085,
+                  "lng" : -118.1538078802915
+               }
+            }
+         },
+         "place_id" : "ChIJCUMOknPDwoARuMxNXw4MkDo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Pasadena",
+               "short_name" : "Old Pasadena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91124",
+               "short_name" : "91124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Pasadena, CA 91124, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1484232,
+                  "lng" : -118.1526929
+               },
+               "southwest" : {
+                  "lat" : 34.1483999,
+                  "lng" : -118.1529403
+               }
+            },
+            "location" : {
+               "lat" : 34.1484116,
+               "lng" : -118.1528166
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.14976053029149,
+                  "lng" : -118.1514676197085
+               },
+               "southwest" : {
+                  "lat" : 34.1470625697085,
+                  "lng" : -118.1541655802915
+               }
+            }
+         },
+         "place_id" : "ChIJK_ZtjHPDwoARptS638T0pZo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "91124",
+               "short_name" : "91124",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pasadena, CA 91124, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.15048,
+                  "lng" : -118.150501
+               },
+               "southwest" : {
+                  "lat" : 34.1466739,
+                  "lng" : -118.155646
+               }
+            },
+            "location" : {
+               "lat" : 34.1485444,
+               "lng" : -118.1539593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.15048,
+                  "lng" : -118.150501
+               },
+               "southwest" : {
+                  "lat" : 34.1466739,
+                  "lng" : -118.155646
+               }
+            }
+         },
+         "place_id" : "ChIJ7d0R7W7DwoAR6QdTVfpVCL4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Pasadena",
+               "short_name" : "Old Pasadena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Old Pasadena, Pasadena, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1495661,
+                  "lng" : -118.1475092
+               },
+               "southwest" : {
+                  "lat" : 34.1434571,
+                  "lng" : -118.1541824
+               }
+            },
+            "location" : {
+               "lat" : 34.1458891,
+               "lng" : -118.1517653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1495661,
+                  "lng" : -118.1475092
+               },
+               "southwest" : {
+                  "lat" : 34.1434571,
+                  "lng" : -118.1541824
+               }
+            }
+         },
+         "place_id" : "ChIJZ2t1cXHDwoARNXIU3F_CDtc",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pasadena",
+               "short_name" : "Pasadena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pasadena, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.251905,
+                  "lng" : -118.0654789
+               },
+               "southwest" : {
+                  "lat" : 34.1170368,
+                  "lng" : -118.1981391
+               }
+            },
+            "location" : {
+               "lat" : 34.1477849,
+               "lng" : -118.1445155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.251905,
+                  "lng" : -118.0654789
+               },
+               "southwest" : {
+                  "lat" : 34.1170368,
+                  "lng" : -118.1981391
+               }
+            }
+         },
+         "place_id" : "ChIJUQszONzCwoARSo_RGhZBKwU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            },
+            "location" : {
+               "lat" : 34.0522265,
+               "lng" : -118.2436596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8231929,
+                  "lng" : -117.6456041
+               },
+               "southwest" : {
+                  "lat" : 32.75004,
+                  "lng" : -118.9517211
+               }
+            }
+         },
+         "place_id" : "ChIJMc1kAdMq3YARKjm9z9YofYM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

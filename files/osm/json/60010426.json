@@ -1,0 +1,622 @@
+{
+   "plus_code" : {
+      "compound_code" : "CRGG+G6 Mitcham, UK",
+      "global_code" : "9C3XCRGG+G6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. James Wing",
+               "short_name" : "St. James Wing",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Blackshaw Road",
+               "short_name" : "Blackshaw Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW17 0QT",
+               "short_name" : "SW17 0QT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St. James Wing, Blackshaw Rd, London SW17 0QT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4268898,
+                  "lng" : -0.1732986
+               },
+               "southwest" : {
+                  "lat" : 51.425641,
+                  "lng" : -0.1755119
+               }
+            },
+            "location" : {
+               "lat" : 51.4263994,
+               "lng" : -0.174431
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4276143802915,
+                  "lng" : -0.173056269708498
+               },
+               "southwest" : {
+                  "lat" : 51.4249164197085,
+                  "lng" : -0.175754230291502
+               }
+            }
+         },
+         "place_id" : "ChIJqaQvuAgGdkgROI0lwNGMPzQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blackshaw Road",
+               "short_name" : "Blackshaw Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW17 0QT",
+               "short_name" : "SW17 0QT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blackshaw Rd, London SW17 0QT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4263302,
+               "lng" : -0.1744126
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.42767918029149,
+                  "lng" : -0.173063619708498
+               },
+               "southwest" : {
+                  "lat" : 51.4249812197085,
+                  "lng" : -0.175761580291502
+               }
+            }
+         },
+         "place_id" : "ChIJb1nNvggGdkgRZAURrMhPQZg",
+         "plus_code" : {
+            "compound_code" : "CRGG+G6 Mitcham, United Kingdom",
+            "global_code" : "9C3XCRGG+G6"
+         },
+         "types" : [ "establishment", "hospital", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW17 0QT",
+               "short_name" : "SW17 0QT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, London SW17 0QT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4266729,
+                  "lng" : -0.1741084
+               },
+               "southwest" : {
+                  "lat" : 51.4265732,
+                  "lng" : -0.1741947
+               }
+            },
+            "location" : {
+               "lat" : 51.426623,
+               "lng" : -0.1741515
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4279720302915,
+                  "lng" : -0.172802569708498
+               },
+               "southwest" : {
+                  "lat" : 51.4252740697085,
+                  "lng" : -0.175500530291502
+               }
+            }
+         },
+         "place_id" : "ChIJk1a_wAgGdkgRaKJ9ukD3gMw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SW17 0QT",
+               "short_name" : "SW17 0QT",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London SW17 0QT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4272877,
+                  "lng" : -0.1738405
+               },
+               "southwest" : {
+                  "lat" : 51.4253203,
+                  "lng" : -0.1772965
+               }
+            },
+            "location" : {
+               "lat" : 51.4267274,
+               "lng" : -0.1757459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4276529802915,
+                  "lng" : -0.1738405
+               },
+               "southwest" : {
+                  "lat" : 51.4249550197085,
+                  "lng" : -0.1772965
+               }
+            }
+         },
+         "place_id" : "ChIJTzbTHwYGdkgRm81IK9UVlR8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SW17",
+               "short_name" : "SW17",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London SW17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.447374,
+                  "lng" : -0.1447668
+               },
+               "southwest" : {
+                  "lat" : 51.4176741,
+                  "lng" : -0.1903906
+               }
+            },
+            "location" : {
+               "lat" : 51.4334645,
+               "lng" : -0.1669558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.447374,
+                  "lng" : -0.1447668
+               },
+               "southwest" : {
+                  "lat" : 51.4176741,
+                  "lng" : -0.1903906
+               }
+            }
+         },
+         "place_id" : "ChIJARqVTcMFdkgRZ9BfeaLxPss",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London Borough of Wandsworth",
+               "short_name" : "London Borough of Wandsworth",
+               "types" : [ "administrative_area_level_3", "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London Borough of Wandsworth, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4858926,
+                  "lng" : -0.1263636
+               },
+               "southwest" : {
+                  "lat" : 51.417752,
+                  "lng" : -0.259113
+               }
+            },
+            "location" : {
+               "lat" : 51.4570716,
+               "lng" : -0.1817824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4858926,
+                  "lng" : -0.1263636
+               },
+               "southwest" : {
+                  "lat" : 51.417752,
+                  "lng" : -0.259113
+               }
+            }
+         },
+         "place_id" : "ChIJg-qP_4kFdkgR0mhvpZwsJTc",
+         "types" : [ "administrative_area_level_3", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            },
+            "location" : {
+               "lat" : 51.5073509,
+               "lng" : -0.1277583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            }
+         },
+         "place_id" : "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            },
+            "location" : {
+               "lat" : 51.5569879,
+               "lng" : -0.1411791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            }
+         },
+         "place_id" : "ChIJ8_MXt1sbdkgRCrIAOXkukUk",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6918726,
+                  "lng" : 0.3339957
+               },
+               "southwest" : {
+                  "lat" : 51.28676,
+                  "lng" : -0.5103751
+               }
+            },
+            "location" : {
+               "lat" : 51.4309209,
+               "lng" : -0.0936496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6918726,
+                  "lng" : 0.3339957
+               },
+               "southwest" : {
+                  "lat" : 51.28676,
+                  "lng" : -0.5103751
+               }
+            }
+         },
+         "place_id" : "ChIJb-IaoQug2EcRi-m4hONz8S8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

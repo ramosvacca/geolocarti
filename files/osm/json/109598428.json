@@ -1,0 +1,186 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "999",
+               "short_name" : "999",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Paraná",
+               "short_name" : "Av. Paraná",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guarapuava",
+               "short_name" : "Guarapuava",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. Paraná, 999, Guarapuava - PR, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.5682532,
+               "lng" : -51.4774188
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.5669042197085,
+                  "lng" : -51.47606981970849
+               },
+               "southwest" : {
+                  "lat" : -25.5696021802915,
+                  "lng" : -51.47876778029149
+               }
+            }
+         },
+         "place_id" : "ChIJT29-PSpQ75QR0W5bmjWl5-U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guarapuava",
+               "short_name" : "Guarapuava",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guarapuava - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.092692,
+                  "lng" : -51.0896786
+               },
+               "southwest" : {
+                  "lat" : -25.6822274,
+                  "lng" : -52.0229261
+               }
+            },
+            "location" : {
+               "lat" : -25.3890367,
+               "lng" : -51.46251480000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.092692,
+                  "lng" : -51.0896786
+               },
+               "southwest" : {
+                  "lat" : -25.6822274,
+                  "lng" : -52.0229261
+               }
+            }
+         },
+         "place_id" : "ChIJb1hpBrQ375QR83o6RN0DrZQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,464 @@
+{
+   "plus_code" : {
+      "compound_code" : "F3J4+G5 Budapest, Hungary",
+      "global_code" : "8FVXF3J4+G5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Műegyetem rakpart",
+               "short_name" : "Műegyetem rkp.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "XI. kerület",
+               "short_name" : "XI. kerület",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1111",
+               "short_name" : "1111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Budapest, MAFC Súlyemelő Szakosztály, Műegyetem rkp. 3, 1111 Hungary",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.4815808,
+               "lng" : 19.0557864
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.48292978029149,
+                  "lng" : 19.0571353802915
+               },
+               "southwest" : {
+                  "lat" : 47.48023181970849,
+                  "lng" : 19.0544374197085
+               }
+            }
+         },
+         "place_id" : "ChIJcztJRFLcQUcRjOcRzT6TjP4",
+         "plus_code" : {
+            "compound_code" : "F3J4+J8 Budapest, Hungary",
+            "global_code" : "8FVXF3J4+J8"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "XI. kerület",
+               "short_name" : "XI. kerület",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1111",
+               "short_name" : "1111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Unnamed Road, 1111 Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4819413,
+                  "lng" : 19.0563642
+               },
+               "southwest" : {
+                  "lat" : 47.4815753,
+                  "lng" : 19.0559079
+               }
+            },
+            "location" : {
+               "lat" : 47.4817583,
+               "lng" : 19.056136
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4831072802915,
+                  "lng" : 19.05748503029151
+               },
+               "southwest" : {
+                  "lat" : 47.4804093197085,
+                  "lng" : 19.0547870697085
+               }
+            }
+         },
+         "place_id" : "ChIJF7v2P1LcQUcRJB_IEdT1QJc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1111",
+               "short_name" : "1111",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "District XI.",
+               "short_name" : "District XI.",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budapest, 1111 Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.485741,
+                  "lng" : 19.063414
+               },
+               "southwest" : {
+                  "lat" : 47.473571,
+                  "lng" : 19.048023
+               }
+            },
+            "location" : {
+               "lat" : 47.47946899999999,
+               "lng" : 19.0544773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.485741,
+                  "lng" : 19.063414
+               },
+               "southwest" : {
+                  "lat" : 47.473571,
+                  "lng" : 19.048023
+               }
+            }
+         },
+         "place_id" : "ChIJK9DNB07cQUcRkxQy6ijEAAs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lágymányos",
+               "short_name" : "Lágymányos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "XI. kerület",
+               "short_name" : "XI. kerület",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Lágymányos, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.485752,
+                  "lng" : 19.067085
+               },
+               "southwest" : {
+                  "lat" : 47.468553,
+                  "lng" : 19.045405
+               }
+            },
+            "location" : {
+               "lat" : 47.4757773,
+               "lng" : 19.0537705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.485752,
+                  "lng" : 19.067085
+               },
+               "southwest" : {
+                  "lat" : 47.468553,
+                  "lng" : 19.045405
+               }
+            }
+         },
+         "place_id" : "ChIJkbNDxqzdQUcRyqYAq17qzEQ",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District XI.",
+               "short_name" : "District XI.",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budapest, District XI., Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4888649,
+                  "lng" : 19.0674459
+               },
+               "southwest" : {
+                  "lat" : 47.427856,
+                  "lng" : 18.9700039
+               }
+            },
+            "location" : {
+               "lat" : 47.4593099,
+               "lng" : 19.0187389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4888649,
+                  "lng" : 19.0674459
+               },
+               "southwest" : {
+                  "lat" : 47.427856,
+                  "lng" : 18.9700039
+               }
+            }
+         },
+         "place_id" : "ChIJC0BjZOzdQUcR4NUeDCnEAAU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            },
+            "location" : {
+               "lat" : 47.4763392,
+               "lng" : 19.0652774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            }
+         },
+         "place_id" : "ChIJyc_U0TTDQUcRYBAeDCnEAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            },
+            "location" : {
+               "lat" : 47.497912,
+               "lng" : 19.040235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            }
+         },
+         "place_id" : "ChIJyc_U0TTDQUcRYBEeDCnEAAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            },
+            "location" : {
+               "lat" : 47.4763392,
+               "lng" : 19.0652774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6130119,
+                  "lng" : 19.3345049
+               },
+               "southwest" : {
+                  "lat" : 47.349415,
+                  "lng" : 18.9261011
+               }
+            }
+         },
+         "place_id" : "ChIJ73nSljTDQUcRLQb6xdENJ6U",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.585234,
+                  "lng" : 22.8965438
+               },
+               "southwest" : {
+                  "lat" : 45.7370889,
+                  "lng" : 16.1133078
+               }
+            },
+            "location" : {
+               "lat" : 47.162494,
+               "lng" : 19.5033041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.585234,
+                  "lng" : 22.8965438
+               },
+               "southwest" : {
+                  "lat" : 45.7370889,
+                  "lng" : 16.1133078
+               }
+            }
+         },
+         "place_id" : "ChIJw-Q333uDQUcREBAeDCnEAAA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

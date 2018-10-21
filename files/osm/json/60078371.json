@@ -1,0 +1,440 @@
+{
+   "plus_code" : {
+      "compound_code" : "292X+7P Flörsheim am Main, Germany",
+      "global_code" : "9F2C292X+7P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Böttgerstraße",
+               "short_name" : "Böttgerstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Flörsheim am Main",
+               "short_name" : "Flörsheim am Main",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Main-Taunus-Kreis",
+               "short_name" : "Main-Taunus-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65439",
+               "short_name" : "65439",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Böttgerstraße 4, 65439 Flörsheim am Main, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.00087,
+               "lng" : 8.39906
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0022189802915,
+                  "lng" : 8.400408980291502
+               },
+               "southwest" : {
+                  "lat" : 49.9995210197085,
+                  "lng" : 8.397711019708499
+               }
+            }
+         },
+         "place_id" : "ChIJzbHVUSCZvUcR_CAS4iYO5Co",
+         "plus_code" : {
+            "compound_code" : "292X+8J Flörsheim am Main, Germany",
+            "global_code" : "9F2C292X+8J"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Böttgerstraße",
+               "short_name" : "Böttgerstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Flörsheim am Main",
+               "short_name" : "Flörsheim am Main",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65439",
+               "short_name" : "65439",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Böttgerstraße 2, 65439 Flörsheim am Main, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.0009852,
+               "lng" : 8.3994199
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0023341802915,
+                  "lng" : 8.400768880291501
+               },
+               "southwest" : {
+                  "lat" : 49.9996362197085,
+                  "lng" : 8.398070919708497
+               }
+            }
+         },
+         "place_id" : "EjhCw7Z0dGdlcnN0cmHDn2UgMiwgNjU0MzkgRmzDtnJzaGVpbSBhbSBNYWluLCBEZXV0c2NobGFuZCIaEhgKFAoSCZ-ZgO8gmb1HERiMthY4JCuBEAI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flörsheim am Main",
+               "short_name" : "Flörsheim am Main",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Main-Taunus-Kreis",
+               "short_name" : "Main-Taunus-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65439",
+               "short_name" : "65439",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "65439 Flörsheim am Main, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.05840999999999,
+                  "lng" : 8.4680751
+               },
+               "southwest" : {
+                  "lat" : 49.9965009,
+                  "lng" : 8.374558
+               }
+            },
+            "location" : {
+               "lat" : 50.01239959999999,
+               "lng" : 8.4217125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.05840999999999,
+                  "lng" : 8.4680751
+               },
+               "southwest" : {
+                  "lat" : 49.9965009,
+                  "lng" : 8.374558
+               }
+            }
+         },
+         "place_id" : "ChIJR_NHwTOfvUcRP95KMwYuLes",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "65439",
+               "short_name" : "65439",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Flörsheim am Main",
+               "short_name" : "Flörsheim am Main",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Main-Taunus-Kreis",
+               "short_name" : "Main-Taunus-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "65439 Flörsheim am Main, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.059453,
+                  "lng" : 8.468052999999999
+               },
+               "southwest" : {
+                  "lat" : 49.9964511,
+                  "lng" : 8.374215999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.0269987,
+               "lng" : 8.4241522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.059453,
+                  "lng" : 8.468052999999999
+               },
+               "southwest" : {
+                  "lat" : 49.9964511,
+                  "lng" : 8.374215999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4xhv2LCYvUcRYKBKaVNDIhw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Main-Taunus-Kreis",
+               "short_name" : "Main-Taunus-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Main-Taunus-Kreis, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2026848,
+                  "lng" : 8.602665
+               },
+               "southwest" : {
+                  "lat" : 49.9965009,
+                  "lng" : 8.3176489
+               }
+            },
+            "location" : {
+               "lat" : 50.1043397,
+               "lng" : 8.427671199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2026848,
+                  "lng" : 8.602665
+               },
+               "southwest" : {
+                  "lat" : 49.9965009,
+                  "lng" : 8.3176489
+               }
+            }
+         },
+         "place_id" : "ChIJZ_tGJmehvUcRWHIMx5GlYo0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "Darmstadt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darmstadt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4998649,
+                  "lng" : 9.748860799999999
+               },
+               "southwest" : {
+                  "lat" : 49.3952611,
+                  "lng" : 7.7724675
+               }
+            },
+            "location" : {
+               "lat" : 50.1805574,
+               "lng" : 8.7955644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4998649,
+                  "lng" : 9.748860799999999
+               },
+               "southwest" : {
+                  "lat" : 49.3952611,
+                  "lng" : 7.7724675
+               }
+            }
+         },
+         "place_id" : "ChIJCZgjdcVtvUcRXd3OjgPjl5Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hesse",
+               "short_name" : "Hesse",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hesse, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6578013,
+                  "lng" : 10.2363207
+               },
+               "southwest" : {
+                  "lat" : 49.3952611,
+                  "lng" : 7.7724675
+               }
+            },
+            "location" : {
+               "lat" : 50.6520515,
+               "lng" : 9.162437599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6578013,
+                  "lng" : 10.2363207
+               },
+               "southwest" : {
+                  "lat" : 49.3952611,
+                  "lng" : 7.7724675
+               }
+            }
+         },
+         "place_id" : "ChIJCdXa3QzsvEcRZ2Vv2bH-Lus",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,436 @@
+{
+   "plus_code" : {
+      "compound_code" : "26MJ+49 White Plains, NY, USA",
+      "global_code" : "87H826MJ+49"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "123",
+               "short_name" : "123",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White Plains",
+               "short_name" : "White Plains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10601",
+               "short_name" : "10601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "123 Main St, White Plains, NY 10601, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0332739,
+                  "lng" : -73.76829010000002
+               },
+               "southwest" : {
+                  "lat" : 41.03251789999999,
+                  "lng" : -73.7699312
+               }
+            },
+            "location" : {
+               "lat" : 41.032924,
+               "lng" : -73.7690219
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0342448802915,
+                  "lng" : -73.76776166970852
+               },
+               "southwest" : {
+                  "lat" : 41.0315469197085,
+                  "lng" : -73.77045963029153
+               }
+            }
+         },
+         "place_id" : "ChIJNTzgTjaUwokRPNZkE_xXtT0",
+         "types" : [ "establishment", "parking", "point_of_interest", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "123",
+               "short_name" : "123",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White Plains",
+               "short_name" : "White Plains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10601",
+               "short_name" : "10601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "123 Main St, White Plains, NY 10601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0326916,
+               "lng" : -73.76948299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0340405802915,
+                  "lng" : -73.76813401970848
+               },
+               "southwest" : {
+                  "lat" : 41.0313426197085,
+                  "lng" : -73.7708319802915
+               }
+            }
+         },
+         "place_id" : "ChIJz2HVTzaUwokRDiQzmPDdJoM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "34",
+               "short_name" : "34",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "William Street",
+               "short_name" : "William St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White Plains",
+               "short_name" : "White Plains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10601",
+               "short_name" : "10601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "34 William St, White Plains, NY 10601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0327007,
+               "lng" : -73.7689838
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0340496802915,
+                  "lng" : -73.76763481970849
+               },
+               "southwest" : {
+                  "lat" : 41.0313517197085,
+                  "lng" : -73.7703327802915
+               }
+            }
+         },
+         "place_id" : "EiozNCBXaWxsaWFtIFN0LCBXaGl0ZSBQbGFpbnMsIE5ZIDEwNjAxLCBVU0EiGhIYChQKEglPWbZSNpTCiRG4iWfkwXb6VRAi",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10601",
+               "short_name" : "10601",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "White Plains",
+               "short_name" : "White Plains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "White Plains, NY 10601, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.038959,
+                  "lng" : -73.7536691
+               },
+               "southwest" : {
+                  "lat" : 41.024367,
+                  "lng" : -73.7751519
+               }
+            },
+            "location" : {
+               "lat" : 41.0322939,
+               "lng" : -73.7683784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.038959,
+                  "lng" : -73.7536691
+               },
+               "southwest" : {
+                  "lat" : 41.024367,
+                  "lng" : -73.7751519
+               }
+            }
+         },
+         "place_id" : "ChIJCTeh4S-UwokRLAJQrjR0ldc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "White Plains",
+               "short_name" : "White Plains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "White Plains, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0698349,
+                  "lng" : -73.71952399999999
+               },
+               "southwest" : {
+                  "lat" : 40.982445,
+                  "lng" : -73.78984779999999
+               }
+            },
+            "location" : {
+               "lat" : 41.03398620000001,
+               "lng" : -73.76290969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0698349,
+                  "lng" : -73.71952399999999
+               },
+               "southwest" : {
+                  "lat" : 40.982445,
+                  "lng" : -73.78984779999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2TWj4iKUwokRbPxbGhAEFFQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westchester County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.366375,
+                  "lng" : -73.48270909999999
+               },
+               "southwest" : {
+                  "lat" : 40.871721,
+                  "lng" : -73.98328409999999
+               }
+            },
+            "location" : {
+               "lat" : 41.1220194,
+               "lng" : -73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.366375,
+                  "lng" : -73.48270909999999
+               },
+               "southwest" : {
+                  "lat" : 40.871721,
+                  "lng" : -73.98328409999999
+               }
+            }
+         },
+         "place_id" : "ChIJr1lrnWrJwokRidu9ImLYDjc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

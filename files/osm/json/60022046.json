@@ -1,0 +1,509 @@
+{
+   "plus_code" : {
+      "compound_code" : "FQC6+8H Manchester, UK",
+      "global_code" : "9C5VFQC6+8H"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M15 6BH",
+               "short_name" : "M15 6BH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "All Saints Building, All Saints, Manchester M15 6BH, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4708222,
+               "lng" : -2.2385699
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4721711802915,
+                  "lng" : -2.237220919708498
+               },
+               "southwest" : {
+                  "lat" : 53.4694732197085,
+                  "lng" : -2.239918880291502
+               }
+            }
+         },
+         "place_id" : "ChIJCxgYoeyxe0gRofVehqpFmnM",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "A34",
+               "short_name" : "A34",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "111 A34, Manchester, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4709803,
+               "lng" : -2.237842
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4723292802915,
+                  "lng" : -2.236493019708498
+               },
+               "southwest" : {
+                  "lat" : 53.4696313197085,
+                  "lng" : -2.239190980291502
+               }
+            }
+         },
+         "place_id" : "EhcxMTEgQTM0LCBNYW5jaGVzdGVyLCBVSyIaEhgKFAoSCUFzG8vssXtIEaMYdaEvpKkXEG8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M15 6BH",
+               "short_name" : "M15 6BH",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester M15 6BH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.47177139999999,
+                  "lng" : -2.238083
+               },
+               "southwest" : {
+                  "lat" : 53.4702367,
+                  "lng" : -2.2413655
+               }
+            },
+            "location" : {
+               "lat" : 53.47068239999999,
+               "lng" : -2.2395057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4723530302915,
+                  "lng" : -2.238083
+               },
+               "southwest" : {
+                  "lat" : 53.4696550697085,
+                  "lng" : -2.2413655
+               }
+            }
+         },
+         "place_id" : "ChIJmWjF6-yxe0gR9E2AUuH7ygo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M15",
+               "short_name" : "M15",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester M15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4746913,
+                  "lng" : -2.2273304
+               },
+               "southwest" : {
+                  "lat" : 53.45690159999999,
+                  "lng" : -2.2741738
+               }
+            },
+            "location" : {
+               "lat" : 53.4640662,
+               "lng" : -2.246924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4746913,
+                  "lng" : -2.2273304
+               },
+               "southwest" : {
+                  "lat" : 53.45690159999999,
+                  "lng" : -2.2741738
+               }
+            }
+         },
+         "place_id" : "ChIJr4CTnwKue0gRRXLaT1YE_tM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5445879,
+                  "lng" : -2.1468288
+               },
+               "southwest" : {
+                  "lat" : 53.39990299999999,
+                  "lng" : -2.3000969
+               }
+            },
+            "location" : {
+               "lat" : 53.4807593,
+               "lng" : -2.2426305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5445879,
+                  "lng" : -2.1468288
+               },
+               "southwest" : {
+                  "lat" : 53.39990299999999,
+                  "lng" : -2.3000969
+               }
+            }
+         },
+         "place_id" : "ChIJ2_UmUkxNekgRqmv-BDgUvtk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5445879,
+                  "lng" : -2.1468288
+               },
+               "southwest" : {
+                  "lat" : 53.3401062,
+                  "lng" : -2.3198961
+               }
+            },
+            "location" : {
+               "lat" : 53.4456021,
+               "lng" : -2.2224473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5445879,
+                  "lng" : -2.1468288
+               },
+               "southwest" : {
+                  "lat" : 53.3401062,
+                  "lng" : -2.3198961
+               }
+            }
+         },
+         "place_id" : "ChIJoceAoT2ye0gREDRt7Z75DAQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5860108,
+                  "lng" : -2.0886511
+               },
+               "southwest" : {
+                  "lat" : 53.35370580000001,
+                  "lng" : -2.5226741
+               }
+            },
+            "location" : {
+               "lat" : 53.4746976,
+               "lng" : -2.3958048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5860108,
+                  "lng" : -2.0886511
+               },
+               "southwest" : {
+                  "lat" : 53.35370580000001,
+                  "lng" : -2.5226741
+               }
+            }
+         },
+         "place_id" : "ChIJv9zNx2Wue0gRgcGW5KKJCJM",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Greater Manchester",
+               "types" : [ "administrative_area_level_2", "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater Manchester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6857188,
+                  "lng" : -1.9096223
+               },
+               "southwest" : {
+                  "lat" : 53.3272977,
+                  "lng" : -2.7305208
+               }
+            },
+            "location" : {
+               "lat" : 53.4575955,
+               "lng" : -2.1578377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6857188,
+                  "lng" : -1.9096223
+               },
+               "southwest" : {
+                  "lat" : 53.3272977,
+                  "lng" : -2.7305208
+               }
+            }
+         },
+         "place_id" : "ChIJsS6I01Sme0gRgYDGISLYxyw",
+         "types" : [ "administrative_area_level_2", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,450 @@
+{
+   "plus_code" : {
+      "compound_code" : "XMFC+FQ Riverside, CA, USA",
+      "global_code" : "8554XMFC+FQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "900",
+               "short_name" : "900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92521",
+               "short_name" : "92521",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "900 University Ave, Riverside, CA 92521, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9737055,
+               "lng" : -117.3280644
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9750544802915,
+                  "lng" : -117.3267154197085
+               },
+               "southwest" : {
+                  "lat" : 33.97235651970851,
+                  "lng" : -117.3294133802915
+               }
+            }
+         },
+         "place_id" : "ChIJs5-qh0au3IARMR1yR98LBRA",
+         "plus_code" : {
+            "compound_code" : "XMFC+FQ Riverside, California, United States",
+            "global_code" : "8554XMFC+FQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92507",
+               "short_name" : "92507",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Riverside, CA 92507, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9737345,
+                  "lng" : -117.3279697
+               },
+               "southwest" : {
+                  "lat" : 33.9736945,
+                  "lng" : -117.3283704
+               }
+            },
+            "location" : {
+               "lat" : 33.9737145,
+               "lng" : -117.32817
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9750634802915,
+                  "lng" : -117.3268210697085
+               },
+               "southwest" : {
+                  "lat" : 33.9723655197085,
+                  "lng" : -117.3295190302915
+               }
+            }
+         },
+         "place_id" : "ChIJcxgcZkWu3IARKMwY0Mh0YCI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92507",
+               "short_name" : "92507",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University, Riverside, CA 92507, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9962151,
+                  "lng" : -117.3076853
+               },
+               "southwest" : {
+                  "lat" : 33.9603851,
+                  "lng" : -117.348754
+               }
+            },
+            "location" : {
+               "lat" : 33.9772035,
+               "lng" : -117.3322661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9962151,
+                  "lng" : -117.3076853
+               },
+               "southwest" : {
+                  "lat" : 33.9603851,
+                  "lng" : -117.348754
+               }
+            }
+         },
+         "place_id" : "ChIJ272HYUOu3IARoFUm9BGJ_rI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "92507",
+               "short_name" : "92507",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riverside, CA 92507, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0194099,
+                  "lng" : -117.2788019
+               },
+               "southwest" : {
+                  "lat" : 33.918273,
+                  "lng" : -117.3774529
+               }
+            },
+            "location" : {
+               "lat" : 33.9734553,
+               "lng" : -117.3263893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0194099,
+                  "lng" : -117.2788019
+               },
+               "southwest" : {
+                  "lat" : 33.918273,
+                  "lng" : -117.3774529
+               }
+            }
+         },
+         "place_id" : "ChIJgVEfkFKu3IARxTkhE8gfEJ8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riverside, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.01951409999999,
+                  "lng" : -117.275174
+               },
+               "southwest" : {
+                  "lat" : 33.872517,
+                  "lng" : -117.523882
+               }
+            },
+            "location" : {
+               "lat" : 33.9806005,
+               "lng" : -117.3754942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.01951409999999,
+                  "lng" : -117.275174
+               },
+               "southwest" : {
+                  "lat" : 33.872517,
+                  "lng" : -117.523882
+               }
+            }
+         },
+         "place_id" : "ChIJu330f9-m3IAR6ApeEwXXofc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riverside County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0798841,
+                  "lng" : -114.4349489
+               },
+               "southwest" : {
+                  "lat" : 33.425888,
+                  "lng" : -117.6762859
+               }
+            },
+            "location" : {
+               "lat" : 33.9532966,
+               "lng" : -117.3961192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0798841,
+                  "lng" : -114.4349489
+               },
+               "southwest" : {
+                  "lat" : 33.425888,
+                  "lng" : -117.6762859
+               }
+            }
+         },
+         "place_id" : "ChIJr3EqHoH12oARjSkNIFgUKF8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

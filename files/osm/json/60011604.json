@@ -1,0 +1,552 @@
+{
+   "plus_code" : {
+      "compound_code" : "G87G+2Q Berlin, Germany",
+      "global_code" : "9F4MG87G+2Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Straße des 17. Juni 135",
+               "short_name" : "Straße des 17. Juni 135",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "short_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10623",
+               "short_name" : "10623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Straße des 17. Juni 135, 10623 Berlin, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5125322,
+               "lng" : 13.3269446
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5138811802915,
+                  "lng" : 13.3282935802915
+               },
+               "southwest" : {
+                  "lat" : 52.5111832197085,
+                  "lng" : 13.3255956197085
+               }
+            }
+         },
+         "place_id" : "ChIJcQqAORtRqEcRgY1oNi3sCrQ",
+         "plus_code" : {
+            "compound_code" : "G87G+2Q Berlin, Germany",
+            "global_code" : "9F4MG87G+2Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "135",
+               "short_name" : "135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "B5",
+               "short_name" : "B5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "short_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10623",
+               "short_name" : "10623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B5 135, 10623 Berlin, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5126946,
+               "lng" : 13.3269194
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.51404358029149,
+                  "lng" : 13.3282683802915
+               },
+               "southwest" : {
+                  "lat" : 52.51134561970849,
+                  "lng" : 13.3255704197085
+               }
+            }
+         },
+         "place_id" : "ChIJ3Wu8QANRqEcRHzdai8VLJEo",
+         "plus_code" : {
+            "compound_code" : "G87G+3Q Berlin, Germany",
+            "global_code" : "9F4MG87G+3Q"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hauptgebäude der Technischen Universität Berlin",
+               "short_name" : "Hauptgebäude der Technischen Universität Berlin",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "135",
+               "short_name" : "135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Straße des 17. Juni",
+               "short_name" : "Str. des 17. Juni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "short_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10623",
+               "short_name" : "10623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hauptgebäude der Technischen Universität Berlin, Str. des 17. Juni 135, 10623 Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5126387,
+                  "lng" : 13.328573
+               },
+               "southwest" : {
+                  "lat" : 52.51162679999999,
+                  "lng" : 13.3254336
+               }
+            },
+            "location" : {
+               "lat" : 52.5120905,
+               "lng" : 13.3272509
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5134817302915,
+                  "lng" : 13.328573
+               },
+               "southwest" : {
+                  "lat" : 52.5107837697085,
+                  "lng" : 13.3254336
+               }
+            }
+         },
+         "place_id" : "ChIJeWWBPQNRqEcRs9pkxtcLngc",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "135",
+               "short_name" : "135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "B2",
+               "short_name" : "B2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "short_name" : "Bezirk Charlottenburg-Wilmersdorf",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "B2 135, Berlin, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5127338,
+               "lng" : 13.3269132
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5140827802915,
+                  "lng" : 13.3282621802915
+               },
+               "southwest" : {
+                  "lat" : 52.5113848197085,
+                  "lng" : 13.3255642197085
+               }
+            }
+         },
+         "place_id" : "EhtCMiAxMzUsIEJlcmxpbiwgRGV1dHNjaGxhbmQiGxIZChQKEglDzDM2A1GoRxHK0sO2lX1oORCHAQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10623",
+               "short_name" : "10623",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "10623 Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5156159,
+                  "lng" : 13.3378041
+               },
+               "southwest" : {
+                  "lat" : 52.501699,
+                  "lng" : 13.3176751
+               }
+            },
+            "location" : {
+               "lat" : 52.5070391,
+               "lng" : 13.3283954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5156159,
+                  "lng" : 13.3378041
+               },
+               "southwest" : {
+                  "lat" : 52.501699,
+                  "lng" : 13.3176751
+               }
+            }
+         },
+         "place_id" : "ChIJXZagDgJRqEcRkNY9lUkgIRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charlottenburg",
+               "short_name" : "Charlottenburg",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Charlottenburg-Wilmersdorf",
+               "short_name" : "Charlottenburg-Wilmersdorf",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charlottenburg, Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5323795,
+                  "lng" : 13.3414224
+               },
+               "southwest" : {
+                  "lat" : 52.4988094,
+                  "lng" : 13.280876
+               }
+            },
+            "location" : {
+               "lat" : 52.5166023,
+               "lng" : 13.3041054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5323795,
+                  "lng" : 13.3414224
+               },
+               "southwest" : {
+                  "lat" : 52.4988094,
+                  "lng" : 13.280876
+               }
+            }
+         },
+         "place_id" : "ChIJI9S0ZyRRqEcRGnHAA1Un01c",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charlottenburg-Wilmersdorf",
+               "short_name" : "Charlottenburg-Wilmersdorf",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charlottenburg-Wilmersdorf, Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5494419,
+                  "lng" : 13.3414224
+               },
+               "southwest" : {
+                  "lat" : 52.46651300000001,
+                  "lng" : 13.1865715
+               }
+            },
+            "location" : {
+               "lat" : 52.5053445,
+               "lng" : 13.2599893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5494419,
+                  "lng" : 13.3414224
+               },
+               "southwest" : {
+                  "lat" : 52.46651300000001,
+                  "lng" : 13.1865715
+               }
+            }
+         },
+         "place_id" : "ChIJy0YwDy9XqEcRfn3ghqRuj4c",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6754542,
+                  "lng" : 13.7611175
+               },
+               "southwest" : {
+                  "lat" : 52.338234,
+                  "lng" : 13.088346
+               }
+            },
+            "location" : {
+               "lat" : 52.52000659999999,
+               "lng" : 13.404954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6754542,
+                  "lng" : 13.7611175
+               },
+               "southwest" : {
+                  "lat" : 52.338234,
+                  "lng" : 13.088346
+               }
+            }
+         },
+         "place_id" : "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6754542,
+                  "lng" : 13.7611175
+               },
+               "southwest" : {
+                  "lat" : 52.338234,
+                  "lng" : 13.088346
+               }
+            },
+            "location" : {
+               "lat" : 52.4938053,
+               "lng" : 13.4552919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6754542,
+                  "lng" : 13.7611175
+               },
+               "southwest" : {
+                  "lat" : 52.338234,
+                  "lng" : 13.088346
+               }
+            }
+         },
+         "place_id" : "ChIJ8_KccStOqEcRhtFXjKWPuo0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

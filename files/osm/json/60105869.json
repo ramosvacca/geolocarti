@@ -1,0 +1,299 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitetskaya Street",
+               "short_name" : "Universitetskaya St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Innopolis",
+               "short_name" : "Innopolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verkhneuslonsky District",
+               "short_name" : "Verkhneuslonsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Respublika Tatarstan",
+               "short_name" : "Respublika Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "420500",
+               "short_name" : "420500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitetskaya St, 1, Innopolis, Respublika Tatarstan, Russia, 420500",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.75345549999999,
+               "lng" : 48.74339819999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.75480448029149,
+                  "lng" : 48.74474718029149
+               },
+               "southwest" : {
+                  "lat" : 55.75210651970849,
+                  "lng" : 48.74204921970849
+               }
+            }
+         },
+         "place_id" : "ChIJW6jdgUL-W0ERkkwhGTeXCDI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Innopolis",
+               "short_name" : "Innopolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verkhneuslonsky District",
+               "short_name" : "Verkhneuslonsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tatarstan",
+               "short_name" : "Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Innopolis, Tatarstan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.77996890000001,
+                  "lng" : 48.7672359
+               },
+               "southwest" : {
+                  "lat" : 55.72539099999999,
+                  "lng" : 48.6867352
+               }
+            },
+            "location" : {
+               "lat" : 55.7517163,
+               "lng" : 48.7473099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.77996890000001,
+                  "lng" : 48.7672359
+               },
+               "southwest" : {
+                  "lat" : 55.72539099999999,
+                  "lng" : 48.6867352
+               }
+            }
+         },
+         "place_id" : "ChIJnclLu2b-W0ERFJDnzdUAPvI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "422594",
+               "short_name" : "422594",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tatarstan",
+               "short_name" : "Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tatarstan, Russia, 422594",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.80620200000001,
+                  "lng" : 48.8965812
+               },
+               "southwest" : {
+                  "lat" : 55.690663,
+                  "lng" : 48.7338329
+               }
+            },
+            "location" : {
+               "lat" : 55.7572515,
+               "lng" : 48.7857074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.80620200000001,
+                  "lng" : 48.8965812
+               },
+               "southwest" : {
+                  "lat" : 55.690663,
+                  "lng" : 48.7338329
+               }
+            }
+         },
+         "place_id" : "ChIJYeBzUdH_W0ERxSikhdUY8RI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Verkhneuslonsky District",
+               "short_name" : "Verkhneuslonsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tatarstan",
+               "short_name" : "Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Verkhneuslonsky District, Tatarstan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8113171,
+                  "lng" : 49.054029
+               },
+               "southwest" : {
+                  "lat" : 55.3179219,
+                  "lng" : 48.412248
+               }
+            },
+            "location" : {
+               "lat" : 55.6179101,
+               "lng" : 48.7417313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8113171,
+                  "lng" : 49.054029
+               },
+               "southwest" : {
+                  "lat" : 55.3179219,
+                  "lng" : 48.412248
+               }
+            }
+         },
+         "place_id" : "ChIJT5n2oQAGXEERri8g0JQmMsk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tatarstan",
+               "short_name" : "Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tatarstan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6772159,
+                  "lng" : 54.2602891
+               },
+               "southwest" : {
+                  "lat" : 53.976026,
+                  "lng" : 47.2586477
+               }
+            },
+            "location" : {
+               "lat" : 55.1802364,
+               "lng" : 50.7263945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6772159,
+                  "lng" : 54.2602891
+               },
+               "southwest" : {
+                  "lat" : 53.976026,
+                  "lng" : 47.2586477
+               }
+            }
+         },
+         "place_id" : "ChIJaf-Qi0dEXkERaIvmnXcqnhI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70,
+                  "lng" : 179
+               },
+               "southwest" : {
+                  "lat" : 40,
+                  "lng" : 27
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

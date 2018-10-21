@@ -1,0 +1,386 @@
+{
+   "plus_code" : {
+      "compound_code" : "JQV8+RM Costa da Caparica, Portugal",
+      "global_code" : "8CCGJQV8+RM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Praça da Liberdade",
+               "short_name" : "Praça da Liberdade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Costa da Caparica",
+               "short_name" : "Costa da Caparica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Praça da Liberdade 17, Costa da Caparica, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6445453,
+               "lng" : -9.2335493
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.64589428029149,
+                  "lng" : -9.232200319708499
+               },
+               "southwest" : {
+                  "lat" : 38.64319631970849,
+                  "lng" : -9.234898280291501
+               }
+            }
+         },
+         "place_id" : "EjNQcmHDp2EgZGEgTGliZXJkYWRlIDE3LCBDb3N0YSBkYSBDYXBhcmljYSwgUG9ydHVnYWwiGhIYChQKEgk5glJD9coeDRHpqAPRvL57zhAR",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2825-296",
+               "short_name" : "2825-296",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Costa da Caparica",
+               "short_name" : "Costa da Caparica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Setubal",
+               "short_name" : "Setubal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2825-296 Costa da Caparica, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6449054,
+                  "lng" : -9.232834499999999
+               },
+               "southwest" : {
+                  "lat" : 38.6434958,
+                  "lng" : -9.234219699999999
+               }
+            },
+            "location" : {
+               "lat" : 38.6440037,
+               "lng" : -9.232866999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6455495802915,
+                  "lng" : -9.232178119708497
+               },
+               "southwest" : {
+                  "lat" : 38.6428516197085,
+                  "lng" : -9.234876080291501
+               }
+            }
+         },
+         "place_id" : "ChIJcaDnSfXKHg0RjufVodiNhkE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Costa da Caparica",
+               "short_name" : "Costa da Caparica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Setubal",
+               "short_name" : "Setubal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Costa da Caparica, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.65065,
+                  "lng" : -9.186351699999999
+               },
+               "southwest" : {
+                  "lat" : 38.5502798,
+                  "lng" : -9.243645799999999
+               }
+            },
+            "location" : {
+               "lat" : 38.6446232,
+               "lng" : -9.233365299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.65065,
+                  "lng" : -9.186351699999999
+               },
+               "southwest" : {
+                  "lat" : 38.5502798,
+                  "lng" : -9.243645799999999
+               }
+            }
+         },
+         "place_id" : "ChIJM6dn5IrKHg0RHeVNwp-nleA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Costa da Caparica",
+               "short_name" : "Costa da Caparica",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Setubal",
+               "short_name" : "Setubal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Costa da Caparica, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6630809,
+                  "lng" : -9.186351699999999
+               },
+               "southwest" : {
+                  "lat" : 38.5502798,
+                  "lng" : -9.252189399999999
+               }
+            },
+            "location" : {
+               "lat" : 38.6446668,
+               "lng" : -9.2333725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6630809,
+                  "lng" : -9.186351699999999
+               },
+               "southwest" : {
+                  "lat" : 38.5502798,
+                  "lng" : -9.252189399999999
+               }
+            }
+         },
+         "place_id" : "ChIJd0pOR2y1Hg0R4FWQ5L3rAAU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2825",
+               "short_name" : "2825",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Setubal",
+               "short_name" : "Setubal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2825, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6788772,
+                  "lng" : -9.181477899999999
+               },
+               "southwest" : {
+                  "lat" : 38.550318,
+                  "lng" : -9.2629772
+               }
+            },
+            "location" : {
+               "lat" : 38.6547727,
+               "lng" : -9.2231387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6788772,
+                  "lng" : -9.181477899999999
+               },
+               "southwest" : {
+                  "lat" : 38.550318,
+                  "lng" : -9.2629772
+               }
+            }
+         },
+         "place_id" : "ChIJvc1CE2W1Hg0RgJ87DsHrABw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almada",
+               "short_name" : "Almada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Setubal",
+               "short_name" : "Setubal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almada, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6884139,
+                  "lng" : -9.128496
+               },
+               "southwest" : {
+                  "lat" : 38.5502798,
+                  "lng" : -9.2629752
+               }
+            },
+            "location" : {
+               "lat" : 38.6792686,
+               "lng" : -9.159978599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6884139,
+                  "lng" : -9.128496
+               },
+               "southwest" : {
+                  "lat" : 38.5502798,
+                  "lng" : -9.2629752
+               }
+            }
+         },
+         "place_id" : "ChIJLdQtB_o0GQ0Rbqp8NYr5bnI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Setubal",
+               "short_name" : "Setubal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Setubal, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.845423,
+                  "lng" : -8.129696299999999
+               },
+               "southwest" : {
+                  "lat" : 37.7493345,
+                  "lng" : -9.2629752
+               }
+            },
+            "location" : {
+               "lat" : 38.5240933,
+               "lng" : -8.892587599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.845423,
+                  "lng" : -8.129696299999999
+               },
+               "southwest" : {
+                  "lat" : 37.7493345,
+                  "lng" : -9.2629752
+               }
+            }
+         },
+         "place_id" : "ChIJaXWtREE2GQ0RDfjDYFSWnKU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            },
+            "location" : {
+               "lat" : 39.39987199999999,
+               "lng" : -8.224454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1543111,
+                  "lng" : -6.189159200000001
+               },
+               "southwest" : {
+                  "lat" : 32.2895,
+                  "lng" : -31.4647999
+               }
+            }
+         },
+         "place_id" : "ChIJ1SZCvy0kMgsRQfBOHAlLuCo",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

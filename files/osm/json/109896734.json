@@ -1,0 +1,538 @@
+{
+   "plus_code" : {
+      "compound_code" : "MMVX+33 Vitoria, Vitória - State of Espírito Santo, Brazil",
+      "global_code" : "58FXMMVX+33"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Rio Branco",
+               "short_name" : "Av. Rio Branco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Lucia",
+               "short_name" : "Santa Lucia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29056-255",
+               "short_name" : "29056-255",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Rio Branco, 50 - Santa Lucia, Vitória - ES, 29056-255, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3073662,
+               "lng" : -40.3022415
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.3060172197085,
+                  "lng" : -40.3008925197085
+               },
+               "southwest" : {
+                  "lat" : -20.3087151802915,
+                  "lng" : -40.3035904802915
+               }
+            }
+         },
+         "place_id" : "ChIJhbEAyNsXuAAR9Y5WVhK7F0s",
+         "plus_code" : {
+            "compound_code" : "MMVX+34 Vitoria, Vitória - State of Espírito Santo, Brazil",
+            "global_code" : "58FXMMVX+34"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Rio Branco",
+               "short_name" : "Av. Rio Branco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Praia do Canto",
+               "short_name" : "Praia do Canto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29055-570",
+               "short_name" : "29055-570",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Rio Branco, 2 - Praia do Canto, Vitória - ES, 29055-570, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3075014,
+               "lng" : -40.3027551
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.3061524197085,
+                  "lng" : -40.3014061197085
+               },
+               "southwest" : {
+                  "lat" : -20.3088503802915,
+                  "lng" : -40.3041040802915
+               }
+            }
+         },
+         "place_id" : "ChIJgZVSlNsXuAARPxHQXxwAgxE",
+         "types" : [ "establishment", "point_of_interest", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "422",
+               "short_name" : "422",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Elías Tomasi Sobrinho",
+               "short_name" : "R. Elías Tomasi Sobrinho",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Lucia",
+               "short_name" : "Santa Lucia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R. Elías Tomasi Sobrinho, 422 - Santa Lucia, Vitória - ES, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3072901,
+               "lng" : -40.3020392
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.3059411197085,
+                  "lng" : -40.3006902197085
+               },
+               "southwest" : {
+                  "lat" : -20.3086390802915,
+                  "lng" : -40.3033881802915
+               }
+            }
+         },
+         "place_id" : "EkNSLiBFbMOtYXMgVG9tYXNpIFNvYnJpbmhvLCA0MjIgLSBTYW50YSBMdWNpYSwgVml0w7NyaWEgLSBFUywgQnJhc2lsIhsSGQoUChIJMzdOstsXuAARglFuFVDmUXUQpgM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "29056-090",
+               "short_name" : "29056-090",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Praia do Canto",
+               "short_name" : "Praia do Canto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Praia do Canto, Vitória - ES, 29056-090, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.3053857,
+                  "lng" : -40.3012045
+               },
+               "southwest" : {
+                  "lat" : -20.3081886,
+                  "lng" : -40.3024807
+               }
+            },
+            "location" : {
+               "lat" : -20.3064557,
+               "lng" : -40.3024125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.3053857,
+                  "lng" : -40.30049361970849
+               },
+               "southwest" : {
+                  "lat" : -20.3081886,
+                  "lng" : -40.30319158029149
+               }
+            }
+         },
+         "place_id" : "ChIJ5cwCldsXuAAR6HrRyiz-W5c",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Lucia",
+               "short_name" : "Santa Lucia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Lucia, Vitória - ES, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.2934013,
+                  "lng" : -40.2956352
+               },
+               "southwest" : {
+                  "lat" : -20.3113083,
+                  "lng" : -40.3047701
+               }
+            },
+            "location" : {
+               "lat" : -20.3024142,
+               "lng" : -40.2999279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.2934013,
+                  "lng" : -40.2956352
+               },
+               "southwest" : {
+                  "lat" : -20.3113083,
+                  "lng" : -40.3047701
+               }
+            }
+         },
+         "place_id" : "ChIJa-cDb-cXuAARlo0Wrm7nvq0",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "29055",
+               "short_name" : "29055",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vitória - State of Espírito Santo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.2948327,
+                  "lng" : -40.2865125
+               },
+               "southwest" : {
+                  "lat" : -20.315526,
+                  "lng" : -40.3041831
+               }
+            },
+            "location" : {
+               "lat" : -20.3046964,
+               "lng" : -40.2960984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.2948327,
+                  "lng" : -40.2865125
+               },
+               "southwest" : {
+                  "lat" : -20.315526,
+                  "lng" : -40.3041831
+               }
+            }
+         },
+         "place_id" : "ChIJgQ8lssMXuAARahJDwzU8OQI",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vitoria",
+               "short_name" : "Vitoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vitoria, Vitória - State of Espírito Santo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.2397943,
+                  "lng" : -40.2123278
+               },
+               "southwest" : {
+                  "lat" : -20.3245888,
+                  "lng" : -40.3590796
+               }
+            },
+            "location" : {
+               "lat" : -20.2976178,
+               "lng" : -40.2957768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.2397943,
+                  "lng" : -40.2123278
+               },
+               "southwest" : {
+                  "lat" : -20.3245888,
+                  "lng" : -40.3590796
+               }
+            }
+         },
+         "place_id" : "ChIJ6U43hV09uAARCdgOp35eWZc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vitória - State of Espírito Santo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.2397943,
+                  "lng" : -28.8359374
+               },
+               "southwest" : {
+                  "lat" : -20.528013,
+                  "lng" : -40.3590796
+               }
+            },
+            "location" : {
+               "lat" : -20.2976391,
+               "lng" : -40.2958452
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.2397943,
+                  "lng" : -28.8359374
+               },
+               "southwest" : {
+                  "lat" : -20.528013,
+                  "lng" : -40.3590796
+               }
+            }
+         },
+         "place_id" : "ChIJU7YxcYIE1gAR3hWKj_3t_gw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Espírito Santo",
+               "short_name" : "State of Espírito Santo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Espírito Santo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.891947,
+                  "lng" : -28.8359374
+               },
+               "southwest" : {
+                  "lat" : -21.3096583,
+                  "lng" : -41.8797894
+               }
+            },
+            "location" : {
+               "lat" : -19.1834229,
+               "lng" : -40.3088626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.891947,
+                  "lng" : -28.8359374
+               },
+               "southwest" : {
+                  "lat" : -21.3096583,
+                  "lng" : -41.8797894
+               }
+            }
+         },
+         "place_id" : "ChIJWWNkeZUGtwARmfdQPCTVG04",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

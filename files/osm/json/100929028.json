@@ -1,0 +1,136 @@
+{
+   "plus_code" : {
+      "compound_code" : "QJ48+8W Central Administrative Okrug, Moscow, Russia",
+      "global_code" : "9G7VQJ48+8W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Большой Тишинский пер.",
+               "short_name" : "Большой Тишинский пер.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tsentralnyy administrativnyy okrug",
+               "short_name" : "Tsentralnyy administrativnyy okrug",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Moskva",
+               "short_name" : "Moskva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tverskoy",
+               "short_name" : "Tverskoy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Moskva",
+               "short_name" : "Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "109012",
+               "short_name" : "109012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Большой Тишинский пер., 38, Moskva, Russia, 109012",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.755826,
+               "lng" : 37.6172999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7571749802915,
+                  "lng" : 37.6186488802915
+               },
+               "southwest" : {
+                  "lat" : 55.7544770197085,
+                  "lng" : 37.6159509197085
+               }
+            }
+         },
+         "place_id" : "ChIJi9W-h1pKtUYRAeS4faVRBgM",
+         "plus_code" : {
+            "compound_code" : "QJ48+8W Central Administrative Okrug, Moscow, Russia",
+            "global_code" : "9G7VQJ48+8W"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tverskoy",
+               "short_name" : "Tverskoy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Central Administrative Okrug",
+               "short_name" : "Central Administrative Okrug",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tverskoy, Moscow, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.792505,
+                  "lng" : 37.6347832
+               },
+               "southwest" : {
+                  "lat" : 55.74677699999999,
+                  "lng" : 37.5768602
+               }
+            },
+            "location" : {
+               "lat" : 55.7723804,
+               "lng" : 37.6045362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.792505,
+                  "lng" : 37.6347832
+               },
+               "southwest" : {
+                  "lat" : 55.74677699999999,
+                  "lng" : 37.5768602
+               }
+            }
+         },
+         "place_id" : "ChIJ78Iohj9KtUYRuJLnZzLyfb0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "M62Q+4X Albany, NY, USA",
+      "global_code" : "87J8M62Q+4X"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Mall Arterial",
+               "short_name" : "S Mall Arterial",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Capitol Hill",
+               "short_name" : "Capitol Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12242",
+               "short_name" : "12242",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 S Mall Arterial, Albany, NY 12242, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.650122,
+               "lng" : -73.759868
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6514709802915,
+                  "lng" : -73.7585190197085
+               },
+               "southwest" : {
+                  "lat" : 42.6487730197085,
+                  "lng" : -73.76121698029151
+               }
+            }
+         },
+         "place_id" : "ChIJ-_q5qTwK3okRTlNIN60_3XI",
+         "plus_code" : {
+            "compound_code" : "M62R+23 Albany, New York, United States",
+            "global_code" : "87J8M62R+23"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Mall Arterial",
+               "short_name" : "S Mall Arterial",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Capitol Hill",
+               "short_name" : "Capitol Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12210",
+               "short_name" : "12210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S Mall Arterial, Albany, NY 12210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.650702,
+                  "lng" : -73.7594335
+               },
+               "southwest" : {
+                  "lat" : 42.649885,
+                  "lng" : -73.7608913
+               }
+            },
+            "location" : {
+               "lat" : 42.6502935,
+               "lng" : -73.7601624
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.65164248029149,
+                  "lng" : -73.75881341970849
+               },
+               "southwest" : {
+                  "lat" : 42.6489445197085,
+                  "lng" : -73.76151138029151
+               }
+            }
+         },
+         "place_id" : "ChIJbze7rjwK3okRzjnPuuAIyC8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capitol Hill",
+               "short_name" : "Capitol Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Greenbush",
+               "short_name" : "East Greenbush",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Capitol Hill, Albany, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.653479,
+                  "lng" : -73.7559471
+               },
+               "southwest" : {
+                  "lat" : 42.645279,
+                  "lng" : -73.76896499999999
+               }
+            },
+            "location" : {
+               "lat" : 42.649494,
+               "lng" : -73.7610241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.653479,
+                  "lng" : -73.7559471
+               },
+               "southwest" : {
+                  "lat" : 42.645279,
+                  "lng" : -73.76896499999999
+               }
+            }
+         },
+         "place_id" : "ChIJdbwF9jwK3okRkmoK_3Sz2hs",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12210",
+               "short_name" : "12210",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albany, NY 12210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.681201,
+                  "lng" : -73.74646010000001
+               },
+               "southwest" : {
+                  "lat" : 42.64757789999999,
+                  "lng" : -73.7751899
+               }
+            },
+            "location" : {
+               "lat" : 42.6532844,
+               "lng" : -73.762495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.681201,
+                  "lng" : -73.74646010000001
+               },
+               "southwest" : {
+                  "lat" : 42.64757789999999,
+                  "lng" : -73.7751899
+               }
+            }
+         },
+         "place_id" : "ChIJ66LvES4K3okRMg3fkC8PcAc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albany, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7223788,
+                  "lng" : -73.723263
+               },
+               "southwest" : {
+                  "lat" : 42.61379,
+                  "lng" : -73.898099
+               }
+            },
+            "location" : {
+               "lat" : 42.6525793,
+               "lng" : -73.7562317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7223788,
+                  "lng" : -73.723263
+               },
+               "southwest" : {
+                  "lat" : 42.61379,
+                  "lng" : -73.898099
+               }
+            }
+         },
+         "place_id" : "ChIJS_tPzDQK3okRxCjnoBJjoeE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albany County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8225768,
+                  "lng" : -73.676762
+               },
+               "southwest" : {
+                  "lat" : 42.40712690000001,
+                  "lng" : -74.26486299999999
+               }
+            },
+            "location" : {
+               "lat" : 42.57567969999999,
+               "lng" : -73.93598209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8225768,
+                  "lng" : -73.676762
+               },
+               "southwest" : {
+                  "lat" : 42.40712690000001,
+                  "lng" : -74.26486299999999
+               }
+            }
+         },
+         "place_id" : "ChIJKXDqHfHY3YkR58pus3faMs8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015865,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,200 @@
+{
+   "plus_code" : {
+      "compound_code" : "PF89+JJ Ejisu, Ghana",
+      "global_code" : "6CRWPF89+JJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ejisu",
+               "short_name" : "Ejisu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashanti Region",
+               "short_name" : "Ashanti Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Ejisu, Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.7169526,
+                  "lng" : -1.5306727
+               },
+               "southwest" : {
+                  "lat" : 6.7158335,
+                  "lng" : -1.5309061
+               }
+            },
+            "location" : {
+               "lat" : 6.716393000000001,
+               "lng" : -1.5307894
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.717742030291503,
+                  "lng" : -1.529440419708498
+               },
+               "southwest" : {
+                  "lat" : 6.715044069708498,
+                  "lng" : -1.532138380291502
+               }
+            }
+         },
+         "place_id" : "ChIJH5MjnzqV2w8REP1RFYpTzkM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ejisu",
+               "short_name" : "Ejisu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ejisu-Juaben",
+               "short_name" : "Ejisu-Juaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ashanti Region",
+               "short_name" : "Ashanti Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ejisu, Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.7520031,
+                  "lng" : -1.4589492
+               },
+               "southwest" : {
+                  "lat" : 6.6809096,
+                  "lng" : -1.5351248
+               }
+            },
+            "location" : {
+               "lat" : 6.715080599999999,
+               "lng" : -1.5091172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.7520031,
+                  "lng" : -1.4589492
+               },
+               "southwest" : {
+                  "lat" : 6.6809096,
+                  "lng" : -1.5351248
+               }
+            }
+         },
+         "place_id" : "ChIJ7UpkqYzq2w8RIaHEZLeAP2Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashanti Region",
+               "short_name" : "Ashanti Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashanti Region, Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.621659999999999,
+                  "lng" : -0.222413
+               },
+               "southwest" : {
+                  "lat" : 5.853753999999999,
+                  "lng" : -2.451715
+               }
+            },
+            "location" : {
+               "lat" : 6.7470436,
+               "lng" : -1.5208624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.621659999999999,
+                  "lng" : -0.222413
+               },
+               "southwest" : {
+                  "lat" : 5.853753999999999,
+                  "lng" : -2.451715
+               }
+            }
+         },
+         "place_id" : "ChIJYwW-7-uW2w8RKykh8Y8n-bY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.1750308,
+                  "lng" : 1.199972
+               },
+               "southwest" : {
+                  "lat" : 4.6339001,
+                  "lng" : -3.2607859
+               }
+            },
+            "location" : {
+               "lat" : 7.946527,
+               "lng" : -1.023194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.1750308,
+                  "lng" : 1.199972
+               },
+               "southwest" : {
+                  "lat" : 4.6339001,
+                  "lng" : -3.2607859
+               }
+            }
+         },
+         "place_id" : "ChIJx9baqM1a1w8RNtKT0DDy11Q",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

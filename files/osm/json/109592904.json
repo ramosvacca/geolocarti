@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1А",
+               "short_name" : "1А",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Proyezd Voskresenskiye Vorota",
+               "short_name" : "Proyezd Voskresenskiye Vorota",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tsentralnyy administrativnyy okrug",
+               "short_name" : "Tsentralnyy administrativnyy okrug",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Moskva",
+               "short_name" : "Moskva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tverskoy",
+               "short_name" : "Tverskoy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Moskva",
+               "short_name" : "Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "109012",
+               "short_name" : "109012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Proyezd Voskresenskiye Vorota, 1А, Moskva, Russia, 109012",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.75565599999999,
+               "lng" : 37.617985
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7570049802915,
+                  "lng" : 37.61933398029149
+               },
+               "southwest" : {
+                  "lat" : 55.7543070197085,
+                  "lng" : 37.6166360197085
+               }
+            }
+         },
+         "place_id" : "ChIJdc2vfFpKtUYRFdFojyICEd0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

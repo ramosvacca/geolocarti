@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>  <!-- www.techstrikers.com -->
+        <script async src="..\js\affinfo.js"></script>
+        <script async src="..\js\locations.js"></script>
+        <script async src="..\js\links.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <title>TGAS - geolocarti - Universidad del Valle</title>
+        <link rel="stylesheet" type="text/css" href="..\css\style.css">
+        <link rel="stylesheet" type="text/css" href="..\css\switches.css">
+
+    </head>
+
+  <body>
+
+<!-- scripts a) to initialize map and b) jquery from google's CDN -->
+
+      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script async src="..\js\algo.js"></script>
+<script async src="..\js\reference_queries.js"></script>
+    <script defer src="..\js\make_content.js"></script>
+
+    <script>
+
+// We create the variables needed.
+      var map_zoom = 3
+      var map_center = {lat:3.375709, lng:-76.532514};
+      var aff_circles = [];
+
+    </script>
+
+
+  <div id="grand_title" style="font-size:11px; font-weight:500; margin-right:-10px;">
+
+
+              <label class="switch switch-left-right">
+                <input class="switch-input" type="checkbox" id="info_chbx" checked=true onchange="infobox()"/>
+                <span class="switch-label" id="label_info_chbx" data-on="show info" data-off="hide info"></span>
+                <span class="switch-handle"></span>
+              </label>
+              <!-- <button onclick="hideInfo()">Hide this window</button> -->
+
+              <!-- <button class="buttons_to_show" id="show_info">show</button>
+              <button class="buttons" id="icons">icons</button>
+              <button class="buttons_to_show" id="show_icons">show icons</button>
+                -->
+              <label class="switch">
+                <input class="switch-input" type="checkbox" id="icons_chbx" checked=true>
+                <span class="switch-label" id="label_icons_chbx" data-on="show icons" data-off="hide icons"></span>
+                <span class="switch-handle"></span>
+              </label>
+
+              <!-- <input type="number" id="radius_size" onchange="set_radius_multiplier()"/> -->
+
+              <label class="switch">
+                <input class="switch-input" type="checkbox" id="circles_chbx">
+                <span class="switch-label" id="label_icons_chbx" data-on="show circles" data-off="hide circles"></span>
+                <span class="switch-handle"></span>
+              </label>
+
+              <label style="font-size:11px; font-weight:500; margin-right:-10px;">Links <input class="plain_siwtch" type="checkbox" id="links_chbx" checked="true" style="margin-left:-5px;"></label>
+              <!--<label><input class="plain_siwtch" type="checkbox" id="test_check" checked="true" style="margin-left:-5px;"></label>-->
+
+
+      &nbsp|&nbsp
+
+                <label id= 'lookfor_label' style="font-size:13px; font-weight:bold; color:white; border-radius:8px; background: green; padding-left:30px;">
+                    Look for:
+                    <select id="lookfor" style="font-size:12px; font-weight:500; color:white; border-radius:8px; background: green; margin-right:-10px;">
+              <option value="coauthorship">Coauthorship</option>
+              <option value="references">References</option>
+              <option value="citations">Citations</option>
+                        <option value="not_linked">Not linked</option>
+                    </select>
+                </label>
+
+            <label id= 'year_interval' style="font-size:13px; font-weight:normal; color:white;
+            border-radius:12px; background: gray; margin-left:10px;">
+                    Between Years:
+                <select id="start_year" type="yyyy" value="1970" ></select>
+                <select id="final_year" type="yyyy" value="2018"></select>
+
+
+                </label>&nbsp|&nbsp
+
+
+        <button id="cluster_maker">cluster</button>
+      <label> minPts:</label>
+            <input type="number" name="quantity" min="2" max="40" step="1" value='9' id="minPts" style="max-width:40px; border-radius: 0px 6px 6px 0px;">
+                </input>
+
+
+            <input type="number" name="quantity" min="1" max="540" step="1" value='80' id="eps" style="max-width:40px; border-radius: 6px 1px 1px 6px;">
+                </input><label>:eps</label>
+
+
+        &nbsp|&nbsp<button id="heatmap" style="border-radius:8px 8px 8px 8px" onclick="activenodesHeatmap()" >heatMap</button>
+
+        <label style="font-size:11px; font-weight:500; margin-right:-10px;">Weights? <input class="plain_siwtch" type="checkbox" id="heatmap_weight" checked="true" style="margin-left:-5px;"></label>
+
+        <button id="heatmap_toggler" style="border-radius:8px 8px 8px 8px; background: red;" onclick="toggle_heatmap()">Off</button>
+
+      <label id='geolocarti_label' style="position:fixed; right:10px; font-size:14px;"> geolocarti - </label>
+
+
+  </div>
+    <div id="WaitDialog" class="hidden">
+        <img  src="../images/lo.gif" />
+    </div>
+
+
+  <div id="valle_cauca_map"></div>
+  <div id="info"></div>
+    <script src="..\js\map.js"></script>
+
+
+      <script src="..\js\footer_functions.js"></script>
+  </footer>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?&key=AIzaSyDfY9hPl2RGTTSO28r62l6ORwJxIkTCt4U&libraries=visualization&callback=launcher"
+      type="text/javascript"></script>
+
+  </body>
+  <footer>
+    <div id="piedep">
+      <p>System for the geographical enrichment and analysis of indexed scientific production data. Powered by SCOPUS. Developed at <a href="https://www.univalle.edu..co">Universidad del Valle</a> </p>
+    </div>
+
+
+</html>

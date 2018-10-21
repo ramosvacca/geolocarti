@@ -1,0 +1,562 @@
+{
+   "plus_code" : {
+      "compound_code" : "3MJ4+JG Turin, Metropolitan City of Turin, Italy",
+      "global_code" : "8FQ93MJ4+JG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Torino",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10143",
+               "short_name" : "10143",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Cibrario, 72 c/o Ospedale Maria Vittoria, 10143 Torino TO, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0815085,
+               "lng" : 7.656297199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0828574802915,
+                  "lng" : 7.657646180291501
+               },
+               "southwest" : {
+                  "lat" : 45.0801595197085,
+                  "lng" : 7.654948219708498
+               }
+            }
+         },
+         "place_id" : "ChIJT4T5FFVsiEcRtF89hrFaHAI",
+         "plus_code" : {
+            "compound_code" : "3MJ4+JG Turin, Metropolitan City of Turin, Italy",
+            "global_code" : "8FQ93MJ4+JG"
+         },
+         "types" : [ "atm", "bank", "establishment", "finance", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "72",
+               "short_name" : "72",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Luigi Cibrario",
+               "short_name" : "Via Luigi Cibrario",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Torino",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piemonte",
+               "short_name" : "Piemonte",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10144",
+               "short_name" : "10144",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Cibrario, 72, 10144 Torino TO, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0814649,
+               "lng" : 7.656313099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0828138802915,
+                  "lng" : 7.657662080291502
+               },
+               "southwest" : {
+                  "lat" : 45.0801159197085,
+                  "lng" : 7.654964119708498
+               }
+            }
+         },
+         "place_id" : "ChIJj8dRR1VsiEcRq2Jdmv10VtE",
+         "plus_code" : {
+            "compound_code" : "3MJ4+HG Turin, Metropolitan City of Turin, Italy",
+            "global_code" : "8FQ93MJ4+HG"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Corso Alessandro Tassoni",
+               "short_name" : "Corso Alessandro Tassoni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Torino",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10144",
+               "short_name" : "10144",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Corso Alessandro Tassoni, 40, 10144 Torino TO, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0815495,
+               "lng" : 7.6561543
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0828984802915,
+                  "lng" : 7.657503280291502
+               },
+               "southwest" : {
+                  "lat" : 45.08020051970851,
+                  "lng" : 7.654805319708498
+               }
+            }
+         },
+         "place_id" : "EjVDb3JzbyBBbGVzc2FuZHJvIFRhc3NvbmksIDQwLCAxMDE0NCBUb3Jpbm8gVE8sIEl0YWxpYSIaEhgKFAoSCenDdkhVbIhHEe5m6VJyrImnECg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10144",
+               "short_name" : "10144",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Torino",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piemonte",
+               "short_name" : "Piemonte",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "10144 Torino TO, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0917401,
+                  "lng" : 7.677921
+               },
+               "southwest" : {
+                  "lat" : 45.0770259,
+                  "lng" : 7.655636899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.08676699999999,
+               "lng" : 7.666627900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0917401,
+                  "lng" : 7.677921
+               },
+               "southwest" : {
+                  "lat" : 45.0770259,
+                  "lng" : 7.655636899999999
+               }
+            }
+         },
+         "place_id" : "ChIJ02quIaltiEcRUKK3k4DmBRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Donato",
+               "short_name" : "San Donato",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Torino",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piemonte",
+               "short_name" : "Piemonte",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Donato, Torino TO, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0911565,
+                  "lng" : 7.6761389
+               },
+               "southwest" : {
+                  "lat" : 45.0761118,
+                  "lng" : 7.6556468
+               }
+            },
+            "location" : {
+               "lat" : 45.082153,
+               "lng" : 7.665385799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0911565,
+                  "lng" : 7.6761389
+               },
+               "southwest" : {
+                  "lat" : 45.0761118,
+                  "lng" : 7.6556468
+               }
+            }
+         },
+         "place_id" : "ChIJob52ialtiEcRuxCuRhFAIo8",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Turin",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turin, Metropolitan City of Turin, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1335014,
+                  "lng" : 7.7623282
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            },
+            "location" : {
+               "lat" : 45.070312,
+               "lng" : 7.686856499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1335014,
+                  "lng" : 7.7623282
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            }
+         },
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "administrative_area_level_3", "locality", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Turin",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turin, Metropolitan City of Turin, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1402009,
+                  "lng" : 7.7733629
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            },
+            "location" : {
+               "lat" : 45.0703393,
+               "lng" : 7.686864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1402009,
+                  "lng" : 7.7733629
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            }
+         },
+         "place_id" : "ChIJ31ztwwxtiEcR4JQ8R33mBQQ",
+         "types" : [ "administrative_area_level_3", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metropolitan City of Turin",
+               "short_name" : "Metropolitan City of Turin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metropolitan City of Turin, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6023132,
+                  "lng" : 8.1518579
+               },
+               "southwest" : {
+                  "lat" : 44.713731,
+                  "lng" : 6.6266304
+               }
+            },
+            "location" : {
+               "lat" : 45.063299,
+               "lng" : 7.669289
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6023132,
+                  "lng" : 8.1518579
+               },
+               "southwest" : {
+                  "lat" : 44.713731,
+                  "lng" : 6.6266304
+               }
+            }
+         },
+         "place_id" : "ChIJ_8Ubk5VFiEcRcH08R33mBQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Piedmont, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4644351,
+                  "lng" : 9.214264099999999
+               },
+               "southwest" : {
+                  "lat" : 44.0600899,
+                  "lng" : 6.6266304
+               }
+            },
+            "location" : {
+               "lat" : 45.0522366,
+               "lng" : 7.5153885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4644351,
+                  "lng" : 9.214264099999999
+               },
+               "southwest" : {
+                  "lat" : 44.0600899,
+                  "lng" : 6.6266304
+               }
+            }
+         },
+         "place_id" : "ChIJZ7GdATt0h0cR_zsS8u24x7w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            },
+            "location" : {
+               "lat" : 41.87194,
+               "lng" : 12.56738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            }
+         },
+         "place_id" : "ChIJA9KNRIL-1BIRb15jJFz1LOI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,373 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida del Conocimiento",
+               "short_name" : "Av. del Conocimiento",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Urbanización los Vergeles",
+               "short_name" : "Urb. los Vergeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18100",
+               "short_name" : "18100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. del Conocimiento, 17, 18100 Urb. los Vergeles, Granada, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.1489515,
+               "lng" : -3.6086899
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.15030048029149,
+                  "lng" : -3.607340919708498
+               },
+               "southwest" : {
+                  "lat" : 37.14760251970849,
+                  "lng" : -3.610038880291502
+               }
+            }
+         },
+         "place_id" : "ChIJSdMZU2T7cQ0RIn6vYRMIVoM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armilla",
+               "short_name" : "Armilla",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Vega de Granada",
+               "short_name" : "Vega de Granada",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18100",
+               "short_name" : "18100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Armilla, 18100, Granada, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1614276,
+                  "lng" : -3.605301
+               },
+               "southwest" : {
+                  "lat" : 37.13401959999999,
+                  "lng" : -3.6322835
+               }
+            },
+            "location" : {
+               "lat" : 37.1512306,
+               "lng" : -3.6167146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1614276,
+                  "lng" : -3.605301
+               },
+               "southwest" : {
+                  "lat" : 37.13401959999999,
+                  "lng" : -3.6322835
+               }
+            }
+         },
+         "place_id" : "ChIJa0Ynynn7cQ0REHR2pXjSAwQ",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "18100",
+               "short_name" : "18100",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Armilla",
+               "short_name" : "Armilla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "18100 Armilla, Granada, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1614273,
+                  "lng" : -3.6055188
+               },
+               "southwest" : {
+                  "lat" : 37.1340192,
+                  "lng" : -3.6322832
+               }
+            },
+            "location" : {
+               "lat" : 37.1512306,
+               "lng" : -3.6167146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1614273,
+                  "lng" : -3.6055188
+               },
+               "southwest" : {
+                  "lat" : 37.1340192,
+                  "lng" : -3.6322832
+               }
+            }
+         },
+         "place_id" : "ChIJa0Ynynn7cQ0RwCh94XvSAxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vega de Granada",
+               "short_name" : "Vega de Granada",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vega de Granada, Granada, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.40049,
+                  "lng" : -3.2498308
+               },
+               "southwest" : {
+                  "lat" : 36.983962,
+                  "lng" : -3.9279779
+               }
+            },
+            "location" : {
+               "lat" : 37.1773189,
+               "lng" : -3.5985905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.40049,
+                  "lng" : -3.2498308
+               },
+               "southwest" : {
+                  "lat" : 36.983962,
+                  "lng" : -3.9279779
+               }
+            }
+         },
+         "place_id" : "ChIJya_w_9D8cQ0R3I4L23TG4bw",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Granada, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0840921,
+                  "lng" : -2.2076726
+               },
+               "southwest" : {
+                  "lat" : 36.69351959999999,
+                  "lng" : -4.3276169
+               }
+            },
+            "location" : {
+               "lat" : 37.1772794,
+               "lng" : -3.5986525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0840921,
+                  "lng" : -2.2076726
+               },
+               "southwest" : {
+                  "lat" : 36.69351959999999,
+                  "lng" : -4.3276169
+               }
+            }
+         },
+         "place_id" : "ChIJuexUhnolbg0RUMp1pXjSAwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andalusia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7290872,
+                  "lng" : -1.6301238
+               },
+               "southwest" : {
+                  "lat" : 35.9376148,
+                  "lng" : -7.522877500000001
+               }
+            },
+            "location" : {
+               "lat" : 37.5442706,
+               "lng" : -4.7277528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7290872,
+                  "lng" : -1.6301238
+               },
+               "southwest" : {
+                  "lat" : 35.9376148,
+                  "lng" : -7.522877500000001
+               }
+            }
+         },
+         "place_id" : "ChIJRcWdz7HZEQ0RD_Pxd01lycE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.244,
+                  "lng" : 5.098
+               },
+               "southwest" : {
+                  "lat" : 35.17300000000001,
+                  "lng" : -12.524
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

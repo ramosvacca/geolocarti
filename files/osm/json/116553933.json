@@ -1,0 +1,378 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsplatz",
+               "short_name" : "Universitätsplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06108",
+               "short_name" : "06108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsplatz 11, 06108 Halle (Saale), Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4861041,
+               "lng" : 11.9689473
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48745308029149,
+                  "lng" : 11.9702962802915
+               },
+               "southwest" : {
+                  "lat" : 51.4847551197085,
+                  "lng" : 11.9675983197085
+               }
+            }
+         },
+         "place_id" : "EjdVbml2ZXJzaXTDpHRzcGxhdHogMTEsIDA2MTA4IEhhbGxlIChTYWFsZSksIERldXRzY2hsYW5kIhoSGAoUChIJL3fiM1JjpkcRhacw7eEzM-YQCw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altstadt",
+               "short_name" : "Altstadt",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06108",
+               "short_name" : "06108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Altstadt, 06108 Halle (Saale), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.48750399999999,
+                  "lng" : 11.9762308
+               },
+               "southwest" : {
+                  "lat" : 51.47849189999999,
+                  "lng" : 11.961955
+               }
+            },
+            "location" : {
+               "lat" : 51.4821661,
+               "lng" : 11.9706409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48750399999999,
+                  "lng" : 11.9762308
+               },
+               "southwest" : {
+                  "lat" : 51.47849189999999,
+                  "lng" : 11.961955
+               }
+            }
+         },
+         "place_id" : "ChIJG5VM_U1jpkcRnRzZ9aon744",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saalekreis",
+               "short_name" : "Saalekreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mitte, Halle (Saale), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.49537489999999,
+                  "lng" : 11.9889039
+               },
+               "southwest" : {
+                  "lat" : 51.468944,
+                  "lng" : 11.9500418
+               }
+            },
+            "location" : {
+               "lat" : 51.4807101,
+               "lng" : 11.9718379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49537489999999,
+                  "lng" : 11.9889039
+               },
+               "southwest" : {
+                  "lat" : 51.468944,
+                  "lng" : 11.9500418
+               }
+            }
+         },
+         "place_id" : "ChIJkzcDc05jpkcR6G3ifvWodxI",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saalekreis",
+               "short_name" : "Saalekreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halle (Saale), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5436635,
+                  "lng" : 12.0892163
+               },
+               "southwest" : {
+                  "lat" : 51.4021017,
+                  "lng" : 11.8555298
+               }
+            },
+            "location" : {
+               "lat" : 51.4969802,
+               "lng" : 11.9688029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5436635,
+                  "lng" : 12.0892163
+               },
+               "southwest" : {
+                  "lat" : 51.4021017,
+                  "lng" : 11.8555298
+               }
+            }
+         },
+         "place_id" : "ChIJn3D8_EdjpkcRYOQG-FlmIwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06108",
+               "short_name" : "06108",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "06108 Halle (Saale), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.503277,
+                  "lng" : 11.9831558
+               },
+               "southwest" : {
+                  "lat" : 51.47783090000001,
+                  "lng" : 11.9407478
+               }
+            },
+            "location" : {
+               "lat" : 51.4872577,
+               "lng" : 11.9600411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.503277,
+                  "lng" : 11.9831558
+               },
+               "southwest" : {
+                  "lat" : 51.47783090000001,
+                  "lng" : 11.9407478
+               }
+            }
+         },
+         "place_id" : "ChIJ7Vu_bqt8pkcRsOjgRl1mIxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saxony-Anhalt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.041787,
+                  "lng" : 13.1869875
+               },
+               "southwest" : {
+                  "lat" : 50.9378782,
+                  "lng" : 10.560839
+               }
+            },
+            "location" : {
+               "lat" : 51.9502649,
+               "lng" : 11.6922734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.041787,
+                  "lng" : 13.1869875
+               },
+               "southwest" : {
+                  "lat" : 50.9378782,
+                  "lng" : 10.560839
+               }
+            }
+         },
+         "place_id" : "ChIJgSRR6JnwpUcRdN4O6BbFHdE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

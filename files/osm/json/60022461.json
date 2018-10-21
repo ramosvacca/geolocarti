@@ -1,0 +1,595 @@
+{
+   "plus_code" : {
+      "compound_code" : "G299+FW Chania, Greece",
+      "global_code" : "8G76G299+FW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Arsenal",
+               "short_name" : "Grand Arsenal",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Michail Afentoulief",
+               "short_name" : "Michail Afentoulief",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "731 32",
+               "short_name" : "731 32",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grand Arsenal, Michail Afentoulief, Chania 731 32, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5185873,
+                  "lng" : 24.0199058
+               },
+               "southwest" : {
+                  "lat" : 35.5181638,
+                  "lng" : 24.0196431
+               }
+            },
+            "location" : {
+               "lat" : 35.5183785,
+               "lng" : 24.019764
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5197245302915,
+                  "lng" : 24.0211234302915
+               },
+               "southwest" : {
+                  "lat" : 35.5170265697085,
+                  "lng" : 24.0184254697085
+               }
+            }
+         },
+         "place_id" : "ChIJqRfQWrl9nBQRy4L2l5O_gDM",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "731 32",
+               "short_name" : "731 32",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chania 731 32, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.51873000000001,
+               "lng" : 24.019937
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.52007898029151,
+                  "lng" : 24.0212859802915
+               },
+               "southwest" : {
+                  "lat" : 35.51738101970851,
+                  "lng" : 24.0185880197085
+               }
+            }
+         },
+         "place_id" : "ChIJp2DkQrl9nBQR9rfiGuAbZQI",
+         "plus_code" : {
+            "compound_code" : "G299+FX Chania, Greece",
+            "global_code" : "8G76G299+FX"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Agiou Markou",
+               "short_name" : "Agiou Markou",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "731 32",
+               "short_name" : "731 32",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Agiou Markou 8, Chania 731 32, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.5180615,
+               "lng" : 24.0197761
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5194104802915,
+                  "lng" : 24.0211250802915
+               },
+               "southwest" : {
+                  "lat" : 35.51671251970851,
+                  "lng" : 24.01842711970849
+               }
+            }
+         },
+         "place_id" : "ChIJRfjQUbl9nBQRHcN7yHfYyno",
+         "plus_code" : {
+            "compound_code" : "G299+6W Chania, Greece",
+            "global_code" : "8G76G299+6W"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "32",
+               "short_name" : "32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Akti Tompazi",
+               "short_name" : "Akti Tompazi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "731 32",
+               "short_name" : "731 32",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Akti Tompazi 32, Chania 731 32, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.5186691,
+               "lng" : 24.0196899
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5200180802915,
+                  "lng" : 24.0210388802915
+               },
+               "southwest" : {
+                  "lat" : 35.5173201197085,
+                  "lng" : 24.0183409197085
+               }
+            }
+         },
+         "place_id" : "EiZBa3RpIFRvbXBhemkgMzIsIENoYW5pYSA3MzEgMzIsIEhlbGxhcyIaEhgKFAoSCeXorVy5fZwUEQ69iQSNOzG7ECA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "731 32",
+               "short_name" : "731 32",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chania 731 32, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5211798,
+                  "lng" : 24.0329573
+               },
+               "southwest" : {
+                  "lat" : 35.5100681,
+                  "lng" : 24.0163322
+               }
+            },
+            "location" : {
+               "lat" : 35.5169936,
+               "lng" : 24.0241223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5211798,
+                  "lng" : 24.0329573
+               },
+               "southwest" : {
+                  "lat" : 35.5100681,
+                  "lng" : 24.0163322
+               }
+            }
+         },
+         "place_id" : "ChIJ0Y-OWb59nBQR8kYw2Sy9ABM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chania, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5234839,
+                  "lng" : 24.0573066
+               },
+               "southwest" : {
+                  "lat" : 35.4916505,
+                  "lng" : 23.9921734
+               }
+            },
+            "location" : {
+               "lat" : 35.5138298,
+               "lng" : 24.0180367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5234839,
+                  "lng" : 24.0573066
+               },
+               "southwest" : {
+                  "lat" : 35.4916505,
+                  "lng" : 23.9921734
+               }
+            }
+         },
+         "place_id" : "ChIJOz_P4L59nBQRqCzNeX1Vs5Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chania, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5374034,
+                  "lng" : 24.0649851
+               },
+               "southwest" : {
+                  "lat" : 35.4912008,
+                  "lng" : 23.9921493
+               }
+            },
+            "location" : {
+               "lat" : 35.5127444,
+               "lng" : 24.0428542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5374034,
+                  "lng" : 24.0649851
+               },
+               "southwest" : {
+                  "lat" : 35.4912008,
+                  "lng" : 23.9921493
+               }
+            }
+         },
+         "place_id" : "ChIJj5s7L8N9nBQRHAP25QVag2c",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chania, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6019993,
+                  "lng" : 24.2019643
+               },
+               "southwest" : {
+                  "lat" : 35.3296585,
+                  "lng" : 23.9097689
+               }
+            },
+            "location" : {
+               "lat" : 35.46002319999999,
+               "lng" : 24.0725862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6019993,
+                  "lng" : 24.2019643
+               },
+               "southwest" : {
+                  "lat" : 35.3296585,
+                  "lng" : 23.9097689
+               }
+            }
+         },
+         "place_id" : "ChIJNV18ga6AnBQRp9PlNc1wLfY",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chania",
+               "short_name" : "Chania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chania, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6956945,
+                  "lng" : 24.3327941
+               },
+               "southwest" : {
+                  "lat" : 34.8008834,
+                  "lng" : 23.4716205
+               }
+            },
+            "location" : {
+               "lat" : 35.3916993,
+               "lng" : 23.9060624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6956945,
+                  "lng" : 24.3327941
+               },
+               "southwest" : {
+                  "lat" : 34.8008834,
+                  "lng" : 23.4716205
+               }
+            }
+         },
+         "place_id" : "ChIJOz_P4L59nBQR_C-ORReehPg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crete",
+               "short_name" : "Crete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crete, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6956945,
+                  "lng" : 26.3525195
+               },
+               "southwest" : {
+                  "lat" : 34.8008834,
+                  "lng" : 23.4716205
+               }
+            },
+            "location" : {
+               "lat" : 35.240117,
+               "lng" : 24.8092691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6956945,
+                  "lng" : 26.3525195
+               },
+               "southwest" : {
+                  "lat" : 34.8008834,
+                  "lng" : 23.4716205
+               }
+            }
+         },
+         "place_id" : "ChIJoZh9gi_-mhQRMMa54iy9AAE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crete Region",
+               "short_name" : "Crete Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crete Region, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6956945,
+                  "lng" : 26.3525195
+               },
+               "southwest" : {
+                  "lat" : 34.8008834,
+                  "lng" : 23.4716205
+               }
+            },
+            "location" : {
+               "lat" : 35.240117,
+               "lng" : 24.8092691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6956945,
+                  "lng" : 26.3525195
+               },
+               "southwest" : {
+                  "lat" : 34.8008834,
+                  "lng" : 23.4716205
+               }
+            }
+         },
+         "place_id" : "ChIJg7ePxdcDmxQRmJlhKBGUMrs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7488784,
+                  "lng" : 29.6527999
+               },
+               "southwest" : {
+                  "lat" : 34.5428,
+                  "lng" : 19.3098
+               }
+            },
+            "location" : {
+               "lat" : 39.074208,
+               "lng" : 21.824312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7488784,
+                  "lng" : 29.6527999
+               },
+               "southwest" : {
+                  "lat" : 34.5428,
+                  "lng" : 19.3098
+               }
+            }
+         },
+         "place_id" : "ChIJY2xxEcdKWxMRHS2a3HUXOjY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

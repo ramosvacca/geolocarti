@@ -1,0 +1,523 @@
+{
+   "plus_code" : {
+      "compound_code" : "XWW2+9F Bethesda, MD, USA",
+      "global_code" : "87C4XWW2+9F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8600",
+               "short_name" : "8600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rockville Pike",
+               "short_name" : "Rockville Pike",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bethesda",
+               "short_name" : "Bethesda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20894",
+               "short_name" : "20894",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8600 Rockville Pike, Bethesda, MD 20894, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9959508,
+               "lng" : -77.0988323
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9972997802915,
+                  "lng" : -77.09748331970849
+               },
+               "southwest" : {
+                  "lat" : 38.9946018197085,
+                  "lng" : -77.10018128029149
+               }
+            }
+         },
+         "place_id" : "ChIJQVh__l3Jt4kR0KrY_CVPrBI",
+         "plus_code" : {
+            "compound_code" : "XWW2+9F Bethesda, 7, MD, United States",
+            "global_code" : "87C4XWW2+9F"
+         },
+         "types" : [ "establishment", "library", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8600",
+               "short_name" : "8600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rockville Pike",
+               "short_name" : "Rockville Pike",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bethesda",
+               "short_name" : "Bethesda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20894",
+               "short_name" : "20894",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8600 Rockville Pike, Bethesda, MD 20894, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9959508,
+               "lng" : -77.0988323
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9972997802915,
+                  "lng" : -77.09748331970849
+               },
+               "southwest" : {
+                  "lat" : 38.9946018197085,
+                  "lng" : -77.10018128029149
+               }
+            }
+         },
+         "place_id" : "ChIJ2112JV7Jt4kRuDV2sohvFRk",
+         "plus_code" : {
+            "compound_code" : "XWW2+9F Bethesda, 7, MD, United States",
+            "global_code" : "87C4XWW2+9F"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bethesda",
+               "short_name" : "Bethesda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20894",
+               "short_name" : "20894",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Bethesda, MD 20894, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9959155,
+                  "lng" : -77.0982549
+               },
+               "southwest" : {
+                  "lat" : 38.9959026,
+                  "lng" : -77.0985238
+               }
+            },
+            "location" : {
+               "lat" : 38.995909,
+               "lng" : -77.09838929999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9972580302915,
+                  "lng" : -77.09704036970849
+               },
+               "southwest" : {
+                  "lat" : 38.9945600697085,
+                  "lng" : -77.0997383302915
+               }
+            }
+         },
+         "place_id" : "ChIJLWcGI17Jt4kRvu1bJwJoPRQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20894",
+               "short_name" : "20894",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bethesda",
+               "short_name" : "Bethesda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethesda, MD 20894, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0004149,
+                  "lng" : -77.09652699999999
+               },
+               "southwest" : {
+                  "lat" : 38.993434,
+                  "lng" : -77.10875690000002
+               }
+            },
+            "location" : {
+               "lat" : 38.9969923,
+               "lng" : -77.10105159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0004149,
+                  "lng" : -77.09652699999999
+               },
+               "southwest" : {
+                  "lat" : 38.993434,
+                  "lng" : -77.10875690000002
+               }
+            }
+         },
+         "place_id" : "ChIJU9cPAGDJt4kRI50uKIikA5w",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethesda",
+               "short_name" : "Bethesda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethesda, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0226339,
+                  "lng" : -77.0785925
+               },
+               "southwest" : {
+                  "lat" : 38.940586,
+                  "lng" : -77.15856119999999
+               }
+            },
+            "location" : {
+               "lat" : 38.984652,
+               "lng" : -77.0947092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0226339,
+                  "lng" : -77.0785925
+               },
+               "southwest" : {
+                  "lat" : 38.940586,
+                  "lng" : -77.15856119999999
+               }
+            }
+         },
+         "place_id" : "ChIJLQIkarfLt4kRDc0ravd5siY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "7, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.030574,
+                  "lng" : -77.05176899999999
+               },
+               "southwest" : {
+                  "lat" : 38.934343,
+                  "lng" : -77.17978800000002
+               }
+            },
+            "location" : {
+               "lat" : 38.9868979,
+               "lng" : -77.1139984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.030574,
+                  "lng" : -77.05176899999999
+               },
+               "southwest" : {
+                  "lat" : 38.934343,
+                  "lng" : -77.17978800000002
+               }
+            }
+         },
+         "place_id" : "ChIJ_bg0H8rLt4kR2SPiMTj-KOQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montgomery County, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3535021,
+                  "lng" : -76.8885051
+               },
+               "southwest" : {
+                  "lat" : 38.934343,
+                  "lng" : -77.52768499999999
+               }
+            },
+            "location" : {
+               "lat" : 39.1547426,
+               "lng" : -77.2405153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3535021,
+                  "lng" : -76.8885051
+               },
+               "southwest" : {
+                  "lat" : 38.934343,
+                  "lng" : -77.52768499999999
+               }
+            }
+         },
+         "place_id" : "ChIJh6O4gzUytokRc2ipdwYZC3g",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maryland",
+               "short_name" : "Maryland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maryland, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.723037,
+                  "lng" : -74.98628189999999
+               },
+               "southwest" : {
+                  "lat" : 37.8866049,
+                  "lng" : -79.48765109999999
+               }
+            },
+            "location" : {
+               "lat" : 39.0457549,
+               "lng" : -76.64127119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.723037,
+                  "lng" : -74.98628189999999
+               },
+               "southwest" : {
+                  "lat" : 37.8866049,
+                  "lng" : -79.48765109999999
+               }
+            }
+         },
+         "place_id" : "ChIJ35Dx6etNtokRsfZVdmU3r_I",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

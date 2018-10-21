@@ -1,0 +1,422 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue Henri Varagnat",
+               "short_name" : "Avenue Henri Varagnat",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bondy",
+               "short_name" : "Bondy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93140",
+               "short_name" : "93140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "30 Avenue Henri Varagnat, 93140 Bondy, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.91481049999999,
+               "lng" : 2.4843737
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.91615948029149,
+                  "lng" : 2.485722680291502
+               },
+               "southwest" : {
+                  "lat" : 48.91346151970849,
+                  "lng" : 2.483024719708498
+               }
+            }
+         },
+         "place_id" : "ChIJB8jEHkAT5kcRHbPEbhtJhME",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suzanne Buisson",
+               "short_name" : "Suzanne Buisson",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Bondy",
+               "short_name" : "Bondy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93140",
+               "short_name" : "93140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Suzanne Buisson, 93140 Bondy, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.9143023,
+               "lng" : 2.4834707
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9156512802915,
+                  "lng" : 2.484819680291502
+               },
+               "southwest" : {
+                  "lat" : 48.9129533197085,
+                  "lng" : 2.482121719708498
+               }
+            }
+         },
+         "place_id" : "ChIJHwmgiT8T5kcRecEtxBT7cJ8",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bondy",
+               "short_name" : "Bondy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93140",
+               "short_name" : "93140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "93140 Bondy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.92016460000001,
+                  "lng" : 2.5001319
+               },
+               "southwest" : {
+                  "lat" : 48.8869972,
+                  "lng" : 2.4694359
+               }
+            },
+            "location" : {
+               "lat" : 48.906008,
+               "lng" : 2.481875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.92016460000001,
+                  "lng" : 2.5001319
+               },
+               "southwest" : {
+                  "lat" : 48.8869972,
+                  "lng" : 2.4694359
+               }
+            }
+         },
+         "place_id" : "ChIJFcJuHhgT5kcRQDyLaMOCCwQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93140",
+               "short_name" : "93140",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bondy",
+               "short_name" : "Bondy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "93140 Bondy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.92016460000001,
+                  "lng" : 2.5001642
+               },
+               "southwest" : {
+                  "lat" : 48.8869491,
+                  "lng" : 2.4694359
+               }
+            },
+            "location" : {
+               "lat" : 48.89853489999999,
+               "lng" : 2.4888861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.92016460000001,
+                  "lng" : 2.5001642
+               },
+               "southwest" : {
+                  "lat" : 48.8869491,
+                  "lng" : 2.4694359
+               }
+            }
+         },
+         "place_id" : "ChIJFcJuHhgT5kcR8IHY4caCCxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seine-Saint-Denis, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.012329,
+                  "lng" : 2.6032919
+               },
+               "southwest" : {
+                  "lat" : 48.8072484,
+                  "lng" : 2.2883109
+               }
+            },
+            "location" : {
+               "lat" : 48.9137455,
+               "lng" : 2.4845729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.012329,
+                  "lng" : 2.6032919
+               },
+               "southwest" : {
+                  "lat" : 48.8072484,
+                  "lng" : 2.2883109
+               }
+            }
+         },
+         "place_id" : "ChIJTeBXx8Zs5kcRUCuLaMOCCwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Île-de-France, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            },
+            "location" : {
+               "lat" : 48.8499198,
+               "lng" : 2.6370411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.241504,
+                  "lng" : 3.5590069
+               },
+               "southwest" : {
+                  "lat" : 48.1200811,
+                  "lng" : 1.44617
+               }
+            }
+         },
+         "place_id" : "ChIJF4ymA8Th5UcRcCWLaMOCCwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris Metropolitan Area",
+               "short_name" : "Paris Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paris Metropolitan Area, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            },
+            "location" : {
+               "lat" : 48.8575712,
+               "lng" : 2.2771715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.44956,
+                  "lng" : 3.5590339
+               },
+               "southwest" : {
+                  "lat" : 48.065382,
+                  "lng" : 1.3557489
+               }
+            }
+         },
+         "place_id" : "ChIJW36m20gL5kcRiMnAEpHgyq8",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

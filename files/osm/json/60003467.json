@@ -1,0 +1,582 @@
+{
+   "plus_code" : {
+      "compound_code" : "PVHM+MW Arlington, TX, USA",
+      "global_code" : "8644PVHM+MW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "E.E. Davis Hall",
+               "short_name" : "E.E. Davis Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Nedderman Drive",
+               "short_name" : "W Nedderman Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Arlington",
+               "short_name" : "Central Arlington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76019",
+               "short_name" : "76019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E.E. Davis Hall, 701 W Nedderman Dr, Arlington, TX 76019, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7293504,
+                  "lng" : -97.1147903
+               },
+               "southwest" : {
+                  "lat" : 32.7290126,
+                  "lng" : -97.11564700000001
+               }
+            },
+            "location" : {
+               "lat" : 32.7292117,
+               "lng" : -97.11519709999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7305304802915,
+                  "lng" : -97.11386966970849
+               },
+               "southwest" : {
+                  "lat" : 32.7278325197085,
+                  "lng" : -97.1165676302915
+               }
+            }
+         },
+         "place_id" : "ChIJwW_bxxJ9ToYRfoYCV9h8WmY",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Nedderman Drive",
+               "short_name" : "W Nedderman Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Arlington",
+               "short_name" : "Central Arlington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76019",
+               "short_name" : "76019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "701 W Nedderman Dr, Arlington, TX 76019, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7292215,
+               "lng" : -97.1151721
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7305704802915,
+                  "lng" : -97.11382311970848
+               },
+               "southwest" : {
+                  "lat" : 32.7278725197085,
+                  "lng" : -97.11652108029151
+               }
+            }
+         },
+         "place_id" : "ChIJ52mZzxJ9ToYRIsuELaDjl3c",
+         "plus_code" : {
+            "compound_code" : "PVHM+MW Arlington, Texas, United States",
+            "global_code" : "8644PVHM+MW"
+         },
+         "types" : [ "atm", "establishment", "finance", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "701",
+               "short_name" : "701",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Nedderman Drive",
+               "short_name" : "W Nedderman Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Arlington",
+               "short_name" : "Central Arlington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76010",
+               "short_name" : "76010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "701 W Nedderman Dr, Arlington, TX 76010, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7292595,
+               "lng" : -97.1149674
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.73060848029149,
+                  "lng" : -97.1136184197085
+               },
+               "southwest" : {
+                  "lat" : 32.7279105197085,
+                  "lng" : -97.11631638029151
+               }
+            }
+         },
+         "place_id" : "ChIJIdu1vRJ9ToYRDyMqiDkpNkk",
+         "plus_code" : {
+            "compound_code" : "PVHP+P2 Arlington, Texas, United States",
+            "global_code" : "8644PVHP+P2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "816",
+               "short_name" : "816",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Cooper Street",
+               "short_name" : "S Cooper St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76010",
+               "short_name" : "76010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "816 S Cooper St, Arlington, TX 76010, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7292049,
+               "lng" : -97.11463230000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7305538802915,
+                  "lng" : -97.11328331970851
+               },
+               "southwest" : {
+                  "lat" : 32.7278559197085,
+                  "lng" : -97.11598128029152
+               }
+            }
+         },
+         "place_id" : "Eik4MTYgUyBDb29wZXIgU3QsIEFybGluZ3RvbiwgVFggNzYwMTAsIFVTQSIbEhkKFAoSCQUEf1UNfU6GEfm-E__tdWmrELAG",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Arlington",
+               "short_name" : "Central Arlington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Arlington, Arlington, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7597318,
+                  "lng" : -97.0968881
+               },
+               "southwest" : {
+                  "lat" : 32.720732,
+                  "lng" : -97.13178910000001
+               }
+            },
+            "location" : {
+               "lat" : 32.7366773,
+               "lng" : -97.1090215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7597318,
+                  "lng" : -97.0968881
+               },
+               "southwest" : {
+                  "lat" : 32.720732,
+                  "lng" : -97.13178910000001
+               }
+            }
+         },
+         "place_id" : "ChIJNa28NHV9ToYR9ruWvmJOXqQ",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "76010",
+               "short_name" : "76010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arlington, TX 76010, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7428991,
+                  "lng" : -97.0436239
+               },
+               "southwest" : {
+                  "lat" : 32.705723,
+                  "lng" : -97.1164161
+               }
+            },
+            "location" : {
+               "lat" : 32.7272701,
+               "lng" : -97.0767365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7428991,
+                  "lng" : -97.0436239
+               },
+               "southwest" : {
+                  "lat" : 32.705723,
+                  "lng" : -97.1164161
+               }
+            }
+         },
+         "place_id" : "ChIJ8TQP8ZKHToYRDAMFSwNYWu0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arlington, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8171209,
+                  "lng" : -97.037008
+               },
+               "southwest" : {
+                  "lat" : 32.5865651,
+                  "lng" : -97.23381810000001
+               }
+            },
+            "location" : {
+               "lat" : 32.735687,
+               "lng" : -97.10806559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8171209,
+                  "lng" : -97.037008
+               },
+               "southwest" : {
+                  "lat" : 32.5865651,
+                  "lng" : -97.23381810000001
+               }
+            }
+         },
+         "place_id" : "ChIJ05gI5NJiToYRUVOgH6z2Xgs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarrant County, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9941939,
+                  "lng" : -97.03238689999999
+               },
+               "southwest" : {
+                  "lat" : 32.548662,
+                  "lng" : -97.55058200000001
+               }
+            },
+            "location" : {
+               "lat" : 32.7732044,
+               "lng" : -97.35165579999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9941939,
+                  "lng" : -97.03238689999999
+               },
+               "southwest" : {
+                  "lat" : 32.548662,
+                  "lng" : -97.55058200000001
+               }
+            }
+         },
+         "place_id" : "ChIJDfdJl-59ToYRRjpXA71-c1A",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texas",
+               "short_name" : "Texas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            },
+            "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5007041,
+                  "lng" : -93.5080389
+               },
+               "southwest" : {
+                  "lat" : 25.8371638,
+                  "lng" : -106.6456461
+               }
+            }
+         },
+         "place_id" : "ChIJSTKCCzZwQIYRPN4IGI8c6xY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

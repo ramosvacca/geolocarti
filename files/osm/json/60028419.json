@@ -1,0 +1,544 @@
+{
+   "plus_code" : {
+      "compound_code" : "VFQ4+C2 Santiago de Compostela, Spain",
+      "global_code" : "8CJHVFQ4+C2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "0",
+               "short_name" : "0",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Praza do Obradoiro",
+               "short_name" : "Praza do Obradoiro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15705",
+               "short_name" : "15705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Praza do Obradoiro, 0, 15705 Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8885225,
+               "lng" : -8.544972599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8898714802915,
+                  "lng" : -8.543623619708498
+               },
+               "southwest" : {
+                  "lat" : 42.8871735197085,
+                  "lng" : -8.546321580291503
+               }
+            }
+         },
+         "place_id" : "ChIJpzwhoBL-Lg0R2jb7LybNuTw",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rúa de Vista Alegre",
+               "short_name" : "Rúa de Vista Alegre",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15705",
+               "short_name" : "15705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rúa de Vista Alegre, 2, 15705 Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8878455,
+               "lng" : -8.545696700000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.88919448029149,
+                  "lng" : -8.544347719708499
+               },
+               "southwest" : {
+                  "lat" : 42.88649651970849,
+                  "lng" : -8.547045680291504
+               }
+            }
+         },
+         "place_id" : "ChIJGUzWaFz-Lg0Rw3j74nNpRng",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida do Burgo das Nacións",
+               "short_name" : "Av. do Burgo das Nacións",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15704",
+               "short_name" : "15704",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. do Burgo das Nacións, 15704 Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.888907,
+                  "lng" : -8.543754699999999
+               },
+               "southwest" : {
+                  "lat" : 42.8882221,
+                  "lng" : -8.5443602
+               }
+            },
+            "location" : {
+               "lat" : 42.8885646,
+               "lng" : -8.5440574
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8899135302915,
+                  "lng" : -8.542708469708495
+               },
+               "southwest" : {
+                  "lat" : 42.8872155697085,
+                  "lng" : -8.5454064302915
+               }
+            }
+         },
+         "place_id" : "ChIJcaH28lv-Lg0R1l4hMBPFeq4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15705",
+               "short_name" : "15705",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "15705 Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.90779209999999,
+                  "lng" : -8.519973999999999
+               },
+               "southwest" : {
+                  "lat" : 42.8721185,
+                  "lng" : -8.5637176
+               }
+            },
+            "location" : {
+               "lat" : 42.8970535,
+               "lng" : -8.541889899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.90779209999999,
+                  "lng" : -8.519973999999999
+               },
+               "southwest" : {
+                  "lat" : 42.8721185,
+                  "lng" : -8.5637176
+               }
+            }
+         },
+         "place_id" : "ChIJCyEKk-H-Lg0RYKwhvoX1BBw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9056883,
+                  "lng" : -8.520756
+               },
+               "southwest" : {
+                  "lat" : 42.8547216,
+                  "lng" : -8.5687833
+               }
+            },
+            "location" : {
+               "lat" : 42.8782132,
+               "lng" : -8.5448445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9056883,
+                  "lng" : -8.520756
+               },
+               "southwest" : {
+                  "lat" : 42.8547216,
+                  "lng" : -8.5687833
+               }
+            }
+         },
+         "place_id" : "ChIJp3Hd4kT-Lg0REeOHwIhoFOA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.98963089999999,
+                  "lng" : -8.3896426
+               },
+               "southwest" : {
+                  "lat" : 42.82414420000001,
+                  "lng" : -8.6320117
+               }
+            },
+            "location" : {
+               "lat" : 42.895663,
+               "lng" : -8.528161299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98963089999999,
+                  "lng" : -8.3896426
+               },
+               "southwest" : {
+                  "lat" : 42.82414420000001,
+                  "lng" : -8.6320117
+               }
+            }
+         },
+         "place_id" : "ChIJw9GpcEb-Lg0RREyNpePppyU",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0952038,
+                  "lng" : -8.3317427
+               },
+               "southwest" : {
+                  "lat" : 42.7429627,
+                  "lng" : -8.831401999999999
+               }
+            },
+            "location" : {
+               "lat" : 42.895663,
+               "lng" : -8.528161299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0952038,
+                  "lng" : -8.3317427
+               },
+               "southwest" : {
+                  "lat" : 42.7429627,
+                  "lng" : -8.831401999999999
+               }
+            }
+         },
+         "place_id" : "ChIJxeqM7Br8Lg0RLi4rVldVtp8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "A Coruña",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7923795,
+                  "lng" : -7.6617212
+               },
+               "southwest" : {
+                  "lat" : 42.4590335,
+                  "lng" : -9.3015156
+               }
+            },
+            "location" : {
+               "lat" : 43.3623364,
+               "lng" : -8.411593999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7923795,
+                  "lng" : -7.6617212
+               },
+               "southwest" : {
+                  "lat" : 42.4590335,
+                  "lng" : -9.3015156
+               }
+            }
+         },
+         "place_id" : "ChIJGQVeRvRfLg0RIMrJc4L1BAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Galicia",
+               "short_name" : "Galicia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Galicia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7923795,
+                  "lng" : -6.733953199999999
+               },
+               "southwest" : {
+                  "lat" : 41.8074776,
+                  "lng" : -9.3015156
+               }
+            },
+            "location" : {
+               "lat" : 42.5750554,
+               "lng" : -8.133855799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7923795,
+                  "lng" : -6.733953199999999
+               },
+               "southwest" : {
+                  "lat" : 41.8074776,
+                  "lng" : -9.3015156
+               }
+            }
+         },
+         "place_id" : "ChIJaxUIiYZ8Lg0RQpaMEzB5rOE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            },
+            "location" : {
+               "lat" : 40.46366700000001,
+               "lng" : -3.74922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8504,
+                  "lng" : 4.6362
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -18.2648001
+               }
+            }
+         },
+         "place_id" : "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

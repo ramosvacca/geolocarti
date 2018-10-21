@@ -1,0 +1,509 @@
+{
+   "plus_code" : {
+      "compound_code" : "C2X7+QJ Essen, Germany",
+      "global_code" : "9F39C2X7+QJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rellinghauser Straße",
+               "short_name" : "Rellinghauser Str.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stadtbezirke I",
+               "short_name" : "Stadtbezirke I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Essen",
+               "short_name" : "E",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45128",
+               "short_name" : "45128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rellinghauser Str. 11, 45128 Essen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.44931159999999,
+               "lng" : 7.0137997
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4506605802915,
+                  "lng" : 7.015148680291502
+               },
+               "southwest" : {
+                  "lat" : 51.4479626197085,
+                  "lng" : 7.012450719708498
+               }
+            }
+         },
+         "place_id" : "ChIJE6eBxsvCuEcRZZZCK1aZuXQ",
+         "plus_code" : {
+            "compound_code" : "C2X7+PG Essen, Germany",
+            "global_code" : "9F39C2X7+PG"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rellinghauser Straße",
+               "short_name" : "Rellinghauser Str.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stadtbezirke I",
+               "short_name" : "Stadtbezirke I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Essen",
+               "short_name" : "E",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45128",
+               "short_name" : "45128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rellinghauser Str. 11, 45128 Essen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.44933899999999,
+               "lng" : 7.013351699999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.45068798029149,
+                  "lng" : 7.014700680291502
+               },
+               "southwest" : {
+                  "lat" : 51.44799001970849,
+                  "lng" : 7.012002719708497
+               }
+            }
+         },
+         "place_id" : "Ei9SZWxsaW5naGF1c2VyIFN0ci4gMTEsIDQ1MTI4IEVzc2VuLCBEZXV0c2NobGFuZCIaEhgKFAoSCcn_rcXLwrhHEXIwqT2hl-9eEAs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Südviertel",
+               "short_name" : "Südviertel",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Stadtbezirke I",
+               "short_name" : "Stadtbezirke I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Essen",
+               "short_name" : "E",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Südviertel, Essen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.45153089999999,
+                  "lng" : 7.023117900000001
+               },
+               "southwest" : {
+                  "lat" : 51.4397701,
+                  "lng" : 6.9973149
+               }
+            },
+            "location" : {
+               "lat" : 51.4448272,
+               "lng" : 7.014431399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.45153089999999,
+                  "lng" : 7.023117900000001
+               },
+               "southwest" : {
+                  "lat" : 51.4397701,
+                  "lng" : 6.9973149
+               }
+            }
+         },
+         "place_id" : "ChIJ92smL8zCuEcRoMlXMYHyJwU",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "45128",
+               "short_name" : "45128",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Stadtbezirke I",
+               "short_name" : "Stadtbezirke I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Essen",
+               "short_name" : "E",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "45128 Essen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4534421,
+                  "lng" : 7.023374
+               },
+               "southwest" : {
+                  "lat" : 51.4367581,
+                  "lng" : 7.0006929
+               }
+            },
+            "location" : {
+               "lat" : 51.4452228,
+               "lng" : 7.0078317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4534421,
+                  "lng" : 7.023374
+               },
+               "southwest" : {
+                  "lat" : 51.4367581,
+                  "lng" : 7.0006929
+               }
+            }
+         },
+         "place_id" : "ChIJL3iUgc7CuEcRcNDlmoTyJxw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stadtbezirke I",
+               "short_name" : "Stadtbezirke I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Essen",
+               "short_name" : "E",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stadtbezirke I, Essen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4761229,
+                  "lng" : 7.0655781
+               },
+               "southwest" : {
+                  "lat" : 51.4375262,
+                  "lng" : 6.981281
+               }
+            },
+            "location" : {
+               "lat" : 51.4572282,
+               "lng" : 7.027618200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4761229,
+                  "lng" : 7.0655781
+               },
+               "southwest" : {
+                  "lat" : 51.4375262,
+                  "lng" : 6.981281
+               }
+            }
+         },
+         "place_id" : "ChIJm6abcUvduEcRC1X_ydNEEME",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essen",
+               "short_name" : "Essen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mettmann",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.53421239999999,
+                  "lng" : 7.1376762
+               },
+               "southwest" : {
+                  "lat" : 51.3476021,
+                  "lng" : 6.894360199999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4556432,
+               "lng" : 7.0115552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.53421239999999,
+                  "lng" : 7.1376762
+               },
+               "southwest" : {
+                  "lat" : 51.3476021,
+                  "lng" : 6.894360199999999
+               }
+            }
+         },
+         "place_id" : "ChIJOfarlrfCuEcRnSytpBHhAGo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Düsseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9052111,
+                  "lng" : 7.3134358
+               },
+               "southwest" : {
+                  "lat" : 51.0150091,
+                  "lng" : 5.945045299999999
+               }
+            },
+            "location" : {
+               "lat" : 51.3313247,
+               "lng" : 6.563787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9052111,
+                  "lng" : 7.3134358
+               },
+               "southwest" : {
+                  "lat" : 51.0150091,
+                  "lng" : 5.945045299999999
+               }
+            }
+         },
+         "place_id" : "ChIJWxG4khu9uEcRhe5D5OWJCts",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "North Rhine-Westphalia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Rhine-Westphalia, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.43323669999999,
+               "lng" : 7.661593799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.53146959999999,
+                  "lng" : 9.461634900000002
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJoUhCjnwWuUcRX4_XT34yTC8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

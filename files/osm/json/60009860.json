@@ -1,0 +1,362 @@
+{
+   "plus_code" : {
+      "compound_code" : "7GW3+XC Yangpu, Shanghai, China",
+      "global_code" : "8Q337GW3+XC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riyue West Road",
+               "short_name" : "Riyue W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "WuJiaoChang",
+               "short_name" : "WuJiaoChang",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Yangpu Qu",
+               "short_name" : "Yangpu Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200433",
+               "short_name" : "200433",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Riyue W Rd, WuJiaoChang, Yangpu Qu, Shanghai Shi, China, 200433",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.297945,
+                  "lng" : 121.5034479
+               },
+               "southwest" : {
+                  "lat" : 31.2971711,
+                  "lng" : 121.503123
+               }
+            },
+            "location" : {
+               "lat" : 31.297558,
+               "lng" : 121.5032854
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2989070302915,
+                  "lng" : 121.5046344302915
+               },
+               "southwest" : {
+                  "lat" : 31.2962090697085,
+                  "lng" : 121.5019364697085
+               }
+            }
+         },
+         "place_id" : "ChIJV6upZ8VzsjURpjiEuwieR3s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wujiaochang",
+               "short_name" : "Wujiaochang",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Yangpu",
+               "short_name" : "Yangpu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wujiaochang, Yangpu, Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3216772,
+                  "lng" : 121.5227094
+               },
+               "southwest" : {
+                  "lat" : 31.2839263,
+                  "lng" : 121.4829293
+               }
+            },
+            "location" : {
+               "lat" : 31.299906,
+               "lng" : 121.515605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3216772,
+                  "lng" : 121.5227094
+               },
+               "southwest" : {
+                  "lat" : 31.2839263,
+                  "lng" : 121.4829293
+               }
+            }
+         },
+         "place_id" : "ChIJJ59pIMZzsjURCCRTBZwWKSM",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "200433",
+               "short_name" : "200433",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yangpu",
+               "short_name" : "Yangpu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yangpu, Shanghai, China, 200433",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3240347,
+                  "lng" : 121.5370004
+               },
+               "southwest" : {
+                  "lat" : 31.2766804,
+                  "lng" : 121.4913183
+               }
+            },
+            "location" : {
+               "lat" : 31.2974666,
+               "lng" : 121.5248828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3240347,
+                  "lng" : 121.5370004
+               },
+               "southwest" : {
+                  "lat" : 31.2766804,
+                  "lng" : 121.4913183
+               }
+            }
+         },
+         "place_id" : "ChIJsU4she1zsjUR7MrEDV2FXMQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yangpu",
+               "short_name" : "Yangpu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yangpu, Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.346799,
+                  "lng" : 121.5695257
+               },
+               "southwest" : {
+                  "lat" : 31.2469508,
+                  "lng" : 121.4853998
+               }
+            },
+            "location" : {
+               "lat" : 31.259822,
+               "lng" : 121.525727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.346799,
+                  "lng" : 121.5695257
+               },
+               "southwest" : {
+                  "lat" : 31.2469508,
+                  "lng" : 121.4853998
+               }
+            }
+         },
+         "place_id" : "ChIJx2XNgEFxsjUR5wgR6ZTyvqU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            },
+            "location" : {
+               "lat" : 31.2303904,
+               "lng" : 121.4737021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            }
+         },
+         "place_id" : "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shanghai, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            },
+            "location" : {
+               "lat" : 31.2191829,
+               "lng" : 121.4456179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8727163,
+                  "lng" : 122.2471487
+               },
+               "southwest" : {
+                  "lat" : 30.6755932,
+                  "lng" : 120.8568046
+               }
+            }
+         },
+         "place_id" : "ChIJBftfxTICsjUR_z-KXanY9fI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

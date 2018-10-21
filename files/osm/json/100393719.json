@@ -1,0 +1,401 @@
+{
+   "plus_code" : {
+      "compound_code" : "CMW8+5M Crownthorpe, Hawke's Bay, New Zealand",
+      "global_code" : "4VGRCMW8+5M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "712-170",
+               "short_name" : "712-170",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Matapiro Road",
+               "short_name" : "Matapiro Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Crownthorpe",
+               "short_name" : "Crownthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawke's Bay",
+               "short_name" : "Hawke's Bay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4179",
+               "short_name" : "4179",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "712-170 Matapiro Rd, Crownthorpe 4179, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.5529849,
+                  "lng" : 176.6693792
+               },
+               "southwest" : {
+                  "lat" : -39.5955058,
+                  "lng" : 176.6301165
+               }
+            },
+            "location" : {
+               "lat" : -39.5742454,
+               "lng" : 176.6497478
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.5529849,
+                  "lng" : 176.6693792
+               },
+               "southwest" : {
+                  "lat" : -39.5955058,
+                  "lng" : 176.6301165
+               }
+            }
+         },
+         "place_id" : "ChIJF8FJ6zq_aW0RkGCjBmHvABM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "170",
+               "short_name" : "170",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Matapiro Road",
+               "short_name" : "Matapiro Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Crownthorpe",
+               "short_name" : "Crownthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawke's Bay",
+               "short_name" : "Hawke's Bay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4179",
+               "short_name" : "4179",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "170 Matapiro Rd, Crownthorpe 4179, New Zealand",
+         "geometry" : {
+            "location" : {
+               "lat" : -39.5553844,
+               "lng" : 176.6649519
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.55403541970851,
+                  "lng" : 176.6663008802915
+               },
+               "southwest" : {
+                  "lat" : -39.5567333802915,
+                  "lng" : 176.6636029197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_RDhNSy5aW0RAJiljTLqglQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crownthorpe",
+               "short_name" : "Crownthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawke's Bay",
+               "short_name" : "Hawke's Bay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4179",
+               "short_name" : "4179",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crownthorpe 4179, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.515867,
+                  "lng" : 176.760037
+               },
+               "southwest" : {
+                  "lat" : -39.6495122,
+                  "lng" : 176.483119
+               }
+            },
+            "location" : {
+               "lat" : -39.55457610000001,
+               "lng" : 176.6666521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.515867,
+                  "lng" : 176.760037
+               },
+               "southwest" : {
+                  "lat" : -39.6495122,
+                  "lng" : 176.483119
+               }
+            }
+         },
+         "place_id" : "ChIJQ5dVTnW_aW0RgL6iQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4179",
+               "short_name" : "4179",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "4179, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.0255224,
+                  "lng" : 176.7600365
+               },
+               "southwest" : {
+                  "lat" : -39.649547,
+                  "lng" : 175.9523572
+               }
+            },
+            "location" : {
+               "lat" : -39.3461495,
+               "lng" : 176.3376761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.0255224,
+                  "lng" : 176.7600365
+               },
+               "southwest" : {
+                  "lat" : -39.649547,
+                  "lng" : 175.9523572
+               }
+            }
+         },
+         "place_id" : "ChIJNfD8kvKDaW0R-VTS-A2LikI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hastings, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.0255224,
+                  "lng" : 177.1019854
+               },
+               "southwest" : {
+                  "lat" : -40.2696019,
+                  "lng" : 175.8300397
+               }
+            },
+            "location" : {
+               "lat" : -39.51168089999999,
+               "lng" : 176.3376761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.0255224,
+                  "lng" : 177.1019854
+               },
+               "southwest" : {
+                  "lat" : -40.2696019,
+                  "lng" : 175.8300397
+               }
+            }
+         },
+         "place_id" : "ChIJI3vVpVHsaW0RS9wFBORdkd8",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hastings District",
+               "short_name" : "Hastings District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawke's Bay",
+               "short_name" : "Hawke's Bay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hastings District, Hawke's Bay, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.8559534,
+                  "lng" : 177.096141
+               },
+               "southwest" : {
+                  "lat" : -39.8926206,
+                  "lng" : 176.1747029
+               }
+            },
+            "location" : {
+               "lat" : -39.3558505,
+               "lng" : 176.6611083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.8559534,
+                  "lng" : 177.096141
+               },
+               "southwest" : {
+                  "lat" : -39.8926206,
+                  "lng" : 176.1747029
+               }
+            }
+         },
+         "place_id" : "ChIJ64pTakhRaG0RwKuiQ2HvAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawke's Bay",
+               "short_name" : "Hawke's Bay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hawke's Bay, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.580999,
+                  "lng" : 178.0065001
+               },
+               "southwest" : {
+                  "lat" : -40.429153,
+                  "lng" : 176.0610469
+               }
+            },
+            "location" : {
+               "lat" : -39.1089867,
+               "lng" : 176.7416374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.580999,
+                  "lng" : 178.0065001
+               },
+               "southwest" : {
+                  "lat" : -40.429153,
+                  "lng" : 176.0610469
+               }
+            }
+         },
+         "place_id" : "ChIJwYEchkOzaW0RZyhYJpjiVAQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.8773225,
+                  "lng" : -175.1235077
+               },
+               "southwest" : {
+                  "lat" : -52.7224663,
+                  "lng" : 165.7437641
+               }
+            },
+            "location" : {
+               "lat" : -40.900557,
+               "lng" : 174.885971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.8773225,
+                  "lng" : -175.1235077
+               },
+               "southwest" : {
+                  "lat" : -52.7224663,
+                  "lng" : 165.7437641
+               }
+            }
+         },
+         "place_id" : "ChIJh5Z3Fw4gLG0RM0dqdeIY1rE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

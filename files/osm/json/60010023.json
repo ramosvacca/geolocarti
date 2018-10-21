@@ -1,0 +1,1274 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Academiegebouw",
+               "short_name" : "Academiegebouw",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broerstraat",
+               "short_name" : "Broerstraat",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9712 CP",
+               "short_name" : "9712 CP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Academiegebouw, Broerstraat 5, 9712 CP Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2199356,
+                  "lng" : 6.563630499999999
+               },
+               "southwest" : {
+                  "lat" : 53.2191065,
+                  "lng" : 6.5621116
+               }
+            },
+            "location" : {
+               "lat" : 53.2193266,
+               "lng" : 6.562830099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2208700302915,
+                  "lng" : 6.564220030291502
+               },
+               "southwest" : {
+                  "lat" : 53.2181720697085,
+                  "lng" : 6.561522069708498
+               }
+            }
+         },
+         "place_id" : "ChIJpbK23U_NyUcR7UXAliROagM",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broerstraat",
+               "short_name" : "Broerstraat",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9712 CP",
+               "short_name" : "9712 CP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broerstraat 5, 9712 CP Groningen, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2193033,
+               "lng" : 6.563148
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2206522802915,
+                  "lng" : 6.564496980291502
+               },
+               "southwest" : {
+                  "lat" : 53.2179543197085,
+                  "lng" : 6.561799019708498
+               }
+            }
+         },
+         "place_id" : "ChIJScBKI1DNyUcRJ3uuxeGFriE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Legal Theory",
+               "short_name" : "Legal Theory",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9712 BJ",
+               "short_name" : "9712 BJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9712",
+               "short_name" : "9712",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Legal Theory, 9712 BJ Groningen, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.21836529999999,
+               "lng" : 6.5629263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.21971428029149,
+                  "lng" : 6.564275280291502
+               },
+               "southwest" : {
+                  "lat" : 53.2170163197085,
+                  "lng" : 6.561577319708498
+               }
+            }
+         },
+         "place_id" : "ChIJJXKCMlDNyUcRLRtWKg1FIsc",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stadscentrum",
+               "short_name" : "Stadscentrum",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stadscentrum, Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2223309,
+                  "lng" : 6.5722529
+               },
+               "southwest" : {
+                  "lat" : 53.2169199,
+                  "lng" : 6.560376199999999
+               }
+            },
+            "location" : {
+               "lat" : 53.2200346,
+               "lng" : 6.566848600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2223309,
+                  "lng" : 6.5722529
+               },
+               "southwest" : {
+                  "lat" : 53.2169199,
+                  "lng" : 6.560376199999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7XbJuFHNyUcR4SP_y48KBS4",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Binnenstad, Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2260299,
+                  "lng" : 6.5799781
+               },
+               "southwest" : {
+                  "lat" : 53.211769,
+                  "lng" : 6.5546549
+               }
+            },
+            "location" : {
+               "lat" : 53.21808050000001,
+               "lng" : 6.5654999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2260299,
+                  "lng" : 6.5799781
+               },
+               "southwest" : {
+                  "lat" : 53.211769,
+                  "lng" : 6.5546549
+               }
+            }
+         },
+         "place_id" : "ChIJ7XbJuFHNyUcRAwQ8hWl2Aek",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.26472589999999,
+                  "lng" : 6.668787099999999
+               },
+               "southwest" : {
+                  "lat" : 53.1786842,
+                  "lng" : 6.4625995
+               }
+            },
+            "location" : {
+               "lat" : 53.2193835,
+               "lng" : 6.5665017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.26472589999999,
+                  "lng" : 6.668787099999999
+               },
+               "southwest" : {
+                  "lat" : 53.1786842,
+                  "lng" : 6.4625995
+               }
+            }
+         },
+         "place_id" : "ChIJp8xitIYyyEcR3Mim-YZQS8s",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 EH",
+               "short_name" : "9712 EH",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 EH Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2197025,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2181763,
+                  "lng" : 6.5602913
+               }
+            },
+            "location" : {
+               "lat" : 53.2188078,
+               "lng" : 6.562355999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2202883802915,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2175904197085,
+                  "lng" : 6.5602913
+               }
+            }
+         },
+         "place_id" : "ChIJnY0FKVDNyUcRK837h-O01N8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 EK",
+               "short_name" : "9712 EK",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 EK Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2197025,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2181763,
+                  "lng" : 6.5602913
+               }
+            },
+            "location" : {
+               "lat" : 53.2194513,
+               "lng" : 6.5618045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2202883802915,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2175904197085,
+                  "lng" : 6.5602913
+               }
+            }
+         },
+         "place_id" : "ChIJC2Yz3E_NyUcRxZ7I1b35cOs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 BS",
+               "short_name" : "9712 BS",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 BS Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2197025,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2181763,
+                  "lng" : 6.5602913
+               }
+            },
+            "location" : {
+               "lat" : 53.21853240000001,
+               "lng" : 6.5620341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2202883802915,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2175904197085,
+                  "lng" : 6.5602913
+               }
+            }
+         },
+         "place_id" : "ChIJL_-31U_NyUcRYzi5qVCfWX8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 ER",
+               "short_name" : "9712 ER",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 ER Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2196068,
+                  "lng" : 6.565820100000001
+               },
+               "southwest" : {
+                  "lat" : 53.2180804,
+                  "lng" : 6.5620275
+               }
+            },
+            "location" : {
+               "lat" : 53.2187013,
+               "lng" : 6.564059899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2201925802915,
+                  "lng" : 6.565820100000001
+               },
+               "southwest" : {
+                  "lat" : 53.2174946197085,
+                  "lng" : 6.5620275
+               }
+            }
+         },
+         "place_id" : "ChIJUZKiOVDNyUcROoymMFtMlt8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 CJ",
+               "short_name" : "9712 CJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 CJ Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2196068,
+                  "lng" : 6.565820100000001
+               },
+               "southwest" : {
+                  "lat" : 53.2180804,
+                  "lng" : 6.5620275
+               }
+            },
+            "location" : {
+               "lat" : 53.218331,
+               "lng" : 6.5642445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2201925802915,
+                  "lng" : 6.565820100000001
+               },
+               "southwest" : {
+                  "lat" : 53.2174946197085,
+                  "lng" : 6.5620275
+               }
+            }
+         },
+         "place_id" : "ChIJWeR8S1DNyUcRxCyBDBHULcE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 EG",
+               "short_name" : "9712 EG",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 EG Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2252331,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2168417,
+                  "lng" : 6.5580988
+               }
+            },
+            "location" : {
+               "lat" : 53.2183906,
+               "lng" : 6.5627489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2252331,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.2168417,
+                  "lng" : 6.5580988
+               }
+            }
+         },
+         "place_id" : "ChIJMVw-LVDNyUcR1-0GYnBrjuo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 EB",
+               "short_name" : "9712 EB",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 EB Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2220846,
+                  "lng" : 6.568197400000001
+               },
+               "southwest" : {
+                  "lat" : 53.2181763,
+                  "lng" : 6.5602913
+               }
+            },
+            "location" : {
+               "lat" : 53.2192508,
+               "lng" : 6.5620835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2220846,
+                  "lng" : 6.568197400000001
+               },
+               "southwest" : {
+                  "lat" : 53.2181763,
+                  "lng" : 6.5602913
+               }
+            }
+         },
+         "place_id" : "ChIJfyM92U_NyUcR3NIuXKHYMrQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 CK",
+               "short_name" : "9712 CK",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 CK Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2196068,
+                  "lng" : 6.565820100000001
+               },
+               "southwest" : {
+                  "lat" : 53.2168417,
+                  "lng" : 6.5617071
+               }
+            },
+            "location" : {
+               "lat" : 53.2182229,
+               "lng" : 6.5633582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2196068,
+                  "lng" : 6.565820100000001
+               },
+               "southwest" : {
+                  "lat" : 53.2168417,
+                  "lng" : 6.5617071
+               }
+            }
+         },
+         "place_id" : "ChIJ5x83y1HNyUcR3JZyexd8UZw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 EA",
+               "short_name" : "9712 EA",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 EA Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2197025,
+                  "lng" : 6.568331499999999
+               },
+               "southwest" : {
+                  "lat" : 53.2138848,
+                  "lng" : 6.5602913
+               }
+            },
+            "location" : {
+               "lat" : 53.2187978,
+               "lng" : 6.562460499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2197025,
+                  "lng" : 6.568331499999999
+               },
+               "southwest" : {
+                  "lat" : 53.2138848,
+                  "lng" : 6.5602913
+               }
+            }
+         },
+         "place_id" : "ChIJL_0-LVDNyUcRLwgXzoca5Kc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 BJ",
+               "short_name" : "9712 BJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 BJ Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2197025,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.03082089999999,
+                  "lng" : 5.6641597
+               }
+            },
+            "location" : {
+               "lat" : 53.2181069,
+               "lng" : 6.562351899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2197025,
+                  "lng" : 6.5640839
+               },
+               "southwest" : {
+                  "lat" : 53.03082089999999,
+                  "lng" : 5.6641597
+               }
+            }
+         },
+         "place_id" : "ChIJRzNe1VHNyUcRnhsJdBGNwpo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712 CP",
+               "short_name" : "9712 CP",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Binnenstad",
+               "short_name" : "Binnenstad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 CP Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.223994,
+                  "lng" : 6.5669157
+               },
+               "southwest" : {
+                  "lat" : 53.2141725,
+                  "lng" : 6.555722299999999
+               }
+            },
+            "location" : {
+               "lat" : 53.21923469999999,
+               "lng" : 6.5637301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.223994,
+                  "lng" : 6.5669157
+               },
+               "southwest" : {
+                  "lat" : 53.2141725,
+                  "lng" : 6.555722299999999
+               }
+            }
+         },
+         "place_id" : "ChIJhczQOlDNyUcRT5h4-dAhUjk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9712",
+               "short_name" : "9712",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9712 Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2264474,
+                  "lng" : 6.572766499999999
+               },
+               "southwest" : {
+                  "lat" : 53.2165488,
+                  "lng" : 6.555026700000001
+               }
+            },
+            "location" : {
+               "lat" : 53.2223721,
+               "lng" : 6.5612515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2264474,
+                  "lng" : 6.572766499999999
+               },
+               "southwest" : {
+                  "lat" : 53.2165488,
+                  "lng" : 6.555026700000001
+               }
+            }
+         },
+         "place_id" : "ChIJX5wnpVrNyUcRigp6i-gGN-8",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.26472589999999,
+                  "lng" : 6.6669044
+               },
+               "southwest" : {
+                  "lat" : 53.1786842,
+                  "lng" : 6.4625995
+               }
+            },
+            "location" : {
+               "lat" : 53.2323862,
+               "lng" : 6.551334799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.26472589999999,
+                  "lng" : 6.6669044
+               },
+               "southwest" : {
+                  "lat" : 53.1786842,
+                  "lng" : 6.4625995
+               }
+            }
+         },
+         "place_id" : "ChIJp8xitIYyyEcR8ElNBpXnjNg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Groningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.55346429999999,
+                  "lng" : 7.227140500000001
+               },
+               "southwest" : {
+                  "lat" : 52.8381386,
+                  "lng" : 6.1674111
+               }
+            },
+            "location" : {
+               "lat" : 53.2887213,
+               "lng" : 6.706086699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55346429999999,
+                  "lng" : 7.227140500000001
+               },
+               "southwest" : {
+                  "lat" : 52.8381386,
+                  "lng" : 6.1674111
+               }
+            }
+         },
+         "place_id" : "ChIJqwJiN3vCyUcRUaoxQRV3RfI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6316,
+                  "lng" : 7.227510199999999
+               },
+               "southwest" : {
+                  "lat" : 50.75038379999999,
+                  "lng" : 3.3316001
+               }
+            },
+            "location" : {
+               "lat" : 52.132633,
+               "lng" : 5.291265999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6756,
+                  "lng" : 7.227140500000001
+               },
+               "southwest" : {
+                  "lat" : 50.7503837,
+                  "lng" : 3.3316
+               }
+            }
+         },
+         "place_id" : "ChIJu-SH28MJxkcRnwq9_851obM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

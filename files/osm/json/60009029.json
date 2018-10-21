@@ -1,0 +1,418 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "900",
+               "short_name" : "900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Disc Drive",
+               "short_name" : "Disc Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Scotts Valley",
+               "short_name" : "Scotts Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95066",
+               "short_name" : "95066",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "900 Disc Dr, Scotts Valley, CA 95066, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.0460444,
+               "lng" : -122.0158476
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0473933802915,
+                  "lng" : -122.0144986197085
+               },
+               "southwest" : {
+                  "lat" : 37.0446954197085,
+                  "lng" : -122.0171965802915
+               }
+            }
+         },
+         "place_id" : "ChIJJaxb_8lAjoARs__RmhVu294",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scotts Valley",
+               "short_name" : "Scotts Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Scotts Valley, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0807469,
+                  "lng" : -121.983671
+               },
+               "southwest" : {
+                  "lat" : 37.029348,
+                  "lng" : -122.0417741
+               }
+            },
+            "location" : {
+               "lat" : 37.0510595,
+               "lng" : -122.0146841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0807469,
+                  "lng" : -121.983671
+               },
+               "southwest" : {
+                  "lat" : 37.029348,
+                  "lng" : -122.0417741
+               }
+            }
+         },
+         "place_id" : "ChIJRR4-TUpHjoARb_UobpJG34Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "95066",
+               "short_name" : "95066",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santa Cruz",
+               "short_name" : "Santa Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz, CA 95066, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1164689,
+                  "lng" : -121.953385
+               },
+               "southwest" : {
+                  "lat" : 37.028877,
+                  "lng" : -122.0508451
+               }
+            },
+            "location" : {
+               "lat" : 37.0702838,
+               "lng" : -122.0155491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1164689,
+                  "lng" : -121.953385
+               },
+               "southwest" : {
+                  "lat" : 37.028877,
+                  "lng" : -122.0508451
+               }
+            }
+         },
+         "place_id" : "ChIJW76Xi0FHjoARXAHlAm26DRA",
+         "postcode_localities" : [ "Santa Cruz", "Scotts Valley" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz-Watsonville, CA",
+               "short_name" : "Santa Cruz-Watsonville, CA",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz-Watsonville, CA, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.28634,
+                  "lng" : -121.581154
+               },
+               "southwest" : {
+                  "lat" : 36.8506479,
+                  "lng" : -122.3176821
+               }
+            },
+            "location" : {
+               "lat" : 37.0827351,
+               "lng" : -122.0382856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.28634,
+                  "lng" : -121.581154
+               },
+               "southwest" : {
+                  "lat" : 36.8506479,
+                  "lng" : -122.3176821
+               }
+            }
+         },
+         "place_id" : "ChIJsx5W3lJHjoARj2wbdrSgJ9c",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.28634,
+                  "lng" : -121.581154
+               },
+               "southwest" : {
+                  "lat" : 36.8196,
+                  "lng" : -122.3176821
+               }
+            },
+            "location" : {
+               "lat" : 37.0453988,
+               "lng" : -121.9579578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.28634,
+                  "lng" : -121.581154
+               },
+               "southwest" : {
+                  "lat" : 36.8196,
+                  "lng" : -122.3176821
+               }
+            }
+         },
+         "place_id" : "ChIJfzsx1n8TjoARGbNHDCbAPhU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz Metropolitan Area",
+               "short_name" : "Santa Cruz Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz Metropolitan Area, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.28634,
+                  "lng" : -121.581154
+               },
+               "southwest" : {
+                  "lat" : 36.8196,
+                  "lng" : -122.3176821
+               }
+            },
+            "location" : {
+               "lat" : 36.9305075,
+               "lng" : -121.9017954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.28634,
+                  "lng" : -121.581154
+               },
+               "southwest" : {
+                  "lat" : 36.8196,
+                  "lng" : -122.3176821
+               }
+            }
+         },
+         "place_id" : "ChIJ5xEiRiA_joARD5VhW9ujTRQ",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

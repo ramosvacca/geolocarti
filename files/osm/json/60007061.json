@@ -1,0 +1,555 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Matteo della Porta",
+               "short_name" : "Via Matteo della Porta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84121",
+               "short_name" : "84121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Matteo della Porta, 2, 84121 Salerno SA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6810765,
+               "lng" : 14.760293
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68242548029149,
+                  "lng" : 14.7616419802915
+               },
+               "southwest" : {
+                  "lat" : 40.6797275197085,
+                  "lng" : 14.7589440197085
+               }
+            }
+         },
+         "place_id" : "ChIJ5T4I_S7COxMRufMBdOyvsCc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Largo Plebiscito",
+               "short_name" : "Largo Plebiscito",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84122",
+               "short_name" : "84122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Largo Plebiscito, 84122 Salerno SA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6809858,
+               "lng" : 14.7604459
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68233478029151,
+                  "lng" : 14.7617948802915
+               },
+               "southwest" : {
+                  "lat" : 40.67963681970851,
+                  "lng" : 14.7590969197085
+               }
+            }
+         },
+         "place_id" : "ChIJASrl_S7COxMRFcR0Dc0qcLI",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centro Storico",
+               "short_name" : "Centro Storico",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centro Storico, Salerno SA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6868213,
+                  "lng" : 14.7648311
+               },
+               "southwest" : {
+                  "lat" : 40.6724524,
+                  "lng" : 14.7354555
+               }
+            },
+            "location" : {
+               "lat" : 40.682413,
+               "lng" : 14.7491771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6868213,
+                  "lng" : 14.7648311
+               },
+               "southwest" : {
+                  "lat" : 40.6724524,
+                  "lng" : 14.7354555
+               }
+            }
+         },
+         "place_id" : "ChIJn4MhxIfBOxMRyr2REI7KXDM",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salerno, Province of Salerno, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7121639,
+                  "lng" : 14.8513141
+               },
+               "southwest" : {
+                  "lat" : 40.6373235,
+                  "lng" : 14.7339981
+               }
+            },
+            "location" : {
+               "lat" : 40.68244079999999,
+               "lng" : 14.7680961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7121639,
+                  "lng" : 14.8513141
+               },
+               "southwest" : {
+                  "lat" : 40.6373235,
+                  "lng" : 14.7339981
+               }
+            }
+         },
+         "place_id" : "ChIJiTC9NFfCOxMRoHQD2hOXpBU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "84125",
+               "short_name" : "84125",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "84125 Salerno, Province of Salerno, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7066702,
+                  "lng" : 14.7747711
+               },
+               "southwest" : {
+                  "lat" : 40.6759521,
+                  "lng" : 14.735139
+               }
+            },
+            "location" : {
+               "lat" : 40.6923428,
+               "lng" : 14.7491771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7066702,
+                  "lng" : 14.7747711
+               },
+               "southwest" : {
+                  "lat" : 40.6759521,
+                  "lng" : 14.735139
+               }
+            }
+         },
+         "place_id" : "ChIJxXKBg4DBOxMR8LsOCyPhCRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salerno",
+               "short_name" : "Salerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salerno, Province of Salerno, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7269905,
+                  "lng" : 14.8741779
+               },
+               "southwest" : {
+                  "lat" : 40.6260365,
+                  "lng" : 14.7339981
+               }
+            },
+            "location" : {
+               "lat" : 40.6719402,
+               "lng" : 14.8104424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7269905,
+                  "lng" : 14.8741779
+               },
+               "southwest" : {
+                  "lat" : 40.6260365,
+                  "lng" : 14.7339981
+               }
+            }
+         },
+         "place_id" : "ChIJlY8w7DDCOxMRtkAc_9HV1-o",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples Metropolitan Area",
+               "short_name" : "Naples Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples Metropolitan Area, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1485815,
+                  "lng" : 15.0217458
+               },
+               "southwest" : {
+                  "lat" : 40.5358888,
+                  "lng" : 13.8510363
+               }
+            },
+            "location" : {
+               "lat" : 40.890162,
+               "lng" : 14.4257533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1485815,
+                  "lng" : 15.0217458
+               },
+               "southwest" : {
+                  "lat" : 40.5358888,
+                  "lng" : 13.8510363
+               }
+            }
+         },
+         "place_id" : "ChIJc_MaKV4IOxMRqu5rkJSPpeQ",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Province of Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Province of Salerno, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8487509,
+                  "lng" : 15.8064455
+               },
+               "southwest" : {
+                  "lat" : 39.9905603,
+                  "lng" : 14.4286565
+               }
+            },
+            "location" : {
+               "lat" : 40.4287832,
+               "lng" : 15.2194808
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8487509,
+                  "lng" : 15.8064455
+               },
+               "southwest" : {
+                  "lat" : 39.9905603,
+                  "lng" : 14.4286565
+               }
+            }
+         },
+         "place_id" : "ChIJp5F5zslQORMRcIFimR_hCQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campania, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5073731,
+                  "lng" : 15.8064455
+               },
+               "southwest" : {
+                  "lat" : 39.9905603,
+                  "lng" : 13.7621116
+               }
+            },
+            "location" : {
+               "lat" : 41.10994729999999,
+               "lng" : 14.8475139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5073731,
+                  "lng" : 15.8064455
+               },
+               "southwest" : {
+                  "lat" : 39.9905603,
+                  "lng" : 13.7621116
+               }
+            }
+         },
+         "place_id" : "ChIJ35Zq01gTOxMRzUO1VBRFAs0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            },
+            "location" : {
+               "lat" : 41.87194,
+               "lng" : 12.56738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.092,
+                  "lng" : 18.7975999
+               },
+               "southwest" : {
+                  "lat" : 35.4897,
+                  "lng" : 6.6267201
+               }
+            }
+         },
+         "place_id" : "ChIJA9KNRIL-1BIRb15jJFz1LOI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,567 @@
+{
+   "plus_code" : {
+      "compound_code" : "MQHP+CR Tokyo, Japan",
+      "global_code" : "8Q7XMQHP+CR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Nihonbashihakozakicho",
+               "short_name" : "Nihonbashihakozakicho",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Chūō",
+               "short_name" : "Chūō",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103-8510",
+               "short_name" : "103-8510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19-21 Nihonbashihakozakicho, Chūō, Tokyo 103-8510, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6785417,
+               "lng" : 139.7871238
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6798906802915,
+                  "lng" : 139.7884727802915
+               },
+               "southwest" : {
+                  "lat" : 35.6771927197085,
+                  "lng" : 139.7857748197085
+               }
+            }
+         },
+         "place_id" : "ChIJG5y3m0OJGGARwL7FZc0L3BI",
+         "plus_code" : {
+            "compound_code" : "MQHP+CR Tokyo, Japan",
+            "global_code" : "8Q7XMQHP+CR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Nihonbashihakozakichō",
+               "short_name" : "Nihonbashihakozakichō",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Chūō-ku",
+               "short_name" : "Chūō-ku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tōkyō-to",
+               "short_name" : "Tōkyō-to",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103-0015",
+               "short_name" : "103-0015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19-21 Nihonbashihakozakichō, Chūō-ku, Tōkyō-to 103-0015, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6791499,
+               "lng" : 139.7868825
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6804988802915,
+                  "lng" : 139.7882314802915
+               },
+               "southwest" : {
+                  "lat" : 35.6778009197085,
+                  "lng" : 139.7855335197085
+               }
+            }
+         },
+         "place_id" : "ChIJV01Av0OJGGAReoiBQTdzM0U",
+         "plus_code" : {
+            "compound_code" : "MQHP+MQ Tokyo, Japan",
+            "global_code" : "8Q7XMQHP+MQ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Nihonbashihakozakichō",
+               "short_name" : "Nihonbashihakozakichō",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Chūō-ku",
+               "short_name" : "Chūō-ku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tōkyō-to",
+               "short_name" : "Tōkyō-to",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103-0015",
+               "short_name" : "103-0015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, 19 Nihonbashihakozakichō, Chūō-ku, Tōkyō-to 103-0015, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6789264,
+                  "lng" : 139.7878224
+               },
+               "southwest" : {
+                  "lat" : 35.6783362,
+                  "lng" : 139.7874502
+               }
+            },
+            "location" : {
+               "lat" : 35.6786313,
+               "lng" : 139.7876363
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6799802802915,
+                  "lng" : 139.7889852802915
+               },
+               "southwest" : {
+                  "lat" : 35.6772823197085,
+                  "lng" : 139.7862873197085
+               }
+            }
+         },
+         "place_id" : "ChIJyS6U0kOJGGARuDA5KC7UhJ4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nihonbashihakozakicho",
+               "short_name" : "Nihonbashihakozakicho",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Chūō",
+               "short_name" : "Chūō",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103-0015",
+               "short_name" : "103-0015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nihonbashihakozakicho, Chūō, Tokyo 103-0015, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6829421,
+                  "lng" : 139.7906743
+               },
+               "southwest" : {
+                  "lat" : 35.6769337,
+                  "lng" : 139.7825385
+               }
+            },
+            "location" : {
+               "lat" : 35.680172,
+               "lng" : 139.7856381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6829421,
+                  "lng" : 139.7906743
+               },
+               "southwest" : {
+                  "lat" : 35.6769337,
+                  "lng" : 139.7825385
+               }
+            }
+         },
+         "place_id" : "ChIJfQJ1jkOJGGARtg62PkUTjRU",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Nihonbashihakozakicho",
+               "short_name" : "Nihonbashihakozakicho",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Chūō",
+               "short_name" : "Chūō",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103-0015",
+               "short_name" : "103-0015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Nihonbashihakozakicho, Chūō, Tokyo 103-0015, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6800278,
+                  "lng" : 139.7882202
+               },
+               "southwest" : {
+                  "lat" : 35.6775606,
+                  "lng" : 139.7858736
+               }
+            },
+            "location" : {
+               "lat" : 35.6786194,
+               "lng" : 139.7866186
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6801431802915,
+                  "lng" : 139.7883958802915
+               },
+               "southwest" : {
+                  "lat" : 35.6774452197085,
+                  "lng" : 139.7856979197085
+               }
+            }
+         },
+         "place_id" : "ChIJNYlEyEOJGGARyBnUW5bGTMQ",
+         "types" : [ "political", "sublocality", "sublocality_level_4" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "103-0015",
+               "short_name" : "103-0015",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nihonbashihakozakicho",
+               "short_name" : "Nihonbashihakozakicho",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Chūō",
+               "short_name" : "Chūō",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "103-0015, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6829467,
+                  "lng" : 139.7906743
+               },
+               "southwest" : {
+                  "lat" : 35.6769337,
+                  "lng" : 139.7825385
+               }
+            },
+            "location" : {
+               "lat" : 35.6802467,
+               "lng" : 139.787575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6829467,
+                  "lng" : 139.7906743
+               },
+               "southwest" : {
+                  "lat" : 35.6769337,
+                  "lng" : 139.7825385
+               }
+            }
+         },
+         "place_id" : "ChIJ5Qosn0aJGGARGM7QmPkWuOQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chūō",
+               "short_name" : "Chūō",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chūō, Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.696634,
+                  "lng" : 139.7931975
+               },
+               "southwest" : {
+                  "lat" : 35.6441494,
+                  "lng" : 139.7584941
+               }
+            },
+            "location" : {
+               "lat" : 35.6706505,
+               "lng" : 139.7718614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.696634,
+                  "lng" : 139.7931975
+               },
+               "southwest" : {
+                  "lat" : 35.6441494,
+                  "lng" : 139.7584941
+               }
+            }
+         },
+         "place_id" : "ChIJyZrIjGCJGGARonG69OLd0ag",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8175167,
+                  "lng" : 139.9198565
+               },
+               "southwest" : {
+                  "lat" : 35.5208603,
+                  "lng" : 139.5629048
+               }
+            },
+            "location" : {
+               "lat" : 35.7090259,
+               "lng" : 139.7319925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8175167,
+                  "lng" : 139.9198565
+               },
+               "southwest" : {
+                  "lat" : 35.5208603,
+                  "lng" : 139.5629048
+               }
+            }
+         },
+         "place_id" : "ChIJXSModoWLGGARILWiCfeu2M0",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "locality", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8986468,
+                  "lng" : 153.9876115
+               },
+               "southwest" : {
+                  "lat" : 24.2242626,
+                  "lng" : 138.942758
+               }
+            },
+            "location" : {
+               "lat" : 35.6894875,
+               "lng" : 139.6917064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8986468,
+                  "lng" : 153.9876115
+               },
+               "southwest" : {
+                  "lat" : 24.2242626,
+                  "lng" : 138.942758
+               }
+            }
+         },
+         "place_id" : "ChIJ51cu8IcbXWARiRtXIothAS4",
+         "types" : [ "administrative_area_level_1", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6412626,
+                  "lng" : 154.0031455
+               },
+               "southwest" : {
+                  "lat" : 20.3585295,
+                  "lng" : 122.8554688
+               }
+            },
+            "location" : {
+               "lat" : 36.204824,
+               "lng" : 138.252924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6412626,
+                  "lng" : 154.0031455
+               },
+               "southwest" : {
+                  "lat" : 20.3585295,
+                  "lng" : 122.8554688
+               }
+            }
+         },
+         "place_id" : "ChIJLxl_1w9OZzQRRFJmfNR1QvU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

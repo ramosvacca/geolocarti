@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "4QFC+PR San Marcos, CA, USA",
+      "global_code" : "85544QFC+PR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2152",
+               "short_name" : "2152",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Goya Place",
+               "short_name" : "Goya Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Marcos",
+               "short_name" : "San Marcos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92078",
+               "short_name" : "92078",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5490",
+               "short_name" : "5490",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2152 Goya Pl, San Marcos, CA 92078, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.12433,
+               "lng" : -117.227895
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1256789802915,
+                  "lng" : -117.2265460197085
+               },
+               "southwest" : {
+                  "lat" : 33.1229810197085,
+                  "lng" : -117.2292439802915
+               }
+            }
+         },
+         "place_id" : "ChIJabAb3tB03IAReJRVmqeFo8E",
+         "plus_code" : {
+            "compound_code" : "4QFC+PR San Marcos, California, United States",
+            "global_code" : "85544QFC+PR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2152",
+               "short_name" : "2152",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Goya Place",
+               "short_name" : "Goya Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Marcos",
+               "short_name" : "San Marcos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92078",
+               "short_name" : "92078",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5490",
+               "short_name" : "5490",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2152 Goya Pl, San Marcos, CA 92078, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.1244854,
+                  "lng" : -117.2278014
+               },
+               "southwest" : {
+                  "lat" : 33.1242438,
+                  "lng" : -117.2280187
+               }
+            },
+            "location" : {
+               "lat" : 33.1243465,
+               "lng" : -117.227881
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.12571358029149,
+                  "lng" : -117.2265610697085
+               },
+               "southwest" : {
+                  "lat" : 33.12301561970849,
+                  "lng" : -117.2292590302915
+               }
+            }
+         },
+         "place_id" : "ChIJ7WoB3tB03IARIAEbI9ZbS-A",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2153",
+               "short_name" : "2153",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Goya Place",
+               "short_name" : "Goya Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Marcos",
+               "short_name" : "San Marcos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92078",
+               "short_name" : "92078",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5491",
+               "short_name" : "5491",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2153 Goya Pl, San Marcos, CA 92078, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.1241004,
+               "lng" : -117.2279301
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.12544938029149,
+                  "lng" : -117.2265811197085
+               },
+               "southwest" : {
+                  "lat" : 33.1227514197085,
+                  "lng" : -117.2292790802915
+               }
+            }
+         },
+         "place_id" : "EicyMTUzIEdveWEgUGwsIFNhbiBNYXJjb3MsIENBIDkyMDc4LCBVU0EiGxIZChQKEgkHgSri0HTcgBG5bdZLW-ekDhDpEA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "92078",
+               "short_name" : "92078",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Marcos",
+               "short_name" : "San Marcos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Marcos, CA 92078, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.157806,
+                  "lng" : -117.124528
+               },
+               "southwest" : {
+                  "lat" : 33.0850629,
+                  "lng" : -117.2323031
+               }
+            },
+            "location" : {
+               "lat" : 33.1158665,
+               "lng" : -117.185294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.157806,
+                  "lng" : -117.124528
+               },
+               "southwest" : {
+                  "lat" : 33.0850629,
+                  "lng" : -117.2323031
+               }
+            }
+         },
+         "place_id" : "ChIJQb9dQlv124ARTmakmRK_VBo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Marcos",
+               "short_name" : "San Marcos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Marcos, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.188338,
+                  "lng" : -117.1104479
+               },
+               "southwest" : {
+                  "lat" : 33.0805521,
+                  "lng" : -117.230168
+               }
+            },
+            "location" : {
+               "lat" : 33.1433723,
+               "lng" : -117.1661449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.188338,
+                  "lng" : -117.1104479
+               },
+               "southwest" : {
+                  "lat" : 33.0805521,
+                  "lng" : -117.230168
+               }
+            }
+         },
+         "place_id" : "ChIJd_xUiKiK24ARR3u05cNO57A",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Diego County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5050284,
+                  "lng" : -116.0809399
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -117.6110809
+               }
+            },
+            "location" : {
+               "lat" : 32.7157305,
+               "lng" : -117.1610966
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5050284,
+                  "lng" : -116.0809399
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -117.6110809
+               }
+            }
+         },
+         "place_id" : "ChIJHWD_IzDr24ARKAeA6yv9DTU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

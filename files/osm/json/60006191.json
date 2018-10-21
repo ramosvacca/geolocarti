@@ -1,0 +1,455 @@
+{
+   "plus_code" : {
+      "compound_code" : "CWC8+Q9 Mountain View, CA, USA",
+      "global_code" : "849VCWC8+Q9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amphitheatre Parkway",
+               "short_name" : "Amphitheatre Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mountain View",
+               "short_name" : "Mountain View",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94043",
+               "short_name" : "94043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4219999,
+               "lng" : -122.0840575
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4233488802915,
+                  "lng" : -122.0827085197085
+               },
+               "southwest" : {
+                  "lat" : 37.4206509197085,
+                  "lng" : -122.0854064802915
+               }
+            }
+         },
+         "place_id" : "ChIJj61dQgK6j4AR4GeTYWZsKWw",
+         "plus_code" : {
+            "compound_code" : "CWC8+Q9 Mountain View, California, United States",
+            "global_code" : "849VCWC8+Q9"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Google Building 40",
+               "short_name" : "Google Building 40",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amphitheatre Parkway",
+               "short_name" : "Amphitheatre Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mountain View",
+               "short_name" : "Mountain View",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94043",
+               "short_name" : "94043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Google Building 40, 1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4226621,
+                  "lng" : -122.0829306
+               },
+               "southwest" : {
+                  "lat" : 37.4220703,
+                  "lng" : -122.0849584
+               }
+            },
+            "location" : {
+               "lat" : 37.422388,
+               "lng" : -122.0841883
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4237151802915,
+                  "lng" : -122.0825955197085
+               },
+               "southwest" : {
+                  "lat" : 37.4210172197085,
+                  "lng" : -122.0852934802915
+               }
+            }
+         },
+         "place_id" : "ChIJj38IfwK6j4ARNcyPDnEGa9g",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mountain View",
+               "short_name" : "Mountain View",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94043",
+               "short_name" : "94043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Mountain View, CA 94043, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4219742,
+                  "lng" : -122.0839152
+               },
+               "southwest" : {
+                  "lat" : 37.4219584,
+                  "lng" : -122.0841079
+               }
+            },
+            "location" : {
+               "lat" : 37.4219663,
+               "lng" : -122.0840115
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4233152802915,
+                  "lng" : -122.0826625697085
+               },
+               "southwest" : {
+                  "lat" : 37.42061731970851,
+                  "lng" : -122.0853605302915
+               }
+            }
+         },
+         "place_id" : "ChIJKwHCeQK6j4AROqqzd4TuKAA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94043",
+               "short_name" : "94043",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mountain View",
+               "short_name" : "Mountain View",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mountain View, CA 94043, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4640869,
+                  "lng" : -122.0359899
+               },
+               "southwest" : {
+                  "lat" : 37.3857439,
+                  "lng" : -122.10842
+               }
+            },
+            "location" : {
+               "lat" : 37.428434,
+               "lng" : -122.0723816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4640869,
+                  "lng" : -122.0359899
+               },
+               "southwest" : {
+                  "lat" : 37.3857439,
+                  "lng" : -122.10842
+               }
+            }
+         },
+         "place_id" : "ChIJoQmen1G3j4ARbhoe7nVBEoQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mountain View",
+               "short_name" : "Mountain View",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mountain View, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.469887,
+                  "lng" : -122.0446721
+               },
+               "southwest" : {
+                  "lat" : 37.3567599,
+                  "lng" : -122.1178619
+               }
+            },
+            "location" : {
+               "lat" : 37.3860517,
+               "lng" : -122.0838511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.469887,
+                  "lng" : -122.0446721
+               },
+               "southwest" : {
+                  "lat" : 37.3567599,
+                  "lng" : -122.1178619
+               }
+            }
+         },
+         "place_id" : "ChIJiQHsW0m3j4ARm69rRkrUF3w",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Clara County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            },
+            "location" : {
+               "lat" : 37.3336581,
+               "lng" : -121.8907041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            }
+         },
+         "place_id" : "ChIJd_Y0eVIvkIARuQyDN0F1LBA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,503 @@
+{
+   "plus_code" : {
+      "compound_code" : "82XF+7F Solna, Sweden",
+      "global_code" : "9FFW82XF+7F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stockholm",
+               "short_name" : "Stockholm",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockholms län",
+               "short_name" : "Stockholms län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171 77",
+               "short_name" : "171 77",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C/o Karolinska Institutet, 171 77 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.34814839999999,
+               "lng" : 18.0236579
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3494973802915,
+                  "lng" : 18.0250068802915
+               },
+               "southwest" : {
+                  "lat" : 59.34679941970849,
+                  "lng" : 18.0223089197085
+               }
+            }
+         },
+         "place_id" : "ChIJfedbZ5ydX0YRh_WDstnFyBc",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15B",
+               "short_name" : "15B",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nobels väg",
+               "short_name" : "Nobels väg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hagalund",
+               "short_name" : "Hagalund",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockholms län",
+               "short_name" : "Stockholms län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171 65",
+               "short_name" : "171 65",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nobels väg 15B, 171 65 Solna, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.3482016,
+               "lng" : 18.0239336
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3495505802915,
+                  "lng" : 18.0252825802915
+               },
+               "southwest" : {
+                  "lat" : 59.34685261970849,
+                  "lng" : 18.0225846197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4ZSjXZydX0YRI-Wod7S8KUo",
+         "plus_code" : {
+            "compound_code" : "82XF+7H Solna, Sweden",
+            "global_code" : "9FFW82XF+7H"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nobels väg",
+               "short_name" : "Nobels väg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171 65",
+               "short_name" : "171 65",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nobels väg 13, 171 65 Solna, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.3483145,
+               "lng" : 18.0245544
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3496634802915,
+                  "lng" : 18.0259033802915
+               },
+               "southwest" : {
+                  "lat" : 59.3469655197085,
+                  "lng" : 18.0232054197085
+               }
+            }
+         },
+         "place_id" : "EiVOb2JlbHMgdsOkZyAxMywgMTcxIDY1IFNvbG5hLCBTdmVyaWdlIhoSGAoUChIJgd-IT5ydX0YRQjFBZ_is8KQQDQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "171 65",
+               "short_name" : "171 65",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockholm County",
+               "short_name" : "Stockholm County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "171 65 Solna, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.35501499999999,
+                  "lng" : 18.0305771
+               },
+               "southwest" : {
+                  "lat" : 59.3430249,
+                  "lng" : 18.0144061
+               }
+            },
+            "location" : {
+               "lat" : 59.3485875,
+               "lng" : 18.0227396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.35501499999999,
+                  "lng" : 18.0305771
+               },
+               "southwest" : {
+                  "lat" : 59.3430249,
+                  "lng" : 18.0144061
+               }
+            }
+         },
+         "place_id" : "ChIJk42-9ZudX0YRYzUGF_P-AAs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hagalund",
+               "short_name" : "Hagalund",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockholm County",
+               "short_name" : "Stockholm County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hagalund, Solna, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.3761329,
+                  "lng" : 18.048267
+               },
+               "southwest" : {
+                  "lat" : 59.34170100000001,
+                  "lng" : 17.9987519
+               }
+            },
+            "location" : {
+               "lat" : 59.3625069,
+               "lng" : 18.0114095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3761329,
+                  "lng" : 18.048267
+               },
+               "southwest" : {
+                  "lat" : 59.34170100000001,
+                  "lng" : 17.9987519
+               }
+            }
+         },
+         "place_id" : "ChIJxZ7e-aKdX0YROSts4jD1HDc",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "administrative_area_level_2", "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockholms län",
+               "short_name" : "Stockholms län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solna, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.3990491,
+                  "lng" : 18.0547427
+               },
+               "southwest" : {
+                  "lat" : 59.3407991,
+                  "lng" : 17.9660338
+               }
+            },
+            "location" : {
+               "lat" : 59.36419679999999,
+               "lng" : 18.0124231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3990491,
+                  "lng" : 18.0547427
+               },
+               "southwest" : {
+                  "lat" : 59.3407991,
+                  "lng" : 17.9660338
+               }
+            }
+         },
+         "place_id" : "ChIJ9bNyL7idX0YRBpNeeT0rX64",
+         "types" : [ "administrative_area_level_2", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockholms län",
+               "short_name" : "Stockholms län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solna, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.39830809999999,
+                  "lng" : 18.0549759
+               },
+               "southwest" : {
+                  "lat" : 59.33988600000001,
+                  "lng" : 17.965142
+               }
+            },
+            "location" : {
+               "lat" : 59.36419679999999,
+               "lng" : 18.0124231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.39830809999999,
+                  "lng" : 18.0549759
+               },
+               "southwest" : {
+                  "lat" : 59.33988600000001,
+                  "lng" : 17.965142
+               }
+            }
+         },
+         "place_id" : "ChIJCzv_UyWcX0YRiN7YxFW677k",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockholm County",
+               "short_name" : "Stockholm County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solna, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.39970599999999,
+                  "lng" : 18.0583249
+               },
+               "southwest" : {
+                  "lat" : 59.33923009999999,
+                  "lng" : 17.9631101
+               }
+            },
+            "location" : {
+               "lat" : 59.36887909999999,
+               "lng" : 18.0084334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.39970599999999,
+                  "lng" : 18.0583249
+               },
+               "southwest" : {
+                  "lat" : 59.33923009999999,
+                  "lng" : 17.9631101
+               }
+            }
+         },
+         "place_id" : "ChIJCzv_UyWcX0YRVN4aA80F1sg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stockholm County",
+               "short_name" : "Stockholm County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stockholm County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.25631300000001,
+                  "lng" : 19.3518131
+               },
+               "southwest" : {
+                  "lat" : 58.7356979,
+                  "lng" : 17.2375371
+               }
+            },
+            "location" : {
+               "lat" : 59.60249579999999,
+               "lng" : 18.1384383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.25631300000001,
+                  "lng" : 19.3518131
+               },
+               "southwest" : {
+                  "lat" : 58.7356979,
+                  "lng" : 17.2375371
+               }
+            }
+         },
+         "place_id" : "ChIJPauYNIoH2EUR-vzAobVCa7M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.0599709,
+                  "lng" : 24.1773101
+               },
+               "southwest" : {
+                  "lat" : 55.0059799,
+                  "lng" : 10.5798
+               }
+            },
+            "location" : {
+               "lat" : 60.12816100000001,
+               "lng" : 18.643501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.0599709,
+                  "lng" : 24.1773101
+               },
+               "southwest" : {
+                  "lat" : 55.0059799,
+                  "lng" : 10.5798
+               }
+            }
+         },
+         "place_id" : "ChIJ8fA1bTmyXEYRYm-tjaLruCI",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

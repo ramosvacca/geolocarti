@@ -1,0 +1,457 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Camino Vecinal",
+               "short_name" : "Camino Vecinal",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Tres Ríos",
+               "short_name" : "Los Tres Ríos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Tres Ríos",
+               "short_name" : "Los Tres Ríos",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87315",
+               "short_name" : "87315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Camino Vecinal, Los Tres Ríos, 87315 Matamoros, Tamps., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.8971698,
+                  "lng" : -97.531066
+               },
+               "southwest" : {
+                  "lat" : 25.8954404,
+                  "lng" : -97.5341354
+               }
+            },
+            "location" : {
+               "lat" : 25.8963086,
+               "lng" : -97.53260300000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8976540802915,
+                  "lng" : -97.531066
+               },
+               "southwest" : {
+                  "lat" : 25.8949561197085,
+                  "lng" : -97.5341354
+               }
+            }
+         },
+         "place_id" : "ChIJdbDBq4OTb4YRcSEz-GmlkaY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Tres Ríos",
+               "short_name" : "Los Tres Ríos",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Los Tres Ríos",
+               "short_name" : "Los Tres Ríos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87315",
+               "short_name" : "87315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Los Tres Ríos, 87315 Matamoros, Tamps., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.9055934,
+                  "lng" : -97.52609980000001
+               },
+               "southwest" : {
+                  "lat" : 25.889986,
+                  "lng" : -97.5442925
+               }
+            },
+            "location" : {
+               "lat" : 25.8945904,
+               "lng" : -97.53149359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.9055934,
+                  "lng" : -97.52609980000001
+               },
+               "southwest" : {
+                  "lat" : 25.889986,
+                  "lng" : -97.5442925
+               }
+            }
+         },
+         "place_id" : "ChIJZ4qhToOTb4YRpaH1QLO57qk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Tres Ríos",
+               "short_name" : "Los Tres Ríos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Tres Ríos, Matamoros, Tamps., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.9086531,
+                  "lng" : -97.5224709
+               },
+               "southwest" : {
+                  "lat" : 25.8900385,
+                  "lng" : -97.54427059999999
+               }
+            },
+            "location" : {
+               "lat" : 25.9018677,
+               "lng" : -97.5328476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.9086531,
+                  "lng" : -97.5224709
+               },
+               "southwest" : {
+                  "lat" : 25.8900385,
+                  "lng" : -97.54427059999999
+               }
+            }
+         },
+         "place_id" : "ChIJv5RZVJuTb4YRkthr82RLfUc",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matamoros, Tamaulipas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.9151324,
+                  "lng" : -97.41865159999999
+               },
+               "southwest" : {
+                  "lat" : 25.7716586,
+                  "lng" : -97.6112371
+               }
+            },
+            "location" : {
+               "lat" : 25.8690294,
+               "lng" : -97.50273759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.9151324,
+                  "lng" : -97.41865159999999
+               },
+               "southwest" : {
+                  "lat" : 25.7716586,
+                  "lng" : -97.6112371
+               }
+            }
+         },
+         "place_id" : "ChIJhwDRk8eUb4YRXsoTOXB4IXM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "87315",
+               "short_name" : "87315",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Las Lomas",
+               "short_name" : "Las Lomas",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Las Lomas, 87315 Matamoros, Tamps., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.9086531,
+                  "lng" : -97.52282339999999
+               },
+               "southwest" : {
+                  "lat" : 25.8724436,
+                  "lng" : -97.56164679999999
+               }
+            },
+            "location" : {
+               "lat" : 25.9018677,
+               "lng" : -97.5328476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.9086531,
+                  "lng" : -97.52282339999999
+               },
+               "southwest" : {
+                  "lat" : 25.8724436,
+                  "lng" : -97.56164679999999
+               }
+            }
+         },
+         "place_id" : "ChIJA9BhxnWTb4YRYwC3FovnVXo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matamoros",
+               "short_name" : "Matamoros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matamoros, Tamaulipas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.0700342,
+                  "lng" : -97.14422359999999
+               },
+               "southwest" : {
+                  "lat" : 25.041955,
+                  "lng" : -97.9426177
+               }
+            },
+            "location" : {
+               "lat" : 25.8491001,
+               "lng" : -97.50775569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.0700342,
+                  "lng" : -97.14422359999999
+               },
+               "southwest" : {
+                  "lat" : 25.041955,
+                  "lng" : -97.9426177
+               }
+            }
+         },
+         "place_id" : "ChIJXwvdnvPjb4YRAq66RZTM_xI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tamaulipas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6791263,
+                  "lng" : -97.14422359999999
+               },
+               "southwest" : {
+                  "lat" : 22.2069658,
+                  "lng" : -100.1449502
+               }
+            },
+            "location" : {
+               "lat" : 24.26694,
+               "lng" : -98.8362755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6791263,
+                  "lng" : -97.14422359999999
+               },
+               "southwest" : {
+                  "lat" : 22.2069658,
+                  "lng" : -100.1449502
+               }
+            }
+         },
+         "place_id" : "ChIJWSQe265TeYYRJRnoNVqfhTM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

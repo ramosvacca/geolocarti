@@ -1,0 +1,195 @@
+{
+   "plus_code" : {
+      "compound_code" : "3H3M+XJ Havana, Cuba",
+      "global_code" : "76MV3H3M+XJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carretera ISPJAE",
+               "short_name" : "Carretera ISPJAE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Habana",
+               "short_name" : "La Habana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Habana",
+               "short_name" : "La Habana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carretera ISPJAE, La Habana, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.0558185,
+                  "lng" : -82.4142203
+               },
+               "southwest" : {
+                  "lat" : 23.0557443,
+                  "lng" : -82.4167834
+               }
+            },
+            "location" : {
+               "lat" : 23.0557814,
+               "lng" : -82.4155018
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0571303802915,
+                  "lng" : -82.4141528697085
+               },
+               "southwest" : {
+                  "lat" : 23.05443241970849,
+                  "lng" : -82.41685083029151
+               }
+            }
+         },
+         "place_id" : "ChIJ7TpNNF9wzYgRrhlx6HqDjAI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Havana",
+               "short_name" : "Havana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Havana, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.188709,
+                  "lng" : -82.06886999999999
+               },
+               "southwest" : {
+                  "lat" : 22.937643,
+                  "lng" : -82.5365219
+               }
+            },
+            "location" : {
+               "lat" : 23.0540698,
+               "lng" : -82.34518899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.188709,
+                  "lng" : -82.06886999999999
+               },
+               "southwest" : {
+                  "lat" : 22.937643,
+                  "lng" : -82.5365219
+               }
+            }
+         },
+         "place_id" : "ChIJbQS2MpOc0ogRMJFrpYnL3IY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Havana",
+               "short_name" : "Havana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Havana",
+               "short_name" : "Havana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Havana, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1813159,
+                  "lng" : -82.0911311
+               },
+               "southwest" : {
+                  "lat" : 22.9200574,
+                  "lng" : -82.574873
+               }
+            },
+            "location" : {
+               "lat" : 23.1135925,
+               "lng" : -82.3665956
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1813159,
+                  "lng" : -82.0911311
+               },
+               "southwest" : {
+                  "lat" : 22.9200574,
+                  "lng" : -82.574873
+               }
+            }
+         },
+         "place_id" : "ChIJ4QD2vUx3zYgRYA13Gn5NKU4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.3776001,
+                  "lng" : -73.9545
+               },
+               "southwest" : {
+                  "lat" : 19.6529001,
+                  "lng" : -85.1715001
+               }
+            },
+            "location" : {
+               "lat" : 21.521757,
+               "lng" : -77.781167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.3776001,
+                  "lng" : -73.9545
+               },
+               "southwest" : {
+                  "lat" : 19.6529001,
+                  "lng" : -85.1715001
+               }
+            }
+         },
+         "place_id" : "ChIJtUx6DwdJzYgRGqQQkVL3jHk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,554 @@
+{
+   "plus_code" : {
+      "compound_code" : "C2Q6+4R Potsdam, Germany",
+      "global_code" : "9F4MC2Q6+4R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Max-Eyth-Allee",
+               "short_name" : "Max-Eyth-Allee",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Potsdam Nord",
+               "short_name" : "Potsdam Nord",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14469",
+               "short_name" : "14469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Max-Eyth-Allee 101, 14469 Potsdam, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.43783,
+               "lng" : 13.01203
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.43917898029149,
+                  "lng" : 13.0133789802915
+               },
+               "southwest" : {
+                  "lat" : 52.43648101970849,
+                  "lng" : 13.0106810197085
+               }
+            }
+         },
+         "place_id" : "ChIJXSTG18f2qEcROWSja3kXag0",
+         "types" : [ "establishment", "general_contractor", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Max-Eyth-Allee",
+               "short_name" : "Max-Eyth-Allee",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Potsdam Nord",
+               "short_name" : "Potsdam Nord",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14469",
+               "short_name" : "14469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Max-Eyth-Allee 101, 14469 Potsdam, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4378518,
+                  "lng" : 13.0123565
+               },
+               "southwest" : {
+                  "lat" : 52.4377434,
+                  "lng" : 13.0119435
+               }
+            },
+            "location" : {
+               "lat" : 52.4378,
+               "lng" : 13.0121256
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4391465802915,
+                  "lng" : 13.0134989802915
+               },
+               "southwest" : {
+                  "lat" : 52.4364486197085,
+                  "lng" : 13.0108010197085
+               }
+            }
+         },
+         "place_id" : "ChIJI02n18f2qEcRMD_MSjVeK_4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33A",
+               "short_name" : "33A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Max-Eyth-Allee",
+               "short_name" : "Max-Eyth-Allee",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Potsdam Nord",
+               "short_name" : "Potsdam Nord",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14469",
+               "short_name" : "14469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Max-Eyth-Allee 33A, 14469 Potsdam, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.43783999999999,
+               "lng" : 13.01151
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4391889802915,
+                  "lng" : 13.0128589802915
+               },
+               "southwest" : {
+                  "lat" : 52.4364910197085,
+                  "lng" : 13.0101610197085
+               }
+            }
+         },
+         "place_id" : "ChIJi5Hyecj2qEcRZnCK0wROmj8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Max-Eyth-Allee",
+               "short_name" : "Max-Eyth-Allee",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Potsdam Nord",
+               "short_name" : "Potsdam Nord",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14469",
+               "short_name" : "14469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Max-Eyth-Allee 101, 14469 Potsdam, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4378442,
+               "lng" : 13.0121413
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4391931802915,
+                  "lng" : 13.0134902802915
+               },
+               "southwest" : {
+                  "lat" : 52.4364952197085,
+                  "lng" : 13.0107923197085
+               }
+            }
+         },
+         "place_id" : "Ei5NYXgtRXl0aC1BbGxlZSAxMDEsIDE0NDY5IFBvdHNkYW0sIERldXRzY2hsYW5kIhoSGAoUChIJY4wY08f2qEcRmM2iePnE5yoQZQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bornim",
+               "short_name" : "Bornim",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Potsdam Nord",
+               "short_name" : "Potsdam Nord",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14469",
+               "short_name" : "14469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bornim, 14469 Potsdam, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4524741,
+                  "lng" : 13.0427599
+               },
+               "southwest" : {
+                  "lat" : 52.407083,
+                  "lng" : 12.963606
+               }
+            },
+            "location" : {
+               "lat" : 52.4314607,
+               "lng" : 13.0012167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4524741,
+                  "lng" : 13.0427599
+               },
+               "southwest" : {
+                  "lat" : 52.407083,
+                  "lng" : 12.963606
+               }
+            }
+         },
+         "place_id" : "ChIJLSaTPK72qEcRkVgJWUcgISY",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14469",
+               "short_name" : "14469",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "14469 Potsdam, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.45377200000001,
+                  "lng" : 13.1241711
+               },
+               "southwest" : {
+                  "lat" : 52.3885511,
+                  "lng" : 12.9344409
+               }
+            },
+            "location" : {
+               "lat" : 52.4282075,
+               "lng" : 13.0303377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.45377200000001,
+                  "lng" : 13.1241711
+               },
+               "southwest" : {
+                  "lat" : 52.3885511,
+                  "lng" : 12.9344409
+               }
+            }
+         },
+         "place_id" : "ChIJM2BLCpr2qEcRwO49lUkgIRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Potsdam Nord",
+               "short_name" : "Potsdam Nord",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Potsdam Nord, Potsdam, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.453608,
+                  "lng" : 13.1236801
+               },
+               "southwest" : {
+                  "lat" : 52.3854309,
+                  "lng" : 12.9344941
+               }
+            },
+            "location" : {
+               "lat" : 52.4255041,
+               "lng" : 13.0060377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.453608,
+                  "lng" : 13.1236801
+               },
+               "southwest" : {
+                  "lat" : 52.3854309,
+                  "lng" : 12.9344941
+               }
+            }
+         },
+         "place_id" : "ChIJ7VFRpZv2qEcRVM4IF5YT-kw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "Potsdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Potsdam, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5146915,
+                  "lng" : 13.1679979
+               },
+               "southwest" : {
+                  "lat" : 52.3420316,
+                  "lng" : 12.8868267
+               }
+            },
+            "location" : {
+               "lat" : 52.3905689,
+               "lng" : 13.0644729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5146915,
+                  "lng" : 13.1679979
+               },
+               "southwest" : {
+                  "lat" : 52.3420316,
+                  "lng" : 12.8868267
+               }
+            }
+         },
+         "place_id" : "ChIJt9Y6hM31qEcRm-yqC5j4ZcU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "Brandenburg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brandenburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.55898,
+                  "lng" : 14.765826
+               },
+               "southwest" : {
+                  "lat" : 51.3590586,
+                  "lng" : 11.265727
+               }
+            },
+            "location" : {
+               "lat" : 52.1313922,
+               "lng" : 13.2162494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55898,
+                  "lng" : 14.765826
+               },
+               "southwest" : {
+                  "lat" : 51.3590586,
+                  "lng" : 11.265727
+               }
+            }
+         },
+         "place_id" : "ChIJmzZ86O1PqEcRjN9SNJwmIoE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 51.165691,
+               "lng" : 10.451526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0815,
+                  "lng" : 15.0418962
+               },
+               "southwest" : {
+                  "lat" : 47.2701115,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "place_id" : "ChIJa76xwh5ymkcRW-WRjmtd6HU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

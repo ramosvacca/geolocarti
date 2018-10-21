@@ -1,0 +1,513 @@
+{
+   "plus_code" : {
+      "compound_code" : "75WM+Q5 Honolulu, HI, USA",
+      "global_code" : "73H475WM+Q5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1810",
+               "short_name" : "1810",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mānoa",
+               "short_name" : "Mānoa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honolulu County",
+               "short_name" : "Honolulu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96822",
+               "short_name" : "96822",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1810 University Ave, Honolulu, HI 96822, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.296939,
+               "lng" : -157.8171118
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.29828798029151,
+                  "lng" : -157.8157628197085
+               },
+               "southwest" : {
+                  "lat" : 21.2955900197085,
+                  "lng" : -157.8184607802915
+               }
+            }
+         },
+         "place_id" : "ChIJd38KFJltAHwRWId1HlWXN54",
+         "plus_code" : {
+            "compound_code" : "75WM+Q5 Honolulu, Hawaii, United States",
+            "global_code" : "73H475WM+Q5"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2530",
+               "short_name" : "2530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dole Street",
+               "short_name" : "Dole St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mānoa",
+               "short_name" : "Mānoa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honolulu County",
+               "short_name" : "Honolulu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96822",
+               "short_name" : "96822",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2385",
+               "short_name" : "2385",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2530 Dole St, Honolulu, HI 96822, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2970516,
+               "lng" : -157.8174019
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.2984005802915,
+                  "lng" : -157.8160529197085
+               },
+               "southwest" : {
+                  "lat" : 21.2957026197085,
+                  "lng" : -157.8187508802915
+               }
+            }
+         },
+         "place_id" : "ChIJPcwfEpltAHwR3q8GM6hAmr4",
+         "plus_code" : {
+            "compound_code" : "75WM+R2 Honolulu, Hawaii, United States",
+            "global_code" : "73H475WM+R2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1735",
+               "short_name" : "1735",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Donagho Road",
+               "short_name" : "Donagho Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96822",
+               "short_name" : "96822",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2315",
+               "short_name" : "2315",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1735 Donagho Rd, Honolulu, HI 96822, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2969357,
+               "lng" : -157.8168544
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.2982846802915,
+                  "lng" : -157.8155054197085
+               },
+               "southwest" : {
+                  "lat" : 21.2955867197085,
+                  "lng" : -157.8182033802915
+               }
+            }
+         },
+         "place_id" : "EigxNzM1IERvbmFnaG8gUmQsIEhvbm9sdWx1LCBISSA5NjgyMiwgVVNBIhsSGQoUChIJHbCiFZltAHwRQiDz6YHbKEUQxw0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mānoa",
+               "short_name" : "Mānoa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honolulu County",
+               "short_name" : "Honolulu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mānoa, Honolulu, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.353,
+                  "lng" : -157.7806971
+               },
+               "southwest" : {
+                  "lat" : 21.2903461,
+                  "lng" : -157.835132
+               }
+            },
+            "location" : {
+               "lat" : 21.3159023,
+               "lng" : -157.8033266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.353,
+                  "lng" : -157.7806971
+               },
+               "southwest" : {
+                  "lat" : 21.2903461,
+                  "lng" : -157.835132
+               }
+            }
+         },
+         "place_id" : "ChIJo3uWrf9sAHwRHZjxloInK4c",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "96822",
+               "short_name" : "96822",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honolulu County",
+               "short_name" : "Honolulu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Honolulu, HI 96822, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.3532001,
+                  "lng" : -157.7883559
+               },
+               "southwest" : {
+                  "lat" : 21.291881,
+                  "lng" : -157.848638
+               }
+            },
+            "location" : {
+               "lat" : 21.3175493,
+               "lng" : -157.8152491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.3532001,
+                  "lng" : -157.7883559
+               },
+               "southwest" : {
+                  "lat" : 21.291881,
+                  "lng" : -157.848638
+               }
+            }
+         },
+         "place_id" : "ChIJg3jj51ZsAHwRLcxpAv0d2V4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honolulu County",
+               "short_name" : "Honolulu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Honolulu, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.4012299,
+                  "lng" : -157.6487031
+               },
+               "southwest" : {
+                  "lat" : 21.2548377,
+                  "lng" : -157.949443
+               }
+            },
+            "location" : {
+               "lat" : 21.3069444,
+               "lng" : -157.8583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.4012299,
+                  "lng" : -157.6487031
+               },
+               "southwest" : {
+                  "lat" : 21.2548377,
+                  "lng" : -157.949443
+               }
+            }
+         },
+         "place_id" : "ChIJTUbDjDsYAHwRbJen81_1KEs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Honolulu County",
+               "short_name" : "Honolulu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Honolulu County, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.517269,
+                  "lng" : -157.5972879
+               },
+               "southwest" : {
+                  "lat" : 21.1992379,
+                  "lng" : -178.4435931
+               }
+            },
+            "location" : {
+               "lat" : 21.3069857,
+               "lng" : -157.8584319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.517269,
+                  "lng" : -157.5972879
+               },
+               "southwest" : {
+                  "lat" : 21.1992379,
+                  "lng" : -178.4435931
+               }
+            }
+         },
+         "place_id" : "ChIJbweGsupCe3wRr22F3XdfxHg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "Hawaii",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hawaii, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.517269,
+                  "lng" : -154.7557919
+               },
+               "southwest" : {
+                  "lat" : 18.86546,
+                  "lng" : -178.4435931
+               }
+            },
+            "location" : {
+               "lat" : 19.8967662,
+               "lng" : -155.5827818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.517269,
+                  "lng" : -154.7557919
+               },
+               "southwest" : {
+                  "lat" : 18.86546,
+                  "lng" : -178.4435931
+               }
+            }
+         },
+         "place_id" : "ChIJBeB5Twbb_3sRKIbMdNKCd0s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

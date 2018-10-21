@@ -1,0 +1,488 @@
+{
+   "plus_code" : {
+      "compound_code" : "7VP7+W4 Mexico City, CDMX, Mexico",
+      "global_code" : "76F27VP7+W4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3855",
+               "short_name" : "3855",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prolongación Canal de Miramontes",
+               "short_name" : "Prol. Canal de Miramontes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ex de San Juan de Dios",
+               "short_name" : "Ex de San Juan de Dios",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14387",
+               "short_name" : "14387",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prol. Canal de Miramontes 3855, Ex de San Juan de Dios, 14387 Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2872702,
+               "lng" : -99.1371322
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2886191802915,
+                  "lng" : -99.13578321970849
+               },
+               "southwest" : {
+                  "lat" : 19.2859212197085,
+                  "lng" : -99.13848118029151
+               }
+            }
+         },
+         "place_id" : "ChIJZ_Ju7v8AzoURSJPC883hchg",
+         "plus_code" : {
+            "compound_code" : "7VP7+W4 Mexico City, Mexico",
+            "global_code" : "76F27VP7+W4"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Azalea",
+               "short_name" : "Azalea",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Colorines",
+               "short_name" : "Los Colorines",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14386",
+               "short_name" : "14386",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azalea 8, Los Colorines, 14386 Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2876991,
+               "lng" : -99.13702909999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2890480802915,
+                  "lng" : -99.1356801197085
+               },
+               "southwest" : {
+                  "lat" : 19.2863501197085,
+                  "lng" : -99.1383780802915
+               }
+            }
+         },
+         "place_id" : "ChIJNa_oWAYBzoUR906JEtSNd-c",
+         "plus_code" : {
+            "compound_code" : "7VQ7+35 Mexico City, Mexico",
+            "global_code" : "76F27VQ7+35"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Azalea",
+               "short_name" : "Azalea",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Colorines",
+               "short_name" : "Los Colorines",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14386",
+               "short_name" : "14386",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azalea 33, Los Colorines, 14386 Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2880031,
+               "lng" : -99.1374003
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2893520802915,
+                  "lng" : -99.13605131970849
+               },
+               "southwest" : {
+                  "lat" : 19.2866541197085,
+                  "lng" : -99.13874928029151
+               }
+            }
+         },
+         "place_id" : "EkBBemFsZWEgMzMsIExvcyBDb2xvcmluZXMsIDE0Mzg2IENpdWRhZCBkZSBNw6l4aWNvLCBDRE1YLCBNw6l4aWNvIhoSGAoUChIJB6lh9wYBzoUREEOKuW6qmwUQIQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Colorines",
+               "short_name" : "Los Colorines",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Colorines, Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2901374,
+                  "lng" : -99.135285
+               },
+               "southwest" : {
+                  "lat" : 19.2859545,
+                  "lng" : -99.1400048
+               }
+            },
+            "location" : {
+               "lat" : 19.2880844,
+               "lng" : -99.1380054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2901374,
+                  "lng" : -99.135285
+               },
+               "southwest" : {
+                  "lat" : 19.2859545,
+                  "lng" : -99.1400048
+               }
+            }
+         },
+         "place_id" : "ChIJ645L9wYBzoURbiVNkq--bE4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14386",
+               "short_name" : "14386",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Los Colorines",
+               "short_name" : "Los Colorines",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Colorines, 14386 Ciudad de México, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2900632,
+                  "lng" : -99.1352443
+               },
+               "southwest" : {
+                  "lat" : 19.2859116,
+                  "lng" : -99.1399596
+               }
+            },
+            "location" : {
+               "lat" : 19.2880844,
+               "lng" : -99.1380054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2900632,
+                  "lng" : -99.1352443
+               },
+               "southwest" : {
+                  "lat" : 19.2859116,
+                  "lng" : -99.1399596
+               }
+            }
+         },
+         "place_id" : "ChIJqds79wYBzoURrkgGWHPHkFI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tlalpan",
+               "short_name" : "Tlalpan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tlalpan, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3122637,
+                  "lng" : -99.10092899999999
+               },
+               "southwest" : {
+                  "lat" : 19.089378,
+                  "lng" : -99.3162497
+               }
+            },
+            "location" : {
+               "lat" : 19.2790911,
+               "lng" : -99.2114234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3122637,
+                  "lng" : -99.10092899999999
+               },
+               "southwest" : {
+                  "lat" : 19.089378,
+                  "lng" : -99.3162497
+               }
+            }
+         },
+         "place_id" : "ChIJ91ztH5YAzoURH2Ut_9lGzYM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico City, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            },
+            "location" : {
+               "lat" : 19.4326077,
+               "lng" : -99.133208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            }
+         },
+         "place_id" : "ChIJB3UJ2yYAzoURQeheJnYQBlQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico City, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.0482366,
+                  "lng" : -99.36492419999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2464696,
+               "lng" : -99.10134979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.0482366,
+                  "lng" : -99.36492419999999
+               }
+            }
+         },
+         "place_id" : "ChIJJyk1sTYAzoURW4rR6E6e_d4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

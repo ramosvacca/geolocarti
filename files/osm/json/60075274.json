@@ -1,0 +1,518 @@
+{
+   "plus_code" : {
+      "compound_code" : "9X97+GF Sunnyvale, CA, USA",
+      "global_code" : "849V9X97+GF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "390",
+               "short_name" : "390",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 82",
+               "short_name" : "CA-82",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunnyvale",
+               "short_name" : "Sunnyvale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94087",
+               "short_name" : "94087",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "390 CA-82, Sunnyvale, CA 94087, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.36883,
+               "lng" : -122.0363496
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.37017898029149,
+                  "lng" : -122.0350006197085
+               },
+               "southwest" : {
+                  "lat" : 37.3674810197085,
+                  "lng" : -122.0376985802915
+               }
+            }
+         },
+         "place_id" : "ChIJy22Du2G2j4AROr12qNeORVY",
+         "plus_code" : {
+            "compound_code" : "9X97+GF Sunnyvale, California, United States",
+            "global_code" : "849V9X97+GF"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "390",
+               "short_name" : "390",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West El Camino Real",
+               "short_name" : "W El Camino Real",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunnyvale",
+               "short_name" : "Sunnyvale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94087",
+               "short_name" : "94087",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1306",
+               "short_name" : "1306",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "390 W El Camino Real, Sunnyvale, CA 94087, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3687932,
+                  "lng" : -122.0363651
+               },
+               "southwest" : {
+                  "lat" : 37.3684521,
+                  "lng" : -122.0368098
+               }
+            },
+            "location" : {
+               "lat" : 37.3686609,
+               "lng" : -122.0366205
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3699716302915,
+                  "lng" : -122.0352384697085
+               },
+               "southwest" : {
+                  "lat" : 37.3672736697085,
+                  "lng" : -122.0379364302915
+               }
+            }
+         },
+         "place_id" : "ChIJFYW5vmG2j4ARMtYnoNbwYFA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "390",
+               "short_name" : "390",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 82",
+               "short_name" : "CA-82",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunnyvale",
+               "short_name" : "Sunnyvale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94087",
+               "short_name" : "94087",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1306",
+               "short_name" : "1306",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "390 CA-82, Sunnyvale, CA 94087, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.368759,
+               "lng" : -122.0365554
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.37010798029149,
+                  "lng" : -122.0352064197085
+               },
+               "southwest" : {
+                  "lat" : 37.36741001970849,
+                  "lng" : -122.0379043802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-xtOuWG2j4ARN9nveehb1Lc",
+         "plus_code" : {
+            "compound_code" : "9X97+G9 Sunnyvale, California, United States",
+            "global_code" : "849V9X97+G9"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "364",
+               "short_name" : "364",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West El Camino Real",
+               "short_name" : "West El Camino Real",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunnyvale",
+               "short_name" : "Sunnyvale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94087",
+               "short_name" : "94087",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1306",
+               "short_name" : "1306",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "364 West El Camino Real, Sunnyvale, CA 94087, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3688971,
+               "lng" : -122.0363269
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.37024608029149,
+                  "lng" : -122.0349779197085
+               },
+               "southwest" : {
+                  "lat" : 37.3675481197085,
+                  "lng" : -122.0376758802915
+               }
+            }
+         },
+         "place_id" : "EjEzNjQgV2VzdCBFbCBDYW1pbm8gUmVhbCwgU3Vubnl2YWxlLCBDQSA5NDA4NywgVVNBIhsSGQoUChIJ3yhFoWG2j4ARILH20DOBUn4Q7AI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94087",
+               "short_name" : "94087",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sunnyvale",
+               "short_name" : "Sunnyvale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sunnyvale, CA 94087, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.37543489999999,
+                  "lng" : -121.9957801
+               },
+               "southwest" : {
+                  "lat" : 37.329901,
+                  "lng" : -122.065265
+               }
+            },
+            "location" : {
+               "lat" : 37.3492097,
+               "lng" : -122.0326019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.37543489999999,
+                  "lng" : -121.9957801
+               },
+               "southwest" : {
+                  "lat" : 37.329901,
+                  "lng" : -122.065265
+               }
+            }
+         },
+         "place_id" : "ChIJb0EdOtW1j4ARX73uHICOO3E",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunnyvale",
+               "short_name" : "Sunnyvale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sunnyvale, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4640869,
+                  "lng" : -121.98267
+               },
+               "southwest" : {
+                  "lat" : 37.330236,
+                  "lng" : -122.0655719
+               }
+            },
+            "location" : {
+               "lat" : 37.36883,
+               "lng" : -122.0363496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4640869,
+                  "lng" : -121.98267
+               },
+               "southwest" : {
+                  "lat" : 37.330236,
+                  "lng" : -122.0655719
+               }
+            }
+         },
+         "place_id" : "ChIJO13QqUW2j4ARosN83Sb7jXY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Clara County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            },
+            "location" : {
+               "lat" : 37.3336581,
+               "lng" : -121.8907041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.484637,
+                  "lng" : -121.208178
+               },
+               "southwest" : {
+                  "lat" : 36.8941549,
+                  "lng" : -122.202476
+               }
+            }
+         },
+         "place_id" : "ChIJd_Y0eVIvkIARuQyDN0F1LBA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

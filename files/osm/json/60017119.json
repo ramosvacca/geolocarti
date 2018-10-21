@@ -1,0 +1,597 @@
+{
+   "plus_code" : {
+      "compound_code" : "2WW5+HH Eugene, OR, USA",
+      "global_code" : "84PR2WW5+HH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1201",
+               "short_name" : "1201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oak Street",
+               "short_name" : "Oak St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97401",
+               "short_name" : "97401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3515",
+               "short_name" : "3515",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1201 Oak St, Eugene, OR 97401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.04652069999999,
+                  "lng" : -123.090741
+               },
+               "southwest" : {
+                  "lat" : 44.0463719,
+                  "lng" : -123.0910825
+               }
+            },
+            "location" : {
+               "lat" : 44.04641729999999,
+               "lng" : -123.0909344
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0477952802915,
+                  "lng" : -123.0895627697085
+               },
+               "southwest" : {
+                  "lat" : 44.0450973197085,
+                  "lng" : -123.0922607302915
+               }
+            }
+         },
+         "place_id" : "ChIJf-T1n2oewVQRDlG-BHqfw3s",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "#200",
+               "short_name" : "#200",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1201",
+               "short_name" : "1201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oak Street",
+               "short_name" : "Oak St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97401",
+               "short_name" : "97401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1201 Oak St #200, Eugene, OR 97401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.04646899999999,
+               "lng" : -123.091081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0478179802915,
+                  "lng" : -123.0897320197085
+               },
+               "southwest" : {
+                  "lat" : 44.0451200197085,
+                  "lng" : -123.0924299802915
+               }
+            }
+         },
+         "place_id" : "ChIJA3QHIEAewVQRSFSsGVBH7pc",
+         "plus_code" : {
+            "compound_code" : "2WW5+HH Eugene, Oregon, United States",
+            "global_code" : "84PR2WW5+HH"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1241a",
+               "short_name" : "1241a",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 12th Alley",
+               "short_name" : "E 12th Alley",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97401",
+               "short_name" : "97401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4786",
+               "short_name" : "4786",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1241a E 12th Alley, Eugene, OR 97401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0461838,
+               "lng" : -123.0909721
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0475327802915,
+                  "lng" : -123.0896231197085
+               },
+               "southwest" : {
+                  "lat" : 44.0448348197085,
+                  "lng" : -123.0923210802915
+               }
+            }
+         },
+         "place_id" : "ChIJ5a4YIUAewVQR6jHd75toVfQ",
+         "plus_code" : {
+            "compound_code" : "2WW5+FJ Eugene, Oregon, United States",
+            "global_code" : "84PR2WW5+FJ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1208",
+               "short_name" : "1208",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oak Street",
+               "short_name" : "Oak St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97401",
+               "short_name" : "97401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3542",
+               "short_name" : "3542",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1208 Oak St, Eugene, OR 97401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0464626,
+               "lng" : -123.0912027
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0478115802915,
+                  "lng" : -123.0898537197085
+               },
+               "southwest" : {
+                  "lat" : 44.0451136197085,
+                  "lng" : -123.0925516802915
+               }
+            }
+         },
+         "place_id" : "EiIxMjA4IE9hayBTdCwgRXVnZW5lLCBPUiA5NzQwMSwgVVNBIhsSGQoUChIJswwbn2oewVQRN59VU2sAwiwQuAk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Downtown, Eugene, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.053746,
+                  "lng" : -123.0800968
+               },
+               "southwest" : {
+                  "lat" : 44.040235,
+                  "lng" : -123.092999
+               }
+            },
+            "location" : {
+               "lat" : 44.0465192,
+               "lng" : -123.0865811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.053746,
+                  "lng" : -123.0800968
+               },
+               "southwest" : {
+                  "lat" : 44.040235,
+                  "lng" : -123.092999
+               }
+            }
+         },
+         "place_id" : "ChIJ7_JjxD8ewVQRjP6Hkw1BU_g",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "97401",
+               "short_name" : "97401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eugene, OR 97401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.095185,
+                  "lng" : -123.0464169
+               },
+               "southwest" : {
+                  "lat" : 44.03345300000001,
+                  "lng" : -123.1187159
+               }
+            },
+            "location" : {
+               "lat" : 44.0637173,
+               "lng" : -123.0847061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.095185,
+                  "lng" : -123.0464169
+               },
+               "southwest" : {
+                  "lat" : 44.03345300000001,
+                  "lng" : -123.1187159
+               }
+            }
+         },
+         "place_id" : "ChIJedCN4P_hwFQRnD41CQYCagA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eugene, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.13261989999999,
+                  "lng" : -123.036699
+               },
+               "southwest" : {
+                  "lat" : 43.9887109,
+                  "lng" : -123.208402
+               }
+            },
+            "location" : {
+               "lat" : 44.0520691,
+               "lng" : -123.0867536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.13261989999999,
+                  "lng" : -123.036699
+               },
+               "southwest" : {
+                  "lat" : 43.9887109,
+                  "lng" : -123.208402
+               }
+            }
+         },
+         "place_id" : "ChIJGRlQrLAZwVQRTYlDSolh7Fc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lane County, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.290548,
+                  "lng" : -121.76735
+               },
+               "southwest" : {
+                  "lat" : 43.437142,
+                  "lng" : -124.2302311
+               }
+            },
+            "location" : {
+               "lat" : 43.9610092,
+               "lng" : -122.6618227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.290548,
+                  "lng" : -121.76735
+               },
+               "southwest" : {
+                  "lat" : 43.437142,
+                  "lng" : -124.2302311
+               }
+            }
+         },
+         "place_id" : "ChIJ54PkOBZdx1QRR5QcWYeUMr8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oregon",
+               "short_name" : "Oregon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oregon, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.299099,
+                  "lng" : -116.463262
+               },
+               "southwest" : {
+                  "lat" : 41.9917941,
+                  "lng" : -124.7035411
+               }
+            },
+            "location" : {
+               "lat" : 43.8041334,
+               "lng" : -120.5542012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.299099,
+                  "lng" : -116.463262
+               },
+               "southwest" : {
+                  "lat" : 41.9917941,
+                  "lng" : -124.7035411
+               }
+            }
+         },
+         "place_id" : "ChIJVWqfm3xuk1QRdrgLettlTH0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

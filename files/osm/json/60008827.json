@@ -1,0 +1,457 @@
+{
+   "plus_code" : {
+      "compound_code" : "8C78+J5 Laramie, WY, USA",
+      "global_code" : "85HP8C78+J5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East University Avenue",
+               "short_name" : "E University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laramie",
+               "short_name" : "Laramie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82071",
+               "short_name" : "82071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1000 E University Ave, Laramie, WY 82071, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3140214,
+               "lng" : -105.5846008
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3153703802915,
+                  "lng" : -105.5832518197085
+               },
+               "southwest" : {
+                  "lat" : 41.3126724197085,
+                  "lng" : -105.5859497802915
+               }
+            }
+         },
+         "place_id" : "ChIJ8RuMRhqQaIcR3uacBL39hx8",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Health Sciences Center",
+               "short_name" : "Health Sciences Center",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East University Avenue",
+               "short_name" : "E University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laramie",
+               "short_name" : "Laramie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82071",
+               "short_name" : "82071",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2000",
+               "short_name" : "2000",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Health Sciences Center, 1000 E University Ave, Laramie, WY 82071, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3143536,
+                  "lng" : -105.5841456
+               },
+               "southwest" : {
+                  "lat" : 41.313575,
+                  "lng" : -105.5847912
+               }
+            },
+            "location" : {
+               "lat" : 41.3140214,
+               "lng" : -105.5846008
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3153132802915,
+                  "lng" : -105.5831194197085
+               },
+               "southwest" : {
+                  "lat" : 41.3126153197085,
+                  "lng" : -105.5858173802915
+               }
+            }
+         },
+         "place_id" : "ChIJN6vWRhqQaIcRnfS-DtqX0q8",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laramie",
+               "short_name" : "Laramie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82072",
+               "short_name" : "82072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Laramie, WY 82072, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3138637,
+                  "lng" : -105.5847693
+               },
+               "southwest" : {
+                  "lat" : 41.31381529999999,
+                  "lng" : -105.585397
+               }
+            },
+            "location" : {
+               "lat" : 41.31383950000001,
+               "lng" : -105.5850831
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3151884802915,
+                  "lng" : -105.5837341697085
+               },
+               "southwest" : {
+                  "lat" : 41.3124905197085,
+                  "lng" : -105.5864321302915
+               }
+            }
+         },
+         "place_id" : "ChIJ92WuSRqQaIcRtgWOzmfM7_M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laramie",
+               "short_name" : "Laramie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laramie, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.336008,
+                  "lng" : -105.5279969
+               },
+               "southwest" : {
+                  "lat" : 41.277327,
+                  "lng" : -105.697316
+               }
+            },
+            "location" : {
+               "lat" : 41.3113669,
+               "lng" : -105.5911007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.336008,
+                  "lng" : -105.5279969
+               },
+               "southwest" : {
+                  "lat" : 41.277327,
+                  "lng" : -105.697316
+               }
+            }
+         },
+         "place_id" : "ChIJeZvajveEaIcRk-XEoffBiY4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82072",
+               "short_name" : "82072",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bosler",
+               "short_name" : "Bosler",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bosler, WY 82072, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.61883,
+                  "lng" : -105.2774248
+               },
+               "southwest" : {
+                  "lat" : 41.285115,
+                  "lng" : -105.7343129
+               }
+            },
+            "location" : {
+               "lat" : 41.3844415,
+               "lng" : -105.4536718
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.61883,
+                  "lng" : -105.2774248
+               },
+               "southwest" : {
+                  "lat" : 41.285115,
+                  "lng" : -105.7343129
+               }
+            }
+         },
+         "place_id" : "ChIJU9SZWgOcaIcRbCwQEulwctE",
+         "postcode_localities" : [ "Bosler", "Foxpark", "Laramie" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albany County, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.433236,
+                  "lng" : -105.2714339
+               },
+               "southwest" : {
+                  "lat" : 40.996886,
+                  "lng" : -106.3233429
+               }
+            },
+            "location" : {
+               "lat" : 41.638448,
+               "lng" : -105.5943388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.433236,
+                  "lng" : -105.2714339
+               },
+               "southwest" : {
+                  "lat" : 40.996886,
+                  "lng" : -106.3233429
+               }
+            }
+         },
+         "place_id" : "ChIJL-rrqEHEZ4cRiCWcRkYx53I",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wyoming, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.005904,
+                  "lng" : -104.0522449
+               },
+               "southwest" : {
+                  "lat" : 40.994746,
+                  "lng" : -111.056889
+               }
+            },
+            "location" : {
+               "lat" : 43.0759678,
+               "lng" : -107.2902839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.005904,
+                  "lng" : -104.0522449
+               },
+               "southwest" : {
+                  "lat" : 40.994746,
+                  "lng" : -111.056889
+               }
+            }
+         },
+         "place_id" : "ChIJaS7hSDTiXocRLzh90nkisCY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,503 @@
+{
+   "plus_code" : {
+      "compound_code" : "384F+HV Evanston, IL, USA",
+      "global_code" : "86JJ384F+HV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "633",
+               "short_name" : "633",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clark Street",
+               "short_name" : "Clark St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Evanston",
+               "short_name" : "Evanston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60208",
+               "short_name" : "60208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "633 Clark St, Evanston, IL 60208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.0564594,
+               "lng" : -87.67526699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0578083802915,
+                  "lng" : -87.67391801970848
+               },
+               "southwest" : {
+                  "lat" : 42.05511041970851,
+                  "lng" : -87.6766159802915
+               }
+            }
+         },
+         "place_id" : "ChIJOUw-cAvQD4gRBmHV-me1Nyw",
+         "plus_code" : {
+            "compound_code" : "384F+HV Evanston, Evanston Township, IL, United States",
+            "global_code" : "86JJ384F+HV"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "527",
+               "short_name" : "527",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sheridan Road",
+               "short_name" : "Sheridan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Evanston",
+               "short_name" : "Evanston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Evanston Township",
+               "short_name" : "Evanston Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60202",
+               "short_name" : "60202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "527 Sheridan Rd, Evanston, IL 60202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.0564556,
+               "lng" : -87.67557409999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0578045802915,
+                  "lng" : -87.6742251197085
+               },
+               "southwest" : {
+                  "lat" : 42.0551066197085,
+                  "lng" : -87.6769230802915
+               }
+            }
+         },
+         "place_id" : "ChIJpQ1LTZ7aD4gRtFNyHkzSU6w",
+         "plus_code" : {
+            "compound_code" : "384F+HQ Evanston, Evanston Township, IL, United States",
+            "global_code" : "86JJ384F+HQ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "602",
+               "short_name" : "602",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Garrett Place",
+               "short_name" : "Garrett Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Evanston",
+               "short_name" : "Evanston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60208",
+               "short_name" : "60208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "602 Garrett Pl, Evanston, IL 60208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.0562486,
+               "lng" : -87.67578089999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.05759758029149,
+                  "lng" : -87.67443191970848
+               },
+               "southwest" : {
+                  "lat" : 42.0548996197085,
+                  "lng" : -87.6771298802915
+               }
+            }
+         },
+         "place_id" : "Eic2MDIgR2FycmV0dCBQbCwgRXZhbnN0b24sIElMIDYwMjA4LCBVU0EiGxIZChQKEgn709i2n9oPiBG_EWBy2ybEwRDaBA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60208",
+               "short_name" : "60208",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Evanston",
+               "short_name" : "Evanston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Evanston, IL 60208, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0628463,
+                  "lng" : -87.6692077
+               },
+               "southwest" : {
+                  "lat" : 42.0485706,
+                  "lng" : -87.6817849
+               }
+            },
+            "location" : {
+               "lat" : 42.0541119,
+               "lng" : -87.67598889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0628463,
+                  "lng" : -87.6692077
+               },
+               "southwest" : {
+                  "lat" : 42.0485706,
+                  "lng" : -87.6817849
+               }
+            }
+         },
+         "place_id" : "ChIJs-YLyxvQD4gRD01mFL34XUg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Evanston Township",
+               "short_name" : "Evanston Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Evanston",
+               "short_name" : "Evanston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Evanston Township, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0717291,
+                  "lng" : -87.665257
+               },
+               "southwest" : {
+                  "lat" : 42.01903,
+                  "lng" : -87.73266
+               }
+            },
+            "location" : {
+               "lat" : 42.0450722,
+               "lng" : -87.68769689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0717291,
+                  "lng" : -87.665257
+               },
+               "southwest" : {
+                  "lat" : 42.01903,
+                  "lng" : -87.73266
+               }
+            }
+         },
+         "place_id" : "ChIJr832Nv3PD4gRy8j2om_oSzM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Evanston",
+               "short_name" : "Evanston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Evanston Township",
+               "short_name" : "Evanston Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Evanston, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0718018,
+                  "lng" : -87.665297
+               },
+               "southwest" : {
+                  "lat" : 42.01903009999999,
+                  "lng" : -87.7326599
+               }
+            },
+            "location" : {
+               "lat" : 42.0450722,
+               "lng" : -87.68769689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0718018,
+                  "lng" : -87.665297
+               },
+               "southwest" : {
+                  "lat" : 42.01903009999999,
+                  "lng" : -87.7326599
+               }
+            }
+         },
+         "place_id" : "ChIJdwroNP3PD4gRGmfABQ2hIW8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cook County, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1543239,
+                  "lng" : -87.1111619
+               },
+               "southwest" : {
+                  "lat" : 41.46953389999999,
+                  "lng" : -88.2634779
+               }
+            },
+            "location" : {
+               "lat" : 41.7376587,
+               "lng" : -87.697554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1543239,
+                  "lng" : -87.1111619
+               },
+               "southwest" : {
+                  "lat" : 41.46953389999999,
+                  "lng" : -88.2634779
+               }
+            }
+         },
+         "place_id" : "ChIJdRNDZqqxD4gRPOAOIwnX2Yo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Illinois",
+               "short_name" : "Illinois",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Illinois, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            },
+            "location" : {
+               "lat" : 40.6331249,
+               "lng" : -89.3985283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5083379,
+                  "lng" : -87.01993499999999
+               },
+               "southwest" : {
+                  "lat" : 36.970298,
+                  "lng" : -91.5130789
+               }
+            }
+         },
+         "place_id" : "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
