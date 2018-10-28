@@ -1,9 +1,0 @@
-a=[['Instituto Nacional de Cancerología', [4.5881182,-74.0863346], 522],['Internacional Agency Research Cancer', [45.74341099999999, 4.875107799999999], 31],['Centers Disease Control Prevention', [33.7993178, -84.328008], 30],['Action Against Cancer', [45.47671200000001, -73.59217699999999], 19],['United States', [37.59999999999999, -95.665], 17],['DANE', [4.6469098, -74.0957183], 14],['Secretaría Distrital de Salud de Bogotá', [4.615566200000001, -74.09424299999999], 8],['European Journal Cancer', [52.9399957, -1.1897681], 7],['Ministerio de la Protección Social colombia', [7.928563849999999, -74.4331943], 7],['Ministerio de Salud bogota colombia', [4.61972815, -74.0682774], 7],['Universidad de Indiana', [39.1701821, -86.5147805], 6],['Universidad Nacional de Colombia', [4.638193800000001, -74.08404639999999], 5],['Oxford University', [51.75663409999999, -1.2547037], 4],['Manizales Lab Bios', [5.063085499999999, -75.4811288], 4],['International Journal Cancer', [40.7374555, -74.0285619], 4],['Agencia Internacional para la Investigación', [45.74341099999999, 4.875107799999999], 4],['Universidad de Antioquia', [6.267576699999999, -75.5689946], 4],['Australian Institute', [45.83916929999999, 8.7166483], 4],['Journal Clinical oncology', [38.8020175, -77.06802449999999], 4],['Fundación Santa Fe', [4.700022, -74.031127], 3],['EORTC Study Group', [50.8508376, 4.456151999999999], 3],['Unidad de Cancer Hospital Villavicencio', [13.7037963, -89.24709039999999], 3],['Organización Europea para la Investigación', [50.8508376, 4.456151999999999], 3]]
-sal=[]
-for i in a:
-    sal+=[i[1]]
-
-print(sal)
-
-a.sort()
-print(a)
