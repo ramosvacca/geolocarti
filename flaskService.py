@@ -10,7 +10,7 @@ app = Flask(__name__)
 #app.debug = True
 #app._static_folder = os.path.abspath("templates/static/")
 
-@app.route('/hola', methods=['GET'])
+@app.route('/dbscan_cluster', methods=['GET'])
 def index():
     if request.method == 'GET':
         nodesList = request.args.get('nodesList')

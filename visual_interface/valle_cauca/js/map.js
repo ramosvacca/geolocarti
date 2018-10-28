@@ -7,13 +7,12 @@
  var radius_multiplier = 40;
  mainmap = [];
  heatmap = [];
-
+base_HOST = 'http://127.0.0.1'
 
 
  repo_name = 'virtual_sep17'
- //baseUrl_query = 'http://localhost:10035/repositories/'+repo_name+'/sparql?query='
- baseUrl_query = 'http://192.168.56.3:10035/repositories/'+repo_name+'/sparql?query='
- //var default_queryUrl = 'PREFIX%20glct%3A%20%3Chttp%3A%2F%2Fwww.gcarti.co%2Fmc%2Fgeodata%2F%3E%0APREFIX%20tags%3A%20%3Chttp%3A%2F%2Fwww.gcarti.co%2Fmc%2Ftags%2F%3E%0ASELECT%20%3Fo%0AWHERE%20%7B%20BIND(%3Chttps%3A%2F%2Fapi.elsevier.com%2Fcontent%2Faffiliation%2Faffiliation_id%2F107071859%3E%20as%20%3Faffid)%0A%3Faffid%20tags%3Acity%20%3FfoundCity%20%3B%20tags%3Astate%20%3FfoundState%20.%20BIND(%3FfoundCity%20as%20%3Fcity)%0A%3Fo%20tags%3Acity%20%3Fcity%20.%7D'
+ baseUrl_query = base_HOST+':10035/repositories/'+repo_name+'/sparql?query='
+
 
 launcher = function () {
  const map_launcher = setInterval(function () {
@@ -712,8 +711,8 @@ function draw (affid, list) { //When we need to parse the return data from getre
                     } else if (links[k_2].colorchecker() == 'white') {
                     links[k_2].strokeColor = 'yellow' ;}
                 }
-                console.log(k_2);
-                console.log('drawn __ H¡CHANGED')
+                //console.log(k_2);
+                //console.log('drawn __ H¡CHANGED')
             }
         }
     };

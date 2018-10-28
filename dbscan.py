@@ -28,7 +28,7 @@ def dbscan(input_nodes, minPts, eps):
     for node in input_nodes:
         active_nodes += [str(node)]
 
-    repo_conn = myrepo('192.168.56.3', 'virtual_sep17')
+    repo_conn = myrepo()
 
     for node in active_nodes:
         nodes_dictionary[node] = {

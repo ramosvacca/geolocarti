@@ -1,30 +1,15 @@
-import get_data
 from allegro_server import myrepo
-from init_config.list import init_list, abstract_list_1, abstract_list_2
-from init_config import html_maker
+from init_config.list import init_list
 import allegro_interact
 import aff_data
 
 
 print(init_list)
 
-repo_conn = myrepo(host='127.0.0.1', repo='virtual_sep17')
+repo_conn = myrepo()
 
 """
 abstracts_prepared_list = get_data.multiabstract_prepare(init_list, threads=True)
-
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[0:999], threads=True)
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[1000:1999], threads=True)
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[2000:2999], threads=True)
-abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[3000:3999], threads=True)
-
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[4000:4999], threads=True)
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[5000:5999], threads=True)
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[6000:6999], threads=True)
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[7000:7999], threads=True)
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_list_1[8000:], threads=True)
-
-#abstracts_prepared_list = get_data.multiabstract_prepare(abstract_prepared_list2, threads=True)
 
 """
 """
@@ -59,11 +44,16 @@ aff_object_list = aff_data.listmaker(affs_clean_list, th_launch=30)
 #logs contain ids that have been discarded, for affiliations and full requested metadata from articles.
 repo_conn.deleteDuplicates('spo')
 
+
+
+
 print('Start BATCH PROCESSING')
 
 aff_data.batch_processing(aff_object_list, repo_conn) #insert triples
 
 print('ALL INFORMATION WAS GEO-INDEXED AND TAGGED. GLCT FULFILLED')
+
+
 
 
 approved_nodes =[]

@@ -26,7 +26,7 @@ def setenvar(putv=None, req=None, proxy=True):
     AGRAPH_PORT = '10035'
     ERROR_LOG_PATH = '/'
 
-    if MACHINE == 'geolocarti' or MACHINE == 'macidrv.pp':
+    if MACHINE == 'geolocarti':
         HTTP_PROXY = ''
         HTTPS_PROXY = ''
 

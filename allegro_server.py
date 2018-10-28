@@ -6,7 +6,7 @@ import personal
 
 virtual_server_name = 'geolocarti'
 
-def myrepo(host=None, repo='virtual_sep17'):
+def myrepo(host='127.0.0.1', repo='virtual_sep17'):
     personal.setenvar(proxy=False)
 
     print('Connecting to AllegroGraph [' + virtual_server_name +'] from ' + tech.hostname)
