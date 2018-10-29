@@ -1,4 +1,4 @@
-var start = 1970;
+var start = 1996;
 var end = new Date().getFullYear();
 var options_start = "";
 var options_end = "";
