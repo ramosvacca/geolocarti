@@ -167,7 +167,7 @@ def downloadImage_PathReturn(affid_tofind, keyword):
 
       # printi# ng absolute paths of the downloaded images
 
-def pathMaker_segment(list, start, end, prefix='../../../', dir='downloads/all/',):
+def pathMaker_segment(list, start, end, prefix='../../', dir='downloads/all/',):
 
     for aff_no in range(start, end):
         file_exists = False
@@ -197,7 +197,7 @@ def pathMaker_segment(list, start, end, prefix='../../../', dir='downloads/all/'
                             keyword=cleaner(list[aff_no]['Name'])
                             )
                     except:
-                        list[aff_no]['logo_path'] = '../../../downloads/nologo.png'
+                        list[aff_no]['logo_path'] = '../../downloads/nologo.png'
 
 def links_weighted(repo_conn_object, query_str=sparql_queries.links_query, approved_nodes=[]):  # query to get the affiliations and the number of times it is counted
     print("Generating the main weighted network")
