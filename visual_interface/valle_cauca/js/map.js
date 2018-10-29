@@ -7,7 +7,7 @@
  var radius_multiplier = 40;
  mainmap = [];
  heatmap = [];
-base_HOST = 'http://127.0.0.1'
+base_HOST = window.location.hostname
 
 
  repo_name = 'virtual_sep17'
