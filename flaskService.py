@@ -2,10 +2,12 @@ from flask import Flask
 from flask import request
 from ast import literal_eval
 from dbscan import dbscan
+from flask_cors import CORS
 
 
 
 app = Flask(__name__)
+CORS(app)
 #app.secret_key = 's3cr3t'
 #app.debug = True
 #app._static_folder = os.path.abspath("templates/static/")
