@@ -7,11 +7,11 @@
  var radius_multiplier = 40;
  mainmap = [];
  heatmap = [];
-base_HOST = '127.0.0.1'
+base_HOST = window.location.hostname
 
 
  repo_name = 'virtual_sep17'
- baseUrl_query = base_HOST+':10035/repositories/'+repo_name+'/sparql?query='
+ baseUrl_query = 'http://'+base_HOST+':10035/repositories/'+repo_name+'/sparql?query='
 
 
 launcher = function () {
