@@ -5,10 +5,14 @@ from dbscan import dbscan
 
 
 
-app = Flask(__name__)
+app = Flask(__name__,static_url_path='')
 #app.secret_key = 's3cr3t'
 #app.debug = True
 #app._static_folder = os.path.abspath("templates/static/")
+
+@app.route("/")
+def root():
+    return app.send_static_file('visual_interface/valle_cauca/html/mapa_valle_cauca.html')
 
 @app.route('/dbscan_cluster', methods=['GET'])
 def index():
