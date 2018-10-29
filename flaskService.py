@@ -10,7 +10,7 @@ app = Flask(__name__,static_url_path='')
 #app.debug = True
 #app._static_folder = os.path.abspath("templates/static/")
 
-@app.route("/")
+@app.route("/map")
 def root():
     return app.send_static_file('visual_interface/valle_cauca/html/mapa_valle_cauca.html')
 
