@@ -5,7 +5,7 @@ from dbscan import dbscan
 
 
 
-app = Flask(__name__,static_url_path='',static_folder='visual_interface/valle_cauca/')
+app = Flask(__name__,static_url_path='',static_folder='')
 #app.secret_key = 's3cr3t'
 #app.debug = True
 #app._static_folder = os.path.abspath("templates/static/")
