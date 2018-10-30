@@ -86,7 +86,7 @@ function listActive () {// List active nodes and send them to clusterize which o
     , eps = document.getElementById("eps").value
 
 
-    httpGetAsync(`${base_HOST}:5000/dbscan_cluster?nodesList=[${toReturn}]&minPts=${minPts}&eps=${eps}`,
+    httpGetAsync(`http:/\/${base_HOST}:5000/dbscan_cluster?nodesList=[${toReturn}]&minPts=${minPts}&eps=${eps}`,
     function(response){console.log(response);
     cluster_local = response});
 
