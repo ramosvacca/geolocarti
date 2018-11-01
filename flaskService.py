@@ -27,5 +27,5 @@ def index():
         return str(returnDict).replace('True','"core"').replace('None','"Noise"').replace('False','"Border"').replace("'",'"').replace(" ","")
 
 if __name__ == "__main__":
-	app.run()
+	app.run(host='0.0.0.0')
 

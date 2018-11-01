@@ -8,11 +8,9 @@ print(init_list)
 
 repo_conn = myrepo()
 
-"""
+
 abstracts_prepared_list = get_data.multiabstract_prepare(init_list, threads=True)
 
-"""
-"""
 print(abstracts_prepared_list)
 
 print('Inserting articles RDF metadata triples to rdf database')
@@ -23,7 +21,7 @@ repo_conn.deleteDuplicates('spo')  # At this point the repository is without dup
 
 print('Triples on reference to the articles have been successfully loaded.')
 
-"""
+
 ### HERE WE NEED TO BRAKE AND GET ONLY THOSE WHO FALTAN
 affs_raw_list = (allegro_interact.aff_count_query(repo_conn))
 repo_conn.deleteDuplicates('spo')
