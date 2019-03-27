@@ -6,7 +6,7 @@ from ast import literal_eval
 from franz.openrdf.query.query import QueryLanguage
 
 UNKNOWN = None
-
+#esto es un comentario nuevo
 NOISE = None
 CORE = True
 BORDER = False
